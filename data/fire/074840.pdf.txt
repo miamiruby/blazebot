@@ -1,0 +1,636 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+04/18
+
+Page 1 of 13
+
+Treatment protocols described here include drugs and procedures that are administered
+both by pre‐hospital (CEP) personnel and hospital personnel. Thus, some drug administrations
+and procedures are outside the paramedic scope of practice.
+The following treatment protocols have been reviewed by the PFD Medical Director, members
+of the Board of Directors of Arizona Emergency Medical Services (the regional emergency
+medical services association for physicians), and Maricopa County Public Health Department
+Medical Director. Network hospital personnel (physicians) were also consulted in developing
+and modifying the protocols.
+Treatment protocols for radiological/nuclear agents are addressed in Phoenix Regional
+Department Standard Operating Procedure M.P. 204.03 Radiological Hazards and are not
+included here.
+Agents Addressed
+
+
+
+
+
+
+Chlorine
+Hydrocyanic Acid, Hydrogen Cyanide & Cyanogen Chloride
+Methyl Isocyanate, Methylene Bisphenyl Isocyanate & Methylene Dilsocyanate
+Mustard (Sulfur Mustard)
+Nerve Agents
+
+Chlorine
+Military Designation: CL
+Description: Chlorine is found as an amber liquid or greenish‐yellow gas with a very
+characteristic irritating, pungent odor. Chlorine is severely irritating to the skin, eyes, and
+respiratory tract. Although generally stored as a liquid, when released, the resulting gas is
+about two times heavier than air.
+Non‐Military Uses: Chlorine is used widely in industrial settings in the organic synthesis and
+manufacture of antifreeze agents, solvents, refrigerants, resins, bleaching agents, and other
+inorganic chemicals. There is an exceptionally wide use of chlorine in non‐commercial and
+home settings as a cleaning agent, bleaching agent, bacteriostatic, and disinfecting agent.
+Storage of this substance in a variety of liquid and granular forms is widespread.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+04/18
+
+Page 2 of 13
+
+Treatment Protocol
+
+
+
+
+
+
+General
+o Chlorine is found as a greenish‐yellow gas, with a pungent, acrid, characteristic
+odor. Sensitivity to the odor is below toxic levels; however, since some sensory
+adaptation occurs, repeat exposures are more likely to produce toxic effects.
+Exposures irritate eyes and central (upper) airways within minutes. Low doses
+produce some cough and choking sensation. Moderate doses also produce a
+sense of suffocation, hoarseness, and substernal pain. High doses also produce a
+severe dyspnea, with pulmonary edema, nausea, vomiting, headache, syncope
+also seen. Very high doses may produce sudden death without an obvious
+pulmonary lesion, possibly via laryngospasm. All recognized exposures should be
+referred for direct observation/care.
+Patient Evaluation
+o Victims should be immediately removed from the toxic environment by fully
+masked personnel. Chemical protective clothing is required for liquid/solution
+exposures.
+o Liquid contamination causes eye and skin burns on contact. Contaminated
+clothing should be removed/disposed of.
+Treatment
+o Eyes: Liquid exposures should be flushed with copious quantities of water. Gas
+exposures, if symptomatic, should be flushed with water.
+o Skin: Liquid exposures should be flushed with copious quantities of water;
+contaminated clothing should be removed/disposed of. Gas exposures require
+no specific therapy unless symptomatic. Intense gas exposure produces burns;
+wash with water.
+o Breathing: Evaluate respiration, cyanosis, bronchospasm.
+ If apneic: CPR with intubation. Be aware that laryngospasm may be
+present with intense exposures, hence intubation may be very difficult,
+and surgical cricothyrotomy could be required. Medical attention should
+be sought.
+ If stridorous/hoarse: Consider intubation under direct vision since
+laryngospasm may be imminent (see above). Medical attention should be
+sought.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+
+
+
+
+
+
+
+
+
+
+04/18
+
+Page 3 of 13
+
+If dyspnea/cough/chest tightness: Consider intubation for impending
+pulmonary edema. Also consider possible bronchospasm sufficiently
+severe to have so little air exchange that wheezes are absent. Medical
+attention should be sought. Codeine‐containing demulcents may help. Be
+wary of sedation.
+If bronchospasm: Provide aggressive bronchodilation:
+o Adult:
+ Inhaled albuterol: unit dose q 2 hr.
+ Steroids: methyl prednisone, load 120 mg IV, then 60 mg q 6 hr.
+ Theophylline: load 150 mg IV, then 30 mg/hr.
+o Infants and children (0‐12 yr):
+ Inhaled albuterol: 0.15 mg/kg per nebulized dose up to 5 mg/20
+minutes for first 2 hr.
+ Steroids: methyl prednisone: 1 mg/kg IV q 6 hr.
+ Theophylline: 10 mg/kg IV/24 hr.
+o Elderly:
+ Inhaled albuterol: unit dose q 3 hr.
+ Steroids: methyl prednisone, load 125 mg IV, then 60 mg q 6 hr.
+ Theophylline (occasional use): load 100 mg IV, then 25 mg/hr.
+If asymptomatic: Maintain direct observation for at least 1 hour; if
+becomes symptomatic, treat as above. If still asymptomatic, continue to
+recheck every hour for additional 12 hours since some bronchospasm
+may appear late.
+If hypoxic from bronchospasm, administer bronchodilators and
+supplemental oxygen. If hypoxic from pulmonary edema: oxygen may be
+utilized with positive pressure (ventilation after intubation).
+If pulmonary edema occurs: Treat as noncardiac pulmonary edema (Adult
+Respiratory Distress Syndrome or ARDS) with positive pressure
+ventilation afterwards. Diuretic therapy is not indicated.
+Inhalation exposures may produce pulmonary infiltrates, fever, and white
+blood cell elevations leading to an erroneous diagnosis of (presumed
+bacterial) pneumonia. Prophylactic antibiotics are not indicated.
+Surveillance bacteriologic cultures are obtained anticipating an
+approximate 50% risk of nosocomial pneumonia at days 3‐6.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+
+
+04/18
+
+Page 4 of 13
+
+Note: The anatomical configuration of infants' and children's airways
+makes wheezing a less reliable indicator of bronchospasm. Severe small
+airway constriction with resultant hypoxia may be present. Any apparent
+infant or child respiratory distress should be immediately assessed with
+oximetry.
+
+Hydrocyanic Acid, Hydrogen Cyanide and Cyanogen Chloride
+Military Designations: AC (hydrocyanic acid) and CK (cyanogen chloride)
+Description: Both of these substances are liquids, but they vaporize (evaporate) at about 73/F
+and 58/C, so they will be in the gaseous form under most temperate conditions. AC has an odor
+of bitter almonds; CK is pungent. AC vapor is lighter than air, whereas CK gas is heavier than air.
+Cyanogen chloride is quickly metabolized to cyanide once absorbed into the body and causes
+the same biological effects as hydrogen cyanide. In addition, CK is irritating to the eyes, nose,
+and throat (similar to riot control agents), whereas AC is nonirritating.
+Non‐Military Uses: Large amounts of cyanide (most in the form of salts) are produced,
+transported, and used by U.S. industry annually. Cyanide is used in fumigation, photography,
+extraction of metals, electroplating, metal cleaning, tempering of metals, and the synthesis of
+many compounds. It is released when synthetic fibers and plastics burn.
+Treatment Protocol
+
+
+General
+o Patient should be removed from the toxic environment immediately.
+o These substances are very volatile, so there is little need for decontamination if
+exposure was to vapor alone. If liquid was present, remove patient’s clothing;
+wash liquid off skin.
+o The effects of vapor from either form of cyanide appear within seconds to a
+minute. If patient has no or only mild effects when seen 5 to 30 minutes after
+exposure, he/she will need no treatment.
+o Severe cyanide poisoning produces metabolic acidosis. If cyanide poisoning is
+suspected in a patient who does not have moderate or severe acidosis,
+treatment for cyanide poisoning should not be delayed, but the diagnosis should
+be reconsidered
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+
+
+
+
+04/18
+
+Page 5 of 13
+
+Patient evaluation (Level of consciousness, respiratory rate, heart rate)
+o Exposure to high concentration: transient hyperpnea, followed by convulsions
+(30 seconds after exposure), gradual decrease in respiratory rate and depth to
+apnea (3‐5 minutes) and cessation of cardiac activity (5‐8 minutes).
+o Exposure to lower concentration: flushing, headache, anxiety, agitation, vertigo,
+feeling of weakness, nausea, muscular trembling (cyanogen chloride may cause
+irritation of eyes, nose, and airways). Prolonged exposure may lead to effects
+listed above.
+o Odor of bitter almonds may be detected (half of the population cannot smell
+this); normal pupils (may be dilated in terminal stage); cherry‐red skin (may not
+be present); diaphoresis; venules in fundus are same color as arterioles; cyanosis
+occurs only after circulatory collapse and apnea.
+Treatment
+o For a mild exposure (conscious and breathing): observe; no antidotes; oxygen
+may be given to young or old or in presence of heart disease in a patient with
+mild symptoms.
+o Severe exposure (unconscious, not breathing): should immediately receive 100%
+oxygen. Cardiac monitoring and evaluation of oxygen saturation should be done
+when possible. (Saturation will be normal even in severe casualty until terminal
+stage; however, additional oxygen may assist in therapy.) Antidotes should be
+administered as soon as possible (see below). It is important to note that pulse
+oximeter results are completely unreliable in the setting of methemoglobinemia,
+which is induced by amyl nitrite or sodium nitrite therapy.
+ For a severe exposure: ventilate using bag‐valve‐mask with one ampule
+of amyl nitrite (crushed) in bag; after several minutes, add another
+(crushed) ampule; keep adding an ampule every several minutes. This is a
+temporary measure until IV drugs can be given, but it may assist in
+recovery.
+ Administer 300 mg (10 ml) of sodium nitrite IV over 5 minutes. Flush line.
+[Children's dose: 0.2‐0.3 ml/kg, or 6‐9 mg/kg of the 3% solution. No
+separate recommendation for infants.
+ For elderly, use adult dose unless they are small and frail.] Be aware:
+Nitrites produce orthostatic hypertension, but a patient who can stand
+unaided does not need nitrite therapy.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+04/18
+
+Page 6 of 13
+
+
+
+Follow with 12.5 grams (50 ml) of sodium thiosulphate IV. [Children's
+dose: 0.4 mg/kg, or 1.65 ml/kg of the 25% solution. No separate
+recommendation for infants. Adult dose should be used for elderly unless
+they are small and frail. Use care giving nitrite in a patient with
+hypertension or heart disease.] (Amyl nitrite, sodium nitrite, and sodium
+thiosulfate are in the Pasadena (formerly Lilly) Cyanide Antidote Kit, the
+latter two in ampules of 300 mg/10 ml and 12.5 grams/50 ml. Use one‐
+half dose in 20 minutes if no improvement. See instructions on top of
+Antidote Kit box.
+o If patient continues to remain apneic, intubate and continue oxygen through
+tube with assisted ventilation.
+o Transfer apneic or unconscious patients to medical facility.
+o Patients often recover rapidly unless CNS hypoxia has occurred.
+Methyl Isocyanate, Methylene, Bisphenyl Isocyanate, and Methylene Dilsocyanate MDI
+Military Designations: None
+Description: Methylene Bisphenyl Isocyanate (MDI) is found as a solid in white to yellow flakes.
+Various liquid solutions are used for industrial purposes. There is no odor to the solid or the
+liquid solutions. The vapor is approximately eight times heavier than air. This chemical is a
+strong irritant to the eyes, mucus membranes, skin, and respiratory tract. This chemical is also a
+very potent respiratory sensitizer.
+Non‐Military Uses: Very large quantities of MDI are produced, transported, and used annually
+in the United States. Various industrial processes utilize MDI in production and usage of
+(poly)urethane foams, lacquers, and sealants. MDI is a commonly used precursor in the
+industrial production of insecticides and laminating materials. Noncommercial uses of
+polyurethanes such as in isocyanate paints or in cutting of uncured urethanes may also cause
+exposure. Thermal degradation of these substances may produce MDI as a combustion by‐
+product.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+04/18
+
+Page 7 of 13
+
+Treatment Protocol
+
+
+
+
+
+
+General
+o MDI is found as a solid, which has a melting point of 37 degrees C. Vapor
+exposures occur with liquids containing dissolved solid. Gas exposures may occur
+with high‐temperature volatilization. Thermal decomposition produces carbon
+monoxide and oxides of nitrogen. Sensitivity to this substance (eye, nose
+irritation) occurs at concentrations five times higher than OSHA limits (0.2
+mglm3); hence toxic exposures may go unrecognized.
+o Exposures lead to:
+ Sensitizing effects: Respiratory sensitization may occur, particularly in
+individuals with known asthma, allergies, or recognized isocyanate
+sensitivity (e.g., TDI).
+ Irritant effects: Eyes, mucous membranes and skin may be irritated,
+particularly with prolonged, repetitive, or intense exposures. High
+concentrations may also produce cough, dyspnea, and lethal pulmonary
+edema.
+Patient Evaluation
+o Victim should be immediately removed from the toxic environment by personnel
+in chemically protective clothing. Vapor or gas hazards should be anticipated
+with full (positive pressure) masks. Liquid/solid contamination should be
+corrected by clothing removal and soap and water decontamination.
+Treatment
+o Eyes: There is no specific therapy appropriate. Liquid/solid exposures should be
+irrigated with copious quantities of water. Subsequently, symptomatic
+individuals should seek medical attention.
+o Skin: There is no specific therapy appropriate. Liquids/solids should be removed
+with soap and water. Single exposures are unlikely to create rashes unless
+previously sensitized. Intense exposure may produce a dermatitis and require
+referral.
+o Swallowing: Liquids/solids should be removed by induced vomiting in the
+conscious victim or by lavage otherwise.
+o Breathing: Symptoms due to sensitivity may be delayed up to 8 hr after
+exposure. Respiratory symptoms may appear with skin, ocular or GI exposure in
+previously sensitized individual.
+ If apneic: CPR, may require intubation for pulmonary edema. Consider
+severe bronchospasm in previously sensitized victim.
+ If stridorous/hoarse: Consider intubation under direct vision.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+
+
+04/18
+
+Page 8 of 13
+
+If dyspnea/cough/chest tightness: Consider intubation for impending
+pulmonary edema. Also consider possible bronchospasm sufficiently
+severe to have so little air exchange that wheezes are absent. Medical
+attention should be sought. Codeine‐containing demulcents may help. Be
+wary of sedation.
+ Note: The anatomical configuration of infants' and children's airways
+makes wheezing a less reliable indicator of bronchospasm. Severe smaller
+airway constriction with resultant hypoxia may be present. Any apparent
+infant or child respiratory distress should be immediately assessed with
+oximetry.
+ If bronchospasm: Treat as asthma with inhaled albuterol. Bronchospasm
+may be particularly severe, especially in previously sensitized individuals.
+o Treat aggressively:
+ Adults:
+o Inhaled albuterol: unit dose q 2 hr or continuous neb 15 g/hr.
+o Steroids: methylprednisolone load 250 mg IV, then 80 mg q 6 hr.
+o Theophylline: load 150 mg IV, then 30 mg/hr.
+ Infants and children (0‐12 yr.):
+o Inhaled albuterol: 0.15 mg/kg per nebulized dose up to 5 mg/20
+minutes for first 2 hr.
+o Steroids: methylprednisolone; 1 mg/kg q 6 hr.
+o Theophylline: 10 mg/kg IV/24 hr.
+ Elderly:
+o Inhaled albuterol: unit dose q 3 hr.
+o Steroids: methylprednisolone load 125 mg IV, then 60 mg q 6 hr.
+o Theophylline (occasional use): load 100 mg IV then 25 mg/hr.
+o Upper airway obstruction: This is very rarely seen and only with intense
+exposures. Hoarseness and stridor suggest impending laryngospasm; consider
+intubation under direct vision.
+ If pulmonary edema (may rarely occur with intense exposures): Treat as
+non‐cardiac pulmonary edema (Adult Respiratory Distress Syndrome or
+ARDS see PHOSGENE).
+ If hypoxia (commonly from bronchospasm, rarely from pulmonary
+edema): Treat with above bronchodilation and oxygen.
+ If cough: Codeine‐containing demulcents (tissue‐soothing agents) may
+help. Be wary of sedation.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+04/18
+
+Page 9 of 13
+
+Mustard (Sulfur Mustard)
+Military Designations: H; HD; HS
+Description: Mustard is a “blister agent” that causes cell damage and destruction. It is a
+colorless to light yellow to dark brown oily liquid with the odor of garlic, onion, or
+mustard. It does not evaporate readily but may pose a vapor hazard in warm weather. It
+is a vapor and liquid hazard to skin and eyes, and a vapor hazard to airways. Its vapor is
+five times heavier than air.
+Non‐Military Uses: Sulfur mustard has been used as a research tool to study DNA damage and
+repair. A related compound, nitrogen mustard, was the first cancer chemotherapeutic
+agent and is still used for some purposes.
+Treatment Protocol
+
+
+
+
+General
+o Mustard causes no immediate effects. The initial clinical effects of mustard
+(which usually involve the eyes, the skin, and the airways) appear 2 to 24 hours
+(usually 4 to 8 hours) after exposure to liquid mustard or to mustard vapor.
+However, liquid or vapor mustard penetrates the skin and mucous membranes
+and damages cells within minutes of exposure, so decontamination must be
+done immediately after exposure.
+o The patient should be immediately removed from the toxic environment.
+o If liquid contact, clothing should be removed, and skin decontaminated with
+soap and cool water, or thoroughly flushed with water alone. Eyes should be
+flushed with large amounts of saline. If exposure is to vapor alone, remove
+clothing.
+o If there is a history of definite exposure, patient should be taken to medical
+facility for observation.
+Patient evaluation: Initial effects (usually 2 to 24 hours after exposure)
+o Eyes: irritation, feeling of grit in eye, redness.
+o Skin: erythema (will progress to blisters 1 to 4 hours later if exposure was large).
+o Airways: irritation of nose, voice change, sinus pain, hacking cough. (Very rarely a
+patient might inhale an extremely large amount and start to have these effects
+plus dyspnea within 2 hours. This patient should be intubated, and assisted
+ventilation with oxygen should be started. This patient should be taken to the
+nearest appropriate hospital as quickly as possible.)
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+
+
+04/18
+
+Page 10 of 13
+
+Treatment
+o There is nothing to do for these patients until effects appear except to
+decontaminate. Tissue is damaged within minutes, so decontamination must be
+done immediately.
+o Eyes: Any commercial eye solution may relieve the irritation from a mild
+exposure. More severe effects: A mydriatic b.i.d. or q.i.d. (depending on the
+length of action of the drug): a topical antibiotic b.i.d.; Vaseline on lid edges
+b.i.d.; sunglasses if photophobia is present. Topical steroids within the first 24
+hours only may reduce inflammation. Control pain with systemic, not topical,
+analgesics. Visual loss is usually due to lid edema and blepharospasm, not eye
+damage.
+o Skin: A soothing lotion (e.g., calamine) for erythema. Leave small blisters intact.
+Unroof large blisters and irrigate denuded area at least t.i.d. followed by liberal
+application of topical antibiotic. Watch for infection. Fluid requirements are
+much less than those for thermal burns; do not overhydrate.
+o Airways: Steam inhalation and cough suppressants will generally relieve mild
+symptoms. A chemical pneumonitis (increased temperature, white blood count;
+chest x‐ray findings) may develop after large exposure: intubation, assisted
+ventilation with oxygen (and possibly with PEEP or CPAP); bronchodilators;
+watch sputum at least daily for organisms (no antibiotics until organism is
+identified)
+o Systemic absorption of a large amount of mustard may cause bone marrow and
+gastrointestinal tract damage. Watch WBC, Hct daily; mustard damages bone
+marrow.
+
+Nerve Agents
+Tabun (GA); Sarin (GB); Soman (GD). None for GF and VX
+Military Designations: GA, GB, GD, GF and VX
+Description: Nerve agents are very toxic organophosphorus compounds that have biological
+activity similar to that of many insecticides. Their volatilities range from that of water to that of
+motor oil; they present a hazard from vapor and liquid. Under temperate conditions, the liquids
+are clear, colorless, and mostly odorless. They cause biological effects by inhibiting
+acetylcholinesterase, thereby allowing acetylcholine to accumulate and cause hyperactivity in
+muscles, glands, and nerves.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+04/18
+
+Page 11 of 13
+
+Non‐Military Use: There is no non‐military use. Threat of human exposure exists in research
+laboratories, in storage facilities, and from terrorists.
+Treatment Protocol
+
+
+
+
+General
+o Nerve agents are extremely toxic chemicals that cause effects by inhibiting the
+enzyme acetylcholinesterase, allowing excess acetylcholine to accumulate. This
+excess neurotransmitter then produces overstimulation and causes hyperactivity
+in muscles, glands and nerves the nerve agents are GA (Tabun), GB (Sarin), GD
+(Soman), GF, and VX. Their effects are identical.
+o Remove patient from contaminated atmosphere. If exposure was to vapor,
+remove clothing; if exposure was to liquid; remove clothing and wash skin with
+soap and water, or thoroughly flush with water alone.
+Patient evaluation
+o If patient is conscious, note ventilatory status and ask about nausea. If
+unconscious, note ventilatory status and heart rate (heart rate may be high, low,
+or normal in a nerve agent casualty).
+o Initial effects differ depending on whether exposure was to vapor or to liquid.
+o Vapor: Effects start within seconds to a minute or two.
+ Mild to moderate: Miosis, possible redness in eye, eye pain, complaints
+of dim or blurred vision, nausea, rhinorrhea, excess secretions, dyspnea
+(mild to severe).
+ Severe: Loss of consciousness, seizures, apnea, flaccid paralysis.
+o Liquid: Effects start in minutes (large exposure) to 18 hours (small exposure)
+after an asymptomatic interval.
+ Mild to moderate: Sweating and fasciculations at site of exposure;
+nausea, vomiting, diarrhea; weakness.
+ Severe: Same as for vapor, but after a 1‐ to 30‐minute asymptomatic
+interval.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+
+
+04/18
+
+Page 12 of 13
+
+Treatment
+o Initial Management
+ Mild to moderate: Dyspnea should be treated with one or two doses of
+atropine IM or IV and 1 dose of pralidoxime (IV drip) initially, depending
+on severity of the dyspnea. (See paragraph B below for size of dose.) This
+should be supplemented with oxygen, particularly in infants, young
+children, and the elderly; healthy older children and adults will usually do
+well without it unless they have pulmonary or cardiac disease. Atropine
+dose should be repeated at 5‐to 10‐minute intervals until improvement is
+noted. Failure to respond, (i.e., no dry mouth, no decrease in secretions)
+confirms the need to administer additional doses of atropine.
+Gastrointestinal effects after liquid exposure are treated in the same
+manner. Do not treat for miosis (unless eye pain is severe) or rhinorrhea
+(unless severe).
+ Severe: Administer three doses of atropine IM (not IV in hypoxic patient)
+and start one dose of pralidoxime by slow (20 minutes) IV drip. (More
+rapid administration will cause hypertension.) (See paragraph B below for
+size of dose.) Intubate and ventilate with oxygen (initial ventilation will be
+difficult because of airway resistance; atropine will relieve this).
+Administer diazepam if convulsing. Suction for secretions. Repeat 1 dose
+of atropine (IM until hypoxia is improved, then IV) every 5 minutes until
+(a) secretions diminish or (b) airway resistance is less or is normal. Failure
+to respond, ( i.e., no dry mouth, no decrease in secretions) confirms the
+need to administer additional doses of atropine. Monitor via pulse
+oximeter; cardiac monitoring should also be done (cardiac arrhythmias
+are uncommon after atropine is given). Acidosis may develop after
+seizures or after period of hypoxia and will require therapy. This patient
+should be transported to a hospital after stabilization (adequate drug
+therapy and initiation of ventilation).
+ Eyes: Do not treat miosis unless eye/head pain is severe. Use topical, not
+systemic, anticholinergic to relieve pain.
+o Recommended Doses
+Atropine:
+ Older child and adult: 2 mg
+ Infant and young child: 0.02 mg/kg
+ Elderly: Use adult dose unless cardiac or pulmonary disease is present, or
+patient is small or frail; in latter instances, use 1 mg as standard, but be
+prepared to administer additional amounts more frequently.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Weapons of Mass Destruction:
+Chemical, Biological, Radiological
+NBC Agent Descriptions and Treatment Protocols
+M.P. 207.01C
+
+04/18
+
+Page 13 of 13
+
+Pralidoxime (2‐PAM):
+ Older child and adult: 1 gram
+ Infant and young child: 25‐50 mg/kg
+ Elderly: Adult dose unless cardiac or renal disease is present, patient has
+hypertension, or patient is small and frail; decrease dose by half in these
+patients but administer the other half 1 hour later if patient has not
+improved. Pralidoxime can cause hypertension when given rapidly IV.
+Slow administration over 20 minutes will minimize the hypertensive
+effect. After rapid administration, hypertension can be rapidly but
+transiently reversed by phentolamine (adult: 5 mg IV. child: 1 mg, IV).
+o Further Care
+ Mild to moderate: After vapor exposure, a patient who is breathing
+normally does not need to be hospitalized as he will not worsen.
+However, miosis should be followed until eyes are normal (4 to 6 weeks).
+After liquid exposure, a patient should be observed in hospital for 18
+hours until all agent is absorbed from skin.
+ Severe: Continue to ventilate and to administer atropine following
+guidelines above. Treat acidosis if present. If patient has not had
+prolonged hypoxia, recovery of an unconscious patient will be gradual
+over l to 3 hours.
+
+

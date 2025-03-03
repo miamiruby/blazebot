@@ -1,0 +1,447 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS EVACUATION
+M.P. 204.01A
+
+11/96-R
+
+Page 1 of 8
+
+An incident involving hazardous materials has a higher probability of causing an evacuation of an
+affected area than any other incident. By the very nature of the hazard, this type of evacuation often
+provides very little preparation time. Decisions will need to be made quickly, and citizens moved
+rapidly.
+This procedure identified the method and resources required to execute a small to large scale
+evacuation.
+Levels of Evacuation
+Experience has reflected three levels of evacuation. Each requires a different resource commitment.
+They include: Site Evacuation, Intermediate Level Evacuation, and Large Scale Evacuation
+Site Evacuation
+Site evacuation involves a small number of citizens. This typically includes the workers at the site, and
+persons from adjacent occupancies or areas. The citizens are easily evacuated and collected upwind
+at the perimeter area. Evacuation holding times are typically short, generally less than an hour or two,
+and citizens are permitted to return to their businesses or homes.
+Intermediate Level Evacuation
+The next level, or intermediate level, involves larger numbers of citizens and/or affects a larger area.
+This level affects off-site homes and businesses and normally affects fewer than 100 persons. Persons
+may remain out of the area for two to four hours or more. Evacuation completion times will be
+somewhat longer, but generally rapid. Collecting, documenting, and controlling the evacuees becomes
+more difficult. Off-site collection sites or shelter areas will need to be determined and managed. Some
+evacuees will leave the area on their own or be sent home by employers. Site perimeters become
+larger and perimeter security requires more resource. Close coordination with the Police Department
+and other agencies will be required.
+Large Scale Evacuation
+A large or concentrated release of a hazardous substance may cause a large off-site evacuation.
+Thousands of citizens could be evacuated. Rapid initiation of the evacuation process may be required.
+Evacuees may be out of their homes and businesses for many hours if not days. Evacuation
+completion time frames will be extended. Evacuation shelters will need to be located, opened and
+managed. Documentation and tracking of evacuees becomes more important as well as more difficult
+to manage. Very close coordination with the police and multiple agencies will be required. Site and
+evacuation perimeters become extended and require much more resources to maintain. Security of the
+evacuated area becomes a concern. In most cases, the City's Emergency Operations Center (EOC)
+will be opened to support the evacuation and site operations.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS EVACUATION
+M.P. 204.01A
+
+11/00-R
+
+Page 2 of 8
+
+Time Factor Considerations
+Time factors are also an important consideration in the evacuation decision.
+A rapidly developing moving toxic cloud will demand a more immediate size-up and quick decision
+making. Such forced speed of decision making often is made with less information than a slow moving
+event. Accuracy of information will also be limited.
+The speed of the developing hazard will dictate the speed of evacuation. Immediate evacuation will
+require more resources than a slower developing event.
+It will take time to complete the evacuation. The more people to be evacuated, and the distance
+between the occupancies to be evacuated, the more time required. The greater numbers needing
+evacuation will also require a greater resource commitment.
+Decision to Evacuate
+The decision to evacuate needs to be considered quickly and early. Delays in initiating evacuations
+can expose greater numbers of the public to the hazardous product. An unnecessary evacuation
+should be avoided. However, once the hazard has been identified and verified, the process of deciding
+who, when, and how to evacuate should proceed quickly.
+In some cases, in-place sheltering (staying indoors) may provide adequate protection and should be a
+serious consideration in the decision making process.
+Factors to consider when evaluating the evacuation need include:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Product Toxicity (as a health hazard)
+Concentrations (before it becomes a health hazard)
+Length of Time Exposed
+Weather Conditions (temperature, humidity)
+Wind Direction (direction, speed)
+Wind Changes
+Predicted Weather Changes
+Distances From Site Requiring Evacuation
+Evacuation Risk to Public (bringing them outdoors)
+Infiltration Into Buildings
+Shelter Locations
+Transportation Needs and Availability
+Evacuation Time Factors
+Resources Required for Evacuation
+Concentrations of the population in the area
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS EVACUATION
+M.P. 204.01A
+
+11/00-R
+
+Page 3 of 8
+
+In some situations, in-place sheltering can be used to protect the public rather than to initiate an
+evacuation. In-place sheltering can be considered during the following circumstances:
+•
+•
+•
+•
+•
+
+The hazardous material has been identified as having a low or moderate level health risk.
+The material has been released from its container and is now dissipating.
+Leaks can be controlled rapidly and before evacuation can be completed.
+Exposure to the product is expected to be short-term and of low health risk.
+The public can be adequately protected by staying indoors.
+
+Command may need to provide instructions to the affected public regarding the need to stay indoors
+and in such protective measures as shutting down their evaporative cooling systems, and sealing their
+buildings.
+Command Organization
+Once Command has determined evacuation to be necessary, adequate resources need to be called to
+the scene and appropriate agencies notified to respond. A central staging area for all agencies should
+be considered.
+The Incident Command Organization will need to be expanded to include other Sections/Branches.
+This level of Command structure may need to be implemented to more effectively manage a large scale
+incident. Sections/Branches to be considered include:
+•
+•
+•
+•
+•
+•
+•
+•
+
+•
+
+Public Information Sector
+Geographic Sectors (Multiple Sectors)
+Police Liaison Sector
+Staging Sector
+Transportation Sector
+Police Resource
+Shelter Sectors
+Other Agency Liaison Sectors
+a. Operations Section
+b. Administrative Section
+c. Planning Section
+d. Logistics Section
+Evacuation Branch/Sector
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS EVACUATION
+M.P. 204.01A
+
+11/00-R
+
+Page 4 of 8
+
+Command Responsibilities
+Command's responsibilities include the following items:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Rapidly size up the situation to determine the need to evacuate.
+Determine evacuation perimeters.
+Determine the number and location of shelter sites and communicate the locations to the
+command organization. (Use the CAD INFO SHELTERS or the Red Disaster Operations
+Manual for shelters and maps.)
+Order evacuation.
+Provide resources required.
+Establish Police liaison.
+Order the alert of other appropriate agencies.
+Expand the command organization to meet the incident/evacuation needs.
+Establish an evacuation plan and communicate the plan to sectors and agency liaisons.
+Monitor, support, and revise the evacuation process as necessary.
+Evacuate persons from the area of greatest danger first.
+Assign specific areas to evacuate in order to avoid duplication or missed areas [use Fire
+Department map book--either page numbers (i.e., NE0107) or hydrant zone numbers as grids].
+Provide the transportation necessary for evacuees.
+Provide continuing command of the evacuation, de-commitment, and return of evacuees.
+
+Police Responsibilities
+The Police Department will be an integral part of the evacuation process, as a large portion of the
+evacuation may be accomplished by police officers. Police responsibilities include:
+•
+•
+•
+•
+•
+•
+•
+
+Provide a ranking officer to the incident command post.
+Provide a ranking officer to the Evacuation Sector/Evacuations Branch.
+Provide a communication system for police resources.
+Provide police resources needed for evacuation.
+Provide traffic control and traffic routing.
+Provide perimeter security.
+Provide evacuation zone security.
+
+Dispatch Center's Responsibilities
+•
+•
+•
+
+Dispatch appropriate resource as requested.
+Notify appropriate Fire and City officials.
+Notify the appropriate support agencies as requested or listed in standard operating
+procedures.
+
+•
+•
+•
+
+Notify the Administrative Duty Officer and provide a status report.
+Initiate recall of additional Dispatch personnel to meet the demands of the incident.
+Notify the City telephone switchboard operator and provide the operator a status report. Update
+the operator as needed.
+Notify the hospitals in the area of evacuation (both those exposed and not exposed) and provide
+a status report and updates as needed (intermediate and large scale evacuations).
+
+•
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS EVACUATION
+M.P. 204.01A
+
+11/00-R
+
+Page 5 of 8
+
+Public Information Officer's Responsibilities
+•
+•
+•
+
+Notify the news media and provide status reports and updates as necessary.
+Provide the media with consistent and accurate evacuation instructions as provided by
+Command or the Evacuation Branch/Sector.
+Utilize the media and coordinate evacuation notices through news media.
+
+Red Cross Responsibilities
+Once long term sheltering is identified, the Red Cross will open and manage shelters. Early notification
+is required. The Red Cross will need up to three hours to get adequate personnel, equipment and
+supplies to the shelter sites.
+Some Fire Department resources may need to be committed to the shelters, particularly in the area of
+initial opening and staffing by a shelter crew, and later for potential emergency medical support.
+Evacuation Branch/Sector Responsibilities
+An Evacuation Branch/Sector must be established. On large-scale evacuations, Evacuation Branch
+should have a separate radio channel. Various sub-level sectors would also need to be established
+and report to Evacuation Branch.
+Typically a large commitment of police officers will be required to accomplish an evacuation. The
+Evacuation Branch officer must obtain a ranking police officer at his/her location in order to closely
+coordinate evacuation efforts. An appropriate commitment of police resource must be obtained.
+Evacuation responsibilities include:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Obtain resource needed to evacuate.
+Obtain ranking police officer for liaison.
+Establish sectors as needed.
+Provide sectors objectives and specific areas to evacuate (use Fire Department map pages or
+hydrant zones in Fire Department map book for grids).
+Provide sectors with shelter location and instructions.
+Provide sectors with evacuation instruction pads.
+Provide sectors with private vehicle routing instructions (out of the area).
+Obtain/provide buses or other transportation to those requiring transportation out of the area.
+(For large scale evacuation, start with two buses and request more as needed.)
+Evacuate those at greatest risk first.
+Evacuate the greatest concentrated areas next (i.e., apartment complex).
+Consider individual sectors for large population occupancies (i.e., multi-story buildings, large
+apartment complexes, schools, etc.).
+As individual geographic or grid sectors complete their evacuations, terminate the sector identity
+and reassign resources to other developing sectors (for large scale evacuation).
+Closely document and maintain records of the evacuation process to avoid duplication or
+missed areas.
+Document those addressees refusing to leave.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS EVACUATION
+M.P. 204.01A
+
+11/00-R
+
+Page 6 of 8
+
+On-Site Notification to Evacuate
+Door-to-door notification is time-consuming. In many cases, adequate resources and time is not
+available to do this type of face-to-face notification. Use of sirens, air horns and PA systems will speed
+the alert process.
+When making door-to-door evacuations:
+• Be in uniform.
+• Wear your helmet.
+Face-to-face notification should include the following instructions:
+• There's been a hazardous materials incident.
+• You are in danger.
+• Leave immediately.
+• Go to the shelter (location).
+) route out of area.
+• Take (
+Do
+you
+need
+transportation?
+•
+• Provide the customer with evacuation instructions.
+Take the following items:
+• Wallet/purse
+• House & car keys
+• Money
+• Eye glasses
+• Medications
+• Proper clothing
+• Pets
+In other situations, where immediate and rapid evacuation makes door-to-door notification impossible,
+use the following notification method:
+• Use 3 five-second blasts of the siren while on the "YELP" setting.
+• Followed by the standard evacuation instruction over PA system (see instructions above)
+• Use maximum volume on PA system.
+• Proceed slowly to maximize notification.
+• Initiate notification at the beginning of each block and each 50 yards after that.
+Once each assigned grid of objectives is complete, report completion to the Evacuation Branch/Sector
+officer.
+Refusal to Leave
+Some citizens may refuse to leave. A few methods of persuasion to leave include:
+• Be in uniform.
+• Wear your helmet.
+• Wear SCBA and facepiece (air hose may not need to be connected) when advising the citizen
+to leave.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS EVACUATION
+M.P. 204.01A
+
+•
+•
+
+11/00-R
+
+Page 7 of 8
+
+Ask for next of kin and a phone number.
+Write the next of kin information down.
+
+Evacuations follow somewhat of a triage philosophy--we'll evacuate the greatest number for the
+greatest benefit. Individual refusals will be left to fend for themselves. There simply may not be
+enough time or resources to initiate forced removal of persons from their homes. However,
+documentation of the refusal should be done. Write the address down (or if radio traffic permits, radio
+the address to the Evacuation Branch/Sector officer).
+Transportation Sector Responsibilities
+A Transportation Branch/Sector should be a priority consideration for any intermediate
+or large-scale evacuation. Not all citizens will have a vehicle available to them.
+• Obtain buses (start with minimum of two) and other vehicles that can be used for transportation.
+• Stage all transportation resources.
+• Put one firefighter (or police officer) with a radio on each vehicle equipped with a Fire or Police
+Department radio.
+• Coordinate with Evacuation Branch/Sector the pick-up points or addresses of those citizens
+needing transportation.
+On-Duty Deputy
+Any time more than ten (10) persons are evacuated, the Duty Deputy advises the City Manager, or
+his/her designee, of the situation.
+If the Duty Deputy cannot respond to the incident or is delayed, the Duty Deputy will need to contact the
+incident command staff for a status report. Command should be prepared to respond to this request
+via cellular telephone, etc.
+Emergency Operations Center (EOC) Operations
+If a significant or major evacuation occurs, the City's Emergency Operations Center (EOC) will go into
+operation. The EOC will collect department heads and senior staff from the Fire,
+Police, City Manager's Office, Public Works, and other City departments to the EOC. The EOC's
+objective is to use the City's resources to support the incident operations and evacuations.
+Command should be prepared for this support and potential policy direction in regards to the incident
+and evacuation operations.
+If the EOC is in operation, Command must assign an EOC liaison as part of the Command
+Organization. The EOC Liaison must have a radio communications link (another radio channel) with
+the EOC and a cellular telephone link. If the EOC has a CAD Terminal, the EOC liaison will need
+access to an MDT. (The MDT and cellular phones are available in any Battalion vehicle and some staff
+vehicles.)
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS EVACUATION
+M.P. 204.01A
+
+11/00-R
+
+Page 8 of 8
+
+Responsibilities of the EOC Liaison Officer are:
+• Obtain a radio communications link with the EOC (through Dispatch Center on a separate
+channel).
+• Obtain a cellular telephone or other communication link with the EOC.
+• Obtain an immediate status report from Command and provide that report to the EOC fire
+officer.
+• Provide an immediate report to the EOC on any changes in plans, strategy, problems
+encountered, etc.
+• Provide progress reports every 30 minutes unless the EOC requires more frequent or less
+frequent reports.
+• Act as the communication link from EOC to Command.
+• Provide Command with direction, policy information, etc. that is communicated from the EOC.
+The EOC will remain in operation for the duration of the evacuation. Command will maintain an EOC
+liaison and a communication link with the EOC throughout the evacuation, including de-commitment
+and return of evacuees.
+Return Evacuees
+The decision to return evacuees to their homes will be the sole responsibility of the Fire Department
+Incident Commander. If the EOC is operating, the decision to return evacuees will be made by the
+EOC staff. No other City agency will be authorized to order the return.
+Returning evacuees may require transportation. A Transportation Branch/Sector may need to be
+reactivated to provide for these needs.
+
+

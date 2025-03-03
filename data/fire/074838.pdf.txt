@@ -1,0 +1,720 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+07/03-N
+
+Page 1 of 14
+
+Response actions at a Weapons of Mass Destruction (WMD) incident can be divided into those
+undertaken by operational responders and those undertaken or supervised by hazmat
+technicians. Medical management includes decontamination, triage, treatment, behavioral
+health and transportation. The specific WMD agent involved -- chemical, biological or
+radiological -- has an impact on scene management. All WMD terrorism incidents are crime
+scenes; police sector needs early establishment. Additional detail for WMD response
+operations may be found in Phoenix Fire Department WMD Field Operations Guide (FOG).
+FIRST ARRIVING UNITS
+The first arriving officer will establish Command and begin a size-up. Survey visible activity,
+signs and symptoms. Notice potential effects of wind, topography and location of the incident.
+Route other responding companies away from visible hazards.
+Command will establish level II staging whenever possible. Care must be taken to establish
+staging in a safe area, taking into account the characteristics of the likely WMD agent (chemical,
+biological, radiological).
+Area Isolation/ Perimeter Establishment
+I.
+
+Command Size-up gathers information for incident management plan
+•
+•
+•
+
+•
+•
+•
+•
+•
+•
+
+In known or suspected explosions when purposeful or terrorist activity cannot be ruled
+out (i.e., natural gas explosion) initial actions should be to secure a hot zone perimeter
+and call for the EOD (PD bomb squad) to respond.
+Entry into the hot zone/crime scene should be under the direction of unified Command
+with Haz Mat – radiological monitoring, Tech Rescue – secondary collapse, and EOD
+secondary explosive devices/crime scene, issues being addressed.
+If victims are present the Incident Commander should establish communication quickly
+to control their anxiety and behavior. Select a fire member/officer (preferably paramedic)
+as a point of communication to establish rapport and credibility. If possible all direct
+communications to victims should be conducted/coordinated through this person.
+A WMD/terrorist incident is a CRIME SCENE. Once fire/hazmat work is complete,
+scene passes to FBI.
+Remember any signs of WMD devices, dispersion apparatus, or other potential
+evidence.
+BE AWARE OF SECONDARY DEVICES designed to injure additional victims and/or first
+responders. Upon sighting a device that appears operable, withdraw personnel until
+Police Bomb Squad has inspected/rendered safe any suspicious appearing device.
+Remember locations of potential evidence; do not move or collect it yourself.
+Pay attention to symptoms exhibited by victims for relay to hazmat/paramedic personnel.
+Prepare to Evacuate nearby area if indicated by wind, explosive or similar danger.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+•
+•
+
+07/03-N
+
+Page 2 of 14
+
+If fire is present and radiological agent suspected, evacuate to 2000 feet. Check
+downwind areas for contamination.
+IN THE CASE OF LETTER OR PACKAGE CONTAINING UNKNOWN SUBSTANCE:
+¾ Quarantine persons in the immediate area of exposure (office or room) and
+place them in a safe refuge area.
+¾ Isolate the area that the substance or package is located; hold for Hazmat
+Team to double bag and secure.
+¾ Control Heating and Air Conditioning (HVAC) Systems by shutting down to
+prevent spread of contamination.
+DO NOT USE SPECIFIC NAME OF SUSPECTED AGENT OVER THE
+RADIO; USE ONLY ABIOLOGICAL AGENT@ OR AUNKNOWN AGENT@.
+If a biological agent is contained in a single room or office in a multi-function
+building, the building should be evacuated.
+
+II. IF NO APPARENT VICTIMS, LIFE HAZARD, RESCUE SITUATION, OR FIRE EXIST, FIRE
+DEPARTMENT PERSONNEL SHOULD NOT BE EXPOSED TO RISK.
+First arriving units should secure a perimeter, evaluate the situation, and
+await the arrival of the Hazardous Materials Technicians.
+•
+
+USE AVAILABLE PPE TO MINIMIZE SAFETY RISKS FOR OPERATIONAL
+RESPONDERS.
+Minimize entry of first responders into HOT ZONE.
+Minimum PPE is turnouts, butyl rubber gloves and SCBA.
+
+III. Establish Zones of Limited Access.
+•
+
+•
+
+The HOT ZONE is the area immediately around the site/munition/device/source.
+Enforce a single entry control point. All personnel entering this area must wear full
+protective gear. The entry control point should be a minimum of 300 feet from the
+source. This applies whether suspected agent is chemical, biological or radiological.
+The WARM ZONE is upwind and uphill from the Hot Zone for Chemical and Radiological
+Threats. Biological agents are non-volatile and controllable: if contained in a building
+little downwind threat is posed; if release point is in the open, downwind hazard may
+exist.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+07/03-N
+
+Page 3 of 14
+
+Hot Zone Support, Rescue, and Technical Decon personnel operate in WARM ZONE
+with full protective gear. Decon lines are established in the WARM ZONE. This area
+should be minimally 15 feet wide, but must encompass all victims awaiting decon and
+decon equipment. A LOBBY SECTOR will be established at the entry to the warm zone
+for accountability.
+•
+
+The COLD ZONE is outside the Warm Zone. For Chemical and Radiological agents,
+COLD ZONE is uphill and upwind from Warm Zone. No contaminated personnel or
+equipment should pass into the COLD ZONE. Incident Command, medical and
+transportation are located in the COLD ZONE. Personnel should keep protective gear at
+hand in case of wind shift or accidental contamination.
+
+IV. COORDINATE WITH POLICE TO ESTABLISH SECURITY FOR SITE
+•
+•
+•
+•
+
+Police will secure scene to insure safety for victims and emergency responders.
+Police will search immediate area for presence of secondary devices.
+If potentially explosive devices are sighted or suspected, Police Special Assignments
+Unit will investigate and clear. Fire personnel will withdraw to safe staging area until
+safe re-entry is possible. Fire personnel will NOT move or disarm suspected devices.
+Victims and others will be denied entry and exit from HOT ZONE. Police will enforce
+these restrictions. Fire personnel will NOT use physical force to restrain public.
+
+Equipment Positioning
+Position equipment upwind, uphill and upstream from the incident site. If the incident is indoors,
+insure any ventilation exhaust ports are not blowing vapors into the established response areas.
+Shut down HVAC systems to minimize contamination spread.
+Assess Downwind Hazards
+Be aware of the presence of, or potential for downwind, plumes. This threat exists for chemical,
+biological and radiological [particles] agents. If a downwind hazard exists, initiate appropriate
+action (evacuation or shelter-in-place) for those at risk. Adjust incident perimeters to account
+for windage risks.
+Gather Casualties/Initiate Victim Management
+I.
+
+Immediately begin process of gathering ambulatory victims.
+•
+•
+•
+
+Using an amplified PA system, direct victims to an established holding area to await
+evaluation and emergency gross decontamination.
+If deaths occur during sorting, redefine HOT ZONE perimeter to include bodies.
+Explain emergency decontamination to victims.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+•
+
+07/03-N
+
+Page 4 of 14
+
+Once emergency decon is complete, sort ambulatory victims into:
+¾ People with Special Needs
+¾ Gender groups
+
+•
+
+Continue to process any additional victims who exit the impact area.
+
+II. USE CAUTION [PPE] WHEN CONTACTING VICTIMS
+•
+•
+•
+
+Those exposed to CHEMICAL agents may be off-gassing.
+BIOLOGICAL victims may be contaminated with particles or droplets of agent.
+RADIOLOGICAL victims pose no danger; particles on skin or clothing brush or wash off.
+
+III. NOTE LOCATIONS OF DEAD AT SCENE
+•
+•
+
+HOT ZONE perimeter should be defined to include all dead bodies.
+Unless absolutely necessary do not move bodies.
+
+IV. NON-AMBULATORY VICTIMS SHOULD LIE IN PLACE
+•
+•
+
+If necessary administer emergency medical measures WHILE WEARING PPE.
+If external threat (building collapse, etc.) threatens, move victim(s) to safe area.
+
+V. NOTE VICTIMS IN NEED OF RESCUE. Do not undertake rescue without PPE
+VI. DEAD ANIMALS AND BIRDS AT THE SCENE
+Deceased animals and birds at the scene will be handled as deceased people are handled,
+expanding the Hot Zone to include their locations. Once scene operations have concluded,
+Maricopa County Animal Control (MCAC) will be notified of the presence of deceased and
+contaminated animals.
+Emergency Decontamination
+I.
+
+Emergency decontamination for chemical agents should begin as soon as possible.
+•
+
+Emergency Decon serves three functions:
+¾ Marks victims for easy identification
+¾ Removes product/particles from victims
+¾ Engages victims in activity that reduces anxiety.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+•
+
+07/03-N
+
+Page 5 of 14
+
+Using PA system/bull horn, instruct victims on procedure:
+¾ spread arms and legs wide; turn slowly so all parts of body are rinsed; clothing is
+NOT removed for emergency decon unless patient was exposed to a liquid splash.
+¾ Victims will be thoroughly wet using a booster line. Soak victims from top of head
+downward with copious amounts of water.
+
+•
+
+In an event with multiple victims, which may inundate the booster line procedure of
+emergency decontamination, a master stream(s) creating a dense shower flow should
+be established as a more effective method of mass casualty emergency
+decontamination.
+
+II. Minimum PPE for decontaminating victims is turnouts and SCBA.
+III. Locate Emergency Decon corridor Upgrade from HOT ZONE if possible. Notice direction
+and impact of uncontrolled runoff for referral to clean-up.
+Note: Emergency decontamination is not necessary for biological and radiological
+contamination. ONLY victims who have other medical injuries that require immediate
+medical attention should be prioritized and decontaminated as necessary.
+HAZMAT UNITS
+Hazmat Sector Establishment, Site Assessment
+I. Command -- through Hazmat -- will make site assessment to:
+•
+•
+•
+•
+
+assign levels of PPE;
+confirm/adjust hot/warm/cold zones and incident perimeter; For Radiological Agent, HOT
+ZONE is defined as area where survey instruments produce readings of 2 MR/hour and
+higher;
+confirm/adjust equipment placement.
+reassess downwind hazards; implement evacuation/shelter-in-place as needed.
+
+II. Operations personnel become support.
+III. Hazmat brings necessary pharmaceuticals/antidotes to the scene.
+Hazmat Initiates Technical Decon Set-up/Operation
+I. WMD Technical Decon Lines for personnel and equipment described in MP 204.14C?
+II. If available and time permits, Female Decon Team Assists with set-up then operates
+female/special needs line.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+07/03-N
+
+Page 6 of 14
+
+III. Three shelters will be assembled: Two Ambulatory and a Special Needs/Non Ambulatory
+decontamination shelter for victims requiring assistance, staffed by a male and female
+support group.
+•
+•
+•
+•
+•
+
+Each decontamination shelter will be staffed with a minimum of 5 personnel (for mass
+casualty incidents) processing victims through the various stations.
+A Separate Technician Decon operation should be set up for response personnel away
+from the victim decon lines.
+Non-ambulatory and Special Needs Victims will be processed through decon lines with
+assistance rendered as necessary by station attendants.
+Decon of Deceased takes place AFTER ambulatory and non-ambulatory victims are
+deconned, treated and transported.
+If Federal response is not available, deceased victims may be decontaminated by Fire
+Department personnel trained in stripping and decontamination of bodies before the
+Maricopa County Medical Examiner’s Office assumes control of the body. Victims
+who expire after decontamination (in the cold zone) will be held for the County Medical
+Examiner’s Office.
+
+Hazmat: Initial Entry
+I.
+
+Initial entry into the Hot Zone will be made by Hazmat Technicians.
+•
+•
+•
+
+For Chemical agents level A protection is worn. All personnel entering the Hot Zone will
+carry THREE Nerve Agent Antidote Kits (MARK I) for self administration as needed.
+For Biological agents, the level of protection is worn, as assigned by IC consulting with
+HazMat and toxicologists/poison control.
+For Radiological threats, minimum PPE is turnouts, butyl rubber gloves and SCBA;
+XETEX dosimeters will be worn by all entering Hot Zone.
+
+II. Two entry teams and appropriate backup teams will be established. One entry team will be
+assigned to victim rescue and extrication. The second entry team will address agent
+identification.
+III. When victims are trapped, extrication, high angle rescue, trench rescue, or other technical
+rescue may be used.
+•
+•
+
+Extrication is conducted by the Extrication Sector of the Medical Branch, assisted by
+other PFD special units. If special equipment or skills are demanded to achieve rescue,
+PFD Technical Rescue Teams (TRT) will be used.
+Non-ambulatory, but not trapped, victims located in the Hot or Warm Zones will be
+handled only by personnel in appropriate PPE. Hot zone rescues only by Hazmat.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+07/03-N
+
+Page 7 of 14
+
+Hazmat: Agent Identification
+I. All Chemical incidents will be treated as a Hazmat situation. The standard chemical
+detection and air monitoring devices (i.e., HAZCAT) will be used during a response. If the
+incident is suspected or confirmed to involve unconventional warfare chemicals, the
+following list of detection devices (in conjunction with the standard equipment) will be used
+for agent identification:
+M-8 Chemical Detection Paper - chemical liquids
+M-9 Chemical Detection Paper - chemical liquids
+Dragger Colormetric Tubes - chemical vapors
+M256 Chemical Detection Kit - chemical liquids and vapors
+APD-2000 CW Detector - chemical vapors
+In all cases where a chemical WMD is suspected, every available chemical detection device
+will be used for secondary and tertiary confirmation of suspected chemicals.
+II. For Biological incidents sampling is necessary and scene assessments will be undertaken
+if equipment is available.
+•
+
+•
+•
+
+Hazmat teams will collect and test samples of any suspected Biological agent with the
+appropriate field detection kit. Phoenix PD will transfer the sample to the Arizona
+Department of Health Services (ADHS) State Laboratory for further testing and
+identification.
+Toxicology support is available at the scene and/or in the EOC through the Samaritan
+Regional Poison Control Center.
+Phoenix Police Department personnel will transport suspected biological agent samples
+to the ADHS State Laboratory.
+
+III. For Radiological incidents, Victoreen Instrument CDU-700 and Ludlum Model IIC
+Radiacmeters will be used to identify the source of contamination and designate zones of
+operation (Hot, Warm and Cold). The same instruments will be used to monitor personnel.
+The Arizona Radiation Regulatory Agency (ARRA) will be notified to deploy teams to assist
+with defining the extent of contamination.
+Hazmat: Safety and Secondary Devices
+I. Beginning with first at scene, all personnel will be cognizant of bombs and secondary
+devices in their areas of operation. No PFD personnel should ever inspect or move a
+suspected secondary device.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+07/03-N
+
+Page 8 of 14
+
+II. If operational personnel locate a suspected secondary device, the Hot Zone will be
+expanded to include the device. All Fire personnel will withdraw from the area. Police
+Bomb Technicians will enter the area to render the device safe. Once safety has been
+established, PFD will resume operations.
+III. If a secondary device is discovered by Hazmat technicians as they make entry into the Hot
+Zone, they will withdraw from the area. PD bomb technicians will enter the area with PPE to
+render the device safe. Fire operations will resume after safety has been established.
+IV. The Phoenix PD bomb technicians will operate with two teams. The first team is an Entry
+(Render Safe) Team. The second team is back-up to the Entry Team. If the threat is large
+enough to demand the use of two PD entry teams, PFD Hazmat personnel, if available, will
+provide a back-up rescue team to support PD operations in the Hot Zone.
+MEDICAL MANAGEMENT
+I. Whether the agent is chemical, biological or radiological, victims of a Weapons of Mass
+Destruction/terrorist incident may present injuries caused by explosions, fire, falls, or other
+mechanisms not directly related to the hazard agent itself. These can include cardiac
+symptoms. As appropriate, treatment of such injuries should be initiated in the field.
+II. For victims in a chemical incident, treatment protocols will follow established agent specific
+guidelines. For nerve agents (sarin, soman, VX) Mark I Kits are used for adults; atropine
+injections for pediatric. Oxygen is administered for choking agents. Amyl Nitrate (or sodium
+nitrite or sodium thiosulfate) is given for Blood agents. Blister agents are given supportive
+therapy for blisters plus pain medication.
+III. For biological agent victims, it is possible that no symptoms may be present. If an agent is
+positively identified, patients will be decontaminated and moved to hospitals or other
+shelters for quarantine or observation.
+IV. Victims of a radiological agent are unlikely to exhibit specific symptoms at the scene.
+Exposure to ionizing radiation produces tissue and cell changes that are slow onset.
+Radioactive particles are easily removed from skin and clothing. RADIATION EXPOSURE
+ALONE IS NOT A MEDICAL EMERGENCY.
+V. Treatment and triage are responsibilities of the IMS Medical Sector/Branch with information
+from Hazmat. Extrication from the Hot Zone and decontamination is part of the Hazmat
+Sector/Branch. In a small incident, Transportation may be a sector under the Medical
+Branch; with a large number of victims.
+VI. Command will assess scene stability and determine whether medical sector/branch is
+located at the scene or away from the scene.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+07/03-N
+
+Page 9 of 14
+
+Triage
+I.
+
+The objective of triage is to sort victims so that the maximum number of lives may be
+preserved through rapid and effective use of medical therapeutics.
+•
+
+S.T.A.R.T. (Simple Triage And Rapid Treatment) criteria will be used for triage, using
+four classifications:
+IMMEDIATE: requiring immediate treatment for survival;
+DELAYED: not likely to be adversely affected by delay in treatment or movement to
+definitive care;
+MINOR: ambulatory and able to follow simple commands, may or may not require minor
+treatment;
+DEAD OR DYING.
+
+II. The Arizona S.T.A.R.T. triage tag will be used for all patients. The tag shows patient
+classification and also identifies injuries and treatments administered in the field, and
+becomes the tracking base for patients.
+•
+•
+
+In the event of a very large number of victims, triage may be indicated initially by
+marking the priority on the patient’s forehead with the felt pen. In such cases, the triage
+tag will be attached as soon as feasible.
+Triage tag numbers are used for patient tracking; the triage tag becomes part of the
+patient record after arrival at hospital. Triage tags remain attached to patients
+transferred from the scene to the National Disaster Medical System (NDMS) for forward
+movement.
+
+Treatment
+I. Treatment areas will be established in the cold zone.
+II. Medical treatment will address supportive needs of patients. Care for injuries (sustained in
+explosions, fires, falls or other events related to the incident) collateral to WMD agent
+exposure will be administered. Particular attention is reserved for airway/respiratory and
+cardiovascular support. For all agents, patients will have experienced a terrorist event
+demands attention be given to Behavioral Health issues.
+Treatments administered at the scene will be guided by agent identification and medical
+advise from toxicology/poison control personnel.
+•
+
+For chemical exposures, if agent is identified antidotes may be initially administered
+during decon and continued in treatment area. Antidote choice and dose are agent
+specific.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+•
+•
+
+07/03-N
+
+Page 10 of 14
+
+For biological agents, antibiotic or antitoxin administration may initiated after
+decontamination as directed by toxicology/poison control.
+For radiation exposures, symptomatic support is offered [no antidotes or efficacious
+treatments exist].
+
+III. For otherwise uninjured patients exposed to biological agents, if victim is nonsymptomatic, treatment may be confined to observation or initiation of antibiotics/antitoxins.
+Command will determine if patients that are to be observed are transported to hospitals or to
+shelters. Patients receiving initial antibiotic doses may be directed (by Command) to obtain
+further antibiotics from public health authorities, from hospitals, or from private physicians.
+Treatment Sector Officer may refer patients to Behavioral Health personnel and/or Police
+Sector for interview.
+IV. For otherwise uninjured, not contaminated and non-symptomatic patients exposed to
+radiological agents, Treatment Sector Officer will review and
+a. direct to treatment by a private physician;
+b. refer to Police Sector for interview; and/or
+c. refer to Behavioral Health personnel for interview.
+
+V. For victims of chemical agents, exposed patients whether currently symptomatic or notrequire observation. Symptomatic patients require antidotes and supportive therapy. Nonsymptomatic patients, particularly those exposed to nerve or blister agents, may become
+symptomatic within hours. Patients who can be confirmed as not exposed may be referred
+by Treatment Sector Officer to Behavioral Health personnel and/or Police Sector for
+interview.
+VI. PHARMACEUTICALS will be brought to the incident scene with the responding Hazmat
+teams or tox medic units. Additional Pharmaceuticals and equipment will be transported to
+scene as needed.
+VII. Specific treatment protocols for WMD agents are described in M.P. 201.14D.
+
+Behavioral Health
+I. Behavioral Health needs of victims will be addressed by Community Assistance Program
+(Alternate Response) units (with call-up from TERROS, EMPACT and American Red Cross
+as needed).
+•
+
+The mission of these personnel is to attend to the crisis mental health needs of victims
+and responders, thereby assuring smooth operation and continuous flow of patients
+through decontamination, treatment and transportation.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+07/03-N
+
+Page 11 of 14
+
+II. On scene, Behavioral Health Units may be assigned (in appropriate PPE) to
+decontamination lines, in the treatment areas, and at the Transportation Sector to perform
+their behavioral health functions.
+III. Behavioral Health Units and personnel will be deployed to receiving hospitals to support
+hospital behavioral health professionals in caring for short-term victim needs, including
+debriefings. If mass shelters are established for victims, Behavioral Health personnel will
+provide similar services at those locations. During the incident, Behavioral Health personnel
+will be available to address short-term crisis needs of victim family members.
+Transportation
+I. The Transportation Sector/Branch moves patients from the scene to receiving hospitals or to
+shelters as assigned by Command.
+•
+•
+
+Only patients who have been decontaminated will be transported.
+Zones will be designated in or near treatment areas to serve as collection points for
+patients to be transported.
+
+II. Ambulatory victims, once given initial assessment, decontamination and treatment, can be
+transported en mass on designated vehicles (busses and other multiple patient transports).
+Patients whose condition merits will be transported to medical facilities via ambulance. If
+appropriate and such transport will not further disperse the agent, air transportation may be
+used.
+III. Decontaminated, uninjured patients may be released or transferred to mass shelter
+locations as determined to be appropriate by Command. Names and contact information
+will be recorded for all released individuals for any necessary post-incident follow-up as well
+as behavioral health interviews.
+IV. Some civilians present at the scene may not have experienced injury or exposure to a
+chemical agent, and may not require decon. Witnesses may fall into this category. After
+medical review, Command may direct such people to be documented and interviewed by
+Police Sector. Behavioral Health personnel may also interview such victims to offer
+assistance.
+V.
+
+Movement and loading of vehicles at the scene will be managed by Transportation
+Sector/Branch, with security/support from the Police Department as appropriate. Acquisition
+of additional vehicles and equipment will be handled through the Resource Sector/Branch.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+07/03-N
+
+Page 12 of 14
+
+VI. If the local hospital system is overwhelmed early in an incident, or treatment requires it,
+patients may be moved to the NDMS Patient Reception Center (PRC). Patients will not be
+transported from the scene until the Transportation Officer has confirmed that the PRC is
+operational. The chain of treatment will be continued at the PRC until patients are placed on
+aircraft. Patients transferred to NDMS will be tracked through their triage tags.
+Hospitals
+I.
+
+Potential receiving hospitals will be notified immediately by dispatch (EMSystem and
+MCMAS) upon determination that a WMD agent is involved in an incident.
+
+II.
+
+Receiving hospitals will engage lock-down status.
+
+III. Hospitals will receive information on the probable (or identified) agent, decontamination
+guidance, and recommendations on patient care from toxicology/poison control personnel
+based in the City EOC. The priority will be to disseminate this information to receiving
+hospitals first, and then to all area hospitals. Once established MCMAS and EMSystem will
+enable simultaneous communication to all hospitals.
+IV. Medical Branch will coordinate with the pharmaceuticals representative in the EOC , and
+deliver appropriate drugs, antidotes and equipment (as adjuncts to those maintained at
+hospitals) to receiving hospitals.
+V.
+
+Hospitals will assume responsibility for decontamination, triage and treatment of “walk in”
+patients. This includes primary set-up of decontamination and maintenance of PPE for
+hospital personnel. A PFD unit (with appropriate PPE) trained in decontamination set up
+and procedures may be dispatched as scene demands de-escalate to each receiving
+hospital to assist in decontamination of walk-ins. Hospitals will handle medical triage for
+walk-ins and assume tracking responsibility for patients not processed through the scene.
+
+VI. The Phoenix Police Department will dispatch units with appropriate PPE as necessary to
+assist hospital security personnel in maintaining order at receiving facilities. This includes
+isolation and management of self-referrals awaiting decontamination.
+VII. Medical staff at receiving hospitals will determine patient treatment needs and the nature of
+definitive care. A medical decision may be made to refer the patient to the NDMS for
+transportation to definitive care. In this event, hospital transportation, supported as
+appropriate by Fire Department ambulances, will be arranged to transfer the patient(s) to
+NDMS at Sky Harbor International Airport. Hospital patients being moved who require
+continuing care and/or treatment between the time of hospital departure and the time they
+can be loaded on aircraft will obtain that treatment in the Patient Reception Center (PRC).
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+07/03-N
+
+Page 13 of 14
+
+VIII. Individual hospitals will determine their patient capacity and coordinate that information with
+the EOC and Transportation Sector at the scene. When a hospital closes due to
+maximum patient load, victims will be transported to other receiving hospitals. In the event
+all area hospitals become saturated (and alternate treatment areas are either full or not
+established), victims from the scene will be transported to the NDMS receiving area at Sky
+Harbor International Airport.
+RECOVERY/RESTORATION ACTIONS
+The recovery and restoration phase begins after the last living patients have been transported
+from the scene. During this phase, it is expected that Federal response elements will arrive with
+specialized teams and equipment. Federal resources will support hazard monitoring,
+technical (equipment) and environmental decontamination, and site restoration.
+Technical Decon of Response Personnel/Equipment and Shutdown
+I.
+
+Hazmat personnel continue to perform and/or supervise the technical personnel decon
+corridor.
+
+II. Hazmat personnel will establish and operate an equipment decontamination corridor to
+support restoration of equipment needed to re-establish essential services.
+III. Hazmat personnel will shut down the emergency decon operation and technical decon
+corridors as they complete operation.
+IV. Hazmat personnel will find/document uncontained runoff problems from decon corridors.
+V. Equipment and protocol for personnel and equipment decontamination are described in
+M.P. 204.14C.
+Site Survey
+I. To the extent possible, Hazmat personnel will continue to monitor all equipment and areas
+suspected to be contaminated with available detection and identification devices. Hazmat
+will coordinate with Arizona Department of Environmental Quality (ADEQ) for additional
+monitoring assistance outside of the hot/warm zones.
+II. Hazmat personnel will document all runoff areas, apparatus and other locations suspected or
+identified as contaminated.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+HAZARDOUS MATERIALS WEAPONS OF MASS DESTRUCTION
+CHEMICAL, BIOLOGICAL, RADIOLOGICAL-- RESPONSE OPERATIONS
+M.P. 207.01A
+
+07/03-N
+
+Page 14 of 14
+
+III. When biological agents are involved, Hazmat teams will continue to collect samples of
+suspected contamination for evaluation by ADHS State Laboratory. PD will transport
+samples from scene to laboratory.
+IV. In radiological incidents, Hazmat personnel will coordinate with Arizona Radiation
+Regulatory Agency to establish that equipment and site have been successfully
+decontaminated.
+V. For chemical agents, areas and equipment that cannot be accommodated in the technical
+equipment decon corridor will be cleaned with a 5% bleach solution. A minimum solution
+contact time of 15 minutes will be observed, then area or equipment will be thoroughly
+rinsed and remonitored for contamination. The process will continue until monitoring
+indicates no contamination is present.
+VI. Hazmat personnel will provide technical assistance/support as requested to Maricopa
+County, State, and/or Federal agencies engaged in restoration operations. Such agencies
+will be operating under the Federal Response Plan.
+Hazmat assist in transfer of deceased to County Medical Examiner
+I. Deceased are to be left in hot zone unit all victims have been transported.
+II. Maricopa County Medical Examiner’s Office, supported by Federal D-Mort Teams, will
+examine bodies for evidence prior to decon. Decon may be supported by PFD Hazmat
+personnel as requested.
+III. Tracking, transportation and storage of bodies and belongings will be handled by the
+Medical Examiner’s Office to insure preservation of chain of evidence custody.
+
+

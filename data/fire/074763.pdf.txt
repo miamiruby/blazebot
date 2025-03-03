@@ -1,0 +1,120 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+FLAMMABLE LIQUID INCIDENTS
+M.P. 204.04
+
+03/09-R
+
+Page 1 of 3
+
+PURPOSE
+The purpose of this M.P. is to describe standard operating procedures for response to incidents
+involving flammable liquids. The four primary areas of concern are extinguishment of flammable
+liquid fires, spills without fire, disposal and firefighter safety.
+Flammable liquids present particular problems for fire protection, health, safety, and environmental
+protection. The frequency of encounters with flammable liquids makes them a particular concern for
+the fire department.
+The main operational problems with flammable liquids are fire extinguishment, ignition prevention, and
+disposal of spills. All three of these may be involved in the same incident.
+EXTINGUISHMENT
+The preferred agent for flammable liquid fire fighting is AFFF/Class B Foam (Aqueous Film Forming
+Foam). Fire apparatus that carry AFFF/Class B Foam are designated with a CBF (Class B Foam) in
+CAD and are available on request through Phoenix Regional Dispatch if not already on the incident.
+Attack on any flammable liquid fire should be made with Class B Foam when available. When the fuel
+is ethanol, or ethanol based (E-10, E-85 or E-95), fire attack should utilize an Alcohol Resistant
+Aqueous Film Forming Foam (AR-AFFF) due to the high alcohol content of the fuel. The use of alcohol
+resistant class B foam is also required when dealing with any polar (water soluble) flammable liquid.
+The class B foam should be applied at the percentages specified by the foam concentrate
+manufacturer.
+The PFD currently uses AFFF/AR class B foam concentrate on all class B foam equipped apparatus
+except for Sky Harbor Airport apparatus. The class B concentrate used by the Airport is AFFF and does
+not have the alcohol resistive characteristics needed for polar flammable liquids.
+The extinguishing action of Class B Foam is based on its ability to rapidly cover the flammable liquid
+surface with a film. This film prevents the escape of flammable vapors, but may have difficulty sealing
+against hot metal surfaces. The application of Class B Foam should be gentle to avoid breaking the
+seal and agitating the liquid below.
+Dry Class A compressed air foam (CAFS @1%) can be used to extinguish a small flammable liquid fire
+i.e. a car with leaking fuel tank. It must be understood that while CAFS can be used as an
+extinguishing agent, Class A foam has NO ability to suppress vapors and reignition is an extreme
+possibility. If extinguiment with CAFS is being performed during a rescue, continuious application of
+new foam is required as long as crews are in the hazard zone.
+Fires involving a large area of burning flammable liquids may exceed the ability of one hand line to
+extinguish. It may be more important for Command to wait until there is enough Class B foam on site to
+initiate a coordinated attack. One 95 GPM class B foam line is needed for every 600 square feet of
+spill area. The initial fire attack will require 187 gallons of concentrate when used at 3% and 374
+gallons of concentrate when used at 6%. Water master streams should be used to cool and protect
+exposures during the interim.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+FLAMMABLE LIQUID INCIDENTS
+M.P. 204.04
+
+03/09-R
+
+Page 2 of 3
+
+SPILLS
+Flammable liquid spills include spills without fire and any remaining fuel after a fire has been
+extinguished. In both of these cases, the liquid must be protected to prevent ignition until it can be
+picked up or removed.
+All personnel working around spills must wear full protective clothing to afford protection in case of
+possible ignition. SCBA must be used in vapor areas. Vapor areas can only be found through the use
+of combustible gas indicators carried by all Special Operations Response Team units. A Hazardous
+Materials Response Team company should be dispatched to test the atmosphere if there is a potential
+question about the flammability.
+1. Do not permit the flammable liquid to run-off into storm drains, sewers, or drainage systems. Dam
+the run-off and cover drains and sewers pending disposal. Consider the use of plastic dike,
+charged hose lines, black plastic, or dirt to prevent the further spread of spilled material if it can be
+done safely.
+2. Control ignition sources in the area of the spill. Extinguish pilot lights, flares, open flames, etc.
+Prohibit smoking. Position vehicles to prevent contact of vapor with running engines or exhaust.
+Disconnect electrical power from a remote location to prevent arc-caused ignition.
+3. Cover spills with class B foam to seal vapors. The application will need to be repeated regularly, as
+the seal will break down in l0 to 15 minutes. One 95 GPM class B foam line is needed for every
+600 square feet of spill area. The initial application will require 43 gallons of concentrate when used
+at 3% and 86 gallons of concentrate when used at 6%. Haz-Mat crews will need to check for
+escaping vapors with a combustible gas indicator to judge when the seal is breaking down.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+FLAMMABLE LIQUID INCIDENTS
+M.P. 204.04
+
+03/09-R
+
+Page 3 of 3
+
+DISPOSAL
+1. Large quantity spills should be disposed of by a specialized hazardous materials clean-up
+contractor per C99. This may require a fuel transfer pump or vacuum truck and personnel familiar
+with fuel transfer precautions.
+2. Smaller spills, which cannot be picked up with a tanker, must be absorbed if it has not already
+evaporated.
+3. Special Operations carries small amounts of absorbent but the most often used and preferred
+method is using sand delivered by the Streets Department. Larger spills will require a street
+sweeper or a licensed clean-up contractor to remove the sand depending on the Jurisdiction Having
+Authority (JHA).
+4. The Spiller must be given the opportunity to clean up his spill if he can do so, while adhering to
+appropriate regulations. Otherwise, a specialized hazardous materials cleanup contractor will be
+called.
+5. Large quanity spills require the response of a unit from the Hazardous Materials Response Team in
+addition to Car 957.
+SAFETY
+As early as possible, a hazard zone should be established and marked through the use of fire line tape.
+This zone should include the spilled material in the area down wind of the spill of sufficient distance to
+account for reasonable vapor travel:
+All personnel working in the hazard zone must wear full protective clothing including SCBA with
+face piece on.
+Unless absolutely necessary, personnel shall not work in a spill area. When this is necessary to
+perform a rescue or to control a leak, the spill must be covered with foam and all possible
+precautions against ignition must be taken. The area shall be monitored with a combustible gas
+indicator.
+FIRE CODE VIOLATIONS
+Most flammable liquid incidents involve Fire Code violations. Have the Dispatch Center dispatch Car
+99 to investigate this aspect of the incident and take appropriate action.
+
+

@@ -1,0 +1,1451 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 1 of 30
+
+PURPOSE
+The purpose of this procedure is to provide members of the Phoenix Fire Department (PFD) a
+set of operational guidelines intended to promote the safe, efficient, and lawful operation of
+Unmanned Aircraft Systems (UAS). This document identifies the responsibilities, requirements,
+and operations of the department’s UAS program.
+The PFD’s primary purpose for integrating UAS technology into its initial hazard mitigation
+deployment model is to increase the Incident Commander’s (“IC”) “situational awareness” by
+providing a unique aerial perspective that assists the IC in fully understanding the challenges of
+a given incident in “real time”; thus, providing critical information necessary to guide decisionmaking. Ultimately, those decisions impact the risk exposed to firefighters and equipment.
+
+POLICY
+It shall be the policy of the Phoenix Fire Department to use UAS to enhance the Department’s
+mission of protecting lives and property. Any use of UAS will be in strict accordance with
+federal, state, and local laws, including compliance with constitutional and privacy rights, FAA
+regulations and City policy.
+
+DEFINITIONS AND ABBREVIATIONS
+Above Ground Level (AGL): AGL is the altitude expressed in the actual number of feet
+measured above the ground.
+Air Traffic Control (ATC): Manages traffic from the airport to a radius of 3 to 30 miles.
+Provides pilots taxiing and take off instructions, air traffic clearance, and advice based on their
+own observations and experience. Maintains separation between landing and departing
+aircraft, transfers control of aircraft to the enroute center controllers when the aircraft leave
+their airspace and receives control of aircraft on flights coming into their airspace.
+Beyond Visual Line of Site (BVLOS): the operation of UAVs (unmanned Aircraft vehicles) at
+distances outside the Visual Line of Site (VLOS), as defined herein.
+Certificate of Authorization (COA): Issued by the FAA and grants permission to fly within
+specific boundaries and parameters.
+Federal Aviation Administration (FAA): Federal agency in the United States and part of the
+Department of Transportation. The FAA regulates U.S. civil aviation, U.S. commercial space
+transportation, operates control towers, builds, installs, and maintains electronic aids to
+navigation, and registers all pilots and aircrafts in the United States.
+National Airspace System (NAS): The NAS is made up of a network of air navigation facilities,
+ATC facilities, airports, technology, and appropriate rules and regulations that are needed to
+operate the system.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 2 of 30
+
+Navigable Airspace: FAA controlled airspace classified as: A, B, C, D, E, and G.
+Notice to Airmen (NOTAM): A NOTAM is time critical information concerning the establishment,
+condition, or change in any component in the National Air Space (NAS). The NOTAM provides
+knowledge that is essential to personnel concerned with flight operations in designated areas.
+NOTAMs may be filed as a temporary change to the NAS as they were not known in advance to
+publish on aeronautical charts or other operational publications.
+Personal Identifying Information: For purposes of this policy, this includes a person’s date of
+birth, social security number, personal telephone number, home address, personal email
+address, and official state or government-issued driver’s license or identification number.
+Remote Pilot-in-Command (RPIC): Person who has final authority and responsibility for the
+operation and safety of flight, has been designated as the RPIC before or during the flight, and
+holds the appropriate category, class and type rating, if applicable, for the conduct of the flight.
+Pilots are authorized to evaluate and accept or decline any mission or portion thereof due to
+safety concerns.
+Person Manipulating the Controls: A person who is manipulating the UAV flight controls but
+does not have an FAA 107 certification. The RPIC must be able to take over control of the UAV
+from the person manipulating the controls, in case of emergency. This can be done by standing
+close enough to physically take the controller, by using a secondary controller, or use of a preprogramed safe-mode system.
+Unmanned Aircraft Vehicle (UAV): A powered, aerial vehicle that uses aerodynamic forces to
+provide vehicle lift, can fly autonomously or be piloted remotely, and can be expendable or
+recoverable. Refers more specifically to the unmanned aircraft vehicle itself.
+Unmanned Aircraft System (UAS): Consists of an unmanned aircraft weighing less than 55 lbs.,
+the command system, a secure control link, camera, and other related safety support
+equipment, including ground control base stations and specialty vehicles designed to support
+unmanned flight operations.
+Unmanned Aircraft System Crewmember: A Pilot in Command, Visual Observer, or other
+persons assigned UAS duties for the purpose of flight.
+Visual Line of Sight (VLOS): Visual contact between RPIC or VO and a UAS sufficient to
+maintain safe operational control of the aircraft, known location, and be able to scan the
+airspace in which it is operating to see and avoid other aircraft or objects aloft or on the ground.
+Visual Observer (VO): The Visual Observer is for the visual observation of the UAV while inflight. The VO shall alert the PIC of any conditions (obstructions, terrain, structures, air traffic,
+weather, etc.) that may affect the safety of flight.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 3 of 30
+
+SCOPE
+The purpose of this SOP is to provide the process and procedures for the operations and
+management of any small UAS used by the PFD. It will detail the conditions under which the PFD
+will utilize UAS technology to maximize efficiency and cost savings while minimizing risk to first
+responders, equipment, and the community.
+UAS program development is focused on strategic and tactical support of (a) emergency service
+delivery, (b) planned events, (c) investigations, and (d) training.
+LEGAL AUTHORITY
+Pursuant to ARS § 13-3729(D)(2), the city may enact or adopt ordinances or rules on the
+operation or use of a public unmanned aircraft that is owned by the city. Under this statute “a
+public unmanned aircraft” means an unmanned aircraft or unmanned aircraft system that is
+operated by the city for a government-related purpose. ARS § 13-3729(F)(6). Per Section 2449(B)(3) of the Phoenix City Code, PFD is exempt from the operational restrictions when
+remotely controlled aircraft, unmanned aircraft vehicles, and unmanned aircraft systems are
+used for Fire Department purposes.
+4th Amendment Protections, Privacy and Civil Liberties
+It is the policy of the City of Phoenix that the operation of the UAS and all UAVs shall be carried out
+in a manner that respects and protects personal privacy consistent with the United States
+Constitution and Federal, State, and local law. The impact on privacy and civil liberties shall be
+balanced against the governmental interests leading to a deployment. The Phoenix Fire
+Department will only collect information and use, retain, or disseminate information obtained for a
+properly authorized purpose.
+The Phoenix Fire Department prohibits the collection, use, retention, or dissemination of UAS
+collected information in any manner that would:
+a. Be used or operated to violate a person’s reasonable expectation of privacy, if a warrant has
+not been obtained, there is no exigency, and/or there is no consent. Some factors to include
+that may create a reasonable expectation of privacy are: (1) the location is not open to public
+use; (2) the location is privately owned, and the person on the property has the right to
+control access to the location and exclude others; and (3) the location is one where the
+owner has taken normal precautions to maintain privacy. A person does not have a
+reasonable expectation of privacy out in public or openly accessible places, or in places that
+can be viewed by the normal eye.
+b. Involve prolonged or extensive tracking or surveillance, over a lengthy period of time, that
+reveals non-public information, without obtaining a warrant, in violation of a person’s Fourth
+Amendment protections. When a person can conduct surveillance with authority or a
+warrant, a UAV or UAS can also conduct the surveillance.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 4 of 30
+
+c. Violate the rights guaranteed under the First Amendment of the US Constitution and/or
+Article 2, § 6 of the Arizona Constitution and the right against unreasonable search and
+seizure under the Fourth Amendment US Constitution and/or Article 2, § 8 of the Arizona
+Constitution. In addition, UAS shall not be used to violate any constitutional right of any
+citizen, including Victim’s Rights, due process of law, the right to petition and assembly, or
+the right to freedom of religion.
+d. Involve unnecessary stationary surveillance of a private property; that is not involved in a
+critical incident as outlined in the authorized uses; be of a person with a reasonable
+expectation of privacy, or where there is no exigency or warrant. Incidental and transitory
+capture of information and images, such as aerial flyovers of homes, neighborhoods, or
+businesses enroute to an incident are allowable.
+e. Harass, coerce, or discriminate against persons based upon their ethnicity, race, gender,
+national origin, religion, sexual orientation, or gender identity, in violation of law.
+f.
+
+Utilize facial recognition surveillance technologies or software of any kind.
+
+g. Be for personal use of any type.
+UAS REMOTE PILOT CERTIFICATION
+The PFD and its personnel assigned to UAS operations will adhere to Title 14 of the Code of
+Federal Regulations, Section 107.12 (14 C.F.R. § 107.12) and will obtain the following
+certification:
+Phoenix Fire UAS will only be operated by trained, certified and FAA part 107
+licensed pilots who are employees of the department. These members will
+successfully complete the following requirements:
+•
+•
+•
+•
+
+Pass the Unmanned Aircraft General (UAG) – Part 107 Remote Pilot Knowledge Exam
+Be vetted by the Transportation Security Administration (TSA)
+Be issued an FAA Remote Pilot 107 certificate with a small UAS rating authorized to
+operate UAS platforms of less than 55 lbs.
+Complete PFD UAS Training Program
+
+Initial training and recurrent UAS training will be managed by the PFD UAS Program
+Manager and Coordinator. This training may also be delivered by use of a third party UAS
+training vendor.
+OPERATIONAL GUIDELINES
+This procedure is not intended to be all-inclusive, but serves as a supplement to other
+department guidelines, FAA regulations, and the aircraft manufacturer’s approved user
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 5 of 30
+
+manual.
+This procedure has been written to address PFD UAS operations. This procedure will be reviewed
+and updated periodically, or any time the FAA issues a new advisory or new regulation. Any
+changes to the manual will be communicated as currently dictated by PFD policy. A copy of these
+guidelines and any updates to them will be issued to each person having UAS responsibilities and
+will be posted on the shared drive so all PFD personnel may access it.
+AUTHORIZED DEPARTMENTAL USE of UAS
+The primary role of the UAS is insertion into emergent or ongoing events that pose a risk to public
+safety or threats to the City’s infrastructure by providing “real time” hazard assessment utilizing
+High Resolution (zoom capable) cameras and Infrared/Thermal Sensors.
+Although not meant to be “all inclusive” or exclusive of any emergent incident type, the
+following are primary scenarios under which a PFD UAS can be requested, deployed and
+utilized:
+
+Structure Fires - Deployment of UAS to structure fires, in particular, buildings suspected of
+structural compromise, i.e. roof, walls or other structural components. UAS will be utilized
+during the initial action phase as well as the extinguishment and overhaul phase of an incident.
+
+Mountain Rescue - Deployment of UAS into mountain preserve areas to verify the existence and
+location of lost or injured persons and confirm the safest and most effective means of
+dispatching department technical rescue teams to make patient contact and extract them from
+the area.
+
+Hazardous Material Operations - Deployment of UAS with dual high definition / Infrared
+camera capabilities to identify HAZ-MAT products or concerns, containment areas,
+thermal readings, and amount of product. Reduce incident time and exposure to
+personnel through UAS information gathering.
+
+Brush Fire Operations - Deployment of UAS within the City of Phoenix urban interface areas for
+the purpose of developing hazard mitigation strategies, i.e., structure defense, perimeter control
+(hot spots) and containment assessment. 3D brush mapping through autonomous mapping
+flights. Under NO circumstances will a UAS be operated while manned aircraft are in operation.
+
+Planned Training Events - The use of UAS during planned training exercises are intended to
+simulate the safe and proficient incorporation of UAS technology during real world
+deployment.
+
+Non-emergent operations – UAS can be utilized for non-emergent use such as Fire
+Investigation, Safety, PIO, Preplanning, Inspections, and Training.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 6 of 30
+
+PROHIBITED UAS USES
+Prohibited uses may include, but are not limited to the following:
+•
+
+General Surveillance: Monitor members of the public or provide surveillance
+for law enforcement purposes.
+
+•
+
+Lending Equipment: The UAS will NOT be lent to any other department or agency.
+However, if dispatched or properly requested, the UAS, operated by PFD UAS team
+members, can be utilized in accordance with the provisions of the Department UAS Policy
+and applicable COA, to assist Automatic Aid and/or Mutual Aid partners.
+
+•
+
+Exceeding Aircraft Limitations: The UAS shall not be used in a manner contrary to the
+manufacturer’s guidelines or specifications.
+
+•
+
+Personal business: The UAS shall not be used to conduct any personal business other
+than official department business.
+
+•
+
+High Risk Missions: UAS will not be flown for any mission during which the PIC
+determines the risk of flying outweighs the benefit to the mission. Risks may include
+hazards to individuals or property, possible collision hazards, and/or loss of control of the
+UAS.
+
+•
+
+No Fly Zones/”No Drone Zones”: Certain FAA rules prohibit or restrict UAS operations
+including, without limitation, (a) within a five (5) mile radius of an airport; (b) national
+parks, monuments, and landmarks; (c) federal military bases; (d) federal prisons; (e)
+near, or over wildfires; (f) in, and around stadiums one (1) hour before and (1) hour after
+an event; and (g) nuclear power plants. If the PFD determines it is necessary to operate
+UAS in a No-Fly Zone, FAA or other appropriate authorization will be obtained prior to
+UAS deployment. The PFD will actively pursue a Certificate of Authorization from the
+
+FAA to grant special permission to operate within the various classes of Controlled
+airspace in the Phoenix Metro Area.
+•
+
+Height Restrictions: Per the FAA, UAS may not fly more than 400 feet above the
+ground or higher if the UAV remains within 400 feet of a building or other structure.
+
+•
+
+Use of UAS to spray, drop, or carry any chemicals or hazardous materials, and carrying
+weapons of any type or category.
+
+•
+
+Manned Aircraft in Operating Area: UAS flights are prohibited when other governmental
+aircraft are in the area, unless coordinated flight training has occurred with that agency.
+
+• Beyond Visual Line of Sight: All BVLOS missions are prohibited. The UAV must be kept
+within VLOS. Alternatively, if First Person View or similar technology is used, a visual
+observer must always keep the UAV within unaided sight (for example, no binoculars).
+However, the PIC must keep the UAV close enough to be able to see it if something
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 7 of 30
+
+unexpected happens. BVLOS operations may be approved once a FAA COA and BVLOS
+waiver have been attained and the RPIC has been thoroughly trained and approved for
+these operations by the Program Coordinator.
+TRANSPARENCY
+To promote transparency about departmental UAS activities within the NAS, the PFD, without
+revealing information that could reasonably be expected to be kept private (including law
+enforcement information) and while protecting any personally identifiable information, shall:
+1. Keep the public informed about the Department’s UAS Program as well as any changes to
+maintain continuous program transparency; as PFD UAS operations and technologies evolve,
+program improvements will be shared with the public via the PFD homepage and/or the
+department’s Public Information Officer. When possible, prior notice will be provided to the
+public regarding PFD UAS operations in specific areas.
+2. The PFD will make available to the public, on an annual basis, a general summary of the
+department’s UAS operations during the previous fiscal year, to include brief descriptions of
+types or categories of missions flown and, if applicable, the number of times the
+Department provided UAS support to automatic aid partners. This will be accomplished
+through the submission of an annual PFD “UAS Activity Report” that will be provided to
+City Council and available to the public via Public Records Request. The PFD law department
+shall assist as needed concerning individual requests.
+3. PUBLIC RECORDS: Notwithstanding any provisions of this policy regarding confidentiality,
+or protected rights, all documents related to the Department UAS Program may be subject
+to disclosure by laws related to open public records. To obtain public records visit PFD’s
+public records website and submit the appropriate request form. Ensure that the incident
+number, location of the incident, date, and time are provided. The PFD law department shall
+assist as needed concerning individual requests.
+ORGANIZATION ACCOUNTABILITY AND OVERSIGHT
+The UAS program will be managed and administered by the UAS Manager and their staff. The
+UAS Manager will report to the Homeland Division / Deputy Chief. Duties and responsibilities
+will include operations, education, training, procurement, device maintenance, and record
+management.
+1. UAS Program Manager: The Manager is responsible for the overall direction and
+performance of the UAS program and will exercise command and control over both.
+a)
+b)
+c)
+d)
+
+Designated by the Homeland Chief.
+Oversees and is responsible for the entire program including budget and reporting.
+Oversees and supervises the Program Coordinator.
+Manages the UAS program and ensure that the program operates safely and in
+accordance with all federal and state regulations.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 8 of 30
+
+e) Will authorize personnel as Pilots and Visual Observers.
+f) Maintains files for pilots and observers which include copies of FAA certifications,
+training records, missions flown, etc.
+g) Develops and maintain the PFD UAS SOP’s and maintenance schedule.
+h) Responsible for investigating reported or suspected misuse or abuse of UAS
+technologies using the Notice of Inquiry process.
+2. UAS Program Coordinator: The Coordinator is responsible for the day-to-day supervision
+of the UAS program.
+a) Designated by the UAS Program Manager
+b) Identifies UAS training needs, training options, and opportunities for interagency
+and third- party collaboration.
+c) Tracks and reports any training, certification, records, skill, or equipment deficiencies
+to the Program Manager.
+d) Completes or designates maintenance tasks.
+e) Ensures that all UAS personnel maintain an up to date “pilot logbook” and “task book”.
+f) Coordinates with manufacturers, services providers, and other agencies to evaluate
+future program needs.
+g) Maintains a working knowledge of current legal and FAA requirements, national
+operating standards, and a detailed understanding of any UAS platforms operated
+by the PFD.
+h) Reviews and maintains all UAS Deployment Reports.
+UAS Pilot (PIC): The PIC is responsible for the safe operation of the UAS during a mission or
+training.
+•
+•
+•
+•
+•
+•
+•
+
+PIC UAS operators must be Department personnel and must have at minimum, a
+current
+FAA part 107 license.
+UAS operators must maintain his/her part 107 license, maintain flight logs and all
+necessary records to meet the FAA’s requirements.
+UAS operators will also be required to open, complete, and maintain a UAS task book
+detailing.
+operational proficiency through mission specific training.
+Complete the requisite 40-hour training designated by the Program Coordinator.
+The UAS RPIC will be the team leader. The RPIC will ultimately be responsible for the
+operation and solely responsible for input of commands of the UAS during flight.
+The RPIC will be responsible for UAS assembly, flight preparation, post flight
+procedures, UAS disassembly/storage procedures and documenting all UAS flights via
+the UAS deployment report.
+
+UAS Visual Observer (VO): The Visual Observer is crucial in ensuring the UAS operates in a
+safe manner.
+•
+
+The UAS Visual Observer (VO) must be PFD personnel and must have at minimum
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+•
+•
+•
+
+12/24-N
+
+Page 9 of 30
+
+completed the departments Visual Observer course.
+The VO is equally responsible for the visual observation of the UAS while in flight and
+to alert the PIC of any conditions (obstructions, terrain, structures, air traffic, weather,
+etc.), which may affect the safety of a flight.
+The VO’s added function is to coordinate and communicate operations between the
+Pilot-in- Command (PIC) and the IC or their designee.
+The VO will be responsible for all aviation related communications required by Federal
+Aviation Regulations (FARs). To accomplish this, the observer should be in close
+proximity and have constant communication, via radio or face-to-face, with the PIC to
+ensure instant relaying of information.
+
+UAS Teams
+PFD UAS Teams consist of a pilot (RPIC) and a visual observer (VO) when possible. A
+visual observer is required for night flights. The team concept is established to train for
+and respond to each authorized UAS mission.
+Each UAS Team will, whenever possible, operate with two (2) members of the Department
+(pilot-in-command and visual observer). Each member will be assigned a specific role prior to
+flight. Additional team members may be needed for complex missions.
+TRAINING
+
+Instructors:
+The Primary instructor(s) will be chosen by the Program Manager. These pilots will be chosen
+based on UAS experience and operational knowledge withing the National Airspace. Through
+training modules approved by the UAS Program Manager, the UAS Coordinator will coordinate
+training based on the needs of the program. Duties of instructing new members shall fall upon
+those who have the most flight time and knowledge of UAS operations. Instructors will be
+designated based on experience and competency with the UAS operation and approved by the
+UAS program Manager.
+
+Training Policies:
+All members will have access to the monthly and yearly training plan. Training plans will be
+developed jointly by the PFD’s UAS Program Manager and the Training Division and will be
+implemented by approved UAS instructors.
+All deployments and/or exercises will be documented and will count toward a member’s
+training. A third-party program management software will help track pilot logs and flight
+hours with each specific UAS platform. Each member of the UAS program has the
+responsibility to maintain their own training file and ensure the information is up-to-date,
+accurate and complete.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 10 of 30
+
+Initial Training:
+All pilot candidates must complete the PFD UAS ground school regardless if the person already
+possesses an FAA Part 107 license. Ground school will be supplemented with hands on flight
+training drills, the NIST UAS proficiency course, and mission specific training to ensure that all
+department RPIC’s have the skills necessary to safely operate a UAS in the field. The proficiency
+course is based on the National Institute of Standards and Technology (NIST) Guide to
+Measuring and Comparing UAS Capabilities and Remote Pilot
+RPIC Certification Levels
+Pilots who qualify for PFD UAS RPIC Level 1 have successfully completed all the requirements
+listed below and have been certified by a qualified PFD instructor on UAS for day missions
+only.
+1. RPIC has a current FAA Part 107 Remote Pilot certificate.
+2. RPIC has completed the following PFD UAS RPIC Level 1 Course ground school topics:
+• Standard Operating Procedures
+• Mission Planning
+• Issuing of the Drills Handbook containing:
+a. RPIC signoffs
+b. VO signoffs
+• Logbook – Every RPIC shall keep a log of all training and operations flights –
+that includes such information as:
+a. Date of flight
+b. UAS make and model
+c. UAS registration number
+d. Flight location
+e. Mission description
+f. Flight start time
+g. Duration of flight
+h. weather
+i. Maximum altitude
+3. RPIC has completed the following PFD UAS RPIC Level 1 Course hands-on training:
+• Setup
+• Basic flight maneuvers
+• Using the cameras
+• Setting flight modes
+4. RPIC has completed the following PFD UAS RPIC Level 1 Course proficiency tests
+based on the National Institute of Standards and Technology (NIST) Guide to
+Measuring and Comparing UAS Capabilities and Remote Pilot Proficiencies Using
+Standard Test Methods:
+• Hold position and altitude
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+•
+•
+•
+•
+
+12/24-N
+
+Page 11 of 30
+
+Orbit a point
+Fly straight and level
+Identify and inspect objects
+Land accurately
+
+Pilots who qualify for PFD UAS RPIC Level 2 have successfully completed all the requirements
+listed below and have been certified by a qualified PFD instructor on a specific aircraft for both
+day and night missions.
+
+1. RPIC has a current FAA Part 107 Remote Pilot certificate
+2. RPIC has completed all PFD UAS RPIC Level 1 Course requirements
+3. RPIC has completed the following PFD UAS RPIC Level 2 Course ground school topics:
+•
+•
+•
+•
+
+UAS Night Operations
+How the Eye Works
+Spatial Disorientation and Visual Illusions
+Improving Your Night Vision
+
+4. RPIC has completed the following PFD UAS RPIC Level 2 Course hands-on training:
+•
+•
+•
+•
+
+Setup
+Basic flight maneuvers
+Night Camera Operations
+Setting flight modes
+
+5. RPIC has completed the following PFD UAS RPIC Level 2 Course proficiency tests
+
+based on the National Institute of Standards and Technology (NIST) Guide to
+Measuring and Comparing UAS Capabilities and Remote Pilot Proficiencies Using
+Standard Test Methods:
+• Hold position and altitude
+• Hold position and altitude
+• Orbit a point
+• Fly straight and level
+• Identify and inspect objects
+• Land accurately
+
+A member is authorized to conduct flight operations as the PIC when the following criteria have
+been met:
+•
+•
+•
+
+PIC Level 1 or 2 certification completed
+Minimum flight hours on each UAS platform as determined by the Program Manager or
+Coordinator
+PIC meets all initial and recurrent training requirement.
+
+UAS VISUAL OBSERVOR CERTIFICATION (VO)
+A crew member qualifies as a Visual Observer for both day and night missions when they
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 12 of 30
+
+have successfully completed all the PFD UAS Visual Observer Course topics listed below and
+have been certified by a qualified PFD instructor:
+• UAS Operations
+• Definitions and Roles
+• Understanding Airspace, Notice to Airmen (NOTAM’s), and Temporary Flight Restrictions
+(TFR’s)
+• Night Operations
+• How the Eye Works
+• Spatial Disorientation and Visual Illusions
+Any member that has the status of “pilot” may act as a VO while the PIC is at the controls of the
+UAS.
+Recurrent Training
+All members must maintain proficiency in their RPIC/VO abilities. In accordance with CFR§ 61.57
+PFD UAS pilots must record at least three (3) takeoffs and landings in the preceding 90-days in
+each type aircraft. Three (3) day for Level 1 RPIC’s and both Three (3) night and day for Level 2
+RPIC’s.
+RPIC’s who do not meet the required documented training or flight time within the 90-day
+period must have a flight currency review with the UAS Lead Instructor and be signed off by
+the UAS program Manager before they can be returned to full flight status.
+Continuing education (CE) training will be provided to all UAS program members on a
+monthly basis, while on duty.
+MISUSE/ABUSE
+PFD personnel will follow all department policies outlined in this procedure for all UAS
+operations conducted by the department. The public may address UAS complaints through the
+City Manager’s Office at contactus@phoenix.gov or the City’s Integrity Line at
+city.auditor@phoenix.gov. Complaints needing immediate attention may be directed to the PFD
+AHQ customer service line (602) 262-6595. All complaints will be reviewed and properly
+investigated. PFD personnel found in violation of department policy may be subject to
+discipline up to and including termination as well as removal from the department’s UAS
+program.
+OPERATIONS
+General Deployment Rules
+• Code-3 Response
+The Phoenix Fire Department UAS response vehicle will be dispatched to assist responders by
+providing an aerial view of the incident, thus increasing situational awareness and firefighter
+safety.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 13 of 30
+
+ Any PFD member that operates the UAS program vehicle “Drone-1” will adhere to M.P.
+102.07 & C.A.R. 2.96 regarding possession of a valid drivers’ license.
+ Drone-1 will respond to emergency incidents in accordance with Phoenix Regional
+Standard Operating Procedures M.P. 205.08 & A.R.S. 28-624 related to Code-3 driving.
+ The Supervisor will have discretion to downgrade the response.
+•
+
+All Fire Department UAS will be clearly marked with the following:
+ City of Phoenix / Fire Department logo
+ PFD equipment number
+ FAA registration number or FAA assigned tail number
+
+•
+
+A UAS Team will only be dispatched on specific nature codes that fit within
+PFD UAS operational guidelines, and any approved FAA COA and/or waiver
+operational areas.
+
+•
+
+Incident Commanders may special request a UAS Team to an incident via Phoenix Alarm
+Room
+Headquarters. As with every incident involving UAS response, it will be up to the UAS Team to
+determine if the UAS can be deployed safely to achieve the mission objective.
+• All requests for non-emergency UAS flights will be made through the Program Manager.
+PFD’s UAS will be given the designator of “Drone 1” during all flights. Subsequent UAS’s
+deployed will be given “Drone 2” and so on. When operating with other agencies (such as Mesa
+Fire or Scottsdale City Fire) the designator “Phoenix Drone 1” may need to be utilized for clarity.
+This designator is subject to change at any time as determined by the IC, Operations, or the UAS
+Program Manager.
+No pilot may act as a PIC for more than 10 consecutive hours in any
+24-hour period. All requests for UAS assistance will be made
+through one of the following:
+1. Phoenix Regional Fire Alarm Headquarters (FAHQ)
+2. The UAS Program Manager
+Rules, regulations, policies, and procedures in place for flights within PFD’s jurisdiction will
+remain as such should the UAS provide support under any form of request (Automatic aid,
+Mutual aid, etc.)
+The Pilot in Command (PIC) will determine if the UAS can be deployed safely, and practically,
+and will either accept or decline the flight request.
+The pilot is ultimately responsible for the UAS operation, and their authority is
+absolute. If the mission is accepted, the following will take place:
+•
+•
+
+The pilot will announce when Air Operations is on scene.
+The pilot will make an on-scene assessment of the conditions and determine if the
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+•
+•
+
+12/24-N
+
+Page 14 of 30
+
+UAS can fulfill the requested goals of the mission.
+The IC will contact AHQ and request a secondary radio channel to be used for flight
+team communications when needed.
+Normal pre-flight operations will be initiated including the filing of a NOTAM when required.
+
+No member of PFD (or any other entity), regardless of rank, may order a pilot to:
+•
+•
+•
+
+Accept a mission.
+Fly outside of FAA, Certificate of Authorization (COA), or manufacturer’s parameters.
+Violate any rules or regulations that the PIC feels would put first responders, members
+of the public, or the flight team at a greater risk than is normally assumed with flight
+operations.
+
+Should a pilot decline a mission, the pilot must make a written declaration outlining the
+reason(s) why the mission was not accepted and submit the draft to the Program Manager
+where it will be reviewed and forwarded to the Homeland Chief.
+SAFETY POLICY
+If any UAS Team member observes or has knowledge of an unsafe or dangerous act within the
+UAS Program shall be communicated to the Program Coordinator immediately.
+Management will not initiate disciplinary action against personnel who, in good faith, disclose
+a hazard or safety occurrence due to unintentional conduct.
+It is the duty of every UAS Team member involved in any UAS flight to contribute to the goal of
+continued safe operations. Any safety hazard, whether procedural, operational, or maintenance
+related should be identified as soon as possible.
+Conduct regular audits of safety policies, procedures, and practices.
+Monitor the UAS community to ensure best safety practices are incorporated into the organization.
+GROUND SAFETY
+•
+
+The UAS Team will identify and secure a safe location within the operational area
+for UAS launch and recovery.
+
+•
+
+Only mission essential personnel will be in proximity to UAS launch and recovery
+activities. When operating near populated areas, the pilot will ensure that a “defined
+incident perimeter” exists to limit the potential of persons being present beneath the
+UAS flight path.
+The pilot and Visual Observer must always be aware of dangers to ground personnel
+from moving rotors.
+The pilot shall under no circumstances leave any unauthorized person in charge of
+the UAS controls while the UAS is running.
+If it is necessary for the pilot to leave the controls of the UAS, the engine will be shut
+
+•
+•
+•
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+•
+
+12/24-N
+
+Page 15 of 30
+
+down, battery removed, and the controls deactivated.
+A pre-flight checklist pertinent to the specific UAS to be flown will be utilized to
+perform the required checks and risk assessment.
+
+WEATHER
+Before launch, a thorough check of the weather will be conducted, and all members of the
+flight team will be made aware of the findings.
+Weather information can be obtained through two primary means
+• FAA approved weather resources
+• An anemometer
+
+*Pilots will not fly in wind or temperatures outside of the manufacture’s recommendations.*
+Weather information obtained during the pre-flight phase will be documented in the flight log.
+PRE-FLIGHT
+Team members will conduct a pre-flight assessment of the incident environment to ensure the
+proposed operation is within COA guidelines and Department UAS Policy. The UAS team will
+determine if safe operation of the UAS can be accomplished as requested by the IC. The decision
+will be contingent upon several factors to include physical features of the area, obstructions to
+flight, terrain, and the weather. The UAS PIC will make the final determination if flight operations
+can be initiated. The Incident Command Team and UAS Team must coordinate before initiating
+ANY UAS flight operations. When and where appropriate and applicable, team members will
+ensure that all authority has been obtained.
+Before launch, the designated PIC and VO must complete a thorough pre-flight
+inspection. The pre-flight checklist will be utilized to perform the required checks and
+risk assessment.
+(The pre-flight checklist can be located in the Forms Appendix A)
+NIGHT FLIGHT OPERATIONS
+•
+•
+•
+
+•
+•
+•
+
+UAS will only be used at night if the pilot has the proper authorization/waiver in place.
+UAS team members should obtain the minimum altitude necessary to avoid
+obstructions in the operating area prior to nightfall if possible.
+Due to field of view and distortion issues, night vision goggles may not be used as the
+primary means for visual observation duties. Such devices are ONLY permitted for
+augmentation of the Flight Observer’s visual capability.
+Flight Observers must use caution to ensure the UA remains within normal line-of-sight.
+The use of UAS Staff and the use of lighting and/or IR beacons to identify the
+launch/recover areas is highly recommended.
+A Visual Observer (VO) must be used at night.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 16 of 30
+
+DECONFLICTION OF AIRCRAFT
+•
+•
+•
+•
+
+All UAS flights shall be grounded upon arrival of approved government manned aircraft
+entering the operational air space unless coordinated flight training has occurred with
+that agency.
+Deconfliction shall occur by the Lead PIC of the aircraft.
+It is the responsibility of the UAS pilot and Visual Observer to confirm and maintain
+awareness of all manned aircraft activity during UAS operations.
+In the event a non-Department UAV is identified within the operational air space, the
+PIC shall notify the Incident Commander and immediately follow incursion protocols.
+
+POST-FLIGHT
+•
+•
+•
+
+After landing, a thorough post-flight inspection of the UAS must be completed by the
+designated PIC and VO. A post-flight checklist shall be utilized for the inspection
+procedure.
+Any decontamination will be performed in strict accordance with the
+specifications and guidelines of the UAS manufacturer.
+UAS deployment report will be submitted to Operations Chief and Shift
+Commander. (The post-flight checklist can be located in the Forms Appendix
+A)
+
+MANNED AND UNMANNED JOINT OPERATIONS
+To ensure safe, coordinated, and effective response of UAS resources, an accountability system
+shall be implemented at all incidents where aircraft are utilized.
+PFD UAS will not fly in the same airspace as other public safety or government agencies
+unless inter- agency deconfliction training has occurred and both agencies have signed off as
+being proficient. For example, deconfliction training with Phoenix PD “Firebird” does not clear
+PFD UAS to fly in the same
+airspace as DPS “Ranger”. Separate deconfliction training is required.
+POLICY
+•
+
+Command will maintain resource accountability at all incidents.
+
+•
+
+Incident Commanders are responsible for the notification to incident aircraft,
+tracking and documenting of responding unit response (to include UAS resources),
+and utilizing tactical worksheets and incident action plans.
+Manned aircraft take priority and have precedence over airspace.
+Both manned and unmanned resources shall establish and maintain communications.
+All UAS resources shall establish and maintain separation assurance standards
+through the demarcation of altitude, horizontal distance, and /or geographical areas of
+operation.
+Dispatch will announce UAS operations during incident response. UAS operations
+shall be communicated to manned aircraft at the time of the request.
+
+•
+•
+•
+•
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 17 of 30
+
+COMMUNICATIONS
+During both training and emergency incident response, radio communications shall be
+established and maintained between both the manned and unmanned aircraft (team? Pilot?).
+Typically, all Air Operations communications (manned and unmanned) take place on the
+assigned Air Ops channel. For example, an Air Operations channel is assigned to emergency
+response incidents that occur within Maricopa County.
+A second option is the air-to-air frequency of 123.025; however, this is currently only available
+on ICOM air-to-air radios carried by the UAS response vehicle.
+If no communication has been established, the UAS shall land immediately upon hearing or
+seeing any public safety aircraft until positive communication is established.
+SEPARATION ASSURANCE STANDARDS
+Operations may occur up to a maximum altitude of 400 feet AGL or, if higher than 400 AGL,
+remain within 400 feet of a structure unless otherwise approved by waiver or Certificate of
+Authorization.
+When working in joint airspace, safe separation of aircraft shall be maintained through altitude,
+horizontal distance, and /or geographical areas of operation such as using roads, rivers, or other
+natural dividing lines to deconflict the air space. The RPIC shall establish direct communication
+with the manned resource and develop the necessary separation clearances.
+If communication cannot be established, or separation cannot be maintained, the UAS shall
+give right- of-way to the manned aircraft and return to its landing area until flight becomes safe
+again.
+LOST LINK / GPS PROCEDURES
+Lost link is an interruption or loss of the control link between the control station and
+the unmanned aircraft. This prevents control of the aircraft and results in the aircraft
+performing pre-set lost link procedures. While operating in controlled airspace, in the
+event of a lost link that cannot be re-established within a reasonable time, a
+designated crew member shall immediately notify the appropriate authority.
+When possible, lost link and lost GPS procedures shall comply with the following:
+•
+
+•
+
+The aircraft autopilot will enter a lost link mode within 10 seconds of the lost link condition
+being detected, return to the LZ or other defined lost link waypoint within the UAS
+operating area, and
+land.
+If the aircraft loses GPS, the RPIC will immediately attempt to land the aircraft in a safe
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+•
+
+12/24-N
+
+Page 18 of 30
+
+location by controlling it manually or landing at the current location within the operating
+area.
+If both GPS and data link are lost, the aircraft will automatically land at the current position.
+
+EMERGENCY FLY AWAY PROCEDURES
+In the event of a fly-away or other emergency scenario while operating in controlled airspace,
+the designated crew member shall immediately notify the appropriate FAA authority and Sky
+Harbor Aviation Department Airport Duty Manager (602) 273-3388, and provide the following
+information:
+• The nature of the emergency
+• Last known aircraft position, altitude, and direction of flight
+• Maximum remaining flight time
+LOST SIGHT
+If a VO loses sight of the aircraft, the VO shall immediately notify the RPIC. The RPIC shall place
+the aircraft into hover mode while the RPIC and VO try to reestablish visual contact with the
+aircraft. If the aircraft is visually reacquired, the mission may continue. If visual contact is not
+reacquired within a reasonable period of time, the RPIC shall initiate the Return to Home
+sequence.
+For operational necessity, the PIC or RPIC may intentionally maneuver the UAS so that they lose
+sight of it for brief periods of time. In this case, the RPIC must regain VLOS as soon as
+practicable. For
+example, a RPIC stationed on the ground utilizing a UAS to inspect a rooftop may lose sight of
+the aircraft for brief periods while inspecting the farthest point of the roof. As another example, a
+RPIC conducting a search operation around a fire scene may briefly lose sight of the aircraft
+while it is temporarily behind a dense column of smoke.
+However, although the RPIC may briefly lose sight of the UAS, the RPIC always has the see-andavoid responsibilities set out in Part 107, §§ 107.31 and 107.37. The circumstances of what would
+prevent a
+RPIC from fulfilling those responsibilities will vary, depending on factors such as the type of
+UAS, the operational environment, and distance between the RPIC and the
+UAS. For this reason, there is no specific time interval that interruption of VLOS is permissible,
+as it would have the effect of potentially allowing a hazardous interruption or prohibiting a
+reasonable one.
+(See the Contingency Plan Checklist in the Forms Appendix B)
+DOCUMENTATION
+Each flight will be recorded in both the UAS department’s flight log and the pilot’s
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 19 of 30
+
+personal flight logbook. Note: the flight log and PIC flight logbook are public records.
+A “UAS Deployment Report” must be submitted any time a UAS Team is deployed on a
+training mission or active incident. This report will be submitted to the Operations Chief and
+the Shift Commander.
+MEDICAL FACTORS
+The health of the flight crew is paramount and any member of the UAS program must stand
+down if they feel they are not able to perform their duties.
+A self-assessment of physical condition shall be made by all flight crewmembers during
+pre-flight activities.
+No member shall act as a PIC or a VO within eight hours (8) after consumption of any alcoholic
+beverage.
+COMMUNICATION LINK
+The Phoenix Fire Dept. UAS fleet will use the Public Safety Broadband Network devices and
+connectivity.
+DATA COLLECTION AND USE
+The Phoenix Fire Department will only use UAS-collected information for an official and
+authorized purpose. Data will not be shared with vendors except as part of official Fire
+Department purposes.
+UAS flight data, whether training or incident related, will be recorded in a “flight log”
+specific to each UAS owned by the department.
+A UAS digital media file may be utilized as a training tool for specific units or the department as
+a whole. Fire department personnel requesting utilization of a UAS digital media file for training
+purposes shall submit their request to the UAS Program Manager.
+In most cases, “real time” information will be captured solely to transmit “live” footage to a
+Department Incident Commander or command post. Although there may be occasional
+benefits to sharing, recording, and retaining visual data, this is NOT the intended purpose when
+a UAS is launched in public space or in and around public property or domains.
+DATA RETENTION
+All pictures and videos captured during a flight will be stored in accordance with the City and
+Fire Department’s Data Retention Policy.
+It will be the Department’s policy and practice to record visual data of the emergent incident only
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 20 of 30
+
+where there is a specific, identified departmental need.
+Unauthorized use, duplication, and/or distribution of UAS digital media files is prohibited.
+Personnel shall not make copies of any UAS digital media files for their personal use and are
+prohibited from using recording devices (such as personal camera, tablets, or smart phone)
+or any secondary video camera to capture UAS systems media including the retention of
+video cached on the web. All recorded digital media: images and audio are property of the
+City of Phoenix Fire Department and shall not be copied, released, or disseminated in any
+form or manner outside the parameters of this policy without the expressed written consent
+Public Affairs Chief.
+Requests for UAS digital media, including requests from Federal Prosecutors, the State Attorney
+General’s Office, County Attorneys or City Prosecutor’s Office, shall be forwarded to the Phoenix
+Fire Department Personnel Division, with sufficient information to locate the specific UAS file. It
+may be necessary to redact personally identifiable information, or information to protect a patient
+and/or civilian’s medical and/or personal privacy.
+Photographic and video data that is collected will be retained in accordance with Fire
+Department Policies and its Records Retention Schedule. This will be determined by the
+nature of the record in question.
+DATA STORAGE
+PFD personnel will utilize only hardware/software storage systems approved by the City’s
+Information Technology Section and in accordance with existing City policies and procedures.
+All digital media captured will be stored in accordance with the standards set forth by the
+TS&P subcommittee for data storage.
+REQUEST FOR DELETION OF ACCIDENTAL RECORDING
+In the event of an accidental activation and/or recording, the recording employee will contact
+the UAS Manager and request that the UAS digital media file be deleted by PFD UAS redaction
+personnel.
+The UAS Manager, the Public Affairs Chief, and Legal shall review the file and affirm that
+the file does not contain images that represent a breach of privacy or have evidentiary
+value and make a recommendation to the Homeland Chief to approve or deny the deletion
+request.
+DISSEMINATION OF INFORMTION
+Dissemination, outside of the PFD, of UAS-collected information shall NOT take place unless
+required by law, to fulfill an authorized departmental purpose, or to comply with existing City
+and/or department requirements. Notwithstanding any provisions of this policy regarding
+confidentiality, or protected rights, all documents and videos related to the Departments UAS
+Program may be subject to disclosure by laws related to open public records.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 21 of 30
+
+UAS SPECIFICATIONS and DATA SECURITY
+Global Positioning System - All PFD UAS will have a global positioning
+system.
+Obstacle Avoidance - All PFD UAS will be equipped with obstacle
+avoidance.
+Remote I.D. – All PFD Drones will have RID embedded or RID broadcast
+modules.
+Software/Firmware Updates - The PFD will ensure the software and/or firmware used to
+operate each unmanned aircraft is kept up to date and maintained. The Program Coordinator
+will be responsible for overseeing this. The UAS Team will confirm that updates are current
+prior to each use. The UAS will not operate until the software update has been completed.
+Aircraft Features - No PFD UAS may be modified or be used in a way that would be
+reasonably considered to distract drivers, or other aircraft.
+Radio Frequencies - During flight operations, the UAS will use assigned radio frequencies and
+antenna equipment authorized by the FAA.
+Airworthiness - The PIC will be responsible for ensuring the UAS is flight ready according to
+manufacturer recommendations and any related industry standards. A pre-flight checklist will be
+utilized prior to ALL UAS flights.
+Strobe – All PFD UAS that operate at night must have a strobe light that meets FAA night visibility
+regulations and an adequate flash rate that is visible for 3 statute miles.
+INVENTORY MANAGEMENT
+The PFD UAS Coordinator will maintain the following UAS inventory records:
+• The serial number, make, and model of each PFD UAS.
+• The secured location where each PFD UAS is stored.
+• A description of the technologies and capabilities associated with each UAS.
+• Dates upon which new updates to the UAS or associated technology are required.
+• Track UAS lifespan and replacement.
+CYBER SECURITY
+The PFD will only operate UAS hardware and software approved by the City’s Technical,
+Security, and Privacy subcommittee.
+PFD personnel will follow cyber security best practices governing the use of UAS. This includes
+efforts to protect the UAS and any recorded data from cyber tampering or attack.
+PFD UAS personnel shall use best practices developed by the TS&P to secure UAS from
+electronic tampering, including hijacking, over the command and control (C2) data link,
+(which is the wireless communication to ground control station).
+PFD UAS personnel will maintain an understanding of the latest threats and vulnerabilities and
+will ensure all manufacturer UAS cyber security protections (software updates, patches, etc.)
+are current.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 22 of 30
+
+PFD UAS personnel will ensure that any operational data and/or imagery data collected and
+stored will be encrypted when possible.
+All recorded photo/video material related to a PFD UAS emergency response shall be archived
+and cataloged immediately after the conclusion of the incident.
+MAINTENANCE
+The UAS Program Coordinator or their designee will oversee the maintenance of the departments
+fleet.
+The PIC is responsible for any general maintenance or updates of their UAS before and after
+each flight.
+Warranty work, repairs and service will be handled by the UAS manufacturer or a certified
+third-party vendor that has been approved by the UAS manufacturer.
+STORAGE & TRANSPORT
+PFD UAS will be stored in a protective pelican case and housed in a temperature-controlled
+secure location.
+The UAS will be stored in the pelican case during transport.
+LIABILITY
+The PFD will comply with City of Phoenix Risk Management and Law Department requirements
+related to UAS operations.
+INCIDENT/ACCIDENT REPORTING
+The pilot in command will immediately report any loss or damage to any part of the UAS to the
+Program Manager or the Program Coordinator.
+If an incident or accident occurs resulting in property damage of $500.00 or more, loss of
+consciousness or injury requiring an overnight stay in a hospital, the pilot in command shall
+be responsible for reporting the incident to the FAA within 10 days of the event along with any
+additional documentation that may be required.
+The UAS Pilot in Command will complete a Departmental Accident Report detailing the
+circumstances of the incident, accident, or injury. The Program Manager will forward the report
+to City’s Risk Management and the Department’s Accident Review Committee.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 23 of 30
+
+FORMS APPENDIX:
+Appendix A: Flight Checklist
+UAV Preflight Checklist
+
+
+
+
+
+
+
+Scan ground, sky, take-off, and landing area for obstacles that may interfere with the UAS
+Wind check
+Confirm mission flight plan
+Flight crew briefing (example, flight mission and safety)
+File daily flight report
+Assemble UAS
+ Visual condition inspection of the UAS components such as:
+ Airframe structure and attachment points
+ Moveable control and flight surfaces
+ Propulsion system including powerplants, propellers, motors, and ducted fans
+ Servo motors including attachment points
+ Registration displayed and legible
+ Batteries charged and securely mounted
+ Equipment (for example, a camera) securely attached
+ Get LAANC approval
+
+Turn on Control Unit and Aircraft (in that order)
+ Verify all systems (for example, aircraft and control unit) have an adequate energy
+supply forthe intended operation and are functioning properly
+ Control unit:
+ Antennas set to correct orientation
+ Display panel, if used, is functioning properly
+ Control link correct functionality is established between the aircraft and the CS
+ Sensor / Camera setting check
+ Verify communications with UAS and that the UAS has acquired GPS location
+from atleast 4 satellites
+ Set/Confirm RTH
+ Check flight termination system, if installed
+ Confirm SD card is inserted and formatted
+ Update Home Point
+
+
+Aircraft:
+ Inspect propellers for any imbalance or irregular operation
+ Final airframe inspection
+ Check ground support equipment, including takeoff and landing systems, for
+properoperation
+ Wind check again for launch
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 24 of 30
+
+In-Flight Checklist
+
+
+
+
+
+
+
+
+
+
+Launch UAS
+Aircraft reached safe altitude
+Hold hover for 10 seconds
+360 L/R
+Forward / Backward 10 feet
+Up / Down 10 feet
+Satellite and GPS check
+All systems green
+Cleared for flight
+
+Before Landing
+
+
+
+
+
+
+
+Ensure UAS flight completed according to mission plan
+Scan landing area for obstacles
+Wind check
+Observer briefing for landing
+All systems green
+Land UAS (observe traffic patterns when applicable)
+
+UAS flights should be completed with 15% energy reserves (fuel or battery) remaining or a 5minutereserve or the manufacturer recommendation, whichever is greater.
+
+Post Flight Checklist
+
+
+
+
+
+
+
+
+
+Power down UAS
+Decontaminate UAS if necessary
+Remove and safely store batteries
+Inspect Airframe
+Check SD card data to confirm data collected
+Transfer data and flight log
+Complete Pilot logbook entry
+Complete UAS deployment
+
+reportBack at Office
+
+
+
+
+
+Maintenance report filed if any performed
+Charge batteries
+SD card cleaned and ready to use
+Process and store data
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 25 of 30
+
+Appendix B: Contingency Plan Checklist
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 26 of 30
+
+Appendix C
+Tower Notification Contact List
+Notify when operating within 5 miles of the airport when LAANC system is down.
+For operations that require a waiver through the Special Governmental Interest (SGI) process,
+requestsshould be submitted to the FAA by filling out the Emergency Operations Request Form
+and send to the FAA’s System Operations Support Center at 9-ator-hq-sosc@faa.gov
+(See Appendix D for SGI Emergency Operations Request Form)
+Sky Harbor Airport Duty Manager's Office (ADM) is to be contacted and made aware of any UAS
+mission/incident that requires an FAA Special Governmental Interest (SGI) approval within the Sky
+Harbor Class B airspace, any mission/incident in close proximity to or that might affect Sky Harbor
+Airport Operations. This notification should be made as early as possible as well as a notification
+once the UAS mission/incident has concluded.
+
+Chandler Tower
+
+480-917-8005
+
+Deer Valley Tower
+
+623-869-0975
+
+Falcon Tower
+
+480-981-1367
+
+Glendale Tower
+
+623-872-9588
+
+Goodyear Tower
+
+602-379-6565
+
+PHX-Gateway Tower
+
+480-988-7678
+
+Scottsdale Tower
+
+480-951-1430
+
+Sky Harbor Tower
+
+602-306-2674
+
+Sky Harbor Airport Duty
+Manager
+
+602-273-3388
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Appendix D
+
+Page 27 of 30
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 28 of 30
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 29 of 30
+
+Appendix B
+NOTAM Filing Procedures
+Electronic:
+1. Go to: 1-800wxbrief.com
+2. Username:
+Password:
+
+3. Click UAS along top ribbon
+4. Under UAS Management, click Planning
+5. Enter required information
+6. If including GPS coordinates, enter the coordinates in degree, minute, and
+seconds using the format: DDMMSSNDDDMMSSE
+
+Example: 472027N0114441E  47⁰ 20’ 27’ ‘N 011⁰ 44’ 41’ ‘E
+
+Telephonic:
+1. Obtain GPS coordinates prior to calling.
+2. Call 1-877-487-6867
+
+3. Enter 22
+4. Enter 1
+5. Speak to a “Flight Data Specialist”
+6. Provide required information
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+UNMANNED AIRCRAFT SYSTEMS (UAS)
+M.P. 205.24
+
+12/24-N
+
+Page 30 of 30
+
+Appendix C: Building the UAS Proficiency Course
+
+

@@ -1,0 +1,365 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Tire Fires
+M.P. 202.18A
+
+05/18
+
+Page 1 of 8
+
+Overview
+Tire fires present the same potential threat to the environment that an incident involving an oil
+tanker or a railroad tank car carrying hazardous substances. The average passenger car tire
+holds 2.5 gallons of oil. When exposed to extreme heat, the tires reach a state of combustion
+where volumes of pyrolytic oil can be produced. This could turn the tire pile into a running oil
+fire. Exposure hazards associated with the smoke plume, water runoff, and soil include:
+•
+•
+•
+•
+
+Volatile organic chemicals
+Polynuclear aromatic hydrocarbons
+Carbon monoxide
+Heavy metals
+
+These toxins can be absorbed either through the skin, mucus membranes or respiratory system.
+The success of any fire suppression operation begins at the company level. The Company
+Officer should familiarize his/her crew with all scrap tire piles located within their area of
+response. Information gathered should be entered into the CAD system
+Areas of consideration during pre-planning should include:
+•
+•
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Site location
+Type of operation
+o Salvage or recycling
+o Managed or unmanaged
+Tire piles composition (e.g., whole, burned, shredded, random stack, etc.)
+Tire pile size
+Available equipment (e.g., backhoes, front-loaders, etc.)
+Hazards
+Exposures (e.g., storm drains and dry wells if applicable)
+Utilities (e.g., overhead wires, underground gas lines, communication equipment,
+etc.)
+Response conditions
+Geographical information
+Topography (e.g., to include possible runoff containment locations)
+Emergency contacts
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Tire Fires
+M.P. 202.18A
+
+05/18
+
+Page 2 of 8
+
+Deployment Considerations
+It is recommended that major tire fires be handled as hazardous materials incidents. The
+incident taker will obtain all available information from the caller to determine what is on fire. A
+hazardous 3-1 will be dispatched if it is determined that a tire pile is on fire.
+Size-Up
+Upon arrival the Company Officer must determine the stage of combustion:
+1. Incipient
+2. Free burning
+3. Smoldering
+The incipient stage of a tire fire begins with a point of ignition. Once a tire has gained an open
+flame front, the heat of the fire is absorbed by the surrounding tire material. Immediately
+separating the burning tire from the rest of the pile and/or applying water and foam would
+eliminate the threat to the remaining tires.
+During the free burning stage, fire spreads quickly and there is a dramatic increase in smoke
+and heat. Use of water in this stage of a tire fire could increase the products of incomplete
+combustion like carbon monoxide and particulate matter. The cooled tires may continue to
+pyrolize, producing large quantities of oil. A crust may form over the pile while internal
+temperatures reach about 2,000 degrees Fahrenheit. The smoldering stage has begun.
+Oil not consumed by the fire will leach into the soil, pool, and begin to flow under the pile. Heat
+from the fire could ignite the oil, resulting in a three-dimensional fire. Products of incomplete
+combustion continue to be a health hazard.
+During the initial size-up, the Company Officer has to determine if the fire can be extinguished
+quickly without endangering personnel. If the fire is in the free burning or smoldering stage the
+most immediate concern will be the life safety of Firefighters and the community. Approach to
+the incident should be in accordance with tactics common to other potential hazardous
+materials incidents.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Tire Fires
+M.P. 202.18A
+
+05/18
+
+Page 3 of 8
+
+Initial size-up should include the evaluation of the emergency in terms of:
+•
+•
+•
+•
+•
+•
+
+Personnel safety
+Public health
+Environmental impact
+Threatened exposures
+Extent of fire
+Need for additional resources
+
+Personnel Safety
+Awareness of the hazards involved in a tire fire can be the best personnel protection. Heat
+exhaustion and working in less than ideal conditions is a reality in a large tire fire. Command
+will want to prepare for total exposures, health hazards and personal injury hazards.
+Full turnout gear is the minimum level of protection required for everyone working the tire fire.
+1. Boots
+2. Turnout pants
+3. Turnout coat
+4. Gloves
+5. Helmet
+6. Nomex hood
+7. S.C.B.A. with Mask
+NOTE: Conditions permitting E.M.S. gloves under the leather gloves will give added protection
+from contact with the contaminated water, oil, and mud.
+The risk of exposure to toxic chemicals continues after the fire is out. Smoldering tires are as
+toxic as tires in a free burning state. Flying ash and contaminated soil are also potential hazards.
+The temptation to dress down for overhaul should be resisted until the hazardous materials
+team has determined the appropriate level of protective clothing required.
+Command will establish a Lobby Sector to ensure personnel accountability. When multiple
+points of entry to the incident exist, geographic sectors should be established (e.g., lobby north,
+lobby east, etc.). Hazard sectors, zones and Rehab Sector will be established according to the
+Standard Operating Procedures.
+The Incident Commander will establish a Decontamination Sector for all personnel leaving the
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Tire Fires
+M.P. 202.18A
+
+05/18
+
+Page 4 of 8
+
+fire area. All protective clothing, firefighting equipment and apparatus will need to be
+decontaminated as well.
+Sectors such as environmental, safety, PIO and any other sectors/branches listed under
+"Command Concerns" in this procedure will be established as the incident progresses.
+Personnel must be aware of other hazards involving scrap tire fires. Contact with rodents,
+mosquitoes, snakes, spiders and scorpions will be reduced with protective clothing.
+Be aware of the dangers of machinery and heavy equipment operating on the fire scene.
+Collapsing walls of tires can block escape routes or cut off water supplies.
+Public Health
+Command should determine early whether to evacuate the surrounding areas. Tire fires are
+extremely difficult to extinguish. Given this knowledge, no strategy for managing the incident
+should bypass evacuation considerations.
+Evacuation Sector should be established early. The process will be managed according to the
+Evacuation Sector procedure (M.P. 201.05E).
+Environmental Impact
+Command should size-up the potential environmental consequences of the fire and begin
+notifying the appropriate agencies. Emergency contacts can be notified according to the
+Environmental Sector procedure (M.P. 201.05D). Early notification will facilitate their timely
+placement into the Command structure and involvement in the incident.
+
+Areas of concern will include:
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Tire Fires
+M.P. 202.18A
+
+•
+•
+•
+•
+•
+•
+
+05/18
+
+Page 5 of 8
+
+Life safety
+Proximity of wildlands
+Potential toxic run-off
+Bodies of water
+Smoke plume
+Wind direction/speed
+
+Tactics
+Important tactical considerations include:
+•
+•
+•
+•
+•
+
+Life safety
+Protecting exposures
+Isolating burning tires
+Use of heavy equipment
+Overhead or underground utilities
+
+Immediate evacuation of the incident scene is a high priority. Every effort should address life
+safety of the incident scene. Protection of the fire crews safety will be addressed continuously.
+On-deck crews will be established according to the In-Transit, On Deck, Company Recycle
+procedure (M.P. 201.01A). Buildings, equipment and utilities in the proximity of the fire will
+need to be protected. Command needs to determine the amount of fuel actively burning and
+the total amount of fuel available. Estimate the rate of spread to determine what will be
+allowed to burn and where fire breaks will be cut through the pile.
+Creating fire breaks in a large tire pile is a long and time consuming process. It can be
+accomplished with heavy machinery and front-end loaders. Use of City Equipment at
+Emergency Scenes procedure will allow Command to implement the process (M.P. 206.15).
+
+Strategy
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Tire Fires
+M.P. 202.18A
+
+05/18
+
+Page 6 of 8
+
+Successful options for fighting a tire fire have been employed individually and in many cases, in
+combination with one another. Reduced to the lowest common denominator, these options
+are:
+1. Burn it
+2. Bury it
+3. Drown it
+Burn It
+Letting a tire pile burn has its merits. Soil and water pollution may be drastically reduced
+when many of the products of combustion go up in smoke. The clean up costs can be
+reduced when compared to other options.
+A precedent for the burn it strategy appears in fire responses to chemical fires. Adding
+water to fires or hazardous materials which react to water could exacerbate the
+emergency.
+Importantly, the fire service must manage and control the burn. Protecting exposures
+and separating tires from the burn area will continue to be a tactical priority.
+Bury It
+The decision to bury a tire pile also has merits. Sand, cement dust, quick lime, and
+crushed coral rock are all high in calcium content. Calcium scrubs sulfur from the
+emissions, creating calcium sulfate or gypsum.
+The bury it strategy could be employed in areas that have minimal water supply or in
+areas that are densely populated. The decision to bury a tire fire would take into
+consideration reducing toxic smoke for the sake of public health.
+Geological considerations play an important role in the bury it strategy. While the tire
+fire is entombed, fires can still pyrolize and push toxic oil into the soil and underground
+water sources. Burying a tire fire that is on top of clay soils may delay the oil from
+filtering to underground water supplies. To determine the release of pyrolytic oil, check
+down gradient from the pile for contamination.
+Drown It
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Tire Fires
+M.P. 202.18A
+
+05/18
+
+Page 7 of 8
+
+Water, foam, and additives have their own place as an option. The drown it strategy is
+best employed with forethought and careful pre-planning. Knowing in advance the
+topography and exposure hazards to water sources will be critical.
+Drawbacks to the drown it strategy include:
+•
+•
+•
+
+An increase in the toxic air emissions as the fire is cooled causing the combustion
+process to slow down.
+An inordinate amount of water run-off combined with pyrolytic oil will be the
+result of trying to drown out a fire.
+Effectiveness of working lines applied to a tire fire is questionable. Handlines
+alone cannot reach the interior spaces of a tire fire.
+
+The use of working lines on chunk and chipped tires, however, can be effective when used in a
+fog application. Here again, separating the inventory from the burn area is important to the
+control and extinguishment of chipped and chunk tire materials.
+The use of foam would best be employed on small tire fires or when the fire is in the incipient
+stage. Pulling a larger tire pile apart with heavy machinery and applying foam would be a
+prudent use of the product. Foam should only be employed as part of a predetermined
+strategy.
+Clean-Up and Overhaul
+Unlike traditional structural fires or wildland fires, clean-up on tire fires will; in all probability,
+be turned over to an appropriate environmental protection agency. Hazards to personnel exist
+long after the fire is out. Toxicity levels of tire fire sites suggest high concentrations of
+contaminates. Flying ash and contaminated soil blown around the site may increase your
+exposure risks.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Tire Fires
+M.P. 202.18A
+
+05/18
+
+Page 8 of 8
+
+Command Concerns
+Scrap tire fires can potentially last days, weeks, or months. Combined with the fact they are
+highly toxic and dangerous, Command must consider or address the following concerns:
+Emergency Operations Center
+
+Lobby Sector
+
+Police Liaison
+
+Emergency Operations Plan
+
+Environmental Sector & ADEQ
+
+Resource Sector
+
+Accountability
+
+Evacuation Sector
+
+Rehabilitation Sector
+
+On-Deck
+
+Public Information Sector
+
+Staging Sector
+
+Safety Sector
+
+Welfare Sector
+
+Hazardous Materials Sector
+
+Air Operations
+
+Decontamination Sector
+
+Evacuation Sector
+
+Water Department
+Communications
+
+Mutual Aid Response
+
+Code Enforcement & C99
+
+

@@ -1,0 +1,169 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+STALLED ELEVATOR OPERATIONS
+M.P. 206.22
+
+01/24-N
+
+Page 1 of 6
+
+PURPOSE
+The removal of passengers from stalled elevators can present challenging and potentially
+dangerous situations. Working around elevators may involve exposed machinery, open
+hoistways, and high voltage electrical power sources. Following standard operational
+procedures that ensure the safety of passengers and fire department personnel is of the utmost
+importance and will reduce the chance of injury and potential damage to elevator equipment.
+Incidents requiring the insertion of fire department personnel or the extrication of passengers
+through the rooftop escape hatch will require a Technical Rescue Team response and lockout/tag-out measures to be in place.
+PROCEDURE
+Response
+The fire department will only respond to stalled elevators occupied with passengers. A single
+Engine Company or Ladder Company will be dispatched. If a medical emergency exists within
+the elevator car, or in circumstances where the occupants are exposed to elevated summer
+temperatures experienced in parking garages or exterior glass elevator cars, a Code 3 response
+involving the first due Engine or Ladder with a TRT component will be dispatched.
+Elevator Service Contractor ETA
+The Alarm Room will ask the initial caller if they have contacted the elevator service contractor
+for the building and note their ETA. Responses in many cases are 20-30 minutes during normal
+business hours. This information should be factored into the incident action plan for removal of
+occupants.
+Elevator Car Location
+The position of the elevator car can be determined from the elevator status panel in the fire
+control room if available, or the floor level indication at the elevator bank. Occupants inside the
+car may also be able to tell their location by the floor position indicator lights inside the car.
+Communication with Occupants
+Initial communication with occupants should occur as soon as possible to reassure them that
+actions are being taken to remove them from the car and to determine if anyone inside has any
+injuries or immediate medical issues. Information gathered from occupants should include:
+• The number of occupants
+• The indicated floor level
+• Whether the emergency stop button has been mistakenly activated
+• If the interior lights and fans are on
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+STALLED ELEVATOR OPERATIONS
+M.P. 206.22
+
+01/24-N
+
+Page 2 of 6
+
+Recall Procedures (Phase 1)
+Using the firefighters service operation key, found in the buildings fire control room or
+emergency keys location, place the emergency recall key switch to the “ON” position (Phase 1)
+(Fig. 1.3.1) to recall the elevator car to the main floor. *If the car is stalled due to a power outage
+within the building, and the building is equipped with a standby or emergency power source, it
+may be possible to run the elevators by turning the emergency recall switch in the main floor
+lobby to the “ON” position. Use the manual elevator standby power selection switch (typically
+located in the buildings fire control room) to bring the cars to the main floor, one at a time.
+
+Fig. 1.3.1
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+STALLED ELEVATOR OPERATIONS
+M.P. 206.22
+
+01/24-N
+
+Page 3 of 6
+
+Power Reset
+If recall procedures are unsuccessful, at least two crew members should be sent the elevator
+mechanical room with building keys, flashlights, portable radio, and forcible entry tools, if keys
+are unavailable. The remaining crew members should access the floor nearest the stalled car
+and establish voice communications with the car occupants. Members in the mechanical room
+will locate the power switch controls for the stalled elevator. The larger (208v-600v) switch
+controls power to the elevator car and the smaller 120v switch controls the interior lights and
+fans. In coordination with crew members at the car location, the larger (208v-600v) switch will be
+shut down to the “OFF” position for 30 seconds then turned to the “ON” position to reset the
+breaker. (Fig. 1.3.2) Once power is reestablished, the occupants will be directed to push a floor
+button on the panel. If there is no response, the larger (208v-600v) power switch will again be
+placed in the “OFF” position and remain off while the evacuation of the elevator takes place.
+Crew members must remain in place in the mechanical room at the switch location until the
+evacuation is complete or lock-out/tag-out is in place.
+
+120V Switch Controls
+(Interior Lights and
+Fans)
+208V-600V Switch
+Controls (Elevator Car
+Power)
+
+Fig. 1.3.2
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+STALLED ELEVATOR OPERATIONS
+M.P. 206.22
+
+01/24-N
+
+Page 4 of 6
+
+Opening Hoistway Doors
+The position of the elevator car in relation to the floor level can be determined by slightly
+separating the outer hoistway doors and looking in the gap for the bottom or top of the car.
+If the car is at or near a landing (see figure 1.3.3), the hoistway doors may be unlocked and the
+hoistway and car doors can be opened by hand using the following steps:
+• Assure main 208v-600v power is secured in the “OFF” position from crew members in the
+in the elevator mechanical room.
+• Open the doors, access the car, and secure the emergency stop switch in the “STOP” or
+“OFF” position.
+• Assist occupants out of the car.
+
+If the car is within 3 feet of the landing (see figure 1.3.4(a)), the hoistway doors will be locked
+and will need to be accessed using the elevator interlock release key (drop key or crescent key)
+using the following steps:
+• Assure main 208v-600V power is secured in the “OFF” position from crew members in
+the elevator mechanical room.
+• Open the hoistway door using the appropriate elevator interlock release key and open the
+car door by hand.
+• Open the doors, access the car, and secure the emergency stop switch in the “STOP” or
+“OFF” position.
+• Place a barrier (ground ladder) across hoistway opening if the car is above the floor level.
+• Assist occupants out of the car.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+STALLED ELEVATOR OPERATIONS
+M.P. 206.22
+
+01/24-N
+
+Page 5 of 6
+
+Forcible Entry
+If hoistway doors cannot be unlocked by hand or the elevator interlock release key, the hoistway
+door nearest to the stalled car can be forcibly opened using forcible entry tools. To assure safety
+and minimize door damage, the following steps should be taken.
+• Assure main 208v-600v power is secured in the “OFF” position from crew members in the
+elevator mechanical room.
+• Center opening doors should be forced with tools from the top of the doors where they
+meet. Side opening doors should be forced from the side the door closes into.
+• Place a barrier (ground ladder) across hoistway opening if the car is above the floor level.
+• A crew member should access the car and secure the emergency stop switch in the
+“STOP” or “OFF” position.
+• Assist occupants out of the car.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+STALLED ELEVATOR OPERATIONS
+M.P. 206.22
+
+01/24-N
+
+Page 6 of 6
+
+Roof-top Extrication (TRT)
+Incidents requiring the insertion of fire department personnel or the extrication of passengers
+through the rooftop escape hatch will require a Technical Rescue Team response and lockout/tag-out measures to be in place.
+
+

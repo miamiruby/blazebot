@@ -1,0 +1,109 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+EMERGENCY ACCESS KEY USAGE AND FIRE ALARMS
+M.P. 202.19A
+
+11/19-N
+
+Page 1 of 3
+
+PURPOSE:
+This procedure is intended to provide guidelines for usage of the high-security emergency access key
+and determination of a course of action when dealing with activated fire alarms.
+POLICY:
+If an emergency access device is present, fire companies should utilize that device to access the
+premises during emergency situations. Emergency access devices include: key boxes, preemption or
+opticom detectors, key switches, and fire department pad-locks.
+When responding to fire alarm indications, fire companies should size up the situation; if a key box is
+present, fire companies should utilize the key box to access the property.
+DEFINITIONS:
+Emergency Access Keys are defined as those keys that allow access to buildings or equipment as
+required by the Fire Code.
+False alarm is defined as any activation of an alarm system because of human, mechanical, lack of
+maintenance, negligent or electrical error.
+PROCEDURE:
+1. The first arriving unit shall do a size up to determine if a visible emergency exists (water, smoke,
+or flames visible).
+a. Look for a red bell on the outside of the building. If the bell is ringing, water is very likely
+to be flowing out of the fire sprinkler system.
+2. Formally establish command when appropriate (see M.P. 201.01 Command Procedures).
+3. If a visible emergency situation exists, take appropriate actions for the type of occupancy involved.
+4. If no visible emergency exists, request that the Alarm Room verify with the alarm company that a
+responsible party has been contacted and is responding.
+5. Check the premise for a key box. If key box is present and has functional key inside, access the
+building.
+a. If a key box is not present or functional keys to access the building are not provided, fire
+companies should determine if forcible entry is necessary based on size up. These
+decisions are made on a case-by-case basis and are founded on protecting property. The
+Fire Department will not be held liable for damages as a result of not forcing entry or
+forcing entry if a key box or functional keys are not provided.
+b. Proceed to the Fire Alarm Control Panel to determine the status of the alarm system and
+indicate possible reasons for the fire alarm activation (alarm, trouble, or zone). Also, this
+will assist with identifying the location(s) of the alarm system device(s) that may be causing
+the alarm.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+EMERGENCY ACCESS KEY USAGE AND FIRE ALARMS
+M.P. 202.19A
+
+11/19-N
+
+Page 2 of 3
+
+6. While a systematic investigation of the premises is taking place to determine the device(s) that
+activated the system, the Fire Alarm Control Panel can be silenced if a switch exists to do so, but
+under no circumstance should the panel reset button be pushed at this time.
+a. If water, smoke, of flames are found during the investigation take appropriate action for
+the occupancy involved.
+7. If after the investigation has been completed and a determination of what caused the system to
+activate cannot be found, allow the alarm system to remain in silence mode until the emergency
+contact person responsible for the occupancy resets the system.
+8. If it has been determined that a pull station was inadvertently activated and there are no other
+devices activated, firefighters may reset the pull station if possible and the alarm system.
+9. If the emergency contact person is not responding or has extended ETA, firefighters may reset
+the system and go back in service. We cannot have fire companies unavailable on calls where
+no indication of an emergency exists.
+a. The company officer should relay the alarm conditions to the building occupants if present.
+10. False alarms should be recorded in the FIR system so that appropriate billing and follow up can
+occur. The company officer should complete all appropriate fields in the FIR and submit it within
+the same shift. False alarms should be categorized in one of the following four incident types:
+a. Alarm system sounded due to malfunction
+b. Smoke detector activation due to malfunction
+c. Sprinkler activation due to malfunction
+d. Extinguishing system activation due to malfunction
+11. If at any time fire companies require assistance or if there was a fire protection system activation,
+contact C99 via the Alarm Room. An example of a fire protection system activation is a fire
+sprinkler flowing water in the building.
+OPERATIONAL INFORMATION:
+Selecting one of the incident types for false alarm reporting will automatically generate a report to the
+Phoenix Police Department Code Enforcement Unit (PDCEU). The Police Department handles all
+warning letters, billing and collections as outlined in the City of Phoenix Code. Standard residential smoke
+detectors that are not monitored by a third-party company are not subject to any fee but should still be
+reported with the above incident types for tracking and customer service follow-up.
+Fire Prevention (FP) provides a follow-up inspection in occupancies that have had ten false alarms
+reported in any 365-day period. The notification to FP that an occupancy has had ten alarms is
+automatically generated when the appropriate incident type is recorded in the FIR system. Fire
+Prevention can provide in-person follow-up with the occupancy owner earlier if requested by the company
+officer by contacting Fire Prevention at (602) 262-6771.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+EMERGENCY ACCESS KEY USAGE AND FIRE ALARMS
+M.P. 202.19A
+
+11/19-N
+
+Page 3 of 3
+
+Smoke detector activation is typically indicated by a L.E.D. located on the smoke detector that remains
+constantly illuminated. In some cases, the L.E.D. flashes rapidly when the smoke detector is activated.
+Compare all smoke detector devices to assist in determining if the detector is activated or not.
+Heat (thermal) detectors have no visible means of determining if they are activated.
+Pull stations will typically have the activation lever pulled down or out to indicate activation. Some pull
+station devices that have glass rods will have the broken rod lying on the floor beneath the pull station.
+
+

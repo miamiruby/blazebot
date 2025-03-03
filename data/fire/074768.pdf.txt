@@ -1,0 +1,284 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+TRENCH RESCUE OPERATIONS
+M.P. 204.09
+
+07/11-R
+
+PAGE 1 of 6
+
+SCOPE
+This procedure establishes a standard structure and guideline for all fire department personnel
+operating at incidents involving trench rescue operations. The procedure outlines
+responsibilities for first-responders, TRT units, Command Officers, and other fire department
+personnel responding to such incidents. All other Phoenix Fire Department procedures shall
+apply to trench rescue operations where applicable.
+PURPOSE
+The purpose of this procedure is to establish guidelines for the response of fire department
+personnel and equipment to trench rescue incidents. Because trench rescue operations present
+a significant danger to fire department personnel, the safe and effective management of these
+operations require special considerations. It shall be the policy of the Phoenix Fire Department
+that NO personnel shall be allowed into an unsafe trench or excavation. This procedure
+identifies some of the critical issues which must be included in managing these incidents.
+TACTICAL CONSIDERATIONS
+OSHA Regulations Standard 29 CFR 1926 Subpart P regulates excavations for general industry
+and the rescue service and shall be considered the basis for emergency trench rescue
+operations. For the purpose of emergency response, an excavation shall be defined by any
+depression, hole, trench, or earth wall, man made or natural, of four feet or greater.
+Trench collapses generally occur due to unstable soil conditions combined with improper or
+inadequate shoring. The potential for additional collapse is considered a primary hazard to
+personnel. Removing soil or debris, adding weight near the edge of an open cut, vibration (such
+as vehicle movement), rain, or simply the passage of time, may cause additional collapse at any
+time during the rescue operation.
+Due to the inherent dangers associated with these operations, the Phoenix Fire Department
+Risk Management Profile shall be applied to all trench rescue operations and shall be
+continuously re-assessed throughout the incident. A phased approach to trench rescue
+operations which include; Arrival, Pre-entry operations, Entry operations, and Termination, can
+be utilized to safely and effectively mitigate these high-risk / low-frequency events.
+
+Additional technical information is available in the issued Technical Rescue Field
+Operations Guide.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+TRENCH RESCUE OPERATIONS
+M.P. 204.09
+Phase I
+
+07/11-R
+
+PAGE 2 of 6
+
+Arrival.
+
+I. ESTABLISH COMMAND
+A. First arriving company officer shall assume Command and begin an immediate sizeup of the situation while ensuring that apparatus remains at least 50 feet from the
+location of the trench failure. Command shall announce that Level 1 staging should
+take place at least 150 feet from the trench failure.
+B. First arriving TRT unit that is staffed with a TRT Company Officer should be assigned
+Rescue Sector. The TRT Company Officer assigned as Rescue Sector should
+remain with his crew. Rescue Sector responsibilities include:
+•
+•
+•
+•
+•
+
+Assuming technical rescue operations control.
+Identifying hazards and critical factors.
+Developing a rescue plan and back-up plan.
+Communicating with and directing TRT resources assigned to Rescue Sector.
+Informing Command of conditions, actions, and needs during all phases of the
+rescue operation.
+
+C. Designate a Safety Officer. Considerations for Safety Officer include:
+•
+•
+•
+
+One of the Regional Special Operations qualified Safety Officers.
+A Special Operations qualified Battalion Chief and/or FIT.
+Any experienced TRT Company Officer assigned to the incident.
+
+D. Following the transfer of Command to a Command Officer, a Technical Advisor
+should be assigned to join the Command Team at their location, to assist in
+managing personnel and resources engaged in the technical aspects of the incident.
+The Technical Advisor is responsible for ensuring that the rescue plan developed by
+Rescue Sector and communicated to Command is a sound plan in terms of the
+safety and welfare of both victim(s) and rescuers. Considerations for the Technical
+Advisor include:
+•
+•
+•
+
+A Special Operations qualified Battalion Chief and/or FIT.
+One of the Regional Special Operations qualified Safety Officers.
+Any experienced TRT Company Officer assigned to the incident.
+
+The Technical Advisor position within the Command Team should be filled prior to the
+implementation of any rescue plan proposed by Rescue Sector.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+TRENCH RESCUE OPERATIONS
+M.P. 204.09
+
+07/11-R
+
+PAGE 3 of 6
+
+II. Size-Up
+A. Secure a witness or responsible party to assist in gathering information to determine
+exactly what happened. If no witnesses are present, Command may have to look for
+clues on the scene to determine what happened.
+B. Assess the immediate and potential hazards to the rescuers.
+C. Isolate immediate hazard area, secure the scene, and deny entry for all non-rescue
+personnel.
+D. Assess on-scene capabilities and determine the need for additional resources.
+Phase II
+
+Pre-entry Operations
+
+It must be determined if this will be a RESCUE operation or a RECOVERY operation
+based on the survivability profile of the victim(s) which include factors such as the
+location and condition of the victim(s), and elapsed time since the accident occurred.
+I. MAKE THE GENERAL AREA SAFE
+A. Establish a hazard zone perimeter 50 feet from the collapse area.
+•
+•
+•
+
+Keep all non-essential rescue personnel out of the hazard zone.
+Consider establishing Lobby to control rescue personnel entering the hazard
+zone.
+Remove all non-essential civilian personnel at least 150 feet away from the
+collapse area.
+
+B. Control traffic movement.
+•
+•
+•
+•
+
+Shut down roadway.
+Stage apparatus at least 150 feet from the collapse area.
+Re-route all non-essential traffic at least 300 feet from the collapse area.
+Shut down all heavy equipment operating within 300 feet of the collapse area.
+
+II. MAKE THE RESCUE AREA SAFE
+These pre-entry operations shall be conducted under the direction of Rescue Sector by
+trained Technical Rescue Technicians.
+A. Approach the trench from the ends if possible.
+B. Look for unidentified hazards such as fissures or an unstable spoil pile.
+C. Assess the spoil pile for improper angle of repose and general raveling.
+D. Remove any tripping hazards from around the trench.
+E. Place ground pads around the lip of the trench.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+TRENCH RESCUE OPERATIONS
+M.P. 204.09
+
+07/11-R
+
+PAGE 4 of 6
+
+F. Secure all hazards in the area: utilities, electric, gas, water, etc.
+G. De-water the trench if necessary.
+H. Monitor the atmosphere in the trench.
+I. Ventilate the trench.
+Phase III
+
+Entry Operations
+
+Entry operations shall be conducted under the direction of Rescue Sector by trained
+Technical Rescue Technicians.
+Rescue Sector shall be responsible for entry operations. Rescue Sector shall ensure
+that all personnel operating in the hazard zone are accounted for and wearing
+appropriate PPE.
+I. MAKE THE TRENCH SAFE
+A. Place ingress and egress ladders into the trench. There should be at least 2 ladders
+placed into the trench no more than 50 feet apart.
+B. Decide on the shoring system to be used (i.e. hydraulic shore, pneumatic shore,
+timber shore).
+C. Create a safe zone in the non-collapsed area of the trench, from both ends if
+possible, by implementing an approved shoring system.
+D. Remove dirt from the collapsed zone while remaining in the safe zone.
+E. Secure all utilities, pipe, or other obstructions in the trench.
+II. VICTIM REMOVAL / INCIDENTS WITHOUT COLLAPSE
+A. Create a safe zone around the victim.
+B. Remove objects trapping the victim such as pipes, lumber, machinery, etc.
+C. Assess victim’s condition.
+D. Properly package the patient and remove from the trench.
+III. VICTIM REMOVAL / INCIDENTS WITH COLLAPSE
+A. Begin dirt removal while operating from a safe zone.
+B. Continue extending safe zone into collapse zone.
+C. Create a safe zone around the victim.
+D. Uncover victim to below the diaphragm utilizing small shovels, buckets, or by hand,
+and assess the victim’s condition.
+E. Completely uncover the victim, properly package the patient and remove from the
+trench.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+TRENCH RESCUE OPERATIONS
+M.P. 204.09
+
+07/11-R
+
+PAGE 5 of 6
+
+IV. TREATMENT
+A. Conduct a primary survey upon reaching the victim.
+B. Initiate C-spine precautions as soon as possible.
+C. Conduct a secondary survey and correct any life threatening conditions.
+D. Consider removing the victim from danger prior to providing definitive care.
+E. Provide ALS level treatment and transportation to a hospital as indicated.
+Phase IV
+
+Termination
+
+A. Ensure personnel accountability.
+B. Remove tools, equipment, and the trench shoring system (last-in / first-out) from the
+trench. In cases of a fatality, consider leaving everything in place until the
+investigative process has been completed.
+C. Consider a Post Incident Critique (may be more appropriate at a later date).
+D. Return to service after turning the scene over to the responsible party and ensuring
+the scene is secure.
+ADDITIONAL CONSIDERATIONS
+
+I. COMMAND STRUCTURE
+A. The first arriving unit shall assume Command of the incident. This unit shall remain in
+Command until Command is transferred to improve the quality of the Command
+organization. A Command Team shall be assembled to include, at a minimum, a
+Chief Officer and a Technical Advisor.
+B. Considerations for the Technical Advisor include:
+•
+•
+•
+
+A Special Operations qualified Battalion Chief and/or FIT.
+One of the Regional Special Operations qualified Safety Officers.
+Any experienced TRT Company Officer assigned to the incident.
+
+The first arriving TRT unit that is staffed with a TRT Company Officer shall be assigned
+Rescue Sector. Rescue teams, Lobby, Ventilation, Air Monitoring, Shoring, Cut teams,
+and any other such functional team operating in the hazard zone shall be under the
+direction of Rescue Sector. Rescue Sector will communicate directly with TRT units
+assigned to these functions within Rescue Sector and shall keep Command informed
+during all phases of the rescue operation.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+TRENCH RESCUE OPERATIONS
+M.P. 204.09
+
+07/11-R
+
+PAGE 6 of 6
+
+C. Considerations for Safety Officer include:
+•
+•
+•
+
+One of the Regional Special Operations qualified Safety Officers.
+A Special Operations qualified Battalion Chief and/or FIT.
+Any experienced TRT Company Officer assigned to the incident.
+
+D. Treatment Sector should be assigned to any ALS company assigned to the incident.
+II. OTHER CONSIDERATIONS
+A. Consider the effects of inclement weather on the hazard profile, the victim(s), and the
+rescuers.
+B. Maintain awareness of the time of day and ensure sufficient lighting is available on
+the scene if operations extend into the night.
+C. Trench incidents attract the news media; consider assigning a P.I.O.
+D. Request OSHA response if there has been a serious injury or death.
+
+

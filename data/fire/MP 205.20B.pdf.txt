@@ -1,0 +1,192 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+Policy Name:
+Policy Number:
+PHOTOVOLTAIC INSTALLATIONS
+M.P. 205.20B
+This policy is for internal use only and does not expand an employee’s legal duty or civil
+liability in any way. This policy should not be construed as creating a duty to act or a higher
+duty of care, with respect to third party civil claims against employees or the Phoenix Fire
+Department (PFD). Remedies for violations of this policy, if proven, are limited to
+administrative disciplinary action against PFD employees.
+Related Policies: 205.20, 205.20A, 202.19, 202.19A
+Other Reference:
+Date Implemented: 04/2023-R
+Review Date: 04/2028
+PURPOSE
+This procedure will establish a standard approach and response to Photovoltaic (PV) installations.
+POLICY
+It is the policy of the Central Arizona Life Safety System Response Council to respond to reports
+of emergencies in facilities that have PV systems. Our objective is to provide for life safety and
+reduce property damage when and where it’s safe to do so. It is important to note that because of
+the significant hazard they present, PV installations will change the way we operate in facilities
+that have them. Firefighters must recognize the existence of the PV installations early in an
+incident and know the associated hazards.
+PHOTOVOLTAIC SAFETY AWARENESS
+PV systems are electrical generators. Photovoltaic arrays generate electricity by converting light
+energy into electrical energy. These systems are always generating electricity within the modules
+when they are exposed to light. Grid-tied systems can have electricity back feeding into the
+invertor until the disconnects are operated.
+Photovoltaic Systems are found in residential, commercial and utility installations. All these
+systems represent a potential electrical shock hazard. Monsoon storms, hail, exposure to fire, or
+vandalism can create damage to the system which may cause electrical faults. These electrical
+faults may create a hazardous condition that can override the designed safety systems.
+Firefighters should use extreme caution when approaching PV systems and the structures they
+are found on.
+
+PHOTOVOLTAIC INSTALLATIONS
+Page 1 of 5
+
+DANGERS OF PHOTOVOLTAIC SYSTEMS
+PV systems create Direct Current (DC) that must be converted to Alternating Current (AC) for use
+in the electrical grid; this is done through an inverter. Depending on the type of PV installation and
+the occupancy, the expected voltages produced are as follows:
+•
+•
+•
+
+Residential: Up to 600 Volts DC
+Commercial: Up to 1000 Volts DC
+Utility Installations: Up to 1500 Volts DC
+o Utility substations or power generating stations should not be entered and water
+streams should not be applied.
+
+Note: Once converted through an inverter 1500 volts of DC current becomes 35,000 volts of AC
+current.
+Emergencies involving PV installations and associated equipment contain hazards unique to
+electrical systems. This includes an electrocution hazard, toxic products of combustion, and
+thermal burns from electrical arcing. PV installations may consist of the PV cell, multiple cells
+mounted into a module, multiple modules mounted into an array, invertors, disconnects and
+electrical conduit. Some installations may have a Battery Energy Storage System (BESS).
+The presence of a Photovoltaic array represents an increased dead-load on the roof structure. The
+impacts of this load shall be considered during operations.
+Emergency Procedures for Residential BESS systems.
+When a PV system is identified it is critical to evaluate the system to determine if there is a BESS
+as part of the installation. Once identified the following steps shall be taken:
+• Notify Command, the assignment shall be upgraded to a 3-1 Hazardous Materials
+Response, isolate the area.
+• It is critical to operate electrical disconnects if it is safe to do so. This will isolate the battery
+system.
+o After operation of the electrical disconnects it is important to recognize that the
+batteries will still pose an electrical hazard due to the stranded energy that they
+contain.
+• Crews will wear full PPE with SCBA Face Piece in place
+• A charged hose line will be in place (1 ¾" or larger shall be used).
+• Isolate the area surrounding the residential BESS a minimum of 40 feet. Hazardous
+Materials crews will set a hot zone.
+• Avoid parking apparatus directly in front of the house
+• Evaluate if the Battery Pack has been impacted by the initial fire or other event
+
+PHOTOVOLTAIC INSTALLATIONS
+Page 2 of 5
+
+•
+•
+
+•
+•
+•
+
+•
+•
+
+•
+
+Contact vendor-specific technical support for assistance including battery management
+system (BMS) data.
+Consider an extended monitoring / cooling period of 12 hours in which the battery is
+monitored for signs of thermal runaway. This is a passive cooling period without water
+being applied.
+o Direct application of water is ineffective for cooling a battery to prevent a thermal
+runaway reaction. The construction of the battery pack prevents water from
+reaching the involved cells.
+o Temperature readings should be taken as early as possible and repeated at regular
+intervals (10 minutes) to identify trends. Is the battery getting hotter or beginning to
+cool?
+Water spray is the preferred agent for response to lithium-ion battery fires (Lithium-ion is
+not water reactive).
+Protect exposures through defensive firefighting.
+The Responsible Party must arrange for proper disposal and cleanup. The disposal
+company must be licensed/permitted to transport and dispose of damaged lithium-ion
+batteries.
+Contact the RP. They will be informed that they must contact the manufacturer for technical
+support.
+Command Officers shall make attempts to notify the building owner or occupant that there
+is a risk associated of a secondary event including fire as a result of continued power
+generation from the PV panels.
+Command or their designee may make notification over the radio that this notification has
+been made.
+
+Hazardous compounds are used in the manufacturing process to make the cells. If panels are
+involved in fire, PPE including SCBA shall be worn. Exposure reduction through on scene
+decontamination shall be utilized.
+Disconnects must be utilized to isolate the PV system from the electrical grid and BESS if present.
+It is important to note that some components of the system may continue to hold energy, this
+concept is called stranded energy and can represent a potential source of injury. PV panels or
+modules can be covered with opaque tarps to stop the generation of electricity if safe to do so.
+Building integrated PV roofing tiles or shingles are unique in that they serve as the finished roof
+and generate electrical energy. This type of roof system not only has the electrical hazard
+associated with it, but they are extremely slippery and represent a fall hazard. Roof operations
+shall not be conducted on a building integrated PV tile or shingle roof.
+When addressing concealed spaces including the attic, consider that electrical wires coming from
+the PV panels may be energized. It’s possible for the aluminum frames of panels and the metal
+PHOTOVOLTAIC INSTALLATIONS
+Page 3 of 5
+
+components of mounting racks to become charged if the system has sustained physical damage.
+Avoid contact with these components.
+EMERGENCY RESPONSE PROCEDURES
+Firefighters should identify the presence of PV installations early in the incident. Indicators that a
+PV installation is present are as follows:
+• Visible array of PV panels
+• Conduit coming from roof
+• Invertors mounted on a wall or the ground next to building electrical panel
+• Signage found around the electrical system
+The presence of a PV installation shall be announced on the tactical radio channel and
+acknowledged by Command. It is critical that everyone on the fireground is aware of the presence
+of a PV installation. For example, interior companies must be aware of the potential for live
+electrical power to be still active in the attic and roof operations may not be possible depending
+on the layout of the PV array.
+When a PV installation is present in a residential or commercial application, and when safe to do
+so, all disconnects should be operated to electrically isolate the system. In order to fully secure
+utilities to the structure firefighters should address the following:
+• De-energize power coming into the building from utility company.
+• De-energize electrical circuits leading from the PV system.
+• Operate the rapid shut down switch to isolate the DC power for the PV system and confine
+the power to the array.
+o Older systems may not have this “rapid shut down switch” function and deenergizing procedures above will leave the circuit from the array to the disconnect
+fully energized.
+• Evaluate the structure for the presence of a BESS and operate the disconnect if possible.
+If a Responsible Party (RP) is available attempt to obtain information about the system and inquire
+if the PV installation includes a BESS. Direct the RP to contact their installer to respond to assess
+and mitigate hazards associated with the system.
+FIRE IN THE PV ARRAY (RESIDENTIAL AND COMMERCIAL)
+If the PV array is involved in fire, it’s possible to use water to extinguish the fire after the electrical
+disconnects have been operated. A fog pattern delivered at a minimum of a 10-degree pattern
+from a minimum distance of 20 feet away will provide for the safe application of water on a PV
+array. This tactic may only be employed on PV installations up to 1000 volts. Most residential and
+commercial PV systems generate less than 1000 volts. This tactic may not be employed on high
+voltage utility PV installations.
+
+PHOTOVOLTAIC INSTALLATIONS
+Page 4 of 5
+
+As the PV Panel burns the material can liquify and can follow the path of least resistance. This may
+extend the fire non-typically and cause extension below the panels and in the structure. Overhaul
+efforts must address this risk.
+PV installations are becoming common in parking lots for electrical generation and to provide
+covered parking. It’s critical in the event of a car fire in one of these systems to operate the
+electrical disconnects that feed the system. These systems are an example of where the decision
+to apply water to the panels may need to be made. It is mandatory to operate the disconnects
+prior to the application of water. These installations represent a unique hazard as the modules are
+overhead.
+PHOTOVOLTAIC GENERATING STATIONS (UTILITY SUBSTATIONS)
+In large utility substation events, we will not engage in any activities related to fire suppression
+inside the facility. We will simply isolate the area. All fire department personnel will remain outside
+the fence line and protect exposures as needed. Careful coordination with the proper utility
+company representatives is required before any action may be considered
+
+PHOTOVOLTAIC INSTALLATIONS
+Page 5 of 5
+
+

@@ -1,0 +1,116 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+Policy Name:
+Policy Number:
+PERSONAL MOBILITY DEVICES AND
+M.P. 202.20C
+LITHIUM-ION BATTERIES
+This policy is for internal use only and does not expand an employee’s legal duty or civil
+liability in any way. This policy should not be construed as creating a duty to act or a higher
+duty of care, with respect to third party civil claims against employees or the Phoenix Fire
+Department (PFD). Remedies for violations of this policy, if proven, are limited to
+administrative disciplinary action against PFD employees.
+Related Policies: 205.20, 205.20A, 202.19, 202.19A
+Other Reference:
+Date Implemented: 07/2023-R
+Review Date: 07/2028
+Lithium-Ion Batteries are found in many consumer products today. Examples of where they are
+found is cell phones, electric scooters and bicycles, even residential garage door openers often
+have a Lithium-Ion battery backup built in. This policy/procedure is intended to provide direction
+on handling these devices when they have been impacted either through radiated heat, direct
+flame contact, or physical damage.
+The hazards of Lithium-Ion batteries are well documented, they represent an increased risk to
+building occupants and firefighters when they have failed, gone into thermal runaway or when
+they have been damaged. Some of the hazards are toxic and flammable gases, height heat release
+rates, the potential for projectiles and the threat of delayed ignition which can cause a secondary
+ignition.
+Fire hazards are relevant in the following two areas of response:
+1. Initial Fire Attack, the involvement of Lithium-Ion batteries has the potential to dramatically
+impact fire growth rates.
+2. Heat impacted Lithium-Ion batteries can have a delayed failure that represents a secondary
+ignition source.
+PERSONAL MOBILITY LITHIUM-ION FIRE SOG
+RESPONSE/MITIGATION
+Develop an Incident Action Plan (IAP) to complete the Tactical Objectives.
+• The primary fire attack with minimum 1 ¾” fire hose with water.
+• Full PPE with facepiece. Consider a water supply if the batteries are continuing to propagate
+into thermal runaway.
+• Upgrade to a 3-1 Hazmat.
+PERSONAL MOBILITY DEVICES AND LITHIUM-ION BATTERIES
+Page 1 of 3
+
+•
+•
+
+•
+
+Extinguishment with Foam or ABC extinguishers is contraindicated.
+The batteries can be submerged in a bathtub or bucket of water to cool them and limit the
+products of combustion and allow to develop a more detailed IAP coordinated with
+HAZMAT.
+Even after extinguishment or submersion the batteries can still off gas and ignite.
+
+ISOLATION
+After extinguishment a thorough search of the area for exposed, damaged, burned batteries must
+be performed prior to any overhaul. Batteries could have ruptured dispersing many smaller cells
+throughout the room or area. It is important to locate and remove all batteries to prevent a
+secondary fire. This is easiest done prior to burying them in overhaul debris.
+• Full PPE will be worn with face piece and a charged hose line in place.
+• Scan the fire affected area to identify any heat impacted Lithium-Ion batteries.
+• Remove these batteries using buckets or containers.
+• Consider submerging in water, or overpacking.
+Note: The investigation of fires and the determination of their cause is a responsibility of the
+Phoenix Fire Department (or automatic aid partner authority having jurisdiction). The primary
+reason for the investigation of fires is for the collection of information regarding the origin and
+cause. The origin and cause of a fire is determined to prevent similar occurrences in the future. If
+the origin and cause investigation indicate that the fire may have been intentionally set, the
+investigation is expanded to collect evidence related to a crime.
+When possible, overhaul operations should be appropriately coordinated to prevent the
+destruction of evidence necessary for the determination of the origin and cause of the fire.
+Please continue to remain dedicated to scene preservation to prevent the destruction of critical
+evidence at the fire scene. In most cases, this is as simple as remaining cognizant of scene
+preservation during overhaul operations.
+Some of the observations that we make at fire incidents may lead us to consider contacting a fire
+investigator. If you have any reason to believe the cause of any fire to be suspicious, please contact
+the Fire Investigations Section as soon as possible through the Alarm Room.
+REMOVAL OF BATTERIES
+Ongoing thermal runaway and electrocution hazards due to stranded energy should always be
+considered. Whenever handling or near the batteries full PPE must be worn with a charged hose
+line in place.
+• Avoid hand carrying the batteries. Utilize buckets, shovels, tarps, and nonconductive tools.
+• If the occupancy is on upper floors, consider using a Fire Department aerial device to lower
+the batteries to the ground.
+PERSONAL MOBILITY DEVICES AND LITHIUM-ION BATTERIES
+Page 2 of 3
+
+•
+•
+
+The use of elevators or enclosed stairwells should be avoided.
+Some personal mobility devices can be larger (Electric Wheelchair). The use of a thermal
+blanket should be considered if forced to remove the batteries through interior areas.
+
+OVERPACKING
+Depending on the size of the mobility device the batteries may need to be removed or cut away
+from the E bike, scooter, hoverboard, etc. The use of extrication tools or saws may be employed.
+This tactic must be coordinated with the IC, Safety and Hazmat and should be done outside with
+a charged hose line, and full PPE. When possible, Lithium-Ion batteries should be placed in a metal
+vented container, to prevent the buildup of pressure. The metal container should be rated for the
+Watts the battery produces (Volts X Amps = Watts).
+• Place a small amount of Cellblock, dirt, or other thermal regulating material in the bottom
+of the container then cover it with more of the same material.
+• This should be done by Hazmat Techs or clean up contractors.
+TERMINATION OF THE EVENT
+The potential for a secondary fire due to stranded energy should always be considered. Command
+Officers should:
+• Time stamp through alarm that the owner/manager has been made aware of the
+requirement to use a proper Hazmat disposal contractor.
+• Consider the need to keep a crew on scene through the investigation phase.
+• Consider having the Fire Department coordinate the removal of batteries from high
+risk/high density occupancies.
+• Only certified/permitted disposal companies can transport damaged Lithium-Ion batteries.
+
+PERSONAL MOBILITY DEVICES AND LITHIUM-ION BATTERIES
+Page 3 of 3
+
+

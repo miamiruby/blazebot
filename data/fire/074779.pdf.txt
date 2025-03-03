@@ -1,0 +1,253 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RESCUE COMMUNICATIONS
+M.P. 205.04
+
+03/03-R
+
+Page 1 of 6
+
+PURPOSE
+The purpose of this procedure is to define the responsibilities of the Dispatch employees in providing
+Rescues in the fifteen communities within the Phoenix Regional Dispatch jurisdiction.
+DEFINITION
+A Rescue is a vehicle that transports medical patients to a hospital. The Regional Dispatch Center
+uses both fire department Rescues and Ambulances owned by private companies. All fire department
+Rescues are staffed with a minimum of two fire fighters, which are at least EMT certified or EMT-P
+(paramedics). The private owned ambulances are also staffed with two EMTs or paramedics, however,
+they are not fire fighters.
+
+Some of the cities in the dispatch jurisdiction use fire department Rescues and some contract with
+private companies. Phoenix, Sun Lakes, Sun City West and Daisy Mountain operate fire department
+Rescues. Glendale, Tempe, Peoria, Sun City, Youngtown, Tolleson, Laveen, Avondale, Guadalupe, El
+Mirage, and Surprise contract with private companies.
+DISPATCH POLICIES
+In all cities, except for Phoenix, a Rescue or Ambulance is dispatched on all medical calls, BLS or ALS.
+In the city of Phoenix, a Rescue is dispatched initially on the following calls: gunshot wound, stabbing,
+auto accident that appears serious, car/pedestrian accident , code and drowning. A Rescue will be
+dispatched at the request of a field unit at any time.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RESCUE COMMUNICATIONS
+M.P. 205.04
+
+03/03-R
+
+Page 2 of 6
+
+Private Transportation Only
+A fire department Rescue will be dispatched to transport a patient in stable condition (A stable condition
+will be defined as: State of health in which the prognosis indicates little, if any, immediate change.) in a
+"non-emergency" situation ONLY if all private ambulance companies refuse to accept the call for
+transportation. A fire company and fire department Rescue will respond Code 2 to evaluate and
+transport the patient.
+The Certificate of Need (C.O.N.) prohibits our Rescues from providing service outside of the City of
+Phoenix. The Phoenix Fire Department is providing the following guidelines to other valley departments
+when requesting a PFD Rescue.
+Requests for emergency transportation must meet the following criteria prior to any response by a
+Phoenix Rescue:
+•
+
+First, request to that city current C.O.N. holder
+
+•
+
+Second, request to an air transport C.O.N. holder*
+
+•
+
+Third, request to Phoenix Fire Department**
+
+*If transport via helicopter is not practical (combative patients, hazardous materials exposures, etc.) or
+will cause a greater delay in transport of a critically ill or injured person, a Phoenix Fire Department
+Rescue will respond if requested.
+**Patient must be unstable or patient condition would worsen as a result of an extended wait for an
+ambulance.
+These guidelines will insure that when the need for our assistance is critical to patient care a Phoenix
+Rescue response can be justified.
+Calls Received from Private Ambulance Companies
+A fire department Rescue will not be dispatched on an emergency call when a private ambulance is
+responding. If the patient needs "emergency" transportation, the unit on the scene will advise Dispatch
+to check on the ETA for the private ambulance. If the response time of the private ambulance company
+is excessive, Dispatch will send a fire department Rescue if the above guidelines have been met and
+advise the private ambulance company of the situation.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RESCUE COMMUNICATIONS
+M.P. 205.04
+
+03/03-R
+
+Page 3 of 6
+
+Requests from Governmental Agencies
+When a governmental agency (Phoenix Police Department, Arizona DPS, MCSO, etc.) requests a fire
+department Rescue, Dispatch will determine the nature of the request. If the "emergency" meets the
+criteria for fire department response, the appropriate assignment will be dispatched with a Rescue. If
+the request is of a "non-emergency" nature the agency will be routed to the appropriate agency to
+assist them (i.e., private ambulance company, LARC, taxi, etc.).
+Requests from Medical Care Facilities
+When a medical care facility (i.e., doctor's office, urgent care center, hospital, etc.) requests a fire
+department Rescue, Dispatch will determine the nature of the emergency. If the nature of the call is
+determined to be "non-emergency", the caller will be routed to the appropriate provider (i.e., private
+ambulance company, helicopter, etc.). If the nature is "emergency," the fire department will respond
+and transport sick or injured patients from care facilities under the following conditions:
+1. An unstable patient necessitating emergency pre-hospital assistance and transfer to the closest
+hospital.
+2. When there are no other transportation options available to a stable patient.
+NOTE:
+
+If the fire department units respond to a medical care facility and find a patient in a stable
+condition under the care of a medical professional, all efforts will be made to contact a
+private provider for transportation instead of a fire department Rescue.
+
+Extended Response Time
+When a fire department Rescue is responding to an "emergency" and will have a response time
+exceeding 20 minutes, the Dispatcher will contact the private ambulance companies and determine if
+they have a closer unit. If a closer private unit can accept the call, the fire department Rescue will be
+canceled.
+All Fire Department Rescues are Unavailable
+If all fire department Rescues are unavailable, Dispatch will contact authorized private ambulance
+companies to respond on calls with the fire department units. If a fire department Rescue becomes
+available to respond on the call and is closer to the call than the dispatched private ambulance, the
+private ambulance will be canceled and the fire department Rescue will respond.
+Dispatch will make every effort to send a fire department Rescue to emergencies within the City of
+Phoenix.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RESCUE COMMUNICATIONS
+M.P. 205.04
+
+03/03-R
+
+Page 4 of 6
+
+Fire Department Rescue Status
+Dispatch will make every effort to monitor Rescue status. It is the responsibility of the Rescue crew to
+advise Dispatch of any status change.
+Rescue at Hospital:
+When a Rescue has been at the hospital for approximately 20 minutes, the Channel 1
+operator will make contact with them to confirm their status and determine when they expect
+to go available.
+Unavailable Status:
+Any time a fire department Rescue goes unavailable an MCT message will be sent to
+Dispatch in the following format:
+TO/DS2 SUPV/ UNAV to . . . . . (i.e., FUEL, PICK-UP EQUIP, ETC.)
+When returning to first due area, Rescues should go available when within 10 minutes
+driving time to quarters. Units shall monitor Channel 1 traffic while en-route to their first due
+area for incidents for which they may be the closest response unit.
+Returning Paramedic Back to Fire Stations:
+The Rescue should NOT go unavailable when returning paramedics back to their fire
+station.
+Rescue Status Conditions
+Rescue Status 2 and Status 3 were designed to enhance the emergency transportation service. The
+Status reflects a shortage of Rescue capability in a specific geographic area or the entire city. During
+Rescue Status 2 or 3, Rescues should expedite hospital turnarounds and advise Dispatch of
+anticipated availability.
+The Dispatch Captain, Supervisor, and the Channel 1 operator will jointly monitor all Rescue status.
+When they determine that either a Status 2 or 3 need to be declared, the Channel 1 operator will make
+the announcement. Each TRO will also make the same announcement on their tactical channels. The
+Supervisor will fill out the Rescue status form and forward it to ETS.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RESCUE COMMUNICATIONS
+M.P. 205.04
+
+03/03-R
+
+Page 5 of 6
+
+Rescue Status 2:
+Status 2 indicates that there is a Rescue shortage in a particular area of the city. The city is divided
+into the following areas:
+Central
+
+-
+
+I-17 to 24th St, Bethany to I-10
+
+North
+
+-
+
+North of Bethany
+
+South
+
+-
+
+South of I-10
+
+West
+
+-
+
+West of I-17
+
+East
+
+-
+
+East of 24th St.
+
+Rescue Status 3:
+Status 3 is an urgent message for ALL Rescues to return to service as quickly as possible. This level
+of notification shall be treated as a serious situation requiring immediate response. This level is
+reserved when there are less than three Rescues available in the entire city.
+When expediting turnarounds, paperwork should be completed at a later time, over the phone or in
+person, as the circumstances dictate.
+Termination of Rescue Status 3:
+Dispatch will announce on Channel 1 and all Tactical channels when Rescue Status 3 is terminated
+and resume normal operating conditions when additional units are no longer required.
+Rescue Use of MCT's
+Fire department Rescues will place themselves "responding", "on the scene", "leaving the scene", and
+"at the hospital" via MCT functions. It is imperative that the Rescue attendant checks the MCT for any
+"NOACK" for these three MCT transmissions. If a "NOACK" appears, use the radio and report
+"responding", "on the scene", "leaving the scene" and "at the hospital" on the assigned Tactical Radio
+Channel. The TRO will acknowledge the radio transmission and enter it into the incident history.
+Add Unit (AU) to a Medical Incident:
+Fire department Rescues should contact the Channel 1 operator and indicate they are available to take
+a call if they are a closer Rescue. If Dispatch advises the unit to respond, the Rescue must first go
+available (AOR) from any previous call and add unit (AU) to the new call. Rescues should also utilize
+the MCT to add unit (AU) when coming out of a hospital to respond to a call. DO NOT ADD
+YOURSELF TO THE CALL UNTIL ACTUALLY RESPONDING.
+NOTE:
+
+Dispatch will add you to the call if you make a request via radio.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RESCUE COMMUNICATIONS
+M.P. 205.04
+
+03/03-R
+
+Page 6 of 6
+
+Maximum Number of Rescues Scheduled Out-of-Service:
+Only two Rescues will be allowed out-of-service at one time for scheduled activities such as P.M.,
+training, physicals, etc.
+Fire department Rescues going out-of-service for preventive maintenance shall contact Dispatch for
+authorization before placing themselves unavailable. If at all possible, scheduling of Rescue P.M.'s
+should not occur during the hours of high activity (i.e., 0700 to 0900 and 1500 to 1800).
+Part-Time Rescues:
+Part-time Rescues ready to go in service at scheduled shift time should contact Dispatch at 2626595 to indicate they are ready to go in service and use the MCT to place the Rescue Available in
+Quarters (AIQ).
+Part-time Rescues should call the Dispatch Captain/Supervisor at their scheduled off duty time to
+confirm it is appropriate to take the Rescue out of service. If it is determined necessary to hold them
+over, the Rescue personnel will be advised at the time to holdover and the approximate time limit of
+holdover.
+At NO time should a Rescue go out of service for the shift by using the MCT without checking with
+Dispatch.
+
+

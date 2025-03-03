@@ -1,0 +1,1932 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 1 of 38
+
+Purpose
+The Phoenix Fire Department responds to a wide range of emergency incidents. In order to
+effectively manage personnel and resources and to provide for the safety and welfare of
+personnel, we will always operate within the Incident Command System at the incident scene.
+This procedure identifies the Standard Operating Procedures to be employed in establishing
+Command components of the Incident Command System and applicable components of the
+National Incident Management System (NIMS).
+Command Procedures are designed to:
+
+
+
+
+
+
+
+Fix the responsibility for Command on a certain individual through a standard
+identification system, depending on the arrival sequence of members, companies, and
+Command officers.
+Ensure that a strong, direct, and visible Command will be established from the onset of
+the incident.
+Establish an effective incident organization defining the activities and responsibilities
+assigned to the Incident Commander (IC) and the other individuals operating within the
+Incident Command System.
+Provide a system to process information to support incident management, planning,
+and decision‐making.
+Provide a system for the orderly transfer of Command to subsequent arriving officers.
+Ensure a seamless transition from a Type 5/4 incident to a Type 3/2/1 (NIMS).
+
+Roles and Responsibilities within the Incident Command System
+Shift Commanders Phoenix (South Deputy), Glendale (West Deputy) and Mesa (East Deputy)
+
+
+
+Manage Battalions and supervise Battalion Chiefs.
+Occupy the position of Senior Advisor (Incident Advisor) on the Command Team
+(Incident Advisory Team) during first and greater alarm incidents.
+
+Battalion Chiefs
+
+
+
+
+
+Manage companies and supervise company officers.
+Occupy the position of Incident Commander (IC) when appropriate.
+Occupy the position of Sector Officer when appropriate.
+Occupy the position of IC on the Command Team (Incident Advisory Team) during first
+and greater alarm incidents.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 2 of 38
+
+Company Officers (Captains)
+
+
+
+
+Occupy the position of IC when appropriate.
+Occupy the position of Sector Officer when appropriate.
+Manage task level activities and supervise firefighters.
+
+Responsibilities of Command
+The Incident Commander is responsible for the completion of the tactical objectives. The
+Tactical Objectives are:
+ Rescue
+ Fire Control
+ Property Conservation
+See M.P. 202.02A for more detail explanation
+The Incident Command System is used to facilitate the completion of the Tactical Objectives.
+The Incident Commander is the person who drives the command system towards that end. The
+Incident Commander is responsible for building a Command structure that matches the
+organizational needs of the incident to achieve the completion of the Tactical Objectives for the
+incident. The Functions of Command define standard activities that are performed by the
+Incident Commander to achieve the Tactical Objectives.
+Functions of Command
+The Functions of Command include:
+1. Assume and announce Command and establish an effective initial command position
+(Command Post).
+2. Rapidly evaluate the situation (size up).
+3. Initiate, maintain, and control effective incident communications.
+4. Provide and manage a steady, adequate, and timely stream of appropriate resources.
+5. Identify the incident strategy, develop an Incident Action Plan (IAP), and assign
+companies and personnel consistent with plans and standard operating procedures.
+6. Develop an effective incident organization using Sectors/Divisions/Groups to
+decentralize and delegate geographic and functional responsibility.
+7. Review, and revise (as needed) the strategy to keep the IAP current.
+8. Provide for the continuity, transfer, and termination of Command.
+The Incident Commander is responsible for all of these functions. As Command is transferred,
+so is the responsibility for these functions. The first six (6) functions must be addressed
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 3 of 38
+
+immediately from the initial assumption of Command. Use of the Strategic Decision Making
+Model greatly increases effectiveness of the command team.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 4 of 38
+
+Establishing Command
+The first fire department member or unit to arrive at the scene of a multiple unit response shall
+assume command of the incident*. The initial Incident Commander shall remain in Command
+until Command is transferred, or the incident is stabilized and Command is terminated.
+
+
+One or two company responses that are not going to escalate beyond the commitment
+of these companies do not require the first arriving unit or officer to assume Command.
+The first arriving unit or officer will, however remain responsible for any needed
+Command functions. Examples would include:
+o Single unit response
+o Check Hazard
+o Any EMS call requiring only one or two companies
+
+The first arriving fire department unit initiates the command process by giving an initial radio
+report.
+The standard Initial Radio Report includes:
+On‐Scene Report
+1. Clear alarm.
+2. Unit designation/on the scene.
+3. Building/area description.
+ Occupancy
+ Size (large, medium, small)
+ Height (assumed 1 story unless reported otherwise)
+4. Obvious problem/conditions.
+ Nothing showing (indicates checking)
+ Smoke showing (amount and location)
+ Fire showing (amount and location)
+ Working fire
+ Fully involved
+5. Action taken.
+ Assuming command
+ Laying a line
+ Attacking with…etc.
+6. Declaration of Strategy.
+ Offensive or defensive
+7. Command confirmation with name
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 5 of 38
+
+Examples:
+For an offensive structure fire ‐
+Engine 11 to Alarm ‐ “Engine 11 is on the scene of a large two‐story school with a working
+fire on the second floor. Engine 11 is laying a supply line and going in with a hand‐line to the
+second floor for search & rescue and fire attack. This is an offensive fire attack. Engine 11 will
+be 7th Street Command."
+For a defensive fire ‐
+Engine 11 to Alarm ‐ "Engine 11 is on the scene of a medium size warehouse fully involved
+with exposures to the east. Engine 11 is laying a supply line and attacking the fire with a stang
+gun and a hand‐line to the east exposure to check for extension. This is a defensive fire. Engine
+11 will be Buckeye Command.
+For an E.M.S. incident ‐
+Ladder 11 to Alarm ‐ "Ladder 11 is on the scene with a multi‐vehicle accident. Give me the
+balance of a 2 and 1 medical with three ambulances. Ladder 11 will be Parkway Command."
+Follow‐up Report
+1. Any immediate safety concerns
+2. Accountability started (announce the initial accountability location)
+3. Disposition of resources (hold/add/return)
+4. Disposition of IRIC (only required if IRIC will not be present)
+Examples:
+For an offensive structure fire ‐
+7th Street Command to Alarm ‐ “Engine 11 will be North side accountability. Give me the
+balance a 1st Alarm."
+For a defensive fire ‐
+Buckeye Command to Alarm – “Engine 11 will be South side accountability. Give me the
+balance of a 1st Alarm”.
+For an E.M.S. incident – Parkway Command to Alarm – “be advised we have a total of 3
+patients, 2 Immediates and 1 delayed. All patients have been extricated”.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 6 of 38
+
+Radio Designation
+The radio designation "COMMAND" will be used along with the occupancy or address of the
+incident (i.e. "7th Street Command", "Metro Center Command"). This designation will not
+change throughout the duration of the incident. The designation of "Command" will remain
+with the officer currently in command of the incident throughout the event.
+Command Options
+The responsibility of the first arriving unit or member to assume Command of the incident
+presents several options, depending on the situation. If a Chief Officer, member, or unit without
+tactical capabilities (i.e. staff vehicle, no equipment, etc.) initiates Command; the establishment
+of a Command Post should be a top priority. At most incidents, the initial Incident Commander
+will be the Company Officer. The following Command options define the Company Officer’s
+direct involvement in tactical activities and the modes of Command that may be utilized.
+Investigative Mode (Nothing Showing):
+This is a mobile IC on a portable radio, moving around and evaluating conditions while looking
+for the incident problem. The company officer should go with the company to investigate while
+utilizing a portable radio to command the incident.
+Fast Attack:
+Visible working fires in houses or commercial occupancies. IC #1 arrives and his/her direct
+participation in the attack will make a positive difference in the outcome (search and rescue,
+fire control, and crew safety). They give an initial radio report and quickly assign an attack team
+(2 engines and ladder) coming in behind them. Next arriving units all stage. IC #1 goes inside
+(when in the offensive mode) with a portable radio supervising their crew in the attack.
+Examples of these situations include:
+
+
+
+
+
+
+Visible working fire in a house or small commercial occupancy.
+Critical life safety situations (i.e. rescue that must be achieved in a compressed time.
+Any incident where the safety and welfare of fire fighters is a major concern.
+Obvious working incidents that require further investigation by the Company Officer.
+Combined crew experience level
+
+In fast attack mode, the IC must initiate and continue command until a command officer arrives
+and the transfer of command is completed. The entire team responding in behind the fast
+attackers must realize that the IC is in an attack position inside the hazard zone attempting to
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 7 of 38
+
+quickly solve the incident problem. Responding companies must critically listen to radio traffic,
+update, review and reinforce the initial size up, verify the safety, welfare, and accountability of
+the fast attackers, and back up the basic attack.
+The Fast‐attack‐mobile Command mode should not last more than a few minutes and will end
+with one of the following:
+1. Situation is stabilized.
+2. Command is transferred from the fast attack company officer IC to a later arriving
+command officer.
+3. If the situation is not stabilized, the fast attack company officer IC must move to an
+exterior (stationary) command position and is now in the Command mode. The
+company officer must decide whether or not to withdraw the remainder of the
+crew, based on the crew’s capabilities and experience, safety issues, and the ability
+to communicate with the crew. No crew will remain in a hazardous area without
+radio communications.
+Command Mode ‐ Stationary Command Post:
+Certain incidents, by virtue of their size, complexity, or potential for rapid expansion, demand
+early, strong, stationary command from the outset. In these cases, the first arriving IC will
+assume command and, from the very beginning stay out of the hazard zone in a stationary
+exterior command position. The IC must remain there until the incident is terminated or
+command is transferred. The tactical worksheet shall be initiated and utilized to assist in
+managing these types of incidents.
+If the Company Officer assumes a Command mode, the following options are available with
+regards to the assignment of the remaining crew members.
+1. "Move up" an acting officer within the Company. This is determined by the individual
+and collective capabilities and experience of the crew.
+2. Assign the crew members to perform staff functions to assist the IC. Staff functions
+include recon/reporting, communications assistance; help with tactical worksheet
+tracking etc.
+3. Assign company personnel to another Company. This creates a larger work group with
+an officer. This must be acknowledged by both the original and the receiving officer and
+by their inclusion in the accountability system.
+Transfer of Command
+Command is transferred to improve the quality of the Command organization. When Command
+is transferred, it should trigger upgrades in the Command structure. The following guidelines
+outline the transfer of Command. Using a standard routine for both establishing and
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 8 of 38
+
+transferring command creates the capability within the responding units for the IC to effectively
+and safely establish and continue command. Using a fast attack company officer IC (IC #1) in the
+initial stages of an offensive incident, and then having a subsequent arriving response
+command officer (IC #2) transfer, strengthens and continues command within the IAP from an
+upgraded Command Post (CP), in a vehicle, outside the hazard zone, creates a strong, safe, and
+under control approach. The benefits of an upgraded CP include:
+
+
+
+
+
+
+Provides IC #2 with a Support Officer
+Establishes an Incident Safety Officer (FIT) (ISO)
+IC #2 has a wider view of the fireground
+Improves communication
+Creates a lighted, warm (or cool), and dry environment for IC #2 to operate in
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 9 of 38
+
+Transfer of Command process
+1.
+The first fire department member arriving on the scene will automatically
+assume Command. This will normally be a Company Officer but could be any fire
+department member up to and including the Fire Chief.
+2.
+The first arriving Company Officer will assume Command after the Transfer of
+Command procedures have been completed (assuming an equal or higher
+ranking officer has not already assumed Command). IC #1 is usually a Company
+Officer.
+3.
+The first arriving Command Officer should assume Command of the incident
+following Transfer of Command procedures and becomes IC #2.
+4.
+Subsequent arriving Command Officers should report their location to the IC and
+wait for an assignment. The first arriving Shift Commander will assume the role
+of Senior Advisor and assist the IC. The Engineer of the CRV will set up the
+Command Response Vehicle (CRV) while the Senior Advisor manages the
+transition of the Command Team to the CRV. The Senior Advisor, IC and Support
+Officer become the Command Team (Incident Advisory Team). The Command
+Team may assign additional staff such as a Safety Officer (relieves the Support
+Officer’s ISO responsibility) and a Staging Officer.
+5.
+Assumption of Command is discretionary for Assistant Chiefs and the Fire Chief.
+6.
+Local events that are of long duration or require long term evacuations may
+require a larger Command staff including Planning Chief, Liaison, and Public
+Information Officer (PIO). The Assistant Chief of Operations may provide
+additional support by assisting the Senior Advisor while a Shift Commander
+manages the evacuation and Command staff.
+7.
+When an incident is so large or of such duration that State or Federal resources
+are called to assist, an Incident Management Team (IMT) may be assigned to
+manage these resources. In this case the local jurisdiction having authority (JHA)
+will maintain Command or delegate authority for managing resources to the
+IMT. In either case the JHA retains authority to set incident objectives and
+determine when the IMT, State, and Federal resources are no longer needed.
+In certain situations, it may be advantageous for the first arriving IC (i.e. Company Officer) to
+transfer Command to the next Company ON SCENE. This is indicated when the initial
+commitment of the first arriving Company requires a full crew (i.e., high‐rise or an immediate
+rescue situation) and another Company or Command Officer is on the scene. When a Chief
+Officer arrives at the scene at the same time as the initial arriving Company, the Chief Officer
+should assume Command of the incident.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 10 of 38
+
+"Passing Command" to a unit that is not on the scene creates a gap in the Command process
+and compromises incident management. To prevent this "gap", Command shall not be
+transferred to an officer who is not on the scene.
+Should a situation occur where a later arriving Company or Command officer cannot locate or
+communicate with Command (after several radio attempts), they will assume and announce
+their assumption of Command and initiate whatever actions are necessary to confirm the safety
+of the missing crew.
+Within the chain of Command, the actual transfer of Command will be regulated by the
+following procedure:
+1.
+The officer assuming Command (IC #2) will communicate with the person being
+relieved (IC #1) by radio or face‐to‐face. Face‐to‐face is the preferred method to
+transfer Command.
+2.
+The person being relieved will brief the officer assuming Command indicating at
+least the following:
+A. General situation status:
+1) Incident conditions (fire location and extent, Hazmat spill or release, number
+of patients, etc.)
+2) Incident Management Plan. Completion of the Tactical Objectives.
+3) Safety considerations.
+B. Deployment and assignments of operating companies and personnel.
+C. Appraisals of need for additional resources.
+3. When an incident becomes so large that an Incident Management Team (IMT) is
+requested, Command will not transfer to the IMT (Type I/III) unless a formal written
+Delegation of Authority has been signed by both the JHA and the IMT.
+The arrival of a ranking Officer on the incident scene does not mean that Command has been
+automatically transferred to that Officer. Command is only transferred when the Transfer of
+Command process has been completed. The person being relieved of Command will be
+assigned to the best advantage by the Officer assuming Command.
+A ranking Officer may elect to have a subordinate continue the role of Incident Commander. In
+cases where an individual is effectively commanding an incident, and satisfactory progress is
+being made to bring the incident under control, it may be desirable for that person to continue
+in an active Command role. The ranking Officer must determine that the Incident Commander
+is completely aware of the position and function of operating companies and the general status
+of the situation. In these cases, the arriving ranking Officer may assume a supportive role in the
+overall Command organization.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 11 of 38
+
+The response and arrival of additional command officers strengthens the overall Command
+organization. As the incident escalates, the IC should use these Command Officers to fill Sector
+(Division), Branch, and Section positions. Command should consider adding a command officer
+to any sector with three or more operating companies. Strengthening the Command
+organization:
+
+
+
+
+
+
+Improves safety
+Decreases the span of control
+Improves communication
+Improves accountability
+Improves management and supervision of the Sector
+
+When the first arriving unit is a Command Officer, efforts should be automatically directed
+towards establishing a Command Post and fulfilling the Command functions. A Command Post
+in a vehicle equipped for this purpose is a priority at all working incidents. A vehicle that
+provides appropriate work space for the Incident Commander and staff personnel, lighting,
+communications equipment, supplies reference items, and some isolation from outside
+distractions will make Command more effective.
+Company and Command Officers should eliminate all unnecessary radio traffic while
+responding, unless such communications are required to ensure that Command functions are
+initiated and completed. This requires the initial Incident Commander to give a clear initial radio
+report and continue to give updated progress reports as needed.
+Command Officers should stage over the radio. Staff Personnel should report directly to the
+Command Post to notify the Incident Commander of their availability to assume incident duties.
+These personnel should park their vehicles in a location that does not restrict access to the
+scene.
+The IC is responsible for managing the incident. The fire department empowers the IC with the
+authority to turn his/her decisions into actions (develop an IAP and assign companies). Simply
+stated, the Incident Commander outranks everybody*. If a higher‐ranking Officer wants to
+affect a change in the management of an incident, he/she must first be on the scene of the
+incident, and then follow the Transfer of Command procedure.
+Anyone can effect a change in incident management in extreme situations relating to safety by
+notifying Command and initiating corrective action.
+The Incident Command System (ICS) never "sleeps". The ICS is in a constant state of readiness.
+When there are no working incidents the Alarm Headquarters and its Supervisor have the
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 12 of 38
+
+responsibility of initiating the ICS. When the Alarm Room receives notification of a working
+incident (normally via the telephone) they start the ICS process by giving instruction to the
+caller and dispatching the appropriate response. The Alarm Room continues in an active
+management role by ensuring that the first on‐scene unit takes Command. The Shift
+Commander has this responsibility by being the highest ranking on duty member.
+Command Team (Incident Advisory Team)
+Note: The roles and responsibilities of the Command Team are identical to the roles and
+responsibilities of the Incident Advisory Team. The Command Team consists of the Incident
+Commander (IC), Support Officer, and Senior Advisor. On the Incident Advisory Team these
+roles are filled by the Incident Commander (IC), Support Advisor, and Incident Advisor
+respectively. Our system uses Command Team terminology but as previously stated the roles
+and responsibilities for each position remains the same.
+A Command Team is an organizational response to quickly provide enough command and
+control to rapidly bring a significant incident under control. The primary players in the
+Command Team are the IC, Support Officer, and Senior Advisor.
+The incident scene is often dynamic and intense. As the incident grows into and past the
+requirements of a first alarm assignment, the IC can become overwhelmed with information
+management, assigning Companies, filling out and updating the tactical worksheet, planning,
+forecasting, calling for additional resources, talking on the radio, and fulfilling all the other
+functions of Command. The immediate need of Command at this point is support. In some
+organizations, the ICs driver (FIT, ISO, BSO etc.) fulfills the role of Support Officer, in
+organizations without this advantage the IC may choose to utilize the next arriving Command
+Officer as a Support Officer. The IC may decide to assign the second Command Officer to a
+Sector (Division) if he/she feels the presence of a Command Officer in a particular Sector will
+improve safety and communications in that Sector by reducing the span of control.
+Establishing an Incident Command Team
+The first in command officer, usually a BC with a FIT, or ISO, assumes command (IC #2) from the
+initial IC (IC #1, usually a company officer). Once IC #2 assumes Command the FIT becomes
+his/her Support Officer and the designated Incident Safety Officer (ISO) (Note: Some members
+of the consortium may slightly differ in assigning responsibilities to the FIT/ISO/BSO per their
+department's SOPs). If the initial assignment stabilizes the situation, this is as far as command
+needs to grow. If the situation is not stabilized and continues to grow, so does the command
+organization. The next in command officer (usually a BC) stages on the radio. IC #2 normally
+assigns this BC to a Sector but if IC #2 does not have a FIT the second BC may be assigned as IC
+#2’s support officer (and ISO) as described earlier in this M.P.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 13 of 38
+
+The IC and the Support Officer are the first and second members of the Command Team.
+It is the Responsibility of the IC to perform the Functions of Command to achieve the Tactical
+Objectives.
+1. Assume and announce Command and establish an effective initial command position
+(Command Post).
+2. Rapidly evaluate the situation (size up).
+3. Initiate, maintain, and control effective incident communications.
+4. Provide and manage a steady, adequate, and timely stream of appropriate resources.
+5. Identify the incident strategy, develop an Incident Action Plan (IAP), and assign
+companies and personnel consistent with plans and standard operating procedures.
+6. Develop an effective incident organization using Sectors/Divisions/Groups to
+decentralize and delegate geographic and functional responsibility.
+7. Review, and revise (as needed) the strategy to keep the IAP current.
+8. Provide for the continuity, transfer, and termination of Command.
+Roles and Responsibilities of the Support Officer:
+
+
+
+
+
+
+
+
+
+Define, evaluate, and recommend changes to the incident action plan.
+Provide direction relating to tactical objectives and specific critical fireground factors.
+Become the Incident Safety Officer
+Evaluate the need for additional resources.
+Assign logistics responsibilities.
+Assist with the tactical worksheet for control and accountability.
+Evaluate the fireground organization and span of control.
+Other duties as necessary.
+
+The third member of the Command Team is the Senior Advisor. The Senior Advisor is normally
+the highest‐ranking member of the Command Team. The first arriving Shift Commander usually
+fills the role of the Senior Advisor. The Officer serving as "Command" and the Support Officer
+will focus on the completion of the tactical objectives, the strategic and tactical plan and the
+other components of the incident. The Senior Advisor's focus is looking at the entire incident
+and its impact from a broader perspective and providing direction, guidance and advice to the
+IC and/or Support Officer.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 14 of 38
+
+Role and Responsibilities of the Senior Advisor
+
+
+
+
+
+
+
+
+
+
+Review and evaluate the incident size‐up, position in the risk management plan, incident
+strategy and the incident action plan.
+Based on the review and evaluation of the incident, provide support for the current plan
+or ensure the appropriate changes are made within the strategic decision making
+process.
+Provide on‐going review of the overall incident (THE BIG PICTURE).
+Review the organizational structure, initiate change or expansion to meet incident
+needs.
+Initiate Section and Branch functions as required.
+Provide a liaison with other city agencies and officials, outside agencies, property
+owners and/or tenants.
+Forecast and react to the effect this incident will have on surrounding neighborhoods,
+Public Officials, and city staffing.
+Prepare to transition to long‐term operations by establishing operational periods and
+advising the Assistant Chief of Operations as to the need for an All Hazards Incident
+Management Team (AHIMT), state or federal assistance.
+Provide a transitional briefing to the incoming IMT if one has been assigned to the
+incident.
+
+To maintain continuity and overall effectiveness, the Senior Advisor and Support Officer must
+be in the Command Post with the IC. The result is there are three people performing the
+functions of Command. They are working as a team to enhance the Command process and
+make the functions of Command more effective. The Officer assigned to communicate directly
+to Companies, Sectors (Divisions or Groups), or Branches will use the radio designation
+"Command” and should be the only member of the Command Team talking on the tactical
+radio channel.
+Command Structure
+It is the responsibility of Command to develop an organizational structure, using standard
+operating procedures, to effectively manage the incident scene. The development of the
+organizational structure should begin with deployment of the first arriving fire department unit
+and continue through a number of phases, depending on the size and complexity of the
+incident. The Command organization must develop at a pace which stays ahead of the tactical
+deployment of personnel and resources. In order for the Incident Commander to manage the
+incident, he/she must first be able to direct, control, and track the position and function of all
+operating Companies. Building a Command organization is the best support mechanism the
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 15 of 38
+
+Incident Commander can utilize to achieve a balance between managing personnel and incident
+needs. Simply put, this means:
+Large scale and complex incidents = Big Command organization.
+Small scale and "simple" incidents = Little Command organization.
+
+
+
+The Incident Commander should have more people working than commanding.
+The basic configuration of Command includes three levels:
+o Strategic Level ‐ Overall direction of the incident.
+o Tactical Level ‐ Objectives assigned to Sectors (Divisions or Groups)
+o Task Level ‐ Task objectives assigned to Companies.
+
+Strategic – This organizational level is designed around the IC and Command Team, operating in
+the Command Mode, and working out of a stationary command post. The strategic level
+involves the activities necessary for overall operational control and the completion of the
+tactical objectives, regardless of the size or complexity of the incident. This is completed most
+effectively through the strategic decision making model. This includes:
+
+
+
+
+
+
+
+
+
+Provide initial and ongoing size‐up and the determination of the critical fireground
+factors.
+Based on the size‐up, define the incident position within the risk management plan
+Determining the appropriate strategy: OFFENSIVE OR DEFENSIVE
+Establishing a strategic level incident action plan for the incident.
+Obtaining and allocating resources.
+Deployment of the appropriate resources.
+Predicting outcomes and planning.
+Assigning specific assignments and objectives to tactical level units.
+
+Tactical ‐ The first management “subdivision” of incident scene organization is accomplished by
+assigning Sector (Division or Group) responsibilities. Sector officers are responsible for the
+tactical deployment of assigned resources, evaluation, and communication with the IC. They are
+assigned by the IC and supervise directly at the site of the assigned activity in order to meet the
+operational objectives given to them by the IC.
+Task – The level of the organization where the work is performed by assigned companies and
+other resources. The Strategic and Tactical levels are in place to support the task level. Task
+level activities are routinely supervised by Company Officers. The accumulated achievements of
+Task Level activities accomplish Tactical Objectives.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 16 of 38
+
+Command Structure ‐ Basic Organization
+Incident organization is the function of command that the IC uses to track, communicate with,
+and account for resources in order to meet the tactical objectives. For fires this is RESCUE – FIRE
+CONTROL – PROPERTY CONSERVATION – CUSTOMER STABILIZATION.
+Examples:
+The most basic Command structure combines all three levels of the Command structure. The
+Company Officer on a single engine response to a dumpster fire determines the strategy and
+tactics, and supervises the crew doing the task.
+COMMAND
+E-1
+
+Strategy
+Tactical
+Task
+
+The basic structure for a "routine" incident, involving a small number of Companies, requires
+only two levels of the Command structure. The role of Command combines the strategic and
+tactical levels. Companies report directly to Command and operate at the Task Level.
+
+Command
+
+Engine
+
+Engine
+
+Strategic/Tactical
+Ladder
+
+Task
+
+Command Structure ‐ Sectors Basic Operational Approach
+A Sector is a smaller, more manageable unit of incident scene organization. Sectoring is a
+standard system of dividing incident scene command into smaller units or pieces. Whenever
+there are three or more companies operating in a sector, the IC should assign a Battalion Chief
+and FIT to that sector. The maximum number of Sectors that an IC can effectively manage is
+called the span of control. The span of control is usually five sectors and should never exceed
+seven sectors.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 17 of 38
+
+Sectors
+NOTE: Sectors may be assigned by their geographic location (North Sector) or function
+(Ventilation Sector). Divisions are assigned by their geographic location (North Division). Groups
+are assigned by their function (Ventilation Group). For the remainder of this M.P. we will refer
+to Sectors with the understanding that either Divisions or Groups may be used where
+appropriate.
+A significant problem occurs when the IC requests and assigns additional companies, at a rate
+that exceeds the development of the incident organization. In short order, the IC will become
+overloaded with the details of managing a large number of companies scattered all over the
+incident site. The IC will soon be in the odd situation of being overwhelmed, yet still in need of
+more resources to accomplish their tactical objectives.
+Command must develop and build an organization that matches the deployment of resources
+to the incident scene. The IC accomplishes this by breaking the incident scene down into
+manageable subunits called sectors. Sectors are geographic or functional and are managed by
+Sector Officers.
+As Sectors are implemented, Command continues to operate at the strategic level, determining
+the overall strategy and Incident Action Plan to deal with the incident.
+
+Basic Incident Command Organization
+Command
+
+Strategic
+Sector
+
+Sector
+
+Sector
+
+Companies
+
+Companies
+
+Companies
+
+Tatical
+Task
+
+When the number of Sectors exceeds the span of control that the Incident Commander can
+effectively manage, the Incident Organization should be divided to Branches. Each Branch is
+responsible for several Sectors and should be assigned a separate radio channel. Branches will
+be addressed later in this M.P.
+Once effective sectors have been established, the IC can concentrate on the overall strategy,
+incident action plan management, evaluation, and resource allocation. Each of the sector
+officers becomes responsible for the tactical deployment of the resources assigned to his/her
+sector and communicating needs and progress back to Command.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 18 of 38
+
+Utilizing Sectors provides the following advantages:
+
+
+
+
+
+
+
+Reduces the IC’s span of control – divides the incident scene into more manageable
+units.
+Creates more effective incident scene communications – permits the IC to exchange
+information with a limited number of individuals (Sector Officers) who directly supervise
+teams of firefighters. This reduces overall radio traffic by allowing firefighters and sector
+officers to communicate face to face instead of by radio.
+Provides a standard and logical system to divide large geographical incidents into
+effectively sized units – allows the IC to concentrate on strategy from one standard
+command post location.
+Provides an array major support functions – these are to be selected and assigned
+according to the particular needs of each situation. The execution and details of these
+specific operations becomes the responsibility of the sector officer, not command.
+Improves firefighter safety – allows each sector officer to maintain more direct control
+of the position and function of the companies assigned to their sectors at all times.
+Sector officers concentrate on their assigned areas and are in a position to move
+personnel based on incident conditions and the IC’s decisions.
+
+Command Should Assign Sectors Based on the Following Factors:
+1. When the number of assigned and operating companies threatens to overload the IC’s
+ability to command. Direct tactical‐level control should be delegated (earlier than later)
+to sector officers before the IC’s ability to manage is exceeded.
+2. When the IC forecasts that the situation will become a major operation, soon exceeding
+his/her span of control.
+3. When companies are involved in complex operations (Large interior or geographic area,
+hazardous materials, technical rescues, etc.)
+4. When companies are operating from tactical positions which Command has little or no
+direct control over (i.e. out of sight).
+5. When the situation presents specials hazards and close control is required over
+operating companies (i.e., unstable structural conditions, hazardous materials, heavy
+fire load, marginal offensive situations, etc.).
+6. Name the sector according to its function or geographical location.
+When establishing a Sector, the IC will assign each Sector Officer:
+1. Tactical Objectives.
+2. A radio designation (Roof Sector, East Sector, etc.)
+3. The identity of resources assigned to the Sector.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 19 of 38
+
+Sectors Will Be Regulated by The Following Guidelines:
+
+
+
+
+
+
+It will be the ongoing responsibility of Command to assign Sectors as required for
+effective emergency operations; this assignment will relate to both geographic and
+functional Sectors.
+Command shall advise each Sector Officer of specific Tactical Objectives. The overall
+strategy and plan will and should be also provided (time permitting), so the Sector
+Officer has some idea of what's going on and how his assignment fits in.
+The number of Companies assigned to a Sector will depend upon conditions within that
+Sector. Command will maintain an awareness of the number of Companies operating
+within a Sector and the capability of that Sector Officer to effectively direct operations.
+If a Sector Officer cannot control the resources within the Sector, he/she should notify
+the Incident Commander so that Sector responsibilities can be split or other corrective
+action taken. During offensive fires five (5) companies represents a reasonable
+maximum span of control for a Sector Officer. During defensive fires seven (7)
+companies represents a reasonable maximum span of control.
+Sectors assigned to specific operating areas will be designated by directions (East
+Sector, North Sector, etc.). Where the incident has odd geographic boundaries (Grand
+Avenue) it may be confusing to assign directional designations to Sectors (East Sector,
+etc.). An alternate use of Sector A, B, C, or D, pronounced: Alpha, Bravo, Charlie and
+Delta respectively, may be used (see page 20). Sector "A" would be the front (street
+address side) of the building and the other Sectors would go clockwise around the
+building in alphabetical order.
+
+In multi‐story occupancies, Sectors will usually be indicated by floor numbers (Sector 15
+indicates 15th floor). In some cases, the floor Sector identification may be subdivided into
+geographic areas such as "Sector 15 East" or "Sector 15 West" depending on stairwell and floor
+access. Functional Sectors will be identified by the function (Loss Control Sector, Safety Sector,
+Ventilation Sector, etc.).
+Sector Officers will use the Sector designation in radio communications (i.e. "North Sector to
+Command").
+In many cases, the initial Sector responsibility will be given to the Company Officer who
+receives the initial assignment to a basic tactical position or function (north, treatment, roof,
+etc.)
+As the incident expands, Command Officers will be assigned Sector responsibilities.
+Command will assign a Command Officer to assume Sector responsibilities as soon as possible.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 20 of 38
+
+Regular Transfer of Command procedures will be followed in transferring Sector responsibility.
+In some cases, a Sector Officer may be assigned to an area/function initially to evaluate and
+report conditions and advise Command of needed tasks and resources. The assigned Officer will
+proceed to the Sector, evaluate and report conditions to the Incident Commander, and assume
+responsibility for directing resources and operations within his/her assigned area of
+responsibility.
+The Sector Officer must be in a position to directly supervise and monitor operations. This will
+require the Sector Officer to be equipped with the appropriate protective clothing and
+equipment for his/her area of responsibility. Sector Officers assigned to operate within the
+hazard zone must be accompanied by a partner (normally a F.I.T.). The Sector Officer should be
+readily identifiable and maintain a visible position as much as possible.
+Sector Officers will be responsible for the following basic functions:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Directly supervise work in the sector.
+Monitor personnel safety, accountability, and welfare.
+Develop a sector IAP that integrates with the overall IAP.
+Monitor work progress.
+Redirect activities as necessary.
+Coordinate actions with related activities, and adjacent Sectors.
+Monitor welfare of Sector personnel.
+Request additional resources as needed (on‐deck crews etc.).
+Manage Maydays within the Sector.
+Advise the IC of situation status, changing conditions, progress, completion, and
+exception reports.
+Re‐allocate resources within the Sector
+Provide information for both formal and informal After‐Action Reviews (critiques).
+De‐commit companies as operations are completed.
+
+When a command officer is assigned Sector responsibilities the FIT/ISO becomes the Sector
+Safety Officer.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 21 of 38
+
+Role of the FIT/ISO as a Sector Safety Officer (partnered with BC)
+
+
+
+
+
+
+
+
+
+
+Perform Sector Safety Officer function/role
+Assess safety concerns within sector
+Assist the BC with managing the sector (stay together)
+Manage accountability within the sector (hose tags too)
+Provide air management within the sector
+Manage work/rest cycles within the sector
+Manage the sector’s On‐Deck crews recycle and rehab
+Establish communications with Safety Section (you will call them ‘Command’) once the
+IC has established the position and assigned a Safety Channel
+Coordinate with other sector safety officers
+
+The primary function of a Company Officer working within a Sector is to direct the operations of
+their individual crews in performing assigned tasks. Company Officers will advise their Sector
+Officer of work progress, preferably face‐to‐face. All requests for additional resources or
+assistance within a Sector must be directed to the Sector Officer. Sector Officers will
+communicate with "Command".
+Each Sector Officer will keep Command informed of conditions and progress in the Sector
+through regular progress reports. The Sector Officer must prioritize progress reports to
+essential information only.
+Command must be advised immediately of significant changes, particularly those involving the
+ability or inability to complete an objective, hazardous conditions, accidents, structural
+collapse, etc.
+When a Company is assigned from Staging to an Operating Sector, the Company will be told
+what Sector and which Sector Officer they will be reporting to. The Sector Officer will be
+informed of which particular companies or units have been assigned by the Incident
+Commander.
+It is then the responsibility of the Sector Officer to contact the assigned Company to transmit
+any instructions relative to the specific action requested.
+Sector Officers will monitor the condition of the crews operating in their Sector. Relief crews
+will be requested in a manner to safeguard the safety of personnel and maintain progress
+toward the Sector objectives.
+Sector Officers will insure an orderly and thorough reassignment of crews to Rehab Sector.
+Crews must report to rehab intact to facilitate accountability.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 22 of 38
+
+SECTOR
+DESIGNATION
+E-1
+
+North Sector
+
+E-2
+
+West Sector
+
+E-4
+
+East Sector
+
+E-3
+
+South Sector
+
+BC-1
+
+Command
+
+COMMAND
+BC-1
+
+NORTH SECTOR
+E-1
+
+EAST SECTOR
+E-4
+
+SOUTH SECTOR
+E-3
+
+WEST SECTOR
+E-2
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 23 of 38
+
+SECTOR DESIGNATION
+
+d
+oa
+
+D
+A
+
+C
+av
+ec
+re
+e
+
+k
+
+R
+
+C
+B
+
+Cactus Road
+
+For buildings with odd geographic positioning, the
+front of the building always becomes "Sector A".
+Other alphabetical designations are provided in a
+clockwise flow around the building
+
+COMMAND
+
+SECTOR A
+
+SECTOR B
+
+SECTOR C
+
+SECTOR D
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 24 of 38
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 25 of 38
+
+SECTOR 6
+SECTOR 5
+Sector 16
+SECTOR 4
+SECTOR 3
+SECTOR 2
+
+Sector 15
+
+SECTOR 1
+SUBSECTOR 1
+
+Sector 14
+
+SUBSECTOR 2
+
+In multi-story occupancies, Sectors will be designated by floor number (Sector 6 indicates the
+6th floor). In some cases the floor division identification may be subdivided into geographic
+areas such as "Sector 6 West" or "Sector 2 North" depending on stairwell and floor access.
+When operating in levels below grade such as basements the use of Sector is appropriate.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 26 of 38
+
+Command Structure ‐ Expanding the Organization; Branch Officers
+The Branch level of the organization is designed to provide COORDINATION between the
+Sectors and Command. Adding Branches to the incident organization decreases the
+communication load on the IC. Branch officers supervise and manage a number of Sector
+Officers, and report to the Incident Commander.
+As the incident organization grows in complexity, and the span of control with Sectors is
+maximized, the Command Team (described on pages 12‐14), may determine that an additional
+intermediate level within the Command Organization is needed. The Command Team will be
+working in a stationary command post (the Command Response Vehicle) and the Senior Advisor
+has the responsibility to decide whether or not to expand the organization to include branches.
+
+
+
+
+
+Strategic Level ‐ Incident Commander
+Coordination Level ‐ Branch Officers
+Tactical Level ‐ Sector Officers
+Task Level ‐ Companies
+
+Branch Officers should be utilized at incidents where the span of control with Sectors is
+maximized or incidents involving two or more distinctly different major management
+components (i.e. a large fire with a major evacuation, a large fire with a large number of
+patients). The Incident Commander may elect to assign Branch Officers as forward positions to
+coordinate the activities between Sectors.
+
+COMMAND
+
+FIRE
+BRANCH
+
+SECTOR
+
+SECTOR
+
+MEDICAL
+BRANCH
+
+SECTOR
+
+SECTOR
+
+SECTOR
+
+SECTOR
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 27 of 38
+
+The intent of the Branch Level of the Command structure is to split an incident into manageable
+components and reduce the span of control. Branch Officers will normally be utilized at very
+large‐scale incidents that involve two or more major components. The following types of
+incidents are examples where Branch Officers should be utilized:
+
+
+
+
+
+
+A Haz mat incident that requires a major evacuation.
+A large‐scale incident spread over a wide geographic area.
+An incident with mass casualties and a significant hazard (for example: fire, Haz mat,
+plane crash, floods, etc.)
+Campaign high‐rise fires
+Any incident where the number of Sectors exceed the span of control that can be
+effectively managed by the incident commander.
+
+Branch Officers manage and direct activities of Sector Officers. Branch Officers operate on the
+Tactical Channel when sending or receiving information from Command. The radio designation
+of Branch Officers should reflect the function or geographic area of the Branch (for example:
+Fire Control Branch, Medical Branch, West Branch, etc.).
+When Command Implements Branch Officers the IC will assign a separate radio channel (not
+the tactical channel) for communications within the Branch. Sector Officers should be notified
+by Command of their new supervisor. This information should include:
+
+
+
+What Branch the Sector is now assigned to?
+The radio channel the branch (and Sector) is operating on.
+
+Radio Communications will then be directed from the Sector Officer to the Branch Officer.
+Sector officers will still use the radio designation of Command when contacting their Branch
+Officer. Sector Officers will relay Branch and radio channel information to the Companies
+working in their Sector.
+Note: When providing radio information to the companies in their sector, Sector officers should
+obtain a PAR and insure that all members working in the sector are operating on the assigned
+radio channel.
+Communications between the IC and Fire Branch are on the Tactical radio channel and radio
+designations are: “Command to Fire Branch” and “Fire Branch to Command”.
+Communications between Fire Branch and West Sector are on channel A and radio designations
+are: “Command to West Sector” and “West Sector to Command”
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 28 of 38
+
+Incident Commander
+↓ Tactical Channel ↓
+
+Tactical Channel ↑
+Fire Branch
+Assigned Channel ↓
+
+Tactical Channel ↑
+Medical Branch
+Assigned Channel ↓
+
+Assigned Channel ↑
+Sector Officers
+
+Assigned Channel ↑
+Sector Officers
+
+West Sector
+Roof Sector
+North Sector
+
+Triage Sector
+Treatment Sector
+Transportation
+
+Branch Officers positions should be assigned to Chief Officers. Branch Officers operate in
+forward positions. They should utilize a Command Officer's vehicle as a forward Branch
+Command Post (when feasible). In these situations, Command must assign Officers in the
+Command Post to monitor each Branch radio channel.
+Branch Officers are not limited to Operations. Any of the Section Officers may implement
+Branches within their individual sections as needed.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 29 of 38
+
+COMMAND TEAM
+S.A.
+
+ROOF
+SECTOR
+
+SOUTH
+SECTOR
+
+WEST
+SECTOR
+
+S.O.
+
+NORTH
+SECTOR
+
+I.C.
+
+HAZMAT
+SECTOR
+
+SOUTH
+EVAC
+SECTOR
+
+EAST
+EVAC
+SECTOR
+
+Organization expands from this...
+... to this
+
+COMMAND TEAM
+S.A.
+
+FIRE
+CONTROL
+BRANCH
+ROOF
+SECTOR
+
+S.O.
+
+I.C.
+
+HAZMAT
+BRANCH
+
+SOUTH
+WEST
+NORTH
+SECTOR SECTOR SECTOR
+
+EVAC.
+BRANCH
+SOUTH
+EAST
+EVAC
+EVAC
+SECTOR SECTOR
+
+HAZMAT ENVIRMTL DECON
+SECTOR SECTOR SECTOR
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 30 of 38
+
+Command Structure ‐ Expansion to Major Operations
+Sections
+As a small incident escalates into a major incident, additional organizational support will be
+required. As additional ranking Officers arrive on the scene, the Command Post organization
+(Team) may be expanded through the involvement of Command Officers and staff personnel to
+fill section positions. Section Officers assist the Incident Command Staff with the long‐term
+management of the incident and operate at the Strategic Level. The Incident Commander
+Implements Sections as needed, depending on the situation, and priority of needs (One
+incident may only require a Logistics Section while another incident may require all the sections
+to be implemented.)
+Where the communications system permits, Section Officers should operate on separate radio
+channels and utilize the radio designation that identifies their section (Planning, Logistics, etc.).
+During the initial phases of the incident the initial Incident Commander and his/her staff
+normally carry out these four section functions. The Fire Department's involvement and needs
+at the incident scene can be divided into four sections. They are:
+LOGISTICS SECTION
+PLANNING SECTION
+OPERATIONS SECTION
+ADMINISTRATIVE SECTION
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 31 of 38
+
+The Logistics Section is the support mechanism for the organization. Logistics provides services
+and support systems to all the organizational components involved in the incident. Command
+may assign the Logistics Section its own radio channel. The Logistic Section Officer may
+establish Sectors or branches for his/her section as needed.
+Roles and Responsibilities:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Provide rehab.
+Manage staging
+Provide and manage any needed supplies or equipment.
+Forecast and obtain future resource needs (coordinate with the Planning Section).
+Provide any needed communications equipment.
+Provide fuel and needed repairs for equipment.
+Obtain specialized equipment or expertise per Command.
+Provide food and associated supplies.
+Secure any needed fixed or portable facilities.
+Provide any other logistical needs as requested by Command.
+Collect and provide information for an After‐Action Review.
+Supervise assigned personnel
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 32 of 38
+
+The Planning Section is responsible for gathering, assimilating, analyzing, and processing
+information needed for effective decision‐making. Information management is a full‐time task
+at large and complex incidents. The Planning Section serves as the Incident Commander's
+"clearing house" for information. This allows the Incident Commander to have a single person
+provide him/her with information instead of having to deal with dozens of information sources.
+Critical information should be immediately forwarded to Command (or whoever needs it).
+Information should also be used to make long‐range plans. The Planning Section Chief's goal is
+to plan ahead of current events and to identify the need for resources before they are needed.
+Roles and Responsibilities
+
+
+
+
+
+
+
+
+
+
+
+Evaluate current strategy and plan with the Incident Commander.
+Refine and recommend any needed changes to plan.
+Evaluate Incident Organization and span of control.
+Forecast possible outcome(s).
+Evaluate future resource requirements.
+Utilize technical assistance as needed.
+Evaluate tactical priorities, specific critical factors, and safety.
+Gather, update, improve, and manage information with a standard systematic
+approach.
+Facilitate an After‐Action Review and After‐Action Report.
+Liaison with any needed outside agencies for planning needs.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 33 of 38
+
+The Operations Section is responsible for the tactical priorities, accountability, safety and
+welfare of the personnel working in the Operations Section. The Operations Section Officer
+uses the tactical radio channel to communicate strategic and specific objectives to Sector
+Officers and/or Branch Officers.
+Roles and Responsibilities:
+
+
+
+
+
+
+
+
+
+
+
+
+Coordinate activities with the Incident Commander.
+Implement the Incident Management Plan.
+Assign units to Sectors/Branches based on Tactical Objectives.
+Build an effective organizational structure through the use of Branches and Sectors.
+Provide Branches and Sectors Tactical Objectives.
+Manage Operation Section activities.
+Personnel Accountability.
+Provide for life safety.
+Determine needs and request additional resources.
+Consult with and inform other sections and the Incident Command Staff as needed.
+Collect and provide information for an After‐Action Review.
+
+If the Operations Officer is located at the Command Post, he/she should use the radio
+designation of "Command". The vast majority of incidents can be effectively managed without
+an Operations Officer, or with the Operations Officer located at the Command Post. If the
+Operations Officer is located out of the Command Post at a "forward" position (i.e. in a high‐
+rise building), he/she should use the radio designation of "Operations".
+Implementing an "Operations" radio designation in the middle of a major incident can create
+confusion with radio communications. It is absolutely essential that all personnel operating at
+the incident be made aware of the activation of "Operations". All Sector Officers and/or Branch
+Officers must then direct their communications to the "Operations" Officer.
+The Operations Officer will communicate with the Incident Commander to request additional
+resources, provide progress reports, etc.
+Once implemented, "Operations" becomes a forward Command Post. As such the Operations
+Officer will need some personnel assigned to assist as staff members to help with radios,
+tactical worksheets, etc.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 34 of 38
+
+The Incident Commander ‐ Role and Responsibilities after Activation of an Operations Officer
+Once the Operations Officer is in place and functioning, the Incident Commander's focus should
+be on the strategic issues, overall strategic planning and other components of the incident. This
+focus is to look at the "big picture" and the impact of the incident from a broad perspective.
+The Incident Commander should provide direction, advice and guidance to the Operations
+Officer in directing the tactical aspects of the incident.
+
+
+
+
+
+
+
+
+
+
+Review and evaluate the plan and initiate any needed changes.
+Provide on‐going review of the overall incident (THE BIG PICTURE).
+Select priorities.
+Provide direction to the Operations Officer.
+Review the organizational structure, initiate change or expansion to meet incident
+needs.
+Initiate Section and Branch functions as required.
+Establish liaison with other city agencies and officials, outside agencies, property owners
+and/or tenants.
+Collect and provide information for an After‐Action Review.
+Other duties as necessary.
+
+In order to maintain continuity and overall effectiveness, the Incident Commander and
+Operations Officer should normally be in the Command Post together.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 35 of 38
+
+The Administration Section evaluates and manages the risk and financial requirements for the
+Fire Department's involvement in the incident.
+Roles and Responsibilities:
+
+
+
+
+
+
+
+
+
+
+Procurement of services and/or supplies from sources within and outside the Fire
+Department or City as requested by Command (coordinates with Logistics).
+Documenting all financial costs of the incident.
+Documenting for possible cost recovery for services and/or supplies.
+Analyzing and managing legal risk for incidents such as, hazardous materials clean up.
+Serves as the Incident Commander's liaison with: City officials, Litigators (and other
+lawyer types). Regulatory agencies (EPA, OSHA, DOT, FBI, etc.).
+Monitors and coordinates emergency service delivery to the rest of the community
+during major incidents to ensure adequate coverage.
+Serves as the E.O.C. representative in the Command Post and provides briefings to the
+E.O.C. staff.
+Manage investigations (arson, etc.).
+Collect and provide information for an After‐Action Review.
+
+The Administration Section is responsible for obtaining any and all needed incident
+documentation for potential cost recovery efforts, or litigation, including criminal charges.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 36 of 38
+
+COMMAND TEAM
+SENIOR
+ADVISOR
+
+SUPPORT
+OFFICER
+
+INCIDENT
+COMMANDER
+
+LOGISTICS
+SECTION
+
+OPERATIONS
+SECTION
+
+PLANNING
+SECTION
+ADMINISTRATIVE
+SECTION
+
+FIRE
+BRANCH
+
+NORTH SOUTH
+SECTOR SECTOR
+
+COS
+
+COS
+
+MEDICAL
+BRANCH
+
+ROOF
+SECTOR
+
+EXRCTN
+SECTOR
+
+TRTMNT
+SECTOR
+
+TRANS
+SECTOR
+
+COS
+
+COS
+
+COS
+
+COS
+
+Command Structure ‐‐ Expanding the Organization; Sections in place
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 37 of 38
+
+COMMAND TEAM
+SENIOR
+ADVISOR
+
+LOGISTICS
+SECTION
+
+SUPPORT
+INCIDENT
+OFFICER COMMANDER
+
+ADMINISTRATIVE
+SECTION
+
+PLANNING
+SECTION
+
+Staging
+
+Procurement
+
+Technical Liaison
+
+Rehab
+Accountability
+
+Cost Recovery
+
+Planning Functions
+
+Agency Liaison
+
+Supplies
+
+Liability
+
+Communications
+Equipment
+Fuel/Repairs
+
+Risk Management
+
+OPERATIONS
+SECTION
+
+Food/Fluids
+Fixed Facilities
+
+HAZMAT
+BRANCH
+
+EVACUATION
+BRANCH
+
+DECON
+SECTOR
+
+FIRE
+CONTROL
+BRANCH
+
+MEDICAL
+BRANCH
+
+NORTH
+EVACUATION
+SECTOR
+
+NORTH
+SECTOR
+
+TREATMENT
+SECTOR
+
+RESEARCH
+SECTOR
+
+EAST
+EVACUATION
+SECTOR
+
+EAST
+SECTOR
+
+TRANS. SECTOR
+
+ENTRY TEAM
+SECTOR
+
+WEST
+EVACUATION
+SECTOR
+
+RESCUE
+SECTOR
+
+BACKUP
+TEAM
+SECTOR
+
+RELOCATION
+SECTOR
+
+VENT.
+SECTOR
+
+Debriefing
+Any Other
+Logistical Needs
+
+Organizational
+Chart for a
+Hazardous
+Materials Incident
+
+Expanding the Organization -- Major Incident
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Command Procedures
+M.P. 201.01
+
+01/18
+
+Page 38 of 38
+
+COMMAND TEAM
+SENIOR
+ADVISOR
+
+LOGISTICS
+SECTION
+
+SUPPORT
+INCIDENT
+OFFICER COMMANDER
+
+ADMINISTRATIVE
+SECTION
+
+PLANNING
+SECTION
+
+OPERATIONS
+SECTION
+
+Staging
+
+Procurement
+
+Technical Liaison
+
+Rehab
+Accountability
+
+Cost Recovery
+
+Planning Functions
+
+Agency Liaison
+
+Supplies
+
+Liability
+
+Communications
+Equipment
+Fuel/Repairs
+
+Risk Management
+
+FIRE
+CONTROL
+BRANCH
+
+MEDICAL BRANCH
+
+SECTOR
+15
+
+FIRE
+SUPPORT
+BRANCH
+
+RESOURCE
+BRANCH
+
+TRIAGE SECTOR
+
+VENT.
+SECTOR
+
+STAFFING
+POOL
+
+SECTOR
+16
+
+TREATMENT
+SECTOR
+
+STAIRWELL
+SUPPORT
+SECTOR
+
+SECTOR
+17
+
+TRANSPORTATION
+SECTOR
+
+WATER
+SUPPLY
+SECTOR
+
+Food/Fluids
+Fixed Facilities
+Debriefing
+
+REHAB
+
+Any Other
+Logistical Needs
+
+Organizational Chart for a
+Highrise Fire
+Expanding the Organization -- Major Incident
+
+EQUIPMENT
+SUPPLY
+
+

@@ -1,0 +1,46 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+MONITORING ATMOSPHERIC CONDITIONS
+M.P. 204.06
+
+10/97-R
+
+Page 1 of 1
+
+This procedure establishes policy and procedures for all personnel involved in making atmospheric
+measurements using monitoring instruments.
+PURPOSE
+The purpose of this policy and procedure is to establish the highest level of accuracy for atmospheric
+monitoring instruments. This will allow the user and field personnel to operate in high levels of
+instrument accuracy. This ongoing methodology for spanning and calibrating of atmospheric monitoring
+instruments should ensure the highest level of safety for all personnel.
+RESPONSIBILITIES
+It shall be the responsibility of all members using, or supervising the use of, atmospheric monitoring
+instruments to span and/or calibrate these devices in the following manner.
+SPANNING
+Spanning and/or calibration shall be done on each instrument (except RMD* instruments) prior to
+making entry into the following atmospheres:
+• contaminated atmospheres
+• atmospheres which may suddenly become contaminated
+• atmospheres where there is suspected oxygen deficiency
+• atmospheres which are suspected of being contaminated or oxygen deficient
+or at any other time it may be necessary to render an instrument in a ready state of condition. This
+instrument will be spanned on the proper calibration gas, hose and regulator to ensure the instrument
+of choice is in proper operating condition. At any time the instrument does not span or calibrate
+correctly, and you cannot resolve the problem, you will not use the instrument. You will then bring the
+instrument to the Special Operations Section and change out for another instrument.
+TRACKING
+To keep track of all the spanning and calibration being performed on all atmospheric monitoring
+instruments, a Control Log has been developed. It is called the "Meter Calibration and Span Control
+Log." This Control Log will be used to document weekly calibration and spanning being done prior to
+the use of the instruments. The form will be completed on a monthly basis and forwarded to the
+Special Operations Sector.
+Calibration of instruments shall be on a weekly basis to ensure proper maintenance is being performed
+on all instruments, according to manufacturer's recommendations. Calibration of all instruments
+(except RMD* instruments) shall be performed at the Special Operations Section on a monthly basis
+and logged into master control file for each instrument. This master control file shall act as a legal
+history of that instrument's performance.
+*RMD--Radiological Monitoring Devices
+
+

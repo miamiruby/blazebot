@@ -1,0 +1,519 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+Policy Name:
+Policy Number:
+MID RISE OPERATIONS
+M.P. 202.20
+This policy is for internal use only and does not expand an employee’s legal duty or civil
+liability in any way. This policy should not be construed as creating a duty to act or a higher
+duty of care, with respect to third party civil claims against employees or the Phoenix Fire
+Department (PFD). Remedies for violations of this policy, if proven, are limited to
+administrative disciplinary action against PFD employees.
+Related Policies: 201.01A, 202.04, 202.05, 202.05C, 202.12E
+Other Reference:
+Date Implemented: 12/2021-N
+Review Date: 12/2026
+PURPOSE
+The purpose of the procedure is to describe the unique operational considerations that mid-rise
+structures and occupancies pose for fire operations. These considerations are specific to these
+types of structures and differ from the more traditional apartment buildings/complexes as well as
+from high rise buildings. These considerations come in the form of construction materials and
+building practices, interior layout, fire protection systems, and building systems. These structures
+require specific operational attention for initial arriving companies in locating the fire, attacking
+the fire, and protecting and/or removing endangered occupants. These considerations present
+safety concerns that are specific to these buildings and challenge standard safety practices for
+other occupancy types.
+Preplanning is critical for successful operations in these buildings. Because of the broad spectrum
+of construction practices, size, and configurations it is necessary to expect the unexpected.
+As in any other structure, the ability of the Phoenix Fire Department to extinguish the fire as quickly
+as reasonably possible improves the conditions for any possible victims and the safety of the
+firefighters. All firefighting operations in mid-rise buildings should be built around this fact.
+MID-RISE DEFINITION
+For the purposes of Phoenix Regional Standard Operating Procedures, a mid-rise is defined as
+anything below 75’ in height and greater than 3 stories. The City of Phoenix currently has
+residential and commercial mid-rise buildings in our city and in our neighboring communities.
+Mid-rise structures have different fire protection system standards than high-rise structures. The
+mid-rise fire protection standards in the fire code are dependent on construction features and
+elements hence is not the same across all mid-rise buildings.
+
+MID RISE OPERATIONS
+Page 1 of 10
+
+MID-RISE SIZE UP AND FIREGROUND FACTORS
+Preplanned information and a thorough size up are critical to early success for fires in mid-rise
+buildings. There are many unique critical factors for mid-rise structures that impact fire attack,
+rescue operations, and firefighter safety. Early recognition of the fireground factors and
+appropriate action to limit the fire growth and the impact to victims is fundamental. The size up
+should include all means of rescue and access from the most advantageous position. Fire
+conditions should be assessed for the best position of a fire attack. Size up should also include
+the recognition of structural involvement as early as possible with a pessimistic perspective.
+Size-up in mid-rise structures should begin with the standard, fundamental size-up questions, and
+drive to the recognition of the unique challenges presented at each individual incident.
+The critical factors for mid-rise include but aren’t limited to:
+•
+
+Life Safety
+o Residential mid-rise structures can have high density occupancy
+o Rapid evaluation of removing the fire from the victims or the victims from the
+fire is critical and should not delay an effective fire attack
+o Commercial mid-rise occupancies should be evaluated for the presence of life
+safety and managed as an action of opportunity and should not delay an
+effective fire attack
+o Rescues may be required from exterior positions dependent on the conditions
+and the ability of victims to escape
+o Many mid-rises have roof top common spaces that have the potential for high
+population density at any given time
+
+•
+
+Fire and Smoke Conditions
+o Nothing showing means nothing
+o It is likely to have a serious fire with no external signs on arrival
+o Ventilation limited conditions are a significant possibility due to tightly sealed
+buildings
+o Recognition of building openings are critical in measuring the flow path potential
+o Wind driven conditions are a distinct possibility of floors above ground level
+o Determination of smoke and fire conditions in common hallways and stairwells
+is critical in determining the life safety impact and difficulty of a fire attack
+
+•
+
+Access
+o Mid-rise structures do not typically have lobby level, centralized entrance that
+provides access to the entire structure
+o Mid-rise structures typically have multiple entrance points for different
+geographical areas of the building
+
+MID RISE OPERATIONS
+Page 2 of 10
+
+o
+o
+o
+o
+o
+
+•
+
+Not all access points and stairwells will have standpipes or sprinkler control
+systems
+Evaluate the presence of exterior access points from balconies via aerial
+apparatus
+Floor access can come from multiple points
+The fire code does not require the availability of keys or key fobs for all areas of
+the structure
+The fire code requires keys be present for only these places:
+ Pools
+ Utility/Mechanical/Electrical rooms
+ Fire sprinkler riser room
+ Fire alarm control panel rooms
+ Stairwells
+ Roof access
+ Non-standard elevator keys
+
+Building Systems
+o Mid-rise structures typically do not have a Fire Control Room as in high rise
+buildings
+o A fire alarm panel is required in all new construction since 2002, and are typically
+located at the main entrance, in and around the building management offices
+o Some older mid-rise buildings do not have a standard fire alarm panel
+o There may be no fire alarm panels or displays in any exterior or remote entrance
+points to the building
+o Mid-rise structures built since 2002 are required to be sprinklered
+o The location and number of sprinkler heads is determined by the construction
+methods and features of the specific building
+o Mid-rise buildings do not typically have fire pumps unless unique building or
+water issues are present
+o Mid-rise buildings typically use city water pressure for the wet sprinkler systems
+and for the standpipe systems (when a combination system is present)
+o Standpipes may not be present in every stairwell
+o Standpipe supply connections may be at one specific location or decentralized
+depending on the footprint of the building
+o Standpipe connections may be present in interior hallways due to the length of
+the hallway or the distance from the stairwell standpipe connections
+o Some standpipe connections can be up to 200’ apart depending on the sprinkler
+system in the building
+o Fire department connections (FDC) and interior standpipe connections may have
+KNOX locking caps in place and require the “dog bone” keys for access
+
+MID RISE OPERATIONS
+Page 3 of 10
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+o
+o
+o
+
+Wet standpipe systems with city water pressure above ground level may have
+inadequate water volume and pressure to mount an effective fire attack
+Elevators in mid-rise buildings may not have centralized elevator monitoring in
+the lobby
+Elevators may not recall in all areas if alarm occurs in a specific location
+Mid-rise buildings typically do not have floor and stairwell pressurization or
+smoke evacuation systems
+Smoke detectors are typically found in residential units and at the elevator
+lobby(s)
+Automatic closing fire/smoke doors can be present in long hallways that are
+initiated by the fire alarm
+Each residential unit will typically have independent HVAC systems that are not
+tied to the building systems
+Commercial mid-rise buildings may have centralized HVAC systems with central
+monitoring and/or control
+Security systems are common and can have multi-layered approaches requiring
+keys or a key fob for access from the exterior and then onto individual floors and
+units
+Stairwells may not connect to all floors depending on the footprint of the
+building
+Roof access is required however not standard in location
+Gate arms and barricades leading to parking garages may be present and are
+sometimes added after final construction inspection
+
+•
+
+Occupancy type
+o Residential mid-rise occupancies typically have an interior hallway layout with
+independent units on both sides of the hallways
+o Some residential mid-rises have multi story/level units
+o Residential units can be configured in many layouts with open floor plans
+o Commercial mid-rise occupancies have multiple configurations ranging from
+center hallway to open floor plans
+o Many mid-rise buildings have a combination of business on the lower level and
+residential on top
+o The lower level may not have interior communication/access to the upper levels
+
+•
+
+Building construction
+o Mid-rise buildings have many different construction types
+o Modern residential mid-rise occupancies combine masonry and concrete in the
+lower level and wood framed construction in the upper levels
+o Wood framed mid-rise structures are combustible and the structural integrity
+will erode if the fire extends into the structure
+MID RISE OPERATIONS
+Page 4 of 10
+
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+•
+
+Modern residential mid-rise occupancies can have multiple roof types
+depending on the construction methods
+Residential mid-rise units can range in size from small (< 1,000 square feet) to
+very large (> 3,000 square feet)
+Overall building size can have a large impact on operations as well as large
+number of occupants
+Some buildings take up entire city blocks in size
+Commercial mid-rise occupancies can have a more standard steel and
+lightweight concrete construction closely related to high rise construction
+Modern mid-rise buildings are sealed tightly and resist exterior/interior air
+exchange to improve energy efficiency for cooling
+Some mid-rise buildings have exterior opening window or doors however not
+all
+Many mid-rise buildings have underground parking directly beneath the overall
+footprint of the building
+Many mid-rise buildings have recreational spaces on the roof including pools,
+recreation rooms, and bars
+
+Resources
+o Dependent on the smoke and fire conditions and the life safety potential, a rapid
+determination of the required resources is necessary
+o Resources should be considered for external rescue and access
+o It will be necessary to appropriately support the fire floor for fire attack and
+rescue, the floor above for rescue and fire extension, and the critical exposures
+for loss control
+o Consideration should be given for staging resources close enough to the
+building and access points to decrease the in transit time and to not congest key
+tactical positions
+o It is possible to develop an incident organization with significant complexities
+and the utilization of branches should be considered
+
+STRATEGIC LEVEL CONSIDERATIONS
+As in most fireground scenarios, the better the decision making and initial actions at mid-rise fires
+from the beginning, the more likely of the most positive outcome. Effective evaluation of the
+incident conditions and the ability to locate the fire as quickly as possible are foundational to
+effective operations. A pessimistic evaluation of the required resources to manage an effective
+fire attack and provide for the rescue or isolation of victims, on potentially multiple floors, is
+critical.
+A focus on locating the fire as early as possible allows for the most effective identification of the
+critical tactical positions. Effective sectorization improves the span of control, supervision of
+MID RISE OPERATIONS
+Page 5 of 10
+
+critical work, and command safety. Clear functional or positional sector assignments will improve
+the work outcomes and the safety of the firefighters working.
+To execute the possibility of exterior rescues, apparatus placement becomes a critical
+consideration. The ability of aerial ladders, platforms, and ground ladders to access areas with
+rescue situations requires the consideration of the making those apparatus locations a priority. It
+will be necessary to provide access for multiple ladder companies to make simultaneous rescues
+when necessary, and search from exterior access points. These locations are also a consideration
+for access to initiate a fire attack if interior access is delayed.
+Exterior aerial apparatus should also be considered for standpipe operations if an interior attack
+is delayed, or interior conditions won’t allow safe operations with hose stretch distances and
+SCBA air consumption. In these instances, effective water supply, appropriate hose and nozzle
+selection is critical. The critical positions that must be considered include:
+•
+
+Exterior rescue
+o
+o
+o
+o
+
+•
+
+Determine the location and means of removal
+Determine the resources required for rescue
+Coordination with interior fire attack or search teams
+Coordination with secondary needs for treatment and transportation
+
+Fire floor(s)
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+Determine and monitor the fire attack stairwell
+Determine and monitor evacuation stairwell based on conditions and access
+Determine fire occupancy(s)
+Determine structural involvement
+Determine if the fire is in spaces between floors and attic/cockloft
+Determine if wind driven conditions are present
+Determine impacted exposures on fire floor
+Recognize possibility of cold smoke situations with fires extinguished by the
+sprinkler systems prior to fire department arrival
+Recognize possibility of stack effect conditions with smoke well below the fire
+impacting life safety and egress
+Coordinate an effective fire attack with appropriate water volumes
+Rescue profile and best actions (protect in place or rescue) determined by
+conditions
+Establish and monitor effective water supply to fire floor
+Determine the need for ventilation and smoke management
+Establish and monitor safe refuge for fire attack and search companies
+Determine resources needed to effectively complete the tactical objectives and
+facilitate effective air management
+MID RISE OPERATIONS
+Page 6 of 10
+
+•
+
+Floor(s) above
+o
+o
+o
+o
+o
+o
+o
+o
+o
+
+o
+
+o
+
+Rescue profile and best actions determined by conditions
+Determine fire extension
+Determine structural involvement
+Determine if wind driven conditions are present
+Confirm and monitor evacuation stairwell based on conditions and access
+Monitor effective water supply to floor(s) above
+Establish and monitor safe refuge for companies working on floor(s) above
+Determine resources needed to effectively complete the tactical objectives and
+facilitate effective air management
+Large area, targeted search
+ Room by room or unit by unit search in areas that were exposed to smoke
+and heat
+ Fire control has been achieved and ventilation and checking for extension
+are in progress
+ Consider multiple crews in attack teams
+ Allow for sufficient time to complete
+ Should not be confused with a primary search to achieve an all clear
+ Should not be conducted with smoke and fire conditions present (IDLH)
+without hose lines or the use of SCBA’s
+Human factors
+ Occupants may not shelter in place
+ May attempt to exit the building floor via most familiar routes
+Clearly identify attack and evacuation stairwells from each floor
+
+The recognition of secondary tactical positions to support the initial fire attack and rescue efforts
+includes:
+• Triage
+• Extrication
+• Treatment
+• Transportation
+• Ventilation
+• Building systems
+• Occupant Services
+TACTICAL LEVEL CONSIDERATIONS
+Effective tactical level (sector) management is the balance of decisive action to extinguish the fire,
+protect life safety, and effectively manage the safety and welfare of the operating crews. This
+includes clear plans to establish an effective fire attack with adequate water, remove and/or protect
+the victims, or support these actions from other positions. Sector management should include the
+following considerations:
+MID RISE OPERATIONS
+Page 7 of 10
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Development of a plan for exterior rescue with adequate resources that are capable of
+these functions
+Development of a plan to extinguish or support the extinguishment of the fire as quickly
+as possible
+Development of a plan to manage or support the rescue and/or protection in place
+Development of a plan for thorough fire extension investigation in all exposed areas
+Establishing and maintaining effective access
+Establish and maintain effective water supply
+Establish and maintain an area of safe refuge for fire companies
+Direct coordination with other Sector Officers
+Manage position and function of all units assigned to Sector
+Provide for 3 deep resource layers of working, on-deck, and recycling
+Accountability can be conducted via radio when required
+
+Sector management must be done from a position outside of the smoke and fire conditions.
+Sector Officers attempting to operate in smoke and heat conditions are not able to effectively
+manage the work and communications when attempting to manage their own accountability and
+air consumption.
+It is possible the building layout could require hose stretches of more than 150 feet. When this
+occurs a clear assessment of the required action and the position in the risk management plan is
+critical.
+
+The simple expectation is that no fire company should operate on the interior of any structure,
+during firefighting operations, beyond their ability to retreat to an area of safe refuge prior to
+their low air alarm going off.
+TASK LEVEL CONSIDERATIONS
+Task level considerations for fires in mid-rise structures is built on sound decision making,
+fundamental task completion, and effective air management. They involve understanding the task
+level functions that are assigned and executing them within a plan or in coordination with other
+companies to achieve the tactical objectives.
+Task level considerations should include:
+• Size up and Decision Making
+o Assessing fire and smoke conditions and behavior
+o Assessing flow path conditions
+o Hoseline selection for reach and appropriate water volume
+o Assessing for the presence of wind driven conditions
+o Effective size up for most critical areas requiring search simultaneously with fire
+attack
+MID RISE OPERATIONS
+Page 8 of 10
+
+o
+o
+
+•
+
+•
+
+Effective air management in coordination with crew members and Captain
+Effective management of access to safe refuge in the case of condition changes or
+low air levels
+Fundamental task completion
+o Standpipe pumping operations and supporting the sprinkler systems with
+appropriate water supply
+o Forceable entry
+o Standpipe cap lock removal
+o Standpipe connection and hose deployment for appropriately sized attack line and
+nozzle
+o Targeted search in areas of greatest danger to victims
+o Effective hose line advancement and management
+o Effective hose stream management for cooling and extinguishment
+o Horizontal, hydraulic ventilation
+o Pressurization of stairwells with PPV fans
+o Management for roof access hatches/bulkhead doors for ventilation or
+pressurization
+Air Management
+o Utilize SCBA air when necessary
+o Assess the effort required to complete tasks
+o Plan for an exit of the contaminated hazard zone prior to low air alarm sounding
+o Utilize standard fireground triggers to check air
+o Plan for bottle change-out inside the building in an area of safe refuge
+o Communicate air status with Captain at regular intervals that do not negatively
+impact the work
+
+CRITICAL SAFETY CONSIDERATIONS
+Mid-rise structures pose unique safety concerns for firefighters. They have unique features unlike
+high rise or more common apartment buildings. The greatest safety challenges include up to 6
+stories of combustible building material, fire travel in void spaces, structural integrity under fire
+conditions, and interior layouts requiring hose stretches greater than 150 feet.
+The absolute best action for potential victims and the safety of firefighters at any fire is to
+extinguish the fire as quickly as possible in its smallest state. Specifically, the best operation at a
+mid-rise fire is to extinguish the fire as quickly as possible to protect savable victims as well as
+decrease the likelihood of structural involvement and fire extension to other compartments. This
+requires effective size up to recognize when an aggressive, overwhelming fire attack is the best
+plan. It also requires recognition of when conditions are beyond the ability to control effectively
+by a standard interior fire attack.
+
+MID RISE OPERATIONS
+Page 9 of 10
+
+When operating in an Offensive Strategy and conducting an interior fire attack and rescue
+operations, special consideration must be taken for structural integrity of floors surfaces and floor
+joists separating floors. Any fire involvement in these spaces can create localized failure and
+create opportunities for falls through the floor. The fire code requires sprinklers in the floor joist
+space when the joists/trusses are open web design. It does not require sprinklers in these spaces
+when the joists/trusses are solid (such as TJI joists). Areas with plumbing or air duct pass
+throughs is often opportunities for fire travel and weakening of the joist and structural members
+surrounding them. Floor integrity is often a concern in bathrooms and kitchens. It is difficult to
+know this information without preplanning and investigation.
+When fire has spread into the structural members of a wood framed mid-rise building, this is a
+very dangerous situation. The loss of key structural members due to fire damage can significantly
+impact the overall structural stability of the entire building. Recognition of fire involving the
+structure should be reported to Command immediately. The Sector Officer and Command must
+determine if it safe and reasonable to continue in an Offensive Strategy. They must consider
+whether it is possible to write off portions of the structure or it requires writing off the entire
+building. A multi-story building with structural members burning is a dangerous situation.
+Complex interior layouts with long interior hallways provide challenges for hose stretches of
+greater than 150 feet and effective air management. Standpipe outlet placement in stairwells and
+wall outlets in interior hallways are a necessary component to making a fire attack. When these
+are positioned in a manner that is greater than 150 feet from the fire occupancy/compartment,
+special consideration must be made for a fire attack and the ability to effectively manage adequate
+SCBA air while executing fire control and an all clear. Firefighters running out of air in
+contaminated atmosphere is not an option.
+Fire radio communications may experience challenges in mid-rise buildings. This will depend on
+the location of crews working on the interior as well as the size and building construction methods
+present. This may require similar communication work arounds such as in high rise buildings
+including radio to radio relaying. Interior tactical positions may need to evaluate their location
+based on the communication abilities to manage the command system integrity. It is critical that
+all mid-rise fire operations always be conducted on hazard zone radio channels.
+
+MID RISE OPERATIONS
+Page 10 of 10
+
+

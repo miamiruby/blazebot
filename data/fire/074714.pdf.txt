@@ -1,0 +1,388 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+Policy Name:
+Policy Number:
+FIRE CONTROL
+M.P. 202.04
+This policy is for internal use only and is not intended, nor should it be construed to expand
+the legal duty under the law or expand civil liability in any way. This policy does not create a
+higher duty of care under the law to act. Remedies for violations of this policy, if proven, are
+limited to administrative disciplinary action against PFD employees.
+Related Policies: 202.02C, 202.12E, 202.11, 202.20
+Other Reference: NFPA 1710, UL FSRI
+Date Implemented: 12/2022-R
+Review Date: 12/2028
+
+PROCEDURE
+It is the standard operating procedure to stabilize fire conditions by an aggressive, well-placed fire
+attack. Any initial attack must attempt to overwhelm fire conditions with well-placed water
+application and suppression efforts from the most advantageous position(s) to include interior,
+exterior, or a transitional attack. A transitional attack should be considered when you are passing
+fire to fight fire and/or conditions need to be changed from the exterior prior to making entry. The
+fire attack must utilize adequate water volume (gpm) for the fire conditions, heat release rate, and
+structure/compartment size to control the fire, protect victims and/or property, as well as prevent
+extension into exposed structures.
+PRINCIPALS OF FIRE ATTACK
+The most fundamental job of the Phoenix Regional Fire Departments is implementing an effective
+fire attack. Size up, risk management, and rescue profile drive the strategy, ultimately deciding the
+best tactics for fire attack. It is necessary to determine the complexity of the compartments, flow
+path, and exposures when gauging possible fire attacks. Knowledge and understanding of fire
+behavior and water application are necessary to mitigate the hazard, impact savable
+lives/property, and remain as safe as possible.
+RESIDENTIAL FIRES
+By definition, this procedure considers residential fires to be any structures that our community
+typically resides. This includes mobile homes, houses, multi-family residences, apartments (low-,
+mid-, or high-rise occupancies), and any buildings that are lived in. These can range from small
+structures to large multi-story buildings. Firefighting in these structures should be done with a
+thorough size-up of life safety potential.
+Fire control is a crucial component of improving the possibility of savable lives on the fireground.
+When possible, search and rescue efforts should be performed simultaneously with fire attack to
+allow for the best outcomes. Effective fire control also directly impacts the possibility of savable
+property. Simply put, extinguishing the fire makes everything better on the fireground.
+FIRE CONTROL
+Page 1 of 9
+
+Effective fire suppression techniques include understanding the principles of fire behavior. In
+order to execute fire control, it must be understood what actions best extinguish interior fires.
+Interior surface cooling with water, then followed by water application to the burning
+fuels/contents is the most effective extinguishing tactic. This directly impacts interior spaces and
+tenability for victims and firefighters. An effective fire attack requires appropriate water volume to
+overwhelm and control the fire. The fire area's size and/or volume must be part of a thorough size
+up in determining appropriate water volumes as a part of a well-supported fire attack. The ability
+to get water flow to the best possible locations, from either the interior or the exterior, requires
+effective hose line deployment with hose lines of adequate length and size for the desired water
+flow. Utilizing the transitional attack involves water application from the exterior to change
+conditions prior to making an interior attack. Size up of the fire structure and the distances and
+items that are challenging the ease and direction of attack lines is a critical function of Company
+Officers directing the fire attack.
+When ventilation limited conditions are discovered during size up, an interior fire attack is typically
+the best option. When interior fire attack is the best option, suppression efforts directed through
+the inlet of interior flow paths are the most advantageous. The use of water volume, effective hose
+stream patterns, and nozzle manipulation are critical to cooling the immediate environment for
+firefighters advancing on the fire and increasing the pressures to change the flow path direction
+away from firefighters. Fire attack and coordinated ventilation provide greater survivability,
+firefighter safety, and property conservation. Intelligent fire attack techniques and coordinated
+ventilation are essential to effective operations.
+When there is a fire in an unventilated compartment, coordinated ventilation in the fire
+compartment simultaneous to the fire attack will exhaust the super-heated fire gasses and smoke
+ahead of the advancing attack crew. Ultimately, this tactic changes the flow path direction by
+over-pressurizing the pathway firefighters are using to make their attack and pushing it back to
+the fire compartment and out of the exhaust point. A fire attack against the flow path, without
+the ability to manage the ventilation, is a tactic and should only occur out of necessity.
+Understanding air movement and interior pressures should be evaluated and identified as a part
+of a size up prior to effective fire attack tactics. This recognition and understanding allows for more
+efficient fire suppression as well as improving interior survivability. Fire suppression from the
+most advantageous position (interior or exterior) can significantly impact the thermal insult,
+pressures, and flow path inside a fire building. Cooling the interior conditions reduces pressures
+and may create favorable conditions for supplemental fire attack and interior search efforts.
+Fire control is best supported with coordinated ventilation that is well planned and communicated
+utilizing fire behavior principles. This can be accomplished in multiple ways, including vertical and
+horizontal methods. Uncoordinated ventilation will make fire control more difficult, increasing
+both toxic gasses and thermal insult; this is dangerous and decreases tenability for potential
+
+FIRE CONTROL
+Page 2 of 9
+
+victims. Access and egress openings must be considered as ventilation and effectively managed
+during fire attack operations.
+UL-FSRI: FIRE SUPPRESSION VIDEOS
+
+Tactical Consideration: There Can Be Survivable Spaces on Arrival
+Tactical Consideration: Nothing Showing Means Nothing
+Tactical Consideration: Flow Path and Suppression must be Considered Together
+Tactical Consideration: Interior Suppression with only Smoke Showing
+Tactical Consideration: The Closest Door to the Apparatus Should Not Dictate Line Placement
+Tactical Consideration: Exterior Attack with Fire Showing from the Entry Point
+Tactical Consideration: Initiate Your Fire Attack on the Same Level as the Fire
+COMMERCIAL FIRES
+By definition, this procedure considers commercial buildings to be any structures that our
+community typically conducts business, manufacturing, storage, or typically non-residential in
+nature. These can be varying in size and complexity. Commercial buildings can be free-standing,
+part of or connected to other occupancies, and can be multi-story above and/or below grade. They
+can contain large volumes of contents and include hazardous materials or processes. They can be
+less compartmentalized than residential structures and have larger overall spaces. Commercial
+occupancies in the Phoenix regional area can exceed 1 million square feet in space. Residential
+fire tactics and flow rates should not be used in commercial fires, and NFPA 1710 target flows
+should be the minimum.
+Commercial building fires can have a life safety potential when experiencing fire conditions. The
+greatest difference between commercial and residential life safety is firefighters' ability to impact
+that life safety problem. Residential occupancies can allow for more effective search operations
+due to the confined nature and fire area volumes. Search operations in large open areas, large
+complex interior arrangements, or industrial settings with severe or worsening fire and smoke
+conditions are ineffective and dangerous. As in any structure, the best thing we can do for any
+potential victims is to extinguish the fire when possible. In cases of a known rescue, a targeted
+search is possible with a thorough understanding of the fire and smoke conditions and a legitimate
+assessment of the position in the risk management plan.
+Commercial fires require an understanding of fire behavior as well. Commercial fires are more
+complex, involve large areas and large content loads that can produce intense, severe fire
+conditions. The best opportunity to extinguish commercial fires is to catch them at their smallest
+FIRE CONTROL
+Page 3 of 9
+
+state after arrival with a well-executed fire attack that overwhelms the fire conditions. When
+present, building fire suppression systems should be supported as early as possible as well. Water
+volume and aggressive exposure protection are critical. Exposure protection may require interior
+and roof positions or exterior operations depending on the building's conditions and structural
+integrity.
+All resources should be directed to fire attack operations from the onset unless a known rescue is
+present. In this case, crews assigned to rescue must reassess the fire conditions, structural
+stability, re-evaluate their risk management plan and communicate the necessary support actions.
+Sector Officers and/or the IC must be able to support the fire attack operations and manage the
+strategic level risk management plan to determine the duration of time it is possible for this rescue
+to occur.
+When working in the offensive strategy, the Company Officer should consider the need to attack
+the fire with large volume handlines capable of flowing a minimum of 250 GPM from the most
+advantageous positions. NFPA 1710 standard is a minimum of three hand lines with an overall
+volume of 500 GPM or greater. Water application may be done from an exterior position utilizing
+a transitional attack to improve conditions prior to entry. When conditions, or forecasted
+conditions, prohibit safe and effective interior fire suppression the strategy should be changed to
+defensive.
+Water application may be done from interior positions as conditions and risk management allow
+an offensive strategy or may be conducted from the exterior in an attempt to gain control of the
+conditions or change to a defensive strategy. The fire attack's position and effort will determine
+the most appropriate method to deploy 250+ GPM from the necessary tactical positions. Company
+Officers and/or Sector Officers' responsibility is to direct the attack to determine the most
+appropriate methods to engage a commercial fire.
+Regardless of the strategy, a deliberate volume of water must be used to attempt to overwhelm
+the fire and heat conditions.
+Fire control in commercial fires is best supported with coordinated ventilation that is well planned
+and communicated utilizing fire behavior principles. The greatest challenges for ventilation in
+commercial fires are the buildings' size, the ability to create ventilation that is effective in
+supporting the fire attack, and interior conditions. It is necessary to consider the size of ventilation
+exhaust points to effectively improve interior conditions. This requires a size up of natural
+openings and the opportunity to create openings for horizontal or vertical ventilation. The use of
+windows and doors may provide better ventilation in coordination with fire attack than vertical
+ventilation. The greatest challenge with vertical ventilation is the ability to create a large enough
+opening in comparison to the building volume to provide adequate ventilation. It may be
+impossible to cut a ventilation hole large enough to adequately exhaust interior heat and smoke.
+The IC must work with Sector Officers to determine the potential and available options to ventilate
+
+FIRE CONTROL
+Page 4 of 9
+
+fires in commercial buildings. The intent of this coordination is to prevent rapid fire growth with
+fire companies inside the building.
+150 FOOT RULE
+
+The simple expectation is that no fire companies should operate on the interior of any
+structure, during firefighting operations, beyond their ability to retreat to an area of safe refuge
+prior to their low air alarm going off.
+During the recovery after the LODD of Firefighter Brett Tarver, the Phoenix Fire Department
+established that the maximum distance any company should advance and operate inside of a
+structure with smoke and fire conditions is 150 feet. This was determined by the standard lengths
+of our attack lines and the capacity of SCBA air to allow ingress, working time, and egress without
+the low air alarm sounding/vibrating.
+There are variables that can limit the reasonable maximum distance fire companies should
+operate inside a structure. These include smoke and fire conditions, building construction or
+layout, occupancy type, interior obstacles, and the overall physical effort required to advance into
+a building that increases the air consumption rate.
+For the purposes of mid-rise and high-rise buildings, the 150-foot rule is defined as the maximum
+distance any company should operate on the interior of any structure from the exterior entrance
+or other protected interior access points. This is measured from any area of safe refuge to the end
+of the hoseline length stretched into the building. In instances where fire crews are entering a
+structure from the exterior doors without protect areas of refuge, the 150’ is measured from that
+door. Areas of safe refuge are considered stair wells, stair landings, or any area that can be
+protected by doors and potentially pressurized to keep smoke and fire out. These include
+structures that have standpipes in the stairwells that are designed for the connection of fire hoses
+that can be protected with doors and means of managing the interior environment.
+FIRE ATTACK FROM STANDPIPES
+As the City of Phoenix grows, there has been and will continue to be an increase in buildings with
+large square footages and multi-story construction requiring an understanding of building
+suppression systems. In addition, firefighting personnel must have an understanding of the types
+of firefighting equipment necessary to ensure an effective fire attack from standpipes. These
+include commercial and residential occupancies, from 1 story to 40+ stories. Standpipe firefighting
+has multifaceted considerations based on the presence of building systems as well as the size,
+layout, and complexity of the structures. Critical keys to consider when initiating a fire attack from
+a standpipe include:
+•
+
+Ability to provide adequate water supply either utilizing building systems or engine
+company pumps
+
+FIRE CONTROL
+Page 5 of 9
+
+•
+
+•
+•
+•
+•
+•
+•
+•
+
+Ability to provide high pump discharge pressures to adequately take over for
+malfunctioning or inadequate building fire pumps (Tandem pumping and high-pressure
+supply hose should be considered).
+Ability to provide adequate water pressure, depending on the hose and nozzle used, to
+the highest/farthest standpipe outlet.
+Ability to provide fire department external shut off at standpipe connections.
+Ability to determine adequate flow at the nozzle.
+Ability to flow NFPA 13E and 1710 recommended GPM for initial and subsequent fire
+attack from standpipe connections.
+Ability to flow NFPA 1710 recommended GPM from standpipes on multiple floors
+simultaneously.
+Knowledge and understanding of pressure reducing and pressure restricting appliances
+as a part of standpipe systems and their limiting factors for firefighting.
+Ability to stretch hose lines from standpipe connections to the fire location that can be
+limited by smoke and heat conditions in stairwells and common hallways.
+
+FIRE ATTACK EQUIPMENT AND STANDARDS
+The Phoenix Fire Department has a flexible set of hose and nozzle packages to execute an effective
+fire attack. Each has a specific range of effectiveness to cover the broad potential of residential
+and commercial fires. It is the expected standard that Firefighters are proficient with these tools
+and in understanding their capabilities. It is expected that Company Officers and Sector Officers
+can determine the most effective fire attack operations and supervise their deployment and
+operations. It is expected that Incident Commanders can determine the overall fire attack
+requirements for the incident in its entirety and provide direction and leadership to tactical
+positions as to the overall incident action plan and specifically fire attack for the given incident.
+The current standards for water volume for fire attack and the specific hose and nozzle
+combinations currently carried by Phoenix Fire Engine Companies are:
+• Standard water flows from hose lines and appliances
+o Residential
+ 150 GPM – (2.5 gallons per second) (1.75” hose lines with automatic nozzles)
+o Commercial
+ 250 GPM - (5 gallons per second) (2” and 2.5” hose lines with fixed gallonage
+or smooth bore nozzles)
+ 500 GPM - (8 gallons per second) (portable appliances)
+ 600+ GPM – (10+ gallons per second) (deck gun or ladder pipe)
+These expectations meet or exceed national best practices and NFPA 1700 and 1710 guidance.
+The current hose and nozzle packages that are carried on Phoenix Fire Engine Companies include:
+o
+
+1 ¾” hose line with automatic nozzles (x2 minimum)
+ Hose lengths include:
+FIRE CONTROL
+Page 6 of 9
+
+o
+
+o
+
+• 150’ crosslay
+• 200’ crosslay
+• 100’ to 150’ front bumper line
+ Automatic nozzle (75/45 psi nozzle pressure for 70 to 200 GPM)
+2” hoseline with smooth bore nozzles (x1)
+ Hose length:
+• 200’ crosslay or rear mount depending on apparatus manufacturer
+ Smooth bore nozzles with 1 1/16” tip (240 GPM at 50 psi nozzle pressure)
+2 ½” hose line with smooth bore nozzles (1 or 2 depending on apparatus
+manufacturer)
+ Hose length:
+• 200’ rear mount (1 or 2 depending on apparatus manufacturer)
+ Smooth bore nozzle with 1 3/16” tip (300 GPM at 50 psi nozzle pressure)
+ Blitz Monitor with solid bore or peripheral tips (up to 500 GPM)
+
+A necessary component of an effective fire attack is the firefighter's ability to operate specific hose
+and nozzle packages at the required water flows. A component of effective and safe hose line
+operation in a fire attack is nozzle reaction. Nozzle reaction is defined as the force exerted by the
+fire nozzle on the Firefighter. The Phoenix Fire Department standard for nozzle reaction is 70 lbs.
+for single Firefighter operations. Anything above should require additional Firefighters (s) or
+operations from the fixed positions on the ground to operate effectively and safely. Any fire attack
+operations should utilize as many Firefighters as required to deploy, flow, move, and ensure
+operational safety depending on the line length, diameter, flow, and nozzle reaction.
+The Phoenix Fire Department standard is as follows:
+•
+•
+•
+•
+
+1 ¾” hoseline with 75 psi automatic nozzle (in high pressure/blue setting) @ 150 gpm
+o 1 firefighter operation (average 65 lbs. nozzle reaction during testing)
+1 ¾” hoseline with 45 psi automatic nozzle (in low pressure/red setting) @ 150 gpm
+o 1 Firefighter operation (average 60 lbs. nozzle reaction during testing)
+2” hoseline with 1 1/16” solid bore nozzle @ 240 gpm
+o 2 Firefighter minimum operation (average 85 lbs. nozzle reaction during testing)
+2 ½” hoseline with 1 3/16” solid bore nozzle @ 300 gpm
+o 3 Firefighter minimum operation (average 110 lbs. nozzle reaction during testing)
+
+A water supply is a critical component to an effective fire attack. Standard Phoenix Engine
+Company apparatus typically carry 500 gallons of water (+ or – 50 gallons, depending on the
+apparatus generation). There are a very small amount of exceptions to this in the Phoenix Fire
+Department, and an intimate knowledge of each independent apparatus is always required. The
+establishment of an uninterrupted water supply for declared working fires can be a critical
+component to appropriately support an effective and safe fire attack.
+
+FIRE CONTROL
+Page 7 of 9
+
+Specific circumstances exist that it is reasonable for a first due Engine Company (with at least 450
+gallons of onboard water) to not establish a hydrant supply line. These include fires with an
+unknown location or route to the location in a neighborhood or apartment/business complex, fire
+in a high-rise building, fires with a known rescue situation requiring immediate action, and/or
+anytime an Incident Commander has calculated the need for a rapid-fire attack before an initial
+supply line can be established. It is always the Incident Commander’s and/or Sector Officer’s
+responsibility (depending on incident complexity) to ensure adequate, uninterrupted water
+supplies are in place in all critical tactical positions to support effective fire attack operations.
+Strategic Level Considerations
+It is the incident commander’s responsibility to ensure that an effective fire attack from the most
+appropriate positions is part of the incident action plan. The positions and volume will be
+dependent on the incident size, complexity, incident strategy, and available resources.
+Command must define Offensive/Defensive Strategy based upon the position in the risk
+management plan. In addition, Command will consider the following when addressing fire
+control:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Rescue profile of occupants
+Fire/smoke volume
+Fire extent
+Structural conditions
+Structural ingress and egress
+Smoke conditions and ventilation profile
+Available resources
+
+A critical Command decision (both initial and ongoing) relates to the Offensive/Defensive Strategy
+of the incident:
+• Offensive Strategy—an exterior and/or interior fire attack, from inside the hazard zone, with
+appropriate support work to best support creating and maintaining tenable spaces in
+conjunction with search operations depending on the rescue profile and occupancy type.
+• Defensive Strategy—A fire attack on the fire structure/occupancy from the most
+advantageous positions and outside of the hazard zone. This fire attack should also work
+to reduce fire extension into exposures, when possible, from the most advantageous
+positions (interior or exterior), depending on structure, conditions, and position in the risk
+management plan.
+The Incident Commander will support any fire attack with whatever resources and action is
+required to reduce fire extension and to bring the fire under control. Command must initially
+declare the incident strategy and continue to confirm the strategy and the appropriate benchmarks
+and elapsed time notifications.
+
+FIRE CONTROL
+Page 8 of 9
+
+OPERATIONAL INFORMATION
+BASIC OFFENSIVE PLAN:
+• Assume command
+• Incident size up and determination of critical factors
+• Initial fire attack from the most advantageous position with most appropriate water
+volume
+• Conduct a primary search in coordination with fire attack when possible
+• Provide coordinated support activities (e.g., ventilation, forcible entry)
+• Support fire attack from the next most advantageous position with appropriate water
+volume
+• Address loss control and property conservation
+• Evaluate actions and revise strategy and tactics as necessary
+BASIC DEFENSIVE PLAN:
+• Assume command
+• Incident size up and determination of critical factors
+• Write off what is lost, identify, and protect savable exposures
+• Attack the fire from the most advantageous positions with most appropriate water
+volume (large volume devices, well-placed positions)
+• Work to support the needs of a high-volume fire attack (necessary water supply, pumped
+water, etc.)
+• Ensure adequate resources to support the operation fully
+• Address fire extension, life safety, and loss control and property conservation in
+exposures if risk management and strategy will allow
+• Evaluate actions and revise strategy and tactics as necessary
+
+FIRE CONTROL
+Page 9 of 9
+
+

@@ -1,0 +1,137 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+EMERGENCY DEPLOYMENT
+M.P. 201.02A
+
+03/2021-R
+
+Page 1 of 3
+
+PURPOSE
+The purpose of this procedure is to provide guidelines for the operational response to situations
+which create peak demand for emergency services within the Automatic Aid System.
+Emergency Deployment is intended to significantly increase the number of available emergency
+response resources.
+PROCEDURE FOR EMERGENCY DEPLOYMENT ACTIVATION AND DEACTIVATION
+1. Emergency Deployment will be activated at the direction of the on-duty Operations
+Deputy Chief (i.e., Shift Commander, District Commander, etc.) in conjunction with
+Alarm Room Headquarters (AHQ) when it is evident that deployment activity may
+exceed system wide available resource guidelines and/or high activity levels warrant.
+a. Emergency Deployment may be activated for an individual jurisdiction, multiple
+jurisdictions or system wide within the Automatic Aid System.
+2. Emergency Deployment will be de-activated at the direction of the Operations Deputy
+Chief in conjunction with AHQ. All modified response requirements will return to normal
+operating guidelines.
+There are three (3) types of Emergency Deployment. The Operations Deputy Chief will
+determine the appropriate type of Emergency Deployment and communicate this to AHQ.
+TYPE 1 EMERGENCY DEPLOYMENT
+Activation of a Type 1 Emergency Deployment will automatically modify response requirements
+for all non-EMS incidents through the following deployment directives:
+1. All 3-1 response assignments will be modified to 2-1-1 (ENG/LAD/BC) response
+assignments.
+2. All First Alarm response assignments will be modified to 3-1-1 (ENG/LAD/BC) response
+assignments.
+3. All TRT2 response assignments will be modified to TRT1 response assignments.
+4. All HAZ2 response assignment will be modified to HAZ1 response assignments.
+5. All TRT1 and HAZ1 response assignment will be modified to a new TRT0 and HAZ0
+response assignment. These assignments include MPW, closest appropriate Special
+Operations crew (either TRT or HMT), the applicable Support Truck and either C957N
+or C957S. If C957N and C957S are unavailable BC2 or other appropriate BC will be
+suggested.
+TYPE 2 EMERGENCY DEPLOYMENT
+Activation of a Type 2 Emergency Deployment will require the on-duty Operations Deputy Chief
+to call off-duty personnel in to staff brush trucks or other adjunct response apparatus.
+Coordination between the Assistant Chief of Operations, the on-duty Operations Deputy Chief,
+on-duty AHQ Chief and/or Supervisor and the CAD Administrator/Technical Services Chief will
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+EMERGENCY DEPLOYMENT
+M.P. 201.02A
+
+03/2021-R
+
+Page 2 of 3
+
+be necessary to determine the appropriate staffing levels, response guidelines, equipment
+needs and applicable CAD programming. A Type 2 Emergency Deployment will be developed
+on a case by case basis and may be used for but not limited to Fire, EMS and HAZMAT
+situations.
+Type 2 Emergency Deployment can be activated to address any specific operational issue
+including pandemic response and in instances where a specific call type is back logging the
+system due to a high volume of calls or inadequate number of response equipment available in
+the system. In these cases, case specific or lower priority calls may be assigned to these units
+and dispatched based on their availability.
+CAD programming and the immediate updating of response guidelines to AHQ will be required
+prior to implementing a Type 2 Emergency Deployment. Emergency Deployment will be deactivated at the direction of the Operations Deputy Chief in conjunction with AHQ. Brush truck
+capabilities will return to normal and will be placed in an UNV status if not assigned to a call. If
+other adjunct response apparatus is utilized the capabilities will return to normal and will be
+placed in the appropriate normal operating status.
+TYPE 3 EMERGENCY DEPLOYMENT
+Activation of a Type 3 Emergency Deployment will require the on-duty Operations Deputy Chief
+or designee to call off-duty personnel in to staff reserve apparatus. This will be a manual
+process and require coordination between the on-duty Deputy Chief or designee, Fleet
+Management and the AHQ as units are made available. Emergency Deployment will be deactivated at the direction of the on-duty Operations Deputy Chief in conjunction with the AHQ.
+All reserve apparatus will place themselves in an UNV status if not assigned to a call.
+SYSTEMWIDE REDUCTION IN WORKFORCE
+Automatic Aid System is committed to making system-wide coverage decisions in the best
+interest of all customers and firefighter safety. The system is obligated to prepare for a potential
+reduction in available workforce. Reduction in workforce may have a substantial impact causing
+a staffing failure within the system. To prevent a staffing failure, all partners must have an
+emergency staffing and/or mandatory overtime policy. If local emergency staffing policies fail,
+sworn staff shall be redeployed from support functions to keep emergency response resources
+in service. If the steps above fail to provide necessary staffing, in-service emergency response
+resources will be redeployed to address immediate coverage gaps. This process will be
+administered by the Phoenix and Mesa Regional Dispatch Centers using a parallel
+methodology to a move-up assignment or system-wide emergency redeployment.
+Regional Fire Departments may then recall available off-duty personnel to staff system-wide
+emergency response resources to 100% capacity. To support this, Automatic Aid Partners may
+utilize the Arizona Mutual Aid Compact for municipal reimbursement.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+EMERGENCY DEPLOYMENT
+M.P. 201.02A
+
+03/2021-R
+
+Page 3 of 3
+
+OPERATIONAL INFORMATION
+System wide available resource guidelines:
+1. Any one (1) large scale incident may use sixty percent (60%) of Automatic Aid
+resources. Forty percent (40%) of Automatic Aid resources must remain in service to
+handle routine emergency activity within the system.
+2. If two (2) large scale incidents are working simultaneously, each incident may use thirtyfive percent (35%) of Automatic Aid resources. Thirty percent (30%) of Automatic Aid
+resources must remain in service to handle routine emergency activity within the
+system.
+3. If three (3) large scale incidents are working simultaneously, each incident may use
+twenty-five percent (25%) of Automatic Aid resources. Twenty-five percent (25%) of
+Automatic Aid resources must remain in service to handle routine emergency activity
+within the system.
+It will be the responsibility of AHQ to coordinate the efficient movement of resources.
+EMERGENCY DEPLOYMENT PRINCIPLES
+1. Emergency Deployment has been automated in CAD and can be initiated as an
+independent activation type, or as concurrent activation types, as necessary to mitigate
+the incident or situation.
+2. Activation of each Type of Emergency Deployment will activate a system wide
+Qpage/phone page so that all jurisdictions within the Automatic Aid System are aware of
+high activity levels and potential impact to individual jurisdictions.
+3. Activation of each Type of Emergency Deployment will generate a MCT message so
+that all jurisdictions within the Automatic Aid System are aware of high activity levels and
+potential impact to individual jurisdictions.
+4. Activation of each Type of Emergency Deployment will prompt AHQ to open all station
+packages with a voice announcement advising of Emergency Deployment mode so that
+all jurisdictions within the Automatic Aid System are aware of high activity levels and
+potential impact to individual jurisdictions.
+5. AHQ has the ability to over-ride a modified response at dispatch, if applicable based on
+information received.
+6. Responding units or a unit on-scene has the ability to balance a modified response to a
+full assignment if necessary.
+7. Emergency Deployment can be implemented for a single jurisdiction, multiple
+jurisdictions or system wide.
+
+

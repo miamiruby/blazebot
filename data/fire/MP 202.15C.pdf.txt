@@ -1,0 +1,74 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RED FLAG WARNINGS
+M.P. 202.15C
+
+04/20-N
+
+Page 1 of 2
+
+PURPOSE
+The purpose of this procedure is to develop standard actions and considerations when a Red Flag
+Warning is issued.
+DEFINITIONS
+A Red Flag Warning is issued by the National Weather Service for weather events which may result in
+extreme fire behavior that will occur within 24 hours. A Red Flag Warning is the highest level of
+weather-related fire warning. A Red Flag Warning will normally be issued for severe fire weather
+events less than 12 hours in the future. The area affected, onset time, and a statement describing the
+conditions will be included in the forecast. Thresholds for Red Flag Warnings vary based on vegetation
+type, topography and other factors, but in the Phoenix area they are generally Sustained winds >= 20
+mph and relative humidity <=20%, scattered thunderstorms, increased thunderstorm activity after a
+prolonged dry period, abrupt change in wind speed and direction that may affect the area.
+POLICY
+When the Phoenix Fire Department Regional Dispatch Center (PFDRDC) receives notification of a Red
+Flag Warning they should notify all on-duty units via an MCT message. If a Red Flag Warning extends
+from one shift into the next shift, the MCT message should be repeated at 0800 immediately following
+shift change to notify the new on-duty crews. The message from PFDRDC to on-duty crews should
+include the standard Red Flag Warning details:
+• Affected Area: This may include counties, cities or fire weather zones
+• Wind: Speed and direction
+• Timing: The hours the Red Flag Warning will be in effect
+• Relative Humidity: Fine fuels found in the Phoenix area such as grass and bushes are
+particularly susceptible to fire when humidity is low
+• Other: Include any additional pertinent information provided by the National Weather Service
+An all-call on channel one will also be made to all stations that there is a Red Flag Warning in effect.
+This warning should be issued when the Red Flag Warning comes into the PFDRDC and repeated at
+0830 for each shift the warning is in effect.
+OPERATIONAL CONSIDERATIONS
+Wildland Urban Interface: In Wildland Firefighting, a Red Flag Warning represents the highest
+probability of a wildfire occurring. The warning also indicates a significant danger to firefighters when
+operating on a wildfire incident. Red Flag conditions such as sustained winds >20mph, abrupt wind
+speed and direction changes and low relative humidity combine to create a very dynamic and
+dangerous incident. During a Red Flag Warning, Company Officers should ensure that each crew
+establishes lookouts, communications, escape routes and safety zones (LCES) prior to exiting the
+vehicle to begin operations. Weather and wind conditions should be communicated to all crew
+members frequently. Any direct fire attack during a Red Flag Warning should occur from the burned
+side of the fire. Command officers should be pessimistic in their evaluation of potential cut-offs and fire
+breaks. Wildfires are extremely difficult to control during Red Flag conditions and have a high
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RED FLAG WARNINGS
+M.P. 202.15C
+
+04/20-N
+
+Page 2 of 2
+
+probability of spreading. Outside aid from state, tribal and federal resources should be considered early
+in the incident.
+Structural Firefighting: A Red Flag Warning represents the same extreme danger during structural
+firefighting incidents as the danger in the wildland. Wind driven fires have led to firefighter injuries and
+fatalities across the United States. According to the National Institute of Standards and Technology
+(NIST), wind speeds as little as 10 miles per hour can cause rapid fire progression in a structure
+regardless of the structure type (houses, apartments, high-rise, etc.). When sizing-up the incident, all
+members should pay particular attention to wind direction and attack the fire from the windward side
+when possible. Opening any door on the leeward side of the fire will create a flow path and cause the
+fire to grow. Disciplined door control will help to alleviate the potential for firefighters being caught in a
+flow path. Transitional attacks from the windward side are very effective at cooling the interior prior to
+entry. All crews should closely coordinate any ventilation including windows, doors or vertical
+ventilation.
+
+

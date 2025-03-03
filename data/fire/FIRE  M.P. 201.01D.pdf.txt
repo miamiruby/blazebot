@@ -1,0 +1,936 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+Policy Name:
+Policy Number:
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+M.P. 201.01D
+This policy is for internal use only and is not intended, nor should it be construed to expand
+the legal duty under the law or expand civil liability in any way. This policy does not create
+a higher duty of care under the law to act. Remedies for violations of this policy, if proven,
+are limited to administrative disciplinary action against PFD employees.
+Related Policies:
+Other Reference:
+Date Implemented: 1/2022-N
+Review Date: 1/2028
+
+The purpose of the procedures is to ensure the fundamental knowledge and understanding of
+fire behavior and fire dynamics. This knowledge is pivotal to professional fire suppression and
+life safety protection services to our community. It is also a critical element in the safety and
+longevity of firefighters working to protect our community. Phoenix Firefighters, not only need
+to know the dangers of fire, but need to truly understand what fire is, how it develops, and how
+it reacts with our tactics. To carry out our mission of saving lives and property, we must have an
+in depth understanding of fire behavior and fire dynamics.
+This procedure is meant to be a glossary of fire science and fire behavior terms as well as
+reference tool for fire suppression fundamentals and tactics.
+UL-FSRI: Your Workplace Has Changed: You Need to Evolve
+UL-FSRI: There is No Substitute for Knowledge
+CHEMISTRY OF FIRE
+Fire: The term “fire” refers to how something burns. Fire is a rapid oxidation process, which is a
+chemical reaction resulting in the evolution of light and heat in varying intensities.
+Combustion: Combustion is a chemical process of oxidation that occurs at a rate fast enough to
+produce heat and usually light in the form of either a glow or flame.
+Modes of Combustion: Fire and combustion are similar conditions; however, combustion can
+occur without fire.
+There are two modes of combustion, non-flaming and flaming.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 1 of 29
+
+Non-Flaming Combustion: Non-flaming combustion occurs more slowly and at a lower
+temperature producing a smoldering glow in the material’s surface without flames.
+Flaming Combustion: Flaming combustion is commonly referred to as fire because it produces a
+visible flame above the material’s surface.
+Fire Models: Two models, the fire triangle and fire tetrahedron are used to explain the elements
+of fire and how fires can be extinguished.
+Fire Triangle: The oldest and simplest model, the fire triangle,
+illustrates the three elements necessary for combustion to occur:
+fuel, oxygen and heat. Remove any one of these elements and
+combustion will cease. The fire triangle best illustrates the
+elements required for non-flaming combustion; when burning is
+localized on or near the fuel’s surface where it is in contact with
+oxygen. Examples of non-flaming combustion include burning
+charcoal briquettes or smoldering wood or fabric.
+Fire Tetrahedron: Research into fire behavior has determined that an uninhibited chemical chain
+reaction must also be present in addition to the other elements of the fire triangle (fuel, oxygen
+& heat) in order for flames to occur. Therefore, the fire
+tetrahedron was created to explain flaming combustion.
+Each element of the fire tetrahedron; fuel, oxygen, heat &
+uninhibited chemical chain reaction must be present for
+flaming combustion. Removing any element of the
+tetrahedron interrupts the chemical chain reaction and
+stops flaming combustion.
+Fuel: Fuel may be found in any of three states of matter:
+solid, liquid, or gas. Only gases burn. For a solid or liquid
+to burn, they must be converted into a gas. Solids are
+converted into gas by pyrolysis and Liquids are converted to a gas by vaporization.
+Pyrolysis: Pyrolysis is the chemical
+decomposition of a solid material that is
+caused by the absorption of heat. When
+pyrolysis of a material occurs, gas is released
+from the solid material. Pyrolysis often
+precedes combustion.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 2 of 29
+
+Surface to Mass Ratio: significantly affects the ease
+of ignition of solid fuels.
+Vaporization: Liquids are converted into gas by
+vaporization. Examples of vaporization include
+boiling water or water in a container evaporating in
+sunlight. In both cases, heat causes the liquid to vaporize.
+Heat Energy: The transfer or flow due to the difference in temperature between two objects is
+called heat. Heat energy is a form of energy characterized by vibration of molecules and capable
+of initiating and supporting chemical changes and changes of state. In other words, it is the
+energy needed to change temperature of an object(s) – add heat, temperature increases; remove
+heat, temperature decreases.
+Temperature: Temperature is a measure of the degree of molecular activity of a material
+compared to a reference point. Temperature is measured in degrees Fahrenheit or degrees
+Celsius.
+Heat Release Rate: Heat release rate (HRR) is the rate at which fire releases energy – this is also
+known as power. HRR is measured in units of Watts (W), which is an International System unit
+equal to one Joule per second.
+Temperature vs Heat Release Rate: One candle vs ten candles – same flame temperature but 10
+times the heat release rate (see below). Both examples are producing 930° F - 2500° F in
+temperature. The single candle is producing ~ 80 W HRR. The ten candles are producing ~800
+W HRR.
+
+UL-FSRI: Understanding the Basics: Heat Release Rate vs Temperature
+Surface to Volume Ratio: Surface to volume ration significantly affects the ease of ignition of
+liquid fuels. The greater the surface area compared to volume, the faster the liquid will vaporize.
+An example of this is a gallon of gasoline within a small steel container sitting on the floor in the
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 3 of 29
+
+middle of a room (smaller surface area) or a gallon of gasoline spilled out on a floor all over the
+room (larger surface area). The fire in the container will not produce the same volume of fire as
+the floor that is covered in gasoline.
+Gaseous fuels can be the most dangerous because they are already in the natural state required
+for ignition. No pyrolysis or vaporization will be needed to ready the fuel. These fuels are also
+the most difficult to contain.
+Oxygen: Oxygen in the air is the primary oxidizing agent in most fires. Normally, air consists of
+20.8% oxygen. At normal ambient temperatures, materials can ignite and burn at oxygen
+concentrations as low as 15 percent. When oxygen concentration is reduced below 15%, the
+flaming combustion will diminish, causing combustion to continue in the non-flaming mode.
+This means that below 15% there will not be visible flames, but because combustion continues
+in the non-flaming mode, heat and dense, fuel rich smoke will continue to be produced. If
+oxygen is introduced to this type of atmosphere, the fuel rich environment can ignite and be
+hazardous to firefighters.
+Some fires involve fuels that contain chemical oxidizers (their own oxygen source) such as
+Ammonium Nitrate Fertilizer and Hydrogen Peroxide. These compounds can cause rapid
+burning rates, flame spread and explosions when they breakdown and do not depend on oxygen
+in the air to burn.
+When oxygen concentration is higher than 20.8%, materials exhibit very different burning
+characteristics. Materials that burn at normal oxygen levels will burn more intensely in oxygenenriched atmospheres. Many materials that do not burn at all in normal oxygen levels, may
+burn readily in oxygen-enriched atmospheres. Nomex, a fire-resistant fabric used in our PPE
+does not burn readily in normal oxygen concentrations. When placed in an oxygen enriched
+atmosphere, Nomex ignites and burns vigorously. Some petroleum-based materials may ignite
+spontaneously without an external heat source in oxygen-enriched atmospheres.
+HEAT TRANSFER: A number of natural laws of physics are involved in the transmission of heat.
+One is called the Law of Heat Flow; it specifies that heat always flows from a hot substance to a
+cold substance. The colder of two objects in contact with each other will absorb heat until both
+objects are at the same temperature.
+Heat can travel throughout a building by one or more of three methods: conduction, convection,
+and radiation. The following sections describe how this heat transfer takes place.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 4 of 29
+
+CONDUCTION
+
+CONVECTION
+
+RADIATION
+
+Conduction: Heat may be conducted from one body to
+another by direct contact of two objects or by an
+intervening heat-conducting medium (material). An
+example of this type of heat transfer is a cellar fire that
+heats pipes enough that the pipes ignite the wood
+inside walls remote from the fire. Another example is
+firefighters crawling on a hot floor that burn their
+knees.
+
+CONDUCTION
+
+Convection: Convection is the transfer of heat by the movement of air or liquid. When water is
+heated in a container, it expands and grows lighter, hence, the upward movement. Heated air in
+a building will expand (creating pressure) and rise. For this reason, fire spread by convection is
+mostly in an upward direction; however, air currents can carry heat in any direction. Convection
+currents are generally the cause of heat movement, from room to room, from floor to floor and
+from area to area. The spread of fire through corridors, up stairwells, and elevator shafts;
+between walls, and through attics is caused mostly by the convection of heat currents.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 5 of 29
+
+CONVECTION
+Radiation: Radiation describes heat transfer through the movement of heat waves. Heat and
+light waves will cause radiated heat to travel through a space until it reaches an object.
+
+RADIATION
+As the object is exposed to heat radiation, it will in return radiate heat from its surface. Radiated
+heat is one of the major sources of fire spread to exposures. Radiated heat is also one of the
+major causes of firefighter burn injuries and flashover in a compartment fire.
+
+UL-FSRI Understanding How Heat Transfers Through Turnout Gear
+Uninhibited Chemical Chain Reaction: The last part of the Fire Tetrahedron is the self-sustained
+uninhibited chemical chain reaction involved in flaming combustion. Understand that a
+chemical chain reaction occurs when fuels are broken down by heat and the reaction will cause
+the fire to continue to burn until the fuel or oxygen is exhausted, or an extinguishing agent is
+applied in sufficient quantity to interfere with the ongoing reaction.
+Extinguishment Theory: The extinguishment of fire is carried out by limiting or removing one or
+more of the essential elements in the combustion process (removing one of the sides of the fire
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 6 of 29
+
+triangle or tetrahedron). This is accomplished by one of four methods: heat reduction, fuel
+removal, oxygen removal or chemical flame inhibition.
+Heat Reduction: The most common method used to accomplish extinguishment is the
+application of water. This process of extinguishment is dependent on reducing the temperature
+of the fuel to a point where it does not produce sufficient vapor to burn.
+
+Fuel Removal: In some cases, a fire is effectively extinguished by removing the fuel source.
+Removal of the fuel source may be accomplished by stopping the flow of liquid or gaseous fuel
+or by removing solid fuel in the path of the fire. Another method of fuel removal is to allow the
+fire to burn until the fuel is consumed.
+Extinguishment by Oxygen Reduction: Reducing the oxygen content in an area also
+extinguishes the fire. Reduction of the oxygen content can be accomplished by flooding an area
+with an inert gas, such as carbon dioxide, which displaces the oxygen; or the oxygen can be
+reduced by separating the fuel from the air such as by blanketing it with foam or placing a cover
+on a pot. None of these methods work on those rare fuels that are self-oxidizing.
+Extinguishment by Chemical Flame Inhibition: Some extinguishing agents, such as dry chemical
+(sodium bicarbonate) and older systems such as Halon (halogenated hydrocarbons), interrupt
+the flame-producing chemical reaction and stop flaming. This method of extinguishment is
+effective on gas and liquid fuels, because they must flame to burn. Smoldering fires are not
+easily extinguished by this method because
+non-flaming combustion (represented by the
+fire triangle) does not require the presence of
+the chemical chain reaction present in flaming
+combustion (represented by the fire
+tetrahedron). Cooling is the preferred way to
+extinguish a smoldering fire.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 7 of 29
+
+Classes of Fires
+
+Solid Fuel Combustion: As solid fuels are exposed to heat, they absorb energy and increase in
+temperature. As the temperature of the solid rises, the solid fuel begins to decompose and
+break down. When it breaks down, it releases gas. Solid fuel when exposed to enough heat,
+will transform into a gas. The gas ignites and produces fire during flaming combustion.
+Pyrolysis: The chemical decomposition of a solid material that is caused by the absorption of
+heat. When pyrolysis of a material occurs, gas is released from the solid material. Pyrolysis
+often precedes combustion.
+Liquid Fuel Combustion: For liquid fuels to burn, they must release vapors and those vapors
+must mix with air so that the concentration of fuel is within the explosive/flammable range. A
+liquid fuel with a higher vapor pressure generates more fuel vapor than a liquid fuel with a lower
+vapor pressure. If heat is added to a fuel vapor, once the fuel concentration is within the
+explosive/flammable range, it is possible for it to ignite. A fire may then begin and grow
+wherever a flammable mixture is present.
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 8 of 29
+
+Flash Point: The lowest temperature of a liquid at which that liquid gives off sufficient vapors to
+ignite but will not continue to burn. Liquid fuels are classified according to their fire hazard
+characteristics. The classifications are based on the flash point of the liquid. Depending on the
+flash point temperature, liquids are grouped as to whether they are flammable (more of a
+hazard) or combustible liquids (less of a hazard).
+Flammable Liquid: A flammable liquid is a liquid that has a flash point below 100’F
+Combustible Liquid: A combustible liquid is a liquid that has a flash point equal to or greater
+than 100’F.
+Fire Point: Fire point is the lowest temperature at which a liquid will ignite and achieve sustained
+burning.
+Vapor Pressure: Vapor pressure is the ability of a liquid or solid fuel to vaporize. The higher the
+vapor pressure, the more vapors are released (the easier it is to off-gas).
+Vapor Density: The vapor density of gas refers to its density compared to air. Gases that have a
+vapor density around 1 will mix evenly with air. A gas with a vapor density greater than 1 is
+heavier than air. It will sink and collect in low areas. Gases that have vapor densities less than 1
+are lighter than air and will rise to the top of a compartment.
+Gaseous Fuel Combustion: In a fire, oxygen must chemically react with combustible fuel in a
+rapid oxidation process. For flaming combustion to begin and continue, the concentration of
+fuel vapor in the burning mixture (air and fuel) must be between the upper and lower explosive
+limits for that fuel. When the concentration of fuel in the air lies between the lower explosive
+limit (LEL) and the upper explosive limit (UEL), there is danger of the fuel igniting if a flame or
+other ignition source is present.
+Lower Explosive Limit (LEL): The lower explosive limit is the lowest concentration by volume of
+flammable gas in air that will support flame propagation. This is also known as lower
+flammability limit.
+Upper Explosive Limit (UEL): The upper explosive limit is the highest concentration by volume
+of flammable gas in air that will support flame propagation. This is also known as upper
+flammability limit.
+Explosive Range (aka Flammable Range): The range of gas to air mixtures in which ignition can
+occur. It is the range of gas to air mixture that exists between the lower explosive limit and the
+upper explosive limit.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 9 of 29
+
+Compartment Fire Development: To help understand fire behavior, the development of a fire in
+a compartment (room/enclosure etc.) has been broken down into 4 different stages:
+•
+•
+•
+•
+
+Incipient Stage
+Growth Stage
+Fully Developed Stage
+Decay Stage
+
+In each of these stages, the fire will have
+discernable characteristics (different fire
+conditions) which are used to identify the
+stage the fire is in. Since certain fire
+phenomenon are likely to occur during
+certain stages of fire development, a
+firefighter’s understanding and ability to identify these stages will help the firefighter better size
+up fire conditions and make better tactical decisions on the fireground. It is important to note
+that while most fires will pass through all 4 stages, some fires may not, e.g.: An arson fire may
+begin in the growth stage. In addition, some fires may pass through some stages more than one
+time. E.g.: A fire in the decay stage may redevelop into the growth stage following ventilation.
+Incipient Stage: The incipient stage is the earliest stage of a fire and begins with the actual
+ignition. The fire is generally small during this stage and burning is usually limited to the original
+materials of ignition. During this stage of fire development, radiant heat warms the adjacent
+fuels and continues the process of pyrolysis, increasing the volume of fire. A plume of hot
+gasses and flame rise from the fire and mixes with the cooler air in the room. As this plume
+reaches the ceiling, hot gasses begin to spread horizontally across the ceiling.
+In the incipient stage, there is plenty of oxygen and fuel available to burn. Oxygen levels in the
+air have not been significantly reduced by the fire. Some heat is being generated but the
+temperature in the room may only slightly increase. Incipient fires can be readily extinguished
+with the use of the proper fire extinguisher. It is essential to recognize that the transition from
+an incipient fire into the growth stage can occur quickly (sometimes in seconds) depending on
+the type and configuration of fuel involved.
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 10 of 29
+
+Growth Stage: The growth stage covers a wide spectrum of fire development. It is the period
+that usually begins when the original fire spreads to additional materials. As the fire grows, it
+may spread to other objects by any combination of heat transfer (conduction, convection or
+radiation), by direct flame impingement, or if foams or plastic materials are involved, they can
+melt, and drip liquid which is on fire. This burning liquid can pool on the floor while burning
+and ignite secondary items.
+Similar to the incipient stage,
+during the growth stage there is
+plenty of oxygen and fuel available
+to burn. During the very
+beginning of this stage, oxygen
+levels in the room may not have
+been significantly reduced by the
+fire. Oxygen rich air will be drawn
+into the flame as convection
+carries the heat to the uppermost
+regions of the confined area.
+The presence of this heated air will cause the temperature to begin to rise in the area and if left
+unchecked, may start a series of events that will lead to
+rapid fire development and flame spread. Rollover and
+flashover occur during the Growth Stage.
+Fully Developed Stage (Full Room Involvement): After a
+compartment fire has flashed over, the fire that remains
+within the compartment which has flashed over is
+considered to be in the fully developed stage. The
+burning fuels in the compartment are releasing the maximum amount of heat possible for the
+available fuel and/or oxygen, producing large volumes of fire gases. These gases may travel
+throughout the building and into building voids while mixed into heavy smoke. The larger the
+volume of fire and larger the volume of smoke produced; the larger the impact on survivability
+will be, even in remote areas of the building.
+Flammable products of combustion are likely to flow
+from the fire room into adjacent rooms or out through
+openings to the exterior of the building. Flames will
+extend out of the compartment openings because
+there is insufficient oxygen for complete combustion
+within the compartment itself.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 11 of 29
+
+Note: The fire is only fully developed within the compartment(s) that has flashed over. Fire
+spreading out of this compartment into other compartments or rooms may be in the growth
+stage and subject to additional rollover and flashover conditions.
+Decay Stage (Fuel Limited or Ventilation Limited): A fire enters the decay stage when all of the
+available fuel is consumed or when the oxygen concentration falls below 15% and flaming
+combustion is diminished. Both of these situations can result in the combustion reaction
+coming to a stop and the fire being completely extinguished if fuel or oxygen is never
+introduced. However, if a fire enters the decay stage due to reduced oxygen concentration,
+which is very common in the modern fire environment, any change in the ventilation of the
+compartment that adds oxygen before combustion has completely ceased, can cause the fire to
+rapidly redevelop. It is important to note that the cause for any fire to enter the decay stage is
+because the fire is either fuel limited or ventilation limited.
+Fuel Limited: If there is adequate ventilation and the fire consumes the available fuel in the
+compartment to the point that the heat release rate begins to decline, the fire enters the decay
+stage. This is because whatever fuel was burning has been entirely consumed and there is no
+additional fuel to burn. The fire has become fuel controlled.
+Ventilation Limited: If there is adequate fuel available and the fire consumes enough of the
+available oxygen in the compartment, the heat release rate will also begin to decline, and the fire
+will enter the decay stage because the flames do not have enough oxygen. There is still plenty
+of fuel that is available to burn, and the fuel, even while it is smoldering, is pyrolyzing and
+emitting a large volume of flammable gases into the compartment. In this situation, if no
+oxygen is introduced, after a lengthy time, combustion will cease and the fire will be completely
+extinguished. However, if oxygen is introduced before combustion has ceased, rapid fire
+development and/or backdraft may result.
+UL-FSRI: Fire Development Changes
+
+When a Fire Becomes Ventilation
+Limited
+THERMAL LAYERING
+Thermal Layering: The thermal
+layering of gases is the tendency of
+gases to form into layers according to
+temperature. The hottest gases tend
+to be near the top of the layering,
+while the cooler ones make up the bottom. Other terms that are sometimes used to describe
+this layering of gases are “heat stratification” and “thermal balance”.
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 12 of 29
+
+Thermal layering inside a compartment fire, is further broken down into two separate categories:
+The upper layer which is composed of the hot fire gases and the lower layer which is the cooler
+air below the hot fire gases. It is important to understand these terms for tactical reasons e.g. a
+thermal imaging camera can identify the thermal interface if the camera itself is positioned in the
+lower layer (cooler layer) looking at the upper layer (hot layer). A camera held in the hot layer
+will not be able to see the thermal interface.
+Upper Layer: Buoyant smoke and gases collected by the ceiling and walls of an enclosure that
+begin to form a relatively uniform layer of heated smoke and gases throughout the upper area of
+a compartment.
+As a fire develops in a compartment, over time, the hot rising smoke and fire gases spread
+across the ceiling and mushroom down into the room as they collect in a thick, relatively
+uniformed layer of hot gases throughout the upper layers of the enclosure.
+Once the upper hot layer is formed, the additional flow of gases from the fire continues to collect
+along the ceiling forcing the upper layer to descend downward into the room as the fire heat
+release rate and upper layer temperatures increase.
+Decreasing the heat of the fire within the enclosure will decrease the temperature and formation
+of hot gases that collect in the upper layer. If the heat is reduced, it can result in the contraction
+of gases in the upper layer. The contraction of upper layer gas volume will cause the upper
+layer to lift.
+Directly decreasing the temperature of the upper layer (i.e., through the application of water) will
+also result in a contraction of the upper layer gas volume as a result of the hot smoke cooling.
+This can delay or prevent flashover.
+Lower Layer: The lower layer is the zone beneath the upper layer which consists primarily of
+ambient air that is entrained into the fire.
+The cooler lower layer consists of air, at temperature and humidity levels closer to ambient
+conditions, drawn in through ventilation openings in the enclosure. As the hot gases rise in the
+buoyant plume, the cooler air is pulled in towards the fire.
+THERMAL INTERFACE AND INTERFACE HEIGHT
+Thermal Interface: The boundary between the upper and lower layers which is represented by a
+sharp transition from the hot smoke in the upper layer to the cool ambient air of the lower layer
+is called the Thermal Interface.
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 13 of 29
+
+Interface Height: The vertical distance from the floor of the enclosure to the thermal interface.
+
+Neutral Plane: The flow of smoke and fire gases through an opening is described as either
+unidirectional or bidirectional. Unidirectional flow occurs when the flow through the opening
+flows in one direction only (either into or out of the opening). Bidirectional flow occurs when an
+opening acts as both an inlet and an outlet for flows at the same time.
+
+UNI-DIRECTIONAL FLOWPATH
+
+BI-DIRECTIONAL FLOWPATH
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 14 of 29
+
+The horizontal line along a window or door or other ventilation opening where no flow occurs
+due to the equality of internal and external pressures. Above the neutral plane the flow of
+smoke and gases will be outwards and below the neutral plane the flow of cool air will be
+inwards.
+
+The volume of hot smoke generated by the fire largely
+determines the pressure distribution in the
+compartment under fire conditions. As the hot smoke
+rises and accumulates, the pressure at the ceiling will
+rise. Similarly, the pressure at the floor will be lower, as
+cool air is entrained. Above the neutral plane the
+pressure inside the enclosure will be higher than the
+exterior pressure and cause the direction of flow to be
+outward. Similarly, below the neutral plane the
+pressure inside the enclosure will be less than the exterior pressure, and the flow of cool air will
+be inward toward the fire.
+The horizontal line between the inflow and outflow at a ventilation opening (i.e., at the plane
+where there is zero pressure difference and thus zero flow in or out of the opening) is known as
+the neutral plane. The position of the neutral plane can often be observed during a fire, given
+that the outflow often consists of visible smoke or fire.
+Note: The neutral plane is different from the thermal interface because the neutral plane only
+occurs at a ventilation opening. Neutral plane indicates pressure differences at an opening and
+may be used by firefighters outside the building to help determine the fire location within a
+building.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 15 of 29
+
+Thermal Interface and interface height refer to the separation between the hot upper layer and
+the cool lower layer within a compartment. Thermal Interface and the interface height indicate
+heat differences (how much volume of a compartment is filled with heat). It can be used by
+firefighters to identify how far the hot upper layer has banked down and the possibility of
+flashover.
+SMOKE: The smoke encountered at most fires consists of a mixture of oxygen, nitrogen, carbon
+dioxide, carbon monoxide, hydrogen cyanide, finely divided carbon particles (soot), and a
+miscellaneous assortment of products that have been released from the material involved.
+Two of the most toxic gases are carbon monoxide and hydrogen cyanide which are both
+chemical asphyxiants and are responsible for many fire deaths. These gases are highly toxic
+and pose a significant threat to human life.
+The combination of fire gases produced during combustion and present in smoke are flammable
+and contribute greatly to rapid fire development. For this reason, firefighters shall consider
+smoke to be additional fuel.
+When air is heated it becomes more buoyant (hot air rises). In addition to buoyancy, more than
+three-quarters of air is made up of nitrogen. The energy released by the fire causes the nitrogen
+to expand which drives a significant increase in the volume of the air.
+The buoyancy of hot air and expansion of nitrogen can push significant volumes of smoke
+through openings to the exterior or to other parts of the structure. Because smoke is suspended
+in air, the smoke is a visible indicator of how much hot air is rising and how fast the nitrogen is
+expanding. The value of “reading smoke” is tremendous in performing a size up of the fire.
+To accurately size up a fire by reading smoke, a firefighter must evaluate five characteristics of
+the smoke: Volume, Velocity, Density, Color and Stratification.
+Smoke Volume: In many instances, smoke may be the only visible indicator of a fire. The
+volume of smoke may indicate the size, location and stage of the fire within a structure.
+However, the volume of smoke may not always be visible and can be concealed by various
+building configurations.
+Smoke Velocity: Smoke velocity is an indicator of pressure that has built up within a structure.
+The pressure is developed by buoyancy and expansion due to the amount of heat released by
+the fire. Smoke flow can be either laminar (smooth) or turbulent based on the velocity and
+temperature. Cooler smoke appears to flow smoother. Hotter smoke will appear to boil and
+move quickly upwards in a turbulent fashion.
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 16 of 29
+
+A. Turbulent Smoke indicates extreme heat (closer to the fire)
+B. Laminar Smoke indicates low heat (either because it is a small fire, or the smoke is
+remote from the fire and has cooled)
+
+LAMINAR SMOKE
+
+TURBULENT SMOKE
+
+Smoke Density: The apparent density “thickness” of the smoke can be a good indicator of the
+efficiency of the combustion process. In the early fuel-limited stages where there is plenty of
+oxygen, the rate of smoke production is lower than in later stages when the fire is becoming
+ventilation-limited. A large fire which is severely ventilation limited, will produce large volumes
+of thick dense smoke.
+A. Dense smoke can indicate the fire is a ventilation-limited fire.
+SMOKE COLOR
+Black: Dark smoke often indicates fuel-rich conditions, due to restricted air supply (ventilation
+limited). Where flaming or smoldering combustion occurs, the carbon in the fuel is released as
+soot in the smoke, resulting in a very dark color. If the air supply is sufficient, more of the
+carbon will react and will produce a lighter colored smoke and brighter flame. If air supply is
+restricted, less carbon reacts and becomes suspended in the smoke producing a darker colored
+smoke.
+Thick dark smoke indicates an abundance of fuel that was not burned in the fire and is now
+suspended in the smoke. Given the right conditions, this suspended fuel can ignite.
+Brown: Brown smoke can indicate the early stages of the pyrolysis of timber products. The
+brown color is caused by the process of wood breaking down. In a wood framed building, the
+presence of brown smoke may indicate that the structure is involved.
+Grey: Grey smoke indicates that at least some flaming combustion or smoldering combustion is
+present. Dark smoke that has travelled some distance can cool and large carbon particles
+suspended in the smoke can adhere to surfaces. The further the smoke travels, the more carbon
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 17 of 29
+
+it can lose, resulting in a grey smoke. In a building issuing dark smoke from some areas and
+grey smoke from other areas, usually the areas with grey smoke are remote from the fire.
+White: Application of water to a large fire will generate large amounts of steam which can mix
+with smoke and create condensation that gives the appearance of white smoke. In this situation,
+the white color can indicate water is on the fire. The more white condensation that is visible,
+combined with a reduction in the volume and velocity of dark smoke, indicates progress is being
+made in extinguishment.
+White smoke (not steam) is produced when certain fuels are heated to their pyrolysis
+temperature and volatile components are released. If the heat continues to increase and there is
+insufficient oxygen even for smoldering combustion, then the production of white smoke will
+continue. White smoke can have a very high fuel content (white ghost), represents a significant
+danger, and should never be treated lightly. When white smoke mixes with oxygen and finds an
+ignition source, there is potential for a very sudden and powerful ignition.
+Smoke Stratification:
+A. Smoke usually stratifies in layers sometimes corresponding with the upper and lower
+layer. As a fire develops within an enclosure, the thermal interface will lower. The
+interface height can usually be observed by observing the smoke stratification or using
+the thermal imaging camera.
+B. The location of the interface (its height in the room) and the neutral plane is important
+when assessing the potential for rapid fire development.
+1. A high interface could indicate the fire is in early stages of development or that
+you are remote from the fire area.
+2. A sudden rise in the interface could indicate that ventilation has occurred.
+3. Gradual lowering of the interface often indicates a buildup of hot fire gases, a
+situation that could progress to rollover and flashover if left uncontrolled.
+4. A sudden lowering of the interface could indicate a rapid intensification of the fire.
+5. A neutral plane that is at or near floor level may indicate that the fire is on a floor
+below.
+FLOW PATH & FIRE TRAVEL
+The flow path of a fire describes the route that smoke and flame move away from the seat of the
+fire toward any outlet(s), as well as the corresponding flow of air into the fire from any inlet(s).
+Normal Air inside a compartment is made up of gases (such as oxygen and nitrogen). When this
+air is heated, the gases expand, and the expansion of gases create pressure.
+Flow Path: The area(s) within a structure fire where fire, heat, smoke and air flows from an area
+of higher pressure to an area of lower pressure.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 18 of 29
+
+Flow Path Management: It is possible to reduce the rate of fire growth if the inlet(s) and/or
+outlet(s) can be closed or restricted. In addition, the purposeful management of the flow path
+can increase firefighter safety during operations.
+There may be several flow paths within a structure depending upon the building design and the
+available ventilation openings (i.e. doors, windows, shafts). The flow within the flow path may
+be characterized as being unidirectional, bidirectional or dynamic. The shape and position of the
+smoke/air track at a vent opening can be an important indicator of the intensity of the fire.
+Velocity and Direction: When an opening is created in a fire area, the heated gases will flow out
+of the top of the opening, and cool air will flow in through the bottom of the opening.
+A sudden inward movement of the air track could indicate the potential for rapid fire
+development. In these cases, the sudden inward rush of air will cause the fire to intensify and be
+followed by an outward rush of smoke and/or flame.
+Smoke or flame being discharged from the entire ventilation opening (no neutral plane visible)
+usually indicates that it is an outlet and that there is at least one inlet located somewhere else in
+the structure.
+An opening that is both a ventilation inlet and outlet will show signs of laminar (smooth) or
+turbulent flow at the neutral plane depending on the stage and intensity of the fire.
+A. Unidirectional Flow
+A unidirectional flow is a flow of smoke, flame or air moving in a single direction across
+the full area of the opening. A unidirectional flow path can exist as either an exhaust or
+an inlet.
+B. Bidirectional Flow
+Bidirectional flow describes a smoke/air flow moving in opposing directions within the
+same openings.
+C. Dynamic Flow
+A unidirectional or bidirectional flow of smoke/air that presents irregular stratification and
+shape, or alternates in direction (pulsates) is identified as dynamic flow.
+Under normal fire conditions, there should be a clearly identified unidirectional flow or clearly
+delineated bidirectional flow of smoke/flame from a vent opening.
+Under normal wind conditions, a room with only one opening will display a bidirectional
+smoke/air track with a visible neutral plane. In a wind-impacted scenario, the opening can
+aggressively alternate from a total inlet to a total exhaust outlet with a range of unique vent
+profiles. This would be an example of Dynamic Flow.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 19 of 29
+
+UL-FSRI: Fire Flows from High
+
+Pressure to Low Pressure
+DANGEROUS FIRE EVENTS
+Generally speaking, in a developing
+compartment fire, rollover occurs
+before flashover. Understanding
+and being able to recognize rollover
+and flashover conditions and being
+able to identify a ventilation-induced
+flashover environment and other
+dangerous fire events are key factors
+in Fire Dynamics Size-Up. The
+following section will describe dangerous fire events such as rollover, flashover, ventilationinduced flashover, backdraft, black fire, smoke explosion, flash fire, BLEVE and Boilover.
+Rollover
+As the fire develops and the thermal layer has been formed, pockets of flame may begin to form
+in the upper layer as the first indication that unburned fuel in the hot smoke may be coming
+close to its auto-ignition temperature. If it does ignite, a rollover occurs.
+Rollover: A condition where the unburned fire gases that have accumulated at the top of a
+compartment ignite and flames travel through the hot gas layer across the ceiling.
+Rollover is when the heated gasses rising from the fire accumulate at the ceiling level. These
+heated gases are pushed, under pressure, and spread horizontally across the ceiling. While
+these gasses are banking down, they are forming the upper layer and are mixing with oxygen.
+The upper layer becomes a flammable mixture of heated gases. When their flammable range is
+reached, they ignite and a fire develops, with fire expanding very rapidly and rolling over the
+ceiling away from the main body of fire. Rollover occurs during the growth stage.
+Rollover is different from flashover because in rollover primarily the gasses are burning not the
+entire contents of the room. However, during a rollover event, such a significant amount of
+radiant heat (energy) is added to the room, that usually within seconds, flashover will occur. For
+this reason, the presence of rollover indicates that flashover is imminent.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 20 of 29
+
+FLASHOVER
+Flashover is a transition phase in the development of a compartment fire in which surfaces
+exposed to thermal radiation reach ignition temperatures and ignite more or less
+simultaneously.
+Flashover: The simultaneous ignition of all of the combustible materials in a compartment and
+all of the gases built up in the compartment produced by pyrolysis.
+During flashover, the environment of the room is changing from a two-layer condition (Upper
+Layer and Lower Layer/ hot on top, cooler on the bottom) to a single well mixed, untenable hot
+gas condition from floor to ceiling. The temperature in the compartment typically exceeds 1100’
+F. In order for flashover to occur, there must be an enclosed space such as a single room.
+Virtually all combustible surfaces in the enclosed space become ignited during flashover.
+The transition period between pre-flashover fire conditions to post-flashover can occur rapidly.
+During flashover, the volume of fire will increase to fill the entire volume of space in the room;
+with fire and burning gases likely extending out of any openings in the room (windows, doors,
+etc.) with substantial velocity.
+Flashover occurs during the growth stage. Once flashover has occurred, the fire within the
+compartment is said to be in the Fully Developed Stage.
+Note: The Geometry (the size, shape and volume) of a room affects the formation of the upper
+layer and thus the heat transfer within a given fire compartment. A flashover may take longer to
+occur in compartments that have
+peaked ceilings or cathedral
+ceilings since these features make it
+difficult for the upper layer to form.
+Lack of upper layer formation limits
+the amount of radiant heat
+produced and radiated back
+towards the fire and other fuels in
+the compartment.
+Ventilation-Induced Flashover:
+When a fire enters the decay stage
+before flashover occurs due to a
+reduction in oxygen, but then redevelops and flashover occurs when oxygen is admitted to the
+fire, is called a ventilation-induced flashover.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 21 of 29
+
+Ventilation-Induced Flashover: A flashover initiated by the introduction of oxygen into a preheated, fuel rich (smoke filled) oxygen deficient area.
+Ventilation-Induced Flashover has become prevalent with modern content fires. Modern content
+fires rapidly consume more of the available oxygen within the fire compartment creating
+conditions favorable for a ventilation-induced flashover to occur.
+Ventilation-Induced Flashover occurs when oxygen is introduced to a fire which has entered an
+early decay stage. Once ventilation-induced flashover occurs, the fire within the compartment is
+said to be in the Fully Developed Stage.
+Ventilation-Induced Flashover is similar to a backdraft except a backdraft involves significantly
+more pressure, causing an explosion.
+
+Ventilation will initially relieve built up heat and smoke even when conducted ahead of hoseline
+operations. While all ventilation openings may have an impact on the fire, a member taking a
+window of a fire room in the oxygen deficient early decay stage will have more immediate effect
+on fire regrowth than opening the fire apartment door down the hall. If water is not applied to
+the seat of the fire soon after ventilation occurs, this temporary improvement period may be
+followed by a rapid deterioration of conditions, potentially leading to flashover.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 22 of 29
+
+In oxygen depleted environments, this temporary improvement period can last for an
+unspecified amount of time; it can be seconds or several minutes. It is important to note that
+there is no way to accurately
+determine how long this temporary
+improvement period will last. Factors
+impacting fire rapid re-growth include
+size and location of the fire, size and
+location of the ventilation opening,
+building dynamics and flow paths
+established between the fire and
+ventilation opening(s). Firefighters can
+extend the temporary improvement
+period by coordinating ventilation with
+fire attack.
+
+Black Fire: The occurrence of Black Fire is a condition when thick, turbulent superheated fuel rich
+black smoke has been heated well beyond its ignition point but is so rich with gasses it is
+beyond its flammable range and is too rich to burn. Black Fire occurs in areas of the fire building
+which are said to be in the Growth Stage. This can and often does include areas above or
+adjacent to rooms of fire that are fully involved and in the fully developed stage.
+It is called Black Fire because at the area affected there will be no visible flames, just dark black
+superheated turbulent smoke. The smoke will be so hot that it will act as if it were fire. This
+means that the heat from Black Fire will be searing and destructive and it will pyrolyze and
+consume materials in its path. It can severely burn firefighters.
+When Black Fire conditions are present, there is usually an area ahead of the Black Fire area
+where the main body of fire is free burning and heavily involved in flames. In the Black Fire Area
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 23 of 29
+
+itself, the smoke will be too rich to burn and there will be no visible flames. Behind the Black Fire
+area, as the smoke travels remote from the fire area and mixes with more air, there may be an
+area where the smoke ignites. This ignition can occur in a room behind firefighters who are
+operating in the black fire area causing them to become trapped. Ignition can also occur on the
+exterior of the building when the smoke ignites as it is released from a window or door and
+mixes with air in the atmosphere. This is known as vent point ignition.
+Black Fire is an extremely dangerous condition to be operating in. Upon recognition of Black
+Fire Conditions, treat the Black Fire smoke as if it were flames. Immediately flow water into the
+smoke layer with a hoseline to aggressively cool the area. If you are unable to immediately cool
+the area, isolate our forces from the fire area by closing a door or some other means if possible,
+or retreat to an area of safety.
+SMOKE EXPLOSION
+A smoke explosion can occur either inside or outside the fire compartment when an
+accumulation of fuel-rich smoke mixes with additional air and falls within its
+flammable/explosive range. A smoke explosion can occur without warning and occurs without
+a sudden change in ventilation.
+Smoke Explosion: A rapid fire development that occurs when a smoke-air mixture falls within
+its flammable range, either internal or external to the fire compartment, and is ignited in a
+manner resulting in a significant pressure front. A smoke explosion occurs without an
+immediate ventilation triggering event.
+One common example occurs when smoke migrates and accumulates in hidden areas such as
+rooms remote from the fire area or void spaces (including cocklofts, attics, or voids within walls).
+This smoke then mixes with air to fall within its flammable range and encounters an ignition
+source (or is at a temperature above its auto-ignition temperature), resulting in a flame front
+propagating through the mixture.
+If ignition occurs in a relatively confined space (cockloft, small room, etc.), or if obstacles
+promote turbulence, the flame front may accelerate, leading to an over pressure situation that
+may result in structural damage and/or injury or death of nearby firefighters.
+BACKDRAFT
+Backdrafts are caused when there is an introduction of oxygen to a compartment that has been
+pressurized by the smoke and fire gases of an oxygen-deficient fire in the Decay Stage. Similar
+to smoke explosions, backdrafts are accompanied by a significant over-pressure.
+Backdraft: A deflagration resulting from the sudden introduction of air into a confined space
+containing oxygen-deficient products of incomplete combustion.
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 24 of 29
+
+During a backdraft, the ignition pushes unburned fuel-rich gases ahead of the burning smoke-air
+mixture as it expands. A large fire ball results as the burning flammable and smoke-air mixture
+is forced, under pressure, from the compartment. The over-pressurization and dramatic fireballs
+produced during backdraft can result in damage to the structure and extension of the fire
+beyond the compartment, and pose several risks to firefighters who are in its path.
+A backdraft may lead to a heavy fire condition or may expel all of the fire gases, leaving only
+localized combustion in its path.
+Backdraft Indicators
+No visible/active flaming within the compartment and extremely limited or no ventilation of the
+fire compartment
+Sometimes but not always in conjunction with the following:
+Pulsating smoke, usually pulsating in an in-and-out movement, giving the impression the
+“compartment is breathing.” Grey-Yellow smoke seeping out from around closed and intact
+doors and windows. Doors and windows usually very hot and window glass discolored and/or
+cracked from the heat.
+Note: It is important to note that while some or all of these indicators may be present to
+indicate the possibility of a backdraft, it is possible for a backdraft to occur without
+indications that the fire is in the decay stage being visible from the exterior of the
+compartment.
+Note: Distinguishing between Smoke Ignitions
+A. Backdrafts and Smoke Explosions will be considered the same; except that Backdrafts will
+occur immediately following ventilation of the affected compartment.
+B. An event will be considered a Smoke Explosion if it occurred without immediate and
+direct ventilation of the affected area.
+FLASH FIRE (PROPAGATING FLAME FRONTS)
+Flash fires involve a flame moving through a flammable mixture with considerable speed,
+without developing a significant over-pressure.
+Flash Fire: A fire that spreads by means of a flame front rapidly through a diffuse fuel, such as
+dust, gas or the vapors of an ignitable liquid, without the production of damaging pressure.
+Flash fires can happen within a fire compartment (such as during overhaul) when embers or
+sparks can act as an ignition source or external to the compartment in any remote location
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 25 of 29
+
+where a flammable mixture has collected. Flash fires usually self-extinguish, although
+sometimes may ignite secondary fires.
+Examples of Flash Fires include ignition of dust in a wood shop, vapors from a roach bomb or
+vapors from a newly stained wood floor.
+Note: Flash fires which occur in a confined space can cause an over pressure condition and
+result in an explosion. This condition would be referred to as an explosion. (e.g., dust
+explosion).
+BOILING LIQUID EXPANDING VAPOR EXPLOSION (BLEVE)
+A BLEVE is an explosion caused by the rupture of a vessel containing a pressurized liquid that
+has reached temperatures above its boiling point.
+Characteristics of the stored liquid, as well as the storage container, are important in
+determining whether there is potential for a BLEVE to occur. When a liquid is heated above its
+boiling temperature, it will vaporize, causing an increase in pressure in the container. If the
+boiling liquid is in a sealed, rigid container, the pressure in the container will increase as more
+liquid boils. If the container is vented, the extra pressure will be released to equalize the
+pressure inside the container with that outside the container (atmosphere). If the container is
+not vented, or if the relief vent cannot release the building pressure fast enough, the pressure
+inside the storage container will increase.
+A BLEVE occurs when (1) the liquid in a pressurized vessel is at or heated to a temperature that
+exceeds it boiling point and (2) the container ruptures, either due to excessive build-up in
+pressure, or due to tank failure caused by mechanical or thermal damage.
+When the rupture is catastrophic, the contents of the vessel will boil almost immediately on
+release, causing a rapidly expanding vapor cloud. Depending on the temperature, pressure and
+type of liquid involved, this expansion may be so rapid that it is classified as an explosion and
+can cause significant damage to its surroundings. If the liquid involved is flammable, the
+expanding vapor cloud may also be flammable and ignite creating a fire.
+BOILOVER
+An event in the burning of certain combustible liquids in an open-top tank when, after a long
+period of quiescent burning, there is a sudden increase in fire intensity associated with the
+expulsion of burning oil from the tank (NFPA).
+When water is added to the fuel, it sinks to the bottom of the container and has little effect on
+extinguishing the flames which are on the surface of the fuel. Under certain conditions, the
+water vaporizes into steam causing it to expand more than 1700 times in volume. The rapidly
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 26 of 29
+
+expanding steam expels the fuel upward and out of the container, which ignites and results in a
+large plume of burning liquid outside of the container.
+Boilover commonly occurs in residential kitchen fires when water is added to a grease/oil fire in
+an attempt to extinguish the fire. Boilover can be more catastrophic when occurring in a larger
+flammable liquid fire such as a transformer fire or tanker truck fire. In most cases, water (without
+a suppression additive) has little extinguishing effect on flaming liquid fires.
+STACK EFFECT
+“Stack Effect” is a term used to describe the movement of air throughout a building that occurs
+when the temperature of the interior of a building is different than the temperature of the
+external environment. Stack Effect occurs in buildings of all sizes including private dwellings;
+although in hi-rise buildings it is significantly more prominent.
+Stack Effect encompasses two distinct dynamics; it affects internal vertical air movement inside
+the building (up and down the shafts), as well as horizontal air movement (into or out of a floor
+within the building). Horizontal air movement occurs as air is exchanged between the building’s
+interior and the external environment (in and out windows) or is exchanged within the building
+from a given floor into or out of a vertical shaft.
+Impact of the Stack Effect
+The Stack Effect impacts air movement in a building in two distinct ways:
+A. It impacts the vertical direction and magnitude of air movement inside the building itself.
+Air inside the building can either move up or down the vertical shafts. This movement
+will affect the movement of smoke throughout the building.
+B. It impacts the horizontal direction and magnitude of air being exchanged between (1) the
+interior of the building and the external environment and (2) the horizontal air movement
+on each individual floor to and from the vertical shafts. Air can either be pulled into the
+building through available openings (windows, doors), or it can be pushed out of the
+building. Likewise, air can be pulled into a particular floor from a vertical shaft or pushed
+out of a particular floor into the shaft. This horizontal movement can affect fire and/or
+smoke conditions depending on the direction of air movement.
+Stack Effect Neutral Pressure Zone
+Near the center of the building there will exist an area that experiences no horizontal air
+exchange at all (air will not be pulled into or pushed out of an opening or pulled into or pushed
+out of a floor due to stack effect). This area is called the “Stack Effect Neutral Pressure Zone”.
+The magnitude of horizontal air movement at other parts of the building depends on the
+distance from this central point; the further the opening is from the middle floor of the building,
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 27 of 29
+
+the stronger the Stack Effect will be. This means that lateral air movement will be strongest at
+openings (windows) or locations on the uppermost and bottommost floors.
+This condition can cause smoke and fire gasses to bypass several floors near the center of the
+building (near the stack effect neutral pressure zone), only to be pulled into floors somewhere
+above or below the center of the building depending on the direction of the stack effect.
+Magnitude of the Stack Effect
+The magnitude of the Stack Effect will be dictated by the size of the temperature differential
+between the interior of the building and the exterior environment and the height of the building.
+A. Stack Effect will be more prominent in extreme weather, when air conditioning or heating
+systems make the temperature inside the building remarkably different from the outside
+temperature.
+B. Taller buildings will experience a more powerful Stack Effect because more air will be
+moving over a longer distance inside the building. Also, the presence of large vertical
+shafts (stairways, elevators, compactors, etc.) will contribute to the strength of the Stack
+Effect.
+Direction of the Stack Effect
+The direction of the Stack effect will be dictated by whether the interior of the building is warmer
+or cooler than the external environment. There is a critical difference, as the air will move in
+opposite directions depending on this factor and will have the opposite impact on smoke
+movement and fire conditions in different parts of the building.
+A. Positive Stack Effect (Winter) is when the interior of a building is warmer than the
+external environment.
+B. Negative Stack Effect (Summer) is when the interior of a building is cooler than the
+external environment.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 28 of 29
+
+Two Different Situations:
+
+Positive Stack Effect (Winter) vs. Negative Stack Effect (Summer)
+Positive Stack Effect (Winter)
+A. In cold weather, air inside occupied buildings is warmer than the air outside the building
+due to internal heating systems.
+B. As a result, air and smoke movement inside the building will travel upwards via vertical
+shafts and attempt to exit the building via available openings near the top of the building.
+At the bottom of the shaft, a negative pressure will be generated, which will have the
+effect of pulling air into the shaft via available openings near the bottom of the building.
+C. A fire on an upper floor will tend to want to vent out of the windows.
+D. A fire on a lower floor will tend to draw air into the windows creating conditions similar
+to a wind impacted fire.
+E. Smoke from a lower floor fire will be drawn up vertical shafts within the building and
+pulled back into floors with greater force as you go higher in the building and further
+away from the stack effect neutral pressure zone.
+Negative Stack Effect (Summer)
+A. In hot weather, air inside occupied buildings is cooler than the air outside the building
+due to internal air conditioning systems.
+B. As a result, air inside the building will travel downwards via vertical shafts and attempt to
+exit the building via available openings near the bottom of the building. At the top of the
+shaft, a negative pressure will be generated, which will have the effect of pulling air into
+the shaft via available openings near the top of the building.
+C. This is also known as “Reverse Stack Effect.”
+D. A fire on an upper floor will tend to draw air into the windows creating conditions similar
+to a wind impacted fire.
+E. A fire on a lower floor will tend to want to vent out of the windows
+F. Smoke from an upper floor fire will be drawn toward the vertical shafts within the
+building and will typically travel downward. It can be pulled back into floors with greater
+force as you go lower in the building and further below the stack effect neutral pressure
+zone.
+
+FIRE BEHAVIOR GLOSSARY & REFERENCE
+Page 29 of 29
+
+

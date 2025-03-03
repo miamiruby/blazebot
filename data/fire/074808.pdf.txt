@@ -1,0 +1,139 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Portable Radios
+M.P. 205.21
+
+05/18
+
+Page 1 of 5
+
+Purpose
+The purpose of this procedure is to outline the features and proper use of portable radios.
+The best means of communication at an emergency scene is face-to-face. Face-to-face
+communication should be utilized whenever possible within the company or sector.
+Portable radios will be used whenever distance or circumstances prevent face-to-face
+communication. Radio transmissions should be prioritized and concise.
+Radio Familiarization
+It is critical to be familiar with the operation and position of all portable radio capabilities and
+controls. This familiarity will allow personnel to operate their radio in zero visibility.
+Current portable radio equipment is the Motorola APX7000XE. The front of the radio houses
+both the speaker and microphone to receive and transmit messages. An additional microphone
+is located on the back of the radio. The rear microphone is used primarily by the radio software
+to reduce background noise in the radio transmissions, however, if the front microphone fails,
+the rear microphone can be used to transmit.
+The top of the radio has many of the radio controls. The removable antenna is located on the
+top right.
+APX radios have multiple channel capabilities. The Hazard Deck "A”: (Fire Channels) 1 through
+16. The Non-Hazard Deck “K” (Trunked Channels) 1 through 16. The Phoenix Police channels are
+also located in the radio programming, amongst additional channels that allow seamless
+interoperability with many outside agencies when needed.
+The channel selector knob is located immediately next to the antenna. Turning the channel
+selector switch clockwise enables the user to access channels 1 through 16. Channel 16 on both
+the “A” and “K” decks are programmed with the same information as the Channel 1 position on
+the respective deck. A1 and A16 are both programmed as Fire Channel 1. K1 and K16 are both
+programmed as Fire “K” Deck 1. In the event you are unable to determine what channel you are
+operating on, completely spinning the dial either direction will place you on Channel 1 where a
+dispatcher is always staffed.
+A small black toggle switch at the base of the channel selector knob will lock or unlock the
+programmed buttons. When the switch is to the right in the lock position, you will not be able
+to use any of the side buttons with the exception of the Push-To Talk (PTT) button.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Portable Radios
+M.P. 205.21
+
+05/18
+
+Page 2 of 5
+
+The flat selector switch or toggle switch adjacent to the channel selection knob allows the user
+to switch between hazard deck (RED) "A,” the non-hazard deck (YELLOW) "K,” and the Phoenix
+Police (BLUE) “A” deck patrol channels.
+The on/off/volume selector switch is the second knob from the antenna. The knob will turn the
+radio on or off and control the radio volume. Turning this knob clockwise turns the radio on and
+increases radio volume.
+Between the antenna and the channel selector knob is the orange emergency traffic button.
+Depressing this button sends an emergency traffic signal to the dispatch center identifying the
+unit ID of the portable radio. Dispatch will contact the unit to verify/confirm emergency traffic
+transmission.
+The left side of the radio (as the user faces the speaker) has several buttons; the top button
+(purple) is the backlight button. Depressing this button will illuminate the screen to display the
+current channel. The long vertical button is the push-to-talk (PTT). This button must be
+depressed to transmit radio messages. The radio cannot receive messages while this button is
+depressed. Below the PTT button are the channel zone up and channel zone down buttons.
+Depressing these buttons will cycle the zone of channels that the radio is on. When you reach
+the desired zone, release the button and the zone will lock to that selected zone. Then you can
+change to the correct channel as needed.
+Turning the radio off and then on again will reset the radio to the zone that is selected on the
+top of the radio on the multi-colored sticker. Simply change that selector to the correct default
+zone that you wish to be on.
+The right side of the radio is equipped with contacts for a remote mic (RSM). The recognized
+best practice is to place the radio in your turnout coat pocket and use an RSM remote mic
+clipped to your turnout coat to protect the radio from the environment whenever possible
+The battery can be removed by pressing the release tabs on both the left and right side of the
+battery.
+Radio Operation
+All operations members will have a portable radio assigned for their use. Each member will be
+responsible for the security, proper use and maintenance of their radio. All radios should be
+checked for proper operation at the beginning of each shift/whenever necessary. Radios not
+functioning properly should be red tagged and the PFD Service Desk (602-261-8030 Option 1)
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Portable Radios
+M.P. 205.21
+
+05/18
+
+Page 3 of 5
+
+should be notified. Any radios unaccounted for must be reported immediately with a Police
+Report and LSD form completed before a replacement can be issued.
+Each member is responsible to carry their assigned radio on all emergency incidents. At other
+times the radio will be carried at their discretion or secured in the fire vehicle.
+The Captain or designee should ensure that each member is rostered into the MCT and
+attached to the proper radio positon. Each apparatus has assigned radios and positions that are
+coded into the CAD dispatch system for safety and accountability. It is important that when a
+member is using a radio, they are using the radio they have been assigned in the MCT roster.
+Battery status should be checked on a daily basis. A flashing green/yellow light on the vehicle
+charger indicates that the batteries need reconditioning and the battery should be exchanged
+with a fully charged battery from the station charger, and the old battery placed into the
+station charger for reconditioning.
+The use of the order model is required when transmitting or receiving messages.
+Portable radio identification is as follows:
+•
+•
+•
+•
+
+Engine 1 or Ladder 1 will apply to the Captain of the Fire Company.
+Pump 1 or Truck 1 will apply to the Driver of the Fire Company.
+The remaining personnel will go by their Fire Company ID and their name.
+o Example: Engine 1 -- Firefighter Jones to Command
+Single person vehicles will use their assigned vehicle ID
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Portable Radios
+M.P. 205.21
+
+05/18
+
+Page 4 of 5
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+Portable Radios
+M.P. 205.21
+
+05/18
+
+Page 5 of 5
+
+

@@ -1,0 +1,356 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+M.P. 206.08
+
+TANK FARM
+01/04-R
+
+Page 1 of 7
+
+The Tank Farm, located southwest of the intersection of 51st Avenue and Van Buren Street and
+Swissport Fueling at 4200 E. Airlane are major tactical hazards. Due to the degree of the hazards and
+the complexity of the occupancies involved, it requires special pre-fire planning considerations that are
+included in this procedure.
+The Tank Farm serves as the primary distribution point for petroleum products in the Phoenix area.
+Most All of these products arrive at the Tank Farm by pipe line or by rail car and are delivered to the
+tanks operated by various companies and agencies.
+Large quantities of products, primarily flammable and combustible liquids, are stored at this location
+and distributed to service stations and other users by tank truck or through additional underground
+pipelines.
+The incoming pipelines are operated by Kinder Morgan Pipelines, Inc., which also owns and operates
+most of the main facility. A number of different companies and agencies store and distribute products
+from adjoining facilities. A piping manifold system provides for the distribution of products among the
+individual facilities. The central manifold is located on 53rd Avenue in the Kinder Morgan Pipelines yard
+in the middle of the Tank Farm area.
+Kinder-Morgan and Swissport Pipelines
+The pipeline system delivers products to the Tank Farm at a high rate of flow.
+(The incoming flow rate may be up to 6300 GPM.) An operator is on duty 24 hours per day at KinderMorgan who can shut down the flow if necessary. In the event of any major spill, including tank
+overfilling or a ruptured pipe, orders must be given to shut down the pipeline by the on duty operator.
+To shut down the pipeline, Command should direct the Dispatch Center to contact Kinder Morgan
+Pipelines to relay this instruction. The telephone numbers are in CAD. It takes several minutes to fully
+stop the incoming flow.
+A complex system of piping interconnects all of the facilities in the Tank Farm Complex, allowing
+products to be delivered or transferred. All of these lines connect to the manifold in the Kinder Morgan
+Pipelines yard. The piping manifold can be used for subsurface foam injection into designated storage
+tanks.
+Swissport operates a 10-inch diameter pipeline that supplies aviation fuel to its tank farm located at
+4200 E. Airlane. This pipeline has a flow rate of about 1,200 GPM. The pipeline is routed along 55th
+Avenue to the Union Pacific railroad right-of-way, through downtown Phoenix, and terminates at Sky
+Harbor Airport. Swissport can stop the flow of the pipeline from its main terminal at 5555 W. Van Buren
+or at the Sky Harbor tank farm. Swissport staffs the Van Buren and Sky Harbor Airport tank farms with
+an operator 24 hours per day.
+Loading Racks
+Except for Swissport, there are truck loading racks at each facility in the complex. Product is
+transferred at 700 – 1,000 GPM into tank trucks at these racks. There is a potential for large spills
+and/or fires if a tank is allowed to overflow or if a line ruptures or becomes disconnected.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+M.P. 206.08
+
+TANK FARM
+01/04-R
+
+Page 2 of 7
+
+Many of the loading racks have automatic AFFF deluge sprinkler systems which are activated by heat
+or flame detectors with manual activation provided as back-up. In the event of a large spill at the rack,
+the deluge system should be manually activated to cover the spill.
+The automatic deluge system should be shut down as soon as fire control is achieved. If after the
+stored foam supply is exhausted, the system will discharge plain water damaging the foam blanket.
+AFFF handlines should be in position when the system is shut down.
+Tank Storage
+There are three different categories of large storage tanks in use at the Tank Farm complex:
+1.
+
+Floating Roof:
+
+2.
+3.
+
+Cone Roof:
+Cone/Floating Roof:
+
+An open top tank with a floating cover on top of the liquid. (May
+also be covered by a geodesic dome).
+A fixed top tank.
+A tank with both a fixed roof and an internal floating roof
+
+The greatest concern with a tank is the possibility of an overflow spill. Most tanks are equipped with
+high level alarm systems to reduce the risk of spills.
+An ignited overflow spill will result in a major fire in the dike area around the tank as well as a fire at the
+surface level of the tank.
+It is always important to control the spill fire before attempting to control the tank surface fire, since a
+spill fire would continue to re-ignite vapors coming from the tank. With the spill fire contained, efforts
+can be made to control the tank surface fire. The spill area must be secured with a foam blanket for the
+duration of the incident.
+A floating roof, when in place, limits the amount of surface available to support a fire. If the floating roof
+is lost, due to an explosion or sinking, the fire can be expected to intensify rapidly.
+Floating roof tanks may experience "rim seal" fires. These fires involve the seal area between the
+floating roof and the inside wall of the storage tank. The seals are constructed from synthetic rubber or
+plastic. The seal is about 8-12 inches wide, depending on the type of tank. These fires are generally
+controllable with small handlines or dry chemical extinguishers. In a cone/floating roof tank, the fire
+may be contained in the space between the floating roof and the fixed roof, out of the reach of hose
+streams.
+When applying foam, care must be taken to avoid sinking or tilting the "floater." NEVER apply plain
+water onto a floating roof--it will probably cause the roof to sink.
+Entry onto the roof of a floating roof tank can only occur after assessing the risk to our personnel and
+determining if the roof is constructed using an “inherently buoyant design.” Floating roofs that are
+inherently buoyant are constructed of steel with multiple bulkheads that form liquid tight compartments.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+M.P. 206.08
+
+TANK FARM
+01/04-R
+
+Page 3 of 7
+
+The position of the floating roof in relation to the top of the tank shell should also be considered. A
+floating roof that is more than 5 feet below the top of the tank shell constitutes a confined space. If entry
+onto the roof is being considered as part of the incident strategy, the procedures for confined space
+operations outlined in M.P. 204.8 should be applied.
+Subsurface foam injection, topside fixed foam chambers, and hydro-foam monitor nozzles are the
+preferred method to control a full surface fire. When an entire tank top surface area is involved,
+handline streams will not be able to penetrate the thermal column to reach the burning liquid surface.
+Large volume AFFF master streams are the only alternative to subsurface injection or fixed systems.
+Operations Center - Station 34
+In the event of a working incident inside the Tank Farm complex, an Operations Center will need to be
+established and announced. The Shell Oil USA Terminal Office on Van Buren Street would serve as a
+suitable Operations Center. Representatives of all companies operating within the complex will
+assemble at this location to be available if any action involving their facilities is necessary and to
+provide information or advice. The responsible party for the facility involved in the incident will report to
+the Forward Command Post.
+Command will assign a Command Officer and at least one company to the Operations Center. The
+Operations Center will provide support as directed by Command. Complete sets of site plans, and
+photographs are maintained at Station 34.
+All public contact, including P.I.O., and liaison functions will be conducted at the Operations Center,
+unless specifically needed at the Command Post. The Command Post will be located in the most
+appropriate position to direct tactical operations.
+The first unit arriving at the scene of an incident at the Tank Farm shall provide the following
+information in the initial report:
+•
+•
+•
+
+Specific location - name of shipper involved
+Type of incident - leak, spill, fire or no fire
+Extent of spill, leak or fire
+
+The first unit arriving at the scene of an incident at the Tank Farm shall provide the following
+information in the initial report:
+•
+•
+
+Operation of any automatic fire protection, liquid level control or pipeline product delivery
+systems
+Tank number(s) and location(s)
+
+Command will direct Alarm to notify the 24-hour duty Operator at Kinder Morgan Pipelines of any
+working incident. If a major leak or spill is involved, the direction must be given to shut down the
+incoming pipeline flow.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+M.P. 206.08
+
+TANK FARM
+01/04-R
+
+Page 4 of 7
+
+Dispatch will also notify the responsible party for the involved property to respond. The Tank Farm has
+a call up system to notify all key personnel to respond to the designated Operations Center.
+Initial actions should be directed toward the tactical priorities listed below.
+•
+•
+•
+
+Action should proceed cautiously
+High level of safety
+Avoid committing personnel to dangerous situations
+
+TACTICAL PRIORITIES
+Major incidents at the Tank Farm complex will involve either a leak or a spill of a petroleum product.
+The situation may or may not involve a fire.
+The tactical priorities are:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+Ensure that company and contract employees are not within a hazardous atmosphere or
+have the potential to be exposed.
+Cover the spill with a foam blanket to control fire and/or prevent ignition.
+Control potential sources of ignition.
+Have a HAZ MAT unit monitor the foam blanket to determine its effectiveness.
+Contain the spill or run-off.
+Identify and control the source of the spill or leak.
+Maintain foam blanket until product can be picked up.
+Keep all personnel and vehicles out of the spill area.
+Maintain an adequate volume of foam solution on scene for the duration of the incident.
+
+NOTE: A large spill can create an extremely large vapor problem and may flash back from ignition
+sources at significant distances. While covering the spill to suppress vapors, the direction and
+extent of vapor travel must be determined.
+Foam Application
+When attempting to control a large flammable liquid fire, the strategy should be to wait until enough
+foam concentrate to control the fire is on the scene before beginning the attack. If the attack runs out
+of foam before the fire is controlled, all of the foam will have been wasted. The minimum foam solution
+supply and the total amount of foam water solution required for each storage tank has been calculated
+and is available in the Storage Tank Tactical Guidelines contained on Engine and Ladder companies
+assigned to Stations 34, 44, 24, 21, 4, and BC3.
+NOTE: Foam 34 carries approximately 400 gallons of Class A Foam and 200 gallons of Class B Foam.
+Foam Tanker 34 carries approximately 1,000 gallons of 3% AFFF-6% ATC concentrate. Foam
+44 carries approximately 400 gallons of Class A Foam and 200 gallons of Class B Foam. If a
+fire involves an ethanol tank or other polar solvent, the foam proportioner must be set at 6%.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+M.P. 206.08
+
+TANK FARM
+01/04-R
+
+Page 5 of 7
+
+Fires which are controllable with the foam supply on hand should be attacked without delay. This
+applies to most spill fires and tank vehicle incidents. If the fire is too large to be controlled by the initial
+attack capability, Command should consider a holding action to protect exposures and prevent spread
+until additional foam supplies can be assembled and prepared for use.
+Subsurface Injection: A system of connections is available to pump foam directly into the main piping
+manifold at the Tank Farm. The connections are located in the Kinder Morgan Pipelines property near
+the center of the complex. By opening valves and directing the flow, it is possible to direct this flow to
+designated tank in the complex and accomplish subsurface injection. This can be performed only with
+Foam 34. The details of the required connections and pre- calculated flow rates for each tank are
+carried on Foam 34.
+Before beginning subsurface injection, it may be necessary to transfer product out of the involved tank
+to make room for product in the lines that will be pushed ahead of the foam. Company representatives
+MUST be contacted for instructions to transfer any product.
+If subsurface foam application is being contemplated the following items should be considered:
+
+
+
+
+
+
+
+Subsurface foam injection cannot be used on ethanol or other polar solvents. The polar
+solvents will absorb the water in the foam.
+The volume of liquid in the pipeline must be displaced by the foam water solution. Pipeline
+volumes can vary from 8,000-25,000 gallons depending on their diameter and distance from
+the subsurface injection manifold.
+The inlet valve of the storage tank must be open.
+If the velocity of the foam water solution exceeds 10 feet/second in the pipeline, the water will
+separate from the foam, making it useless.
+Depending on the length of the line and the tank height, it may take 30-60 minutes of time
+from the time that foam water solution is pumped into the injection manifold until it reaches the
+burning surface of the tank.
+
+Fixed Systems: Fixed piping is provided on certain tanks to provide direct delivery of AFFF, from
+Foam 34 into the tank. These systems will deliver foam onto the product via topside application at the
+tank. A Siamese connection is provided to allow the foam lines to be connected.
+NOTE: FIXED FOAM SYSTEMS FOR SUBSURFACE SHALL NOT BE USED PRIOR TO
+CONSULTATION WITH THE RESPONSIBLE PARTY.
+The use of these systems may require complicated operations to manipulate valves, drain lines or
+remove product. These operations require liaison and cooperation with the responsible parties.
+Hose Streams: Foam (AFFF) may be applied through 1 1/2 inch handlines from all engine companies.
+Master stream capabilities are provided by F34 and FT34 as well as airport crash units. Foam 34 has
+the capability to supply hand- lines and/or master streams, including elevated streams on ladder trucks.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+M.P. 206.08
+
+TANK FARM
+01/04-R
+
+Page 6 of 7
+
+When using hose streams, caution must be taken to use a large enough line to penetrate the heat of
+the fire from a safe distance.
+Foam Supply
+If the foam supply on hand at the incident scene is not adequate for the incident, Command should
+direct Dispatch to notify Resource Management to begin to assemble a larger supply. This shall be
+obtained from:
+Truck and Trailer at Station 34 stores 4200 gallons
+Fire Department Warehouse
+Mutual Aid Fire Departments
+Emergency Purchase from vendors
+Because of the large foam demands required for ground spill fires, Command should consider
+assigning at least one company to assist Foam 44 and creating a Foam Sector. The Foam sector is
+responsible for ensuring that a sufficient volume of foam is available to control the fire and to assist in
+maintaining a constant supply during foam water solution application. The Foam sector is also
+responsible for ensuring that enough foam remains on-hand for continuous application if, after
+extinguishment, fire firefighters must enter into the spill area. At least 50% of the amount of foam
+required for extinguishment should be maintained available, especially if tank overhaul is required.
+Water Supply
+The Storage Tank Tactical Guidelines contain water supply data for the tank farm at 51st Avenue/Van
+Buren. Analysis of the data reveals that the hydrants within the complex may not provide enough water
+for both tank fire suppression and exposure protection. The public water mains on Van Buren and 51st
+Avenue have a greater available fire flow. Companies should consider using the public water mains for
+supplying water for foam-water application and using the hydrants inside the tank farm complex for
+exposure protection. The use of the water mains on Van Buren or 51st Avenue for foam water
+application should provide sufficient fire flow for roof collapse or ground fires.
+Exposure Protection
+When exposure protection is required, large volume water streams should be used for reach and
+cooling capacity. Water application must be managed to avoid breaking-up foam blankets or
+increasing the problems of fuel spills.
+Steam production should be used as a guide to protecting exposures: If steam is created when water
+strikes the surface of the tank, the need for protection is indicated. Tanks generally require little
+protection on vertical surfaces below the liquid level.
+Some of the tank farm facilities have fixed monitor nozzles that can be used to apply cooling water onto
+tanks that require exposure protection. These facilities are identified in the Storage Tank Tactical
+Guidelines book.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+M.P. 206.08
+
+TANK FARM
+01/04-R
+
+Page 7 of 7
+
+Valve Protection
+Product control valves on the storage tanks are beneficial because they can be used to route liquid
+from a fire-involved tank to an empty or partially full tank. Failing to protect these valves in the event of
+a ground spill fire may prevent tank farm personnel from routing liquid from fire exposed or damaged
+tanks. In the event of a ground spill fire that does not submerge the valve in liquid, a fire stream should
+be applied to each valve that may be subjected to heat damage. The use of protective streams will
+protect the operating components of the valves so that they are not damaged.
+Utility Control
+If disconnecting the electric power is considered as part of the incident tactics, confirm with the tank
+farm personnel the implications of this act. Disconnecting power can shut down transfer pumps used to
+remove spilled products at loading racks, cause motor operated valves on storage tanks to close which
+prevents subsurface foam injection, and disable controls for all the storage tanks.
+Traffic Control
+One of the more likely events at the tank farms is a spill resulting from an accidentally overfilled tank.
+Given the volatility of the fuels, a large area may be covered with vapors that can be within their
+flammable range. Given the location of both tank farms, traffic control should be established early in the
+incident to limit the potential for vehicles becoming ignition sources.
+For the tank farm at 51st Avenue and Van Buren Street, the minimum boundary for traffic control should
+be 59th Avenue to the West, 51st Avenue to the East, the Union Pacific railroad crossing to the South,
+and Van Buren to the North. Command should recognize that all of the trucking companies that
+transport fuel have access cards that control access gates along 53rd and 57th Avenues. These vehicles
+can access the tank farm area unless the major intersections and roadways surrounding the tank farm
+complex are blocked.
+For the Swissport facility at 4200 E. Airlane, the minimum boundary for traffic control should be 40th
+Street at Airlane to the West and Highway 153 between Washington Street and University Drive to the
+East. The Union Pacific railroad to the North may need to be shutdown, as well as the parts of the Sky
+Harbor access roads and runways to the South.
+
+

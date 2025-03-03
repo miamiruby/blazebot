@@ -1,0 +1,134 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+PRE-PLANNING FOR EMERGENCIES
+
+M.P. 206.18
+
+10/97-N
+
+Page 1 of 3
+
+PURPOSE
+Pre-incident planning can provide valuable information about an occupancy which can improve the
+ability of firefighters to respond effectively to a fire or other emergency at that location. Pre-incident
+planning addresses vital fire protection concerns, such as: structure layout including access, contents,
+construction details, types and locations of built-in fire protection systems. It includes all data which
+can have an impact on decisions or actions taken during an emergency. Pre-incident planning should
+be a joint venture between emergency services personnel and the occupants/owners of the property.
+This procedure identifies the roles and responsibilities for fire companies, fire districts,
+Urban Survival for Business, and Dispatch & Deployment in pre-planning for emergencies
+including: Occupancy selection, Tactical Premise entry into the Phoenix Fire Department
+RMS system, and record keeping.
+FIRE COMPANIES
+Each quarter, company officers will select a tactically significant occupancy to pre-plan for emergency
+incidents in their first due area. What determines a "tactically significant occupancy" may vary
+according to an individual company's response area but, may include, industrial facilities such as
+woodworking, hazardous materials, general manufacturing or large storage facilities, residential
+occupancies such as apartment complexes, condominium complexes, convalescent homes, or senior
+care facilities, high-rise buildings, health care facilities such as hospitals, clinics or laboratories, and any
+other occupancy the company officer feels is tactically significant.
+When the company officer has selected an appropriate site for a pre-plan, he/she should meet the
+owner/occupant at the selected site and, together with the owner/occupant, complete the Tactical
+Premise Pre-plan Authorization Form. Once a pre-plan has been scheduled, the company officer
+should forward a copy of the Tactical Premise Pre-plan Authorization Form to his/her battalion chief.
+One copy will be kept by the company officer and placed in the Station Tactical Premise log. A sample
+of the Tactical Premise Pre-plan Authorization Form can be found in the Tactical Premise handbook.
+The company officer is expected to make every pre-plan a training opportunity. Pre-fire planning
+guidelines can be found in the Building familiarization/Tactical Premise handbook. Pre-plan information
+should be shared with the other two shifts in the station so they can conduct a walk through in the preplanned occupancy. Each company on each shift should schedule and complete a Tactical
+Premise pre-plan on different occupancies.
+During the pre-plan, the company will fill out the BUILDING FAMILIARIZATION / TACTICAL PREMISE
+worksheet. Companies are encouraged to make drawings or record other information which may be
+useful in a response book carried on the apparatus. When the company returns to quarters, the
+information on the Building Familiarization/Tactical Premise worksheet is
+entered into the Tactical Premise portion of the RMS system in the station computer. NOTE: If the
+company is located in a Fire District with a designated Tactical Premise Coordinator, the
+completed Building Familiarization/Tactical Premise worksheet is forwarded to the District
+Office for entry into the CAD system (see District Responsibilities). Once the information has been
+entered, the company officer will make a computer printout of the Tactical Premise information and
+forward the printout to his/her battalion chief.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+PRE-PLANNING FOR EMERGENCIES
+
+M.P. 206.18
+
+10/97-N
+
+Page 2 of 3
+
+FIRE DISTRICT RESPONSIBILITY
+The District Commander may choose to designate a District Tactical Premise Coordinator whose
+primary responsibility would be Tactical Premise data entry. This would increase the possibilities of
+consistent data entry.
+When the battalion chief receives a copy of the Tactical Premise pre-plan authorization form, he/she
+will place the form in the District pre-plan log. Battalion chiefs should make every effort to accompany
+fire companies when they are conducting a pre-plan.
+After the pre-plan information is in the RMS system, the battalion chief will receive a copy of the
+Tactical Premise computer printout and then place it with the Tactical Premise pre-plan authorization
+form in the District pre-plan log. The date the pre-plan was completed should be added to the Tactical
+Premise pre-plan authorization form in the space provided.
+When the Tactical Premise pre-plan authorization form is completed, the battalion chief will
+make two copies of the completed form and forward them to the engine and ladder company that
+completes the 2-1 first due assignment for the pre-planned occupancy so they can access the
+information in Tactical Premise.
+URBAN SURVIVAL FOR BUSINESS RESPONSIBILITY
+The fire prevention specialist assigned to each District will review the District pre-plan log at the
+beginning of each month. The fire prevention specialist will advise the battalion chief(s) that he/she is
+available should any company need technical assistance regarding Fire Code issues in the buildings
+scheduled for pre-planning.
+Each fire prevention specialist assigned to Urban Survival for Business participates in the SelfInspection Program and is responsible for contacting 25 businesses per week. The fire prevention
+specialist will place information received from these contacts into the Tactical Premise portion of RMS
+including, Business Name and Address, Responsible Party information, and any other information
+which may be useful to responding companies.
+Fire prevention specialists routinely respond to service requests in all categories of tactically significant
+occupancies, inspect industrial facilities, and respond to fire company requests
+for service. Every time a fire prevention specialist makes contact with a business or other
+occupancy, the fire prevention specialist will obtain responsible party information from that occupancy
+and place that information into Tactical Premise. The fire prevention specialist will occasionally
+encounter an occupancy which is tactically significant but which has no information in Tactical Premise.
+The fire prevention specialist will bring this information to the attention of the District Commander of the
+Fire District which contains the occupancy.
+Whenever a fire prevention specialist encounters a situation that changes the Tactical Premise
+information for a specific occupancy, the fire prevention specialist will enter the changes into the
+Tactical Premise portion of the RMS system. The Tactical Premise entry will receive a new revision
+date and a computer printout of the updated information will be made. The fire prevention specialist will
+then forward a copy of the updated information to the first due company officer. The fire prevention
+specialist will send a second copy of the Tactical Premise printout to the battalion chief who will update
+the District Pre-plan log.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+PRE-PLANNING FOR EMERGENCIES
+
+M.P. 206.18
+
+10/97-N
+
+Page 3 of 3
+
+DISPATCH AND DEPLOYMENT RESPONSIBILITY
+When it becomes obvious that there is a working fire, hazardous materials incident, or other incident
+which might require information contained in Tactical Premise, the Dispatch and Deployment Captain
+will immediately begin monitoring the tactical radio channel.
+While units are responding or as soon as practical, the Dispatch and Deployment Captain will
+retrieve tactical and/or responsible party information from the Tactical Premise database using the TP,
+TPI, or TPB commands .
+Having the Tactical Premise information displayed at the alarm Captains terminal will allow
+him/her to provide critical information to command when needed. For example; Phoenix units are
+working a structure fire at Troy Biosciences, the first in ladder company has not had time to look at
+Tactical Premise information for this structure and Command says “go to the roof and ventilate.”
+The Dispatch and Deployment Captain has been listening to the radio traffic and sees that Troy
+Biosciences (through the Tactical Premise display on his terminal) has a metal clad roof. The
+Dispatch and Deployment Captain relays this information to Command who advises the Ladder
+to take a metal saw blade with them. The roof is quickly ventilated and the progress of the fire is
+stopped.
+Tactical Premise may be accessed using the TP, TPI, TPB, RP, RPI, and RPB commands from any
+terminal in Dispatch. If the Dispatch and Deployment Captain is busy with another incident, the
+Supervisor or TRO will provide Tactical Premise information as noted above.
+
+

@@ -1,0 +1,192 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+Policy Name:
+Policy Number:
+BATTERY ENERGY STORAGE SYSTEMS
+M.P. 205.20A
+This policy is for internal use only and does not expand an employee’s legal duty or civil
+liability in any way. This policy should not be construed as creating a duty to act or a higher
+duty of care, with respect to third party civil claims against employees or the Phoenix Fire
+Department (PFD). Remedies for violations of this policy, if proven, are limited to
+administrative disciplinary action against PFD employees.
+Related Policies: 205.20, 202.19, 202.19A
+Other Reference:
+Date Implemented: 04/2023-R
+Review Date: 04/2028
+Battery energy storage systems (BESS) pose unique hazards to firefighters. With recent advances
+in battery technology and renewable energy, lithium-ion batteries have become one of the leading
+solutions for large-scale energy storage. Buildings or facilities containing a BESS may not have
+markings that specifically identify the presence of these systems. Markings may only indicate a
+general electrical hazard is present. An independent facility containing a BESS may appear to be
+a steel building resembling a shipping container or other smaller enclosures. These facilities may
+be found anywhere. They may be stand-alone or incorporated in another structure, including
+residential areas. The use of BESS to support the electrical grid is becoming standard and these
+systems can be found throughout our communities.
+The types of catastrophic failures that can occur in all battery systems are amplified by the size
+and scale of the BESS. Larger systems contain more energy and have the potential to create large
+volumes of toxic, flammable gases that can become explosive when contained. The hazards are
+dependent on the design of the BESS, characteristics of the compartments containing the BESS,
+and levels of fire protection systems in the structure.
+In smaller residential settings, a lithium-ion battery module may undergo thermal runaway as a
+result of exposure to a heat source unrelated to the battery. For example, a battery module located
+in or near a garage that is exposed to a car fire can be damaged and has the potential to have a
+thermal runaway event. This may cause it to liberate toxic, flammable gases and lead to a
+potentially high energy ignition. Fires involving Lithium-Ion battery have a very high heat release
+rate and present extinguishment challenges.
+Stranded energy is residual energy within a lithium-ion battery or BESS. This presents a significant
+fire, electrical shock, and/or explosion hazard to firefighters. The severity of the hazard is in direct
+relationship to the state of charge in the battery. Assume they are charged.
+BATTERY ENERGY STORAGE SYSTEMS
+Page 1 of 5
+
+BESS failures can occur for a variety of reasons including but not limited to:
+1. Thermal abuse (external temperatures)
+2. Physical/mechanical damage
+3. Electrical abuse (over-charging or repeated excessive charging rates)
+4. Environmental impacts (electrical surge, lighting, etc.)
+5. Internal faults within the battery cell
+6. Other electrical faults or system failures
+RESPONSE TO BATTERY ENERGY STORAGE SYSTEMS
+• BESS must always be considered energized. Firefighters should exercise extreme caution
+when dealing with BESS and all energized electrical equipment.
+• Request utility company to respond.
+• Request a 3&1 or greater hazardous materials response.
+• Do not make entry or approach BESS building or compartment. Introducing fresh air may
+result in a deflagration.
+• Isolate the area. Recommended initial evacuation distance is 150 feet. Do not enter the
+fenced area. The exception to this is a savable life/known rescue.
+• Be aware of explosion potential and off-gassing of hazardous materials. White colored
+smoke is a good indication of hazardous off-gassing.
+• Place apparatus in a safe location away from BESS and overhead power lines.
+• Protect exposures.
+• DEFENSIVE FIREFIGHTING, water streams are the preferred agent for response to lithiumion battery fires (Lithium-ion is not water reactive).
+• If a fire has not developed and only smoke is visible, take a defensive stance toward the
+system and be prepared to apply water spray to exposures.
+• If a fire develops, take a defensive stance toward the burning unit and apply water to
+neighboring battery enclosures and exposures.
+• Maintaining a safe distance from the unit involved (large commercial systems, at least
+150’).
+• Response crews should allow the battery to burn out. Water should be applied to adjacent
+battery enclosures and exposures (building).
+• The Incident Commander will make the ultimate determination regarding hazard
+mitigation. The hazard mitigation plan should be developed in partnership with the utility
+representative and/or responsible party.
+o Through this careful approach, hazardous materials technicians may take calculated
+steps to mitigate the hazard.
+o Depending on the BESS type and size, mitigation steps may include identification of
+the hazard, separating it from electrical supply (i.e., electrical grid or photovoltaic
+system), ventilation, and cooling.
+• Firefighters must wear full personal protective equipment, including SCBA with face-piece.
+BATTERY ENERGY STORAGE SYSTEMS
+Page 2 of 5
+
+•
+
+•
+•
+•
+•
+
+If identified shut off the unit/system by operating any visible disconnects or E-stops
+(shutting off the disconnect does not remove the energy from the battery). To isolate any
+PV system and ESS in an emergency, multiple disconnects may need to be shut off.
+Lithium-ion batteries that are in thermal runaway or off gassing will create hazardous
+flammable and toxic atmospheres.
+Firefighters must stay out of the vapor cloud / smoke.
+Due to construction of the unit, thermal imaging cameras or infrared temperature sensors
+may not give true thermal conditions. But can be used to identify trending temperatures.
+Hazardous failure of batteries can occur from physical damage, exterior fire, or an internal
+malfunction of a cell. Smoke, popping or hissing sounds from an ESS system can be an
+indication of a hazardous condition. When batteries or cells enter thermal runaway, there
+is typically a period of smoke (may be under pressure). The smoke is flammable and may
+ignite at any time.
+
+Responding to a Venting ESS Product
+• Evacuate the area. Never open any doors or remove panels to ESS units.
+• Maintaining a safe distance from the unit involved (large commercial systems, at least
+150’).
+• Contact vendor-specific technical support for assistance including battery management
+system (BMS) data.
+• For residential units that are located inside a dwelling unit or garage, the space should be
+properly ventilated with charged handlines in place (open garage door only if safe to do
+so).
+• Maintain a safe distance from the ESS and monitor visually for signs of thermal runaway.
+A remote FDC may be present on larger commercial or utility ESS to support a sprinkler
+system inside the enclosure.
+• Each manufacturer will have a recommended time for a battery pack to cool down. This
+can be near a full work cycle of 12 hours or more.
+• Defensive firefighting, water spray is the preferred agent for response to lithium-ion battery
+fires (Lithium-ion is not water reactive).
+• If a fire has not developed and only smoke is visible, take a defensive stance toward the
+system and evaluate the need, and practical ability to safely apply water on exposures.
+• If a fire develops, take a defensive stance toward the burning unit. Evaluate the need and
+practical ability to safely apply water on exposures.
+• Response crews should allow the battery to burn out. Water should be applied to adjacent
+battery enclosures and exposures.
+Lead Acid
+Lead Acid batteries are also used as BESS. These systems pose chemical burn hazard, inhalation
+hazard and the risk of contaminated runoff. If found upgrade the assignment to a hazardous
+
+BATTERY ENERGY STORAGE SYSTEMS
+Page 3 of 5
+
+materials assignment and operate electrical disconnects. Utilize full PPE and direct water
+application from 40 feet can be applied to control a fire.
+Lithium Ion
+Lithium-ion Batteries can produce heat, toxic and flammable gases, and contain stranded energy.
+RESIDENTIAL BESS
+BESS are typically found as part of a modern photovoltaic system but may be present even in the
+absence of a PV system. BESS systems can be lithium-ion battery or lead acid battery based. Each
+of these poses a potential for toxic exposure, fire and thermal burns, and chemical exposure. Refer
+to Photovoltaic MP 205.20B.
+Emergency Procedures for Residential BESS systems.
+If a residential BESS system is identified the following steps shall be taken:
+• Notify Command
+• Upgrade assignment to a 3-1 Hazardous Materials Response, isolate the area.
+• It is critical to operate electrical disconnects if it is safe to do so. This will isolate the battery
+system.
+o After operation of the electrical disconnects it is important to recognize that the
+batteries will still pose an electrical hazard due to the stranded energy that they
+contain.
+• Crews will wear full PPE and with SCBA Face Piece in place
+• A charged hose line will be in place.
+• Isolate the area surrounding the residential BESS a minimum of 40 feet. Hazardous
+Materials crews will set a hot zone.
+• Avoid parking apparatus directly in front of the house
+• Evaluate if the Battery Pack has been impacted by the initial fire or other event
+• Contact vendor-specific technical support for assistance including BMS data.
+• Consider a monitoring / cooling period of 12 hours in which the battery is monitored for
+signs of thermal runaway. This is a passive cooling period without water being applied.
+o Direct application of water is ineffective for cooling to prevent a thermal runaway
+due to the construction of the battery pack.
+o Temperature readings should be taken as early as possible and repeated at regular
+intervals (10 minutes) to identify trends. Is the battery getting hotter or beginning to
+cool?
+• Contact the RP. They will be informed that they must contact the manufacturer for
+technical support.
+• Command Officers shall make attempts to notify the building owner or occupant that
+there is a risk associated of a secondary event including fire as a result of continued
+power generation from the PV panels.
+
+BATTERY ENERGY STORAGE SYSTEMS
+Page 4 of 5
+
+•
+•
+•
+•
+
+Command or their designee may make notification over the radio that this notification
+has been made.
+Water application is the recommended method of firefighting.
+Protect exposures through defensive firefighting.
+The Responsible Party must arrange for proper disposal and cleanup.
+
+Note: All BESS contain quantities of hazardous materials. In the event of an emergency with a
+BESS, a toxic environment may be created that is not visible. Metering of the environment by
+hazardous materials crews is necessary as is the usage of full personal protective equipment.
+
+BATTERY ENERGY STORAGE SYSTEMS
+Page 5 of 5
+
+

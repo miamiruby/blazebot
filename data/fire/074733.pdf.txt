@@ -1,0 +1,264 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+Policy Name:
+Policy Number:
+WATER SUPPLY AND FIRE STREAM
+M.P. 202.12E
+MANAGEMENT
+This policy is for internal use only and does not expand an employee’s legal duty or civil
+liability in any way. This policy should not be construed as creating a duty to act or a higher
+duty of care, with respect to third party civil claims against employees or the Phoenix Fire
+Department (PFD). Remedies for violations of this policy, if proven, are limited to
+administrative disciplinary action against PFD employees.
+Related Policies: 201.01, 201.01C, 201.06, 202.02C 202.04, 202.05
+Other Reference: UL Fire Safety Research Institute (FSRI), NFPA 1700
+Date Implemented: 03/2022-R
+Review Date: 03/2026
+
+PURPOSE
+To provide guidelines for determining water supply needs and selecting the most effective hose
+line size or sizes based upon initial and ongoing size-up and fire ground factors.
+OVERVIEW
+Adequate water supply during fire attack operations has a critical impact on fire control outcomes.
+Water on the fire as quickly as possible improves the tenability of potential victims and improves
+conditions for firefighters to operate. An uninterrupted water supply is necessary to sustain
+effective water volumes during a fire attack in all critical tactical positions. An ineffective fire attack
+with inadequate water volume leads to delayed fire control, increased risk to firefighters and
+victims, and greater fire loss.
+HYDRANT WATER SUPPLY
+First due engine companies approaching the scene with any evidence of a working fire should
+secure a water supply. Exceptions to this guideline may include:
+• Known or highly suspected rescue requiring a full crew
+• Unsure of actual fire location in multi-unit residential or commercial building complex
+• Fire in a high-rise building
+Hillside or remote custom homes, junkyards, re-cycle or mulch facilities, high fire-load
+occupancies, and limited hydrants require pre-planning for unique hose-lays, drafting from canals,
+or extremely long supply lines.
+Adequate water supply lines must be considered to all tactical positions that fire companies are
+working from. This includes interior or exterior fire attacks from hose lines and/or master streams.
+The number of supply lines and configuration of forward and key pumpers in any tactical position
+WATER SUPPLY AND FIRE STREAM MANAGEMENT
+Page 1 of 7
+
+will be determined by the water supply needs established by the incident action plan. This can be
+accomplished through “big water” evolutions, tandem pumping, and/or relay pumping
+operations. These will be determined by hydrant/water supply availability and the distances
+between the water supply and position of the fire attack.
+Supply lines must be laid with consideration for access problems they create. When possible, lay
+the supply hose along the hydrant-side of the roadway and cross over at the fire if necessary. Slow
+down when laying lines, faster speeds result in excess hose on the roadway. Slower speeds also
+provide several advantages:
+• Reduces the risk of striking pedestrians or vehicles or firefighters.
+• Provides time for the Company Officer to size-up and evaluate critical fire ground factors.
+• Provides time for the Engineer to appropriately spot the apparatus.
+PUMPED WATER
+After initial arriving companies have established an adequate water supply, subsequent arriving
+companies should stage in a manner to be easily assigned as a key pumper in critical tactical
+positions. Providing key pumpers on hydrants enhances fire ground safety in several ways:
+• Ensures an uninterrupted water supply
+• Provides volume when needed for extremely long supply lines (e.g., apartment’s, re-cycling
+facilities or areas with limited water mains & hydrants)
+• Ability to pump water through the forward pumper in the event of mechanical failure
+Pumped water supply (Humat Valve Operation) is critical when large volumes of water are
+required in any tactical position. This provides for adequate water volume in attack operations
+including engine company mounted master streams, ladder pipes, or multiple high volume (2”
+and/or 2.5”) attack lines are in operation.
+Generally, first alarm companies should lay their own supply lines when establishing any tactical
+position before pumped water is considered/needed. In most cases, an unsupported forward
+supply lay of 500 feet of 4” supply line can flow 800 GPM. Most initial attack operations, including
+engine mounted master stream operations can be adequately supplied without pumped water for
+initial fire attack operations.
+In most cases, the need for pumped water occurs once initial fire attack operations have been
+established. Command and/or Sector Officers should address the need for pumped water as
+ladder pipes or multiple Engine Mounted Master Streams are ordered into operation.
+MASTER STREAM SUPPLY LINES
+When establishing supply lines for master stream operations it is necessary to provide standard
+“big water” hose evolutions to provide adequate water volumes for ladder companies. Aerial
+apparatus typically can flow 1000 gpm per deck gun. Most aerial platforms have 2 deck guns
+WATER SUPPLY AND FIRE STREAM MANAGEMENT
+Page 2 of 7
+
+(capable of 1000 gpm per deck gun). Aerial platforms or aerial ladders should be considered 1000
+plus gpm appliances.
+Standard “big water” evolutions include a forward and key pumper, 2 supply lines between the
+forward and key pumper, and pumped water by the key pumper supplying the 2 supply lines. The
+forward pumper must be positioned as close to the ladder company as possible to diminish the
+length of supply line from the forward pumper to the ladder company inlets. The “big water”
+evolution can be conducted in a few different manner’s dependent on available apparatus. The
+most efficient manner includes the forward pumper completing a forward lay from the hydrant to
+the ladder company. The key pumper then completes a reverse lay from the forward pumper to
+the hydrant with a second supply line.
+ATTACK HOSE LINE CHOICE
+The objective of the attack hose line choice is to provide enough water volume and reach to
+overcome the heat energy and heat release rate of the fire or an adequate flow to effectively cool
+and protect exposures.
+BASIC ATTACK HOSE LINE PLACEMENT
+When operating in the offensive strategy, fire attack hose lines of adequate water volume should
+be used to put water on the fire and/or onto burning compartment surfaces as quickly as possible.
+They should also be used to control access to hallways, stairways, or other vertical and horizontal
+channels through which people and fire travel.
+• The first water stream should be placed to extinguish and/or cool the most endangered
+interior compartments from the most advantageous position (interior or exterior) to best
+impact tenability of victims and/or firefighters conducting rescue efforts.
+• When no victims are present, the water stream should be placed on the fire with adequate
+volumes to attempt to suppress the fire and attempt to limit the spread to exposures.
+• When immediate exposures are present, water streams should be directed on the
+exposures as early as possible.
+• Back up hose lines should be deployed to protect a means of egress when necessary
+(always bear in mind the presence of Fire personnel operating in opposing positions).
+• Back up lines should be of the same or greater water volumes when possible.
+When a change from offensive to defensive operation occurs, crews should pull hand lines out of
+the fire building only if safe to do so. Do not delay exiting the building for the sake of salvaging a
+few feet of hose and a nozzle if conditions are deteriorating rapidly unless the line is needed for
+crew protection during egress operations.
+FIRE STREAM CHARACTERISTICS AND CONSIDERATIONS
+Fire companies must consider the characteristics of fire streams and choose the most effective
+nozzle and stream for the volume of fire and the size of the fire compartment(s).
+WATER SUPPLY AND FIRE STREAM MANAGEMENT
+Page 3 of 7
+
+Solid or straight stream:
+• Greater penetration
+• Greater reach
+• Greater striking power
+• Greater cooling of interior surfaces
+• Greater cooling of exposed spaces
+• Less steam conversion
+Fog pattern (narrow, medium, wide)
+• Shorter reach
+• Smaller water droplets
+• Greater air entrainment
+• Greater steam production
+• Most effective in confined spaces such as attics
+The current hose and nozzle packages that are carried on Phoenix Fire Engine Companies include:
+• 1 ¾” hose line with automatic nozzles (x2 minimum)
+o Hose lengths include:
+ 150’ crosslay
+ 200’ crosslay
+o 100’ to 150’ front bumper line
+• Automatic nozzle (75 psi nozzle pressure for 70 to 200 GPM)
+o 2” hoseline with smooth bore nozzles (x1)
+o Hose length:
+ 200’ crosslay or rear mount depending on apparatus configuration
+o Smooth bore nozzles with 1 1/16” tip (260 GPM at 60 psi nozzle pressure)
+• 2 ½” hose line with smooth bore nozzles (1 or 2 depending on apparatus configuration)
+o Hose length:
+ 200’ rear mount (1 or 2 depending on apparatus configuration)
+o Smooth bore nozzle with 1 3/16” tip (265 GPM at 40 psi nozzle pressure)
+o Blitz Monitor with solid bore or peripheral tips (up to 500 GPM)
+FIRE STREAM CONSIDERATIONS – OFFENSIVE STRATEGY
+An offensive fire attack should be centered on knocking the fire down and cooling the interior
+spaces to improve tenability for victims and improve working conditions of searching firefighters.
+When an initial attack does not control the fire completely, some considerations must be made. It
+must be determined if the fire simply requires more water to overcome the heat energy and/or
+does the fire attack additionally need to come from alternate position(s) (either interior or
+exterior)?
+
+WATER SUPPLY AND FIRE STREAM MANAGEMENT
+Page 4 of 7
+
+Through fire behavior research it has been clearly identified that fire is most effectively
+extinguished by water on the interior surfaces of a burning compartment, room, or space to cool
+the interior temperatures initially and then water on to the burning fuels directly. This is most
+effectively done with a straight or solid bore stream to keep the water droplets from the hose
+stream as large as possible. This limits the potential for steam production and creates cooling of
+the interior environment that tends to contract the hot gases. This is most effective in smaller
+residential spaces that allow for better water application on the interior surfaces from the most
+advantageous position. The same principals are true for commercial occupancies however due to
+size and complexity; it becomes significantly more difficult.
+For fires that begin on the exterior of a building or occupancy, the fire attack should begin on the
+exterior fire and move to the interior. If an interior attack is initiated without controlling the exterior
+fire, the interior fire will continue to be fed from that exterior fire. A simultaneous fire attack on
+the exterior and interior spaces is the most effective means when possible.
+Early identification of the direction of a flow path at a structure fire allows Firefighters to determine
+the best method of fire attack to work within the intake portion of the flow path, rather than against
+it. This may not always be possible and when the only option for Firefighters is to make a fire
+attack from the exhaust portion of the flow path, extreme caution must be taken. Considerations
+for changing the ventilation profile may change the direction of the flow path and create favorable
+conditions to begin a fire attack. It’s critical that any changes that impact the ventilation profile are
+well coordinated.
+UL-FSRI Fire Flows from High Pressure to Low Pressure
+https://www.youtube.com/watch?v=O8s3Q57TZtE
+UL-FSRI Flow Path and Suppression Must Be Considered Together
+https://www.youtube.com/watch?v=B7k7_F2lowg
+When wind conditions are present, it is safest to initiate the fire attack with the wind at the back of
+Firefighters. When wind driven conditions are present during an interior fire attack, extreme
+caution must be taken to control the ventilation intake, if on the windward side. Uncontrolled
+ventilation intake during wind driven conditions has created deadly conditions for Firefighters
+across the country. It must be identified and avoided.
+UL-FSRI Keep the Wind at Your Back
+https://www.youtube.com/watch?v=G3hF14iNec8
+Backing up an initial fire attack is an important consideration. Backing up an initial attack must be
+conducted with hose streams/water volumes that match or exceed the initial hose line.
+
+WATER SUPPLY AND FIRE STREAM MANAGEMENT
+Page 5 of 7
+
+Beware of hose lines that have been operated in the same place for long periods. Fire conditions
+change during the course of fire operations (most things will only burn for a limited time) and the
+effect of hose line operations must be continually evaluated. If the operation of such lines becomes
+ineffective, move, adjust, or redeploy them.
+Beware of the limitations of operating nozzles through small openings in to confined spaces such
+as attic spaces, truss lofts, cocklofts, or mansard style roof. The mobility of such streams is limited,
+and it is generally difficult to get water on the interior surfaces. Fire streams from above a confined
+space makes it very difficult to get water on the underside and structural components for the most
+effective surface cooling. Sometimes buildings or conditions will require fire companies to breach
+walls/floors to apply water to a burning space. It is important to realize the potential limitations.
+Basement fires are most effectively extinguished when the water is applied from the same level
+as the fire. Basements with man-door access allow for the most effective water application on the
+interior surfaces from as steep an angle as possible, in the same manner as any other interior
+space. Basements with no exterior access or partial access from ground level windows creates a
+challenge for water application. Water must be applied from the most advantageous exterior
+position, through the windows (when possible) to cool the interior environment to allow interior
+access. If no exterior access is possible, extreme caution must be exercised as the only access to
+the lower level/basement will be through the flow path (chimney) from the floor above. All
+possible actions must be exercised to attempt to cool the interior environment prior to making
+access.
+UL-FSRI - Initiate Your Firefight on the Same Level as the Fire
+https://www.youtube.com/watch?v=OVQFRzpVr9Y
+UL-FSRI - Basement Fires: don’t get caught in the flow path exhaust
+https://www.youtube.com/watch?v=3YiLLsWuOxg
+Company Officers and Sector Officers must assume responsibility for the effectiveness of their fire
+streams. These officers must maintain an awareness of where fire streams are going, their
+effectiveness, and then report the general operational characteristics back to the Sector Officer or
+Command. Company Officers must understand and be competent with the nozzle characteristics
+and features of the operating nozzles to get the most effective volume and stream while operating
+on the fireground.
+FIRE STREAM CONSIDERATIONS – DEFENSIVE STRATEGY
+When master streams are needed for large volumes of water to slow fire growth, extinguishment,
+or to protect exposures, they must be used with deliberate understanding of their strengths and
+challenges. Master streams should be used for large volumes of fire or to protect exposures that
+require large volumes of water to do so. They can certainly provide up to 1000+ gpm. That can
+WATER SUPPLY AND FIRE STREAM MANAGEMENT
+Page 6 of 7
+
+provide significant surface cooling however that comes with powerful striking force and
+significant water weight (1000 gpm = 8,340 pounds of water per minute and 139 pounds of water
+per second). This can have adverse effects on structural stability immediately and over time.
+Exterior master streams should not be used with interior operations in the same structure or
+occupancy depending on the building type. The exception to this would be a defensive strategy
+while protecting exposures from interior positions at structure fires where these tactics are
+applicable from the perspective of risk management. It is possible to flow master streams in the
+fire occupancy while working with handlines from interior positions to protect exposures in other
+occupancies after a thorough size up and determination of structural stability. Command and
+Sector Officers must closely coordinate any exterior master streams with interior operations or
+personnel operating nearby.
+Master streams may be useful in knocking down a large body of fire in a segment of a structure
+where the intent is to operate in offensive positions after significant knockdown is achieved.
+Command and the Sector Officers must evaluate the structure’s stability in these situations. This
+evaluation should occur after the master streams are shut down and BEFORE committing crews
+to interior positions. When there is any question as to the stability of the structure crews should
+not be deployed to interior positions.
+When there is a change in strategy from Offensive to Defensive, Command must prioritize hand
+line operations. Large volume hand lines such as 2.5” and 2” lines may be used to protect
+exposures from defensive positions outside of the hazard zone. Smaller (1 ¾”) hand lines should
+be shut down after changing to a defensive operation. Pump operators should close the
+discharges to these lines to prevent well-meaning firefighters from trying to use hand lines where
+they are ineffective and allow Firefighters to creep into the hazard zone. Command and sector
+officers must maintain all members in positions outside the collapse zone and prevent firefighters
+from moving into unsafe positions.
+
+WATER SUPPLY AND FIRE STREAM MANAGEMENT
+Page 7 of 7
+
+

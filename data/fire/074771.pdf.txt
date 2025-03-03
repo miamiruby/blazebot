@@ -1,0 +1,276 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+MOUNTAIN RESCUE OPERATIONS
+M.P. 204.10
+
+07/11-R
+
+PAGE 1 of 5
+
+SCOPE
+This procedure establishes a standard structure and guideline for all fire department personnel
+operating at incidents involving mountain rescue operations. The procedure outlines
+responsibilities for first-responders, TRT units, Command Officers, and other fire department
+personnel responding to such incidents. All other Phoenix Fire Department procedures shall
+apply to mountain rescue operations where applicable.
+PURPOSE
+The purpose of this procedure is to establish guidelines for the response of fire department
+personnel and equipment to mountain rescue incidents which utilize ropes and/or rope systems,
+or a rescue helicopter, to affect a rescue. Because mountain rescue operations present a
+significant danger to fire department personnel, the safe and effective management of these
+operations require special considerations. This procedure identifies some of the critical issues
+which must be included in managing these incidents.
+TACTICAL CONSIDERATIONS
+Rope rescue is defined as any rescue attempt that requires rope and/or rope systems and
+related equipment to safely gain access to, and remove patients from hazardous geographic
+areas/locations with limited access. The two categories of rescue are:
+• Non-Technical - rescues with angles of inclination less than 40º. Most firstresponders have the equipment and training to affect this type of rescue.
+• Technical - rescues with angles of inclination from 40º to 90º. These rescues
+typically involve ropes and /or rope systems and shall be performed by rescuers
+trained to the level of Technical Rescue Technician (TRT).
+All rope rescue techniques and equipment utilized in rescue operations shall meet the intent of
+the following standards as established by the National Fire Protection Association:
+•
+•
+•
+
+NFPA 1670 Standard on Operations and Training for Technical Search & Rescue
+Incidents
+NFPA 1006 Standard for Technical Rescuer Professional Qualifications.
+NFPA 1983 Standard on Life Safety Rope & Equipment for Emergency Services.
+
+Due to the inherent dangers associated with these operations, the Phoenix Fire Department
+Risk Management Profile shall be applied to all mountain rescue operations and shall be
+continuously re-assessed throughout the incident. A phased approach to mountain rescue
+operations which include; Arrival, Pre-rescue operations, Rescue operations, and Termination,
+can be utilized to safely and effectively mitigate these high-risk / low-frequency events.
+Additional technical information is available in the issued Technical Rescue Field
+Operations Guide.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+MOUNTAIN RESCUE OPERATIONS
+M.P. 204.10
+Phase I
+
+07/11-R
+
+PAGE 2 of 5
+
+Arrival.
+
+I. ESTABLISH COMMAND
+A. First arriving company officer shall assume Command and begin an immediate sizeup of the situation while ascending the mountain with medical equipment to provide
+treatment for any victim(s) in need of medical care.
+B. First arriving TRT unit that is staffed with a TRT Company Officer should be assigned
+Rescue Sector. The TRT Company Officer assigned as Rescue Sector should
+remain with his crew and ascend the mountain with the necessary equipment to
+conduct the rescue. Rescue Sector responsibilities include:
+•
+•
+•
+•
+•
+
+Assuming technical rescue operations control.
+Identifying hazards and critical factors.
+Developing a rescue plan and back-up plan.
+Communicating with and directing TRT resources assigned to Rescue Sector.
+Informing Command of conditions, actions, and needs during all phases of the
+rescue operation.
+
+C. Designate a Safety Officer per NFPA 1670. Considerations for Safety Officer include:
+•
+•
+•
+
+One of the Regional Special Operations qualified Safety Officers.
+A Special Operations qualified Battalion Chief and/or FIT
+Any experienced TRT Company Officer assigned to the incident.
+
+D. Following the transfer of Command to a Command Officer, a Technical Advisor
+should be assigned to join the Command Team at their location to assist in
+managing personnel and resources engaged in the technical aspects of the incident.
+The Technical Advisor is responsible for ensuring that the rescue plan developed by
+Rescue Sector and communicated to Command is a sound plan in terms of the
+safety and welfare of both victim(s) and rescuers. Considerations for the Technical
+Advisor include:
+•
+•
+•
+
+A Special Operations qualified Battalion Chief and/or FIT.
+One of the Regional Special Operations qualified Safety Officers.
+Any experienced TRT Company Officer assigned to the incident.
+
+The Technical Advisor position within the Command Team should be filled prior to the
+implementation of any rescue plan proposed by Rescue Sector.
+II. Size-Up
+A. Secure a witness or park ranger to assist in gathering information to determine the
+location and condition of victim(s). If no witnesses are present, and no other source
+of information is available, Command should consider calling for a police helicopter
+(Firebird) to locate the victim(s) on the mountain.
+B. Assess the immediate and potential hazards to the rescuers.
+C. Assess on-scene capabilities and determine the need for additional resources.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+MOUNTAIN RESCUE OPERATIONS
+M.P. 204.10
+Phase II
+
+07/11-R
+
+PAGE 3 of 5
+
+Pre-rescue Operations
+
+It must be determined if this will be a RESCUE operation or a RECOVERY operation
+based on the survivability profile of the victim(s) which include factors such as the
+location and condition of the victim(s), and elapsed time since the accident occurred.
+I. MAKE THE RESCUE AREA SAFE
+A. Secure the area and remove all non-essential civilian personnel. If it is not possible to
+secure all of the hazards, rescue personnel operating in the area must be made
+aware of the hazard(s).
+B. Control foot traffic on the trail.
+C. Assemble all necessary personnel, rescue equipment, and patient packaging
+equipment that will be required for the rescue operation.
+Phase III
+
+Rescue Operations
+
+Technical rescue operations shall be conducted under the direction of Rescue Sector by
+trained Technical Rescue Technicians.
+I. ROPE RESCUE OPERATIONS
+Rescue Sector responsibilities shall include the following:
+A. Ensure that all personnel operating in Rescue Sector are accounted for and wearing
+appropriate PPE.
+B. Develop a rescue plan and a back-up plan.
+•
+
+Consider the risk management profile and survivability profile to develop an
+appropriate rescue plan.
+
+•
+
+The rescue plan shall be developed considering the least amount of risk to
+rescuers that is necessary to affect the rescue. Low-risk operations are not
+always possible, but should be considered first.
+
+•
+
+High-risk operations shall be decided upon through consultation with Rescue
+Sector, Safety, Command, and the Technical Advisor.
+
+•
+
+A back-up plan shall be in place prior to initiating rescue operations.
+
+C. Ensure the rescue plan and back-up plan, which include emergency procedures, are
+communicated to all personnel operating on the incident.
+II.
+
+HELICOPTER OPERATIONS
+Helicopter operations are considered high-risk and shall be decided upon through
+consultation with Rescue Sector, Safety, Command, and the Technical Advisor. Factors
+to consider in the use of a rescue helicopter include:
+•
+•
+•
+•
+•
+
+Condition of the patient.
+Difficult access.
+Difficult terrain.
+Time of day.
+Environmental effects on rescuers.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+MOUNTAIN RESCUE OPERATIONS
+M.P. 204.10
+
+07/11-R
+
+PAGE 4 of 5
+
+NOTE: Prior to considering the use of a helicopter for rescue operations, Command
+must determine if a rescue-qualified pilot is available for the rescue operation. If so, the
+Pilot In Command (PIC) will have the final say on if and how the helicopter will be used
+in the rescue operation.
+In addition to the responsibilities described for rope rescue, Rescue Sector shall also be
+responsible for the following:
+A. Establish a Base LZ in an appropriate location.
+•
+
+Assign this function to a TRT response unit.
+
+B. Establish a Mountain LZ in designated mountain locations.
+•
+
+Assign this function to TRT personnel on the mountain. Call for additional
+resources if necessary.
+
+III. TREATMENT
+A. Conduct a primary survey upon reaching the victim.
+B. Initiate C-spine precautions as soon as possible.
+C. Conduct a secondary survey and correct any life threatening conditions.
+D. Consider removing the victim from danger prior to providing definitive care.
+E. Provide ALS level treatment and transportation to a hospital when indicated.
+Phase IV Termination
+A. Ensure personnel accountability.
+B. Descend the mountain with personnel and equipment. In cases of a fatality, consider
+leaving everything in place until the investigative process has been completed.
+C. Consider a Post Incident Critique (may be more appropriate at a later date).
+D. Return to service after returning all equipment to apparatus.
+ADDITIONAL CONSIDERATIONS
+I. COMMAND STRUCTURE
+A. The first arriving unit shall assume Command of the incident. This unit shall remain in
+Command until Command is transferred to improve the quality of the Command
+organization. A Command Team shall be assembled to include, at a minimum, a
+Chief Officer and a Technical Advisor.
+B. Considerations for the Technical Advisor include:
+•
+•
+•
+
+A Special Operations Qualified Battalion Chief and/or FIT.
+One of the Regional Special Operations qualified Safety Officers.
+Any experienced TRT Company Officer assigned to the incident.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+MOUNTAIN RESCUE OPERATIONS
+M.P. 204.10
+
+07/11-R
+
+PAGE 5 of 5
+
+C. The first arriving TRT unit that is staffed with a TRT Company Officer should be
+assigned Rescue Sector. Rescue teams, Base LZ, Mountain LZ, and any other such
+functional team operating on the mountain shall be under the direction of Rescue
+Sector. Rescue Sector will communicate directly with TRT units assigned to these
+functions within Rescue Sector and shall keep Command informed during all phases
+of the rescue operation.
+D. Considerations for Safety Officer include:
+• One of the Regional Special Operations qualified Safety Officers.
+• A Special Operations Qualified Battalion Chief and/or FIT.
+• Any experienced TRT Company Officer assigned to the incident.
+E. Treatment Sector can be assigned to the first non-TRT unit that ascends the
+mountain.
+II. OTHER CONSIDERATIONS
+A. Consider the effects of inclement weather on the hazard profile, the victim(s), and the
+rescuers.
+B. Rescuers shall be “on-rope” and “tied-in” when operating near an edge.
+C. Victims should be secured in a harness or litter so as not to fall out if inverted at any
+time during the rescue operation.
+D. Mountain rescue incidents attract the news media; consider assigning a P.I.O.
+
+

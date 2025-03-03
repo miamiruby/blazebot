@@ -1,0 +1,272 @@
+﻿SALT LAKE CITY FIRE DEPARTMENT
+	
+
+Standard Operating Guideline
+	No. Pages 
+    6
+	Effective Date
+Draft
+01/01/2005
+	 
+Hazardous Materials Emergency Response 
+	Number
+Draft
+	Subject
+Unknown Substances-Draft
+	Authorized Signature -  Draft
+	Revised Date  
+	
+
+Performing initial reconnaissance at an incident involving unknown products, is essential to determine if the hazards presented may compromise the safety of response personnel.  This Policy will provide the Hazardous Materials Team Personnel with procedures aimed at the identification of unknown materials.  Field survey instruments must be used to determine if there are hazards present that preclude safe entry into the incident area.  It is essential that Entry Crew(s) maintain an ongoing and high level of situational awareness.  Anything that may present a different (than previously considered) or increased hazard must be addressed before the Entry Crew proceeds.
+
+
+I.        Hazards
+
+
+A.        Flammable Atmospheres
+
+
+B.        Oxygen or Oxidizer Enriched Atmospheres
+
+
+C.        Corrosive Gases or Vapors
+
+
+D.        High Energy Radiation
+
+
+II.        Sampling and Monitoring Priority
+
+
+There are a variety of instruments that detect in qualitative and quantitative terms many classes of hazardous materials.  Some monitors have multiple sensors that will detect the presence of unknown chemicals.  However, when entering a hazardous environment with an unknown product, a sampling protocol is required to maximize the safety of the Entry Crew and to protect the monitoring devices.  Although it is possible to monitor for several classes simultaneously, the sequential order of measurement and detection shall be as follows:
+
+
+A.        Presence of Radiation above Background Levels
+B.        Presence of Corrosive Gas
+C.        Oxygen Concentration
+D.        Percentage of Lower Explosive Limit
+E.        Concentration of Toxic Chemicals
+III. Action Levels
+
+
+Radiation exposure is based on the level of radiation present and the duration of the exposure. Two action levels must be considered:
+
+
+A.        Life Hazard: The maximum acceptable exposure to effect a rescue (of a live, viable victim) is 25 REM (radiation equivalent man). This is the maximum lifetime exposure.
+
+
+B.        No Life Hazard: The maximum acceptable exposure for an incident with no life hazard is 3 REM. This is the maximum quarterly exposure for a worker in the nuclear industry (5 REM/year and 3 REM/quarter).
+
+
+Flammability also requires two action levels.
+
+
+A.        Enclosed Area: In an enclosed area, the action level for flammability is 10% of the lower explosive limit (LEL).
+
+
+B.        Open Area: In an open (outside), unenclosed area, the action level for flammability is 20% of the LEL.
+
+
+Oxygen Concentration The action level for an oxygen deficient atmosphere is 19.5%. The action level for oxygen enrichment is >23.5%.
+
+
+
+
+If the Entry Crew performing reconnaissance encounters conditions that exceed these action levels, they must exit the hazard area. Tactical option to manage the hazards presented must be implemented and evaluated to re-entering the hazard area prior.
+
+
+
+
+
+
+
+
+
+
+
+
+IV. Collection Techniques
+
+
+Collection of samples may be required for analysis in order to identify the material.  Other responding agencies may request a liquid, solid, or gas sample.  However, sampling operations present significant hazards to the personnel involved.  The following work practices can minimize the risk and maximize the effectiveness and efficiency of sampling operations.
+
+
+A.        Have a sampling plan. 
+
+
+B.        Document the layout of containers and contamination, 
+record container types, marking, labeling and condition before beginning sampling operations.
+
+
+C.        Work from up wind and up hill whenever possible.
+
+
+D.        Avoid product contact. Do not walk in or directly touch 
+any unknown or hazardous substance.
+
+
+E.        Conduct ongoing monitoring during sampling. 
+
+
+F.        Monitor near container attachments before and after opening.
+
+
+G.            Monitor the head-space of containers.
+
+
+H.        Non-soluble liquids may stratify and form multiple layers in a container.  Collect the sample from the entire container, not just the top.
+
+
+Be alert for clues indicating increased hazard. Crystallization around container openings may indicate the presence of peroxides.  Bulging of drums or other metal containers indicate the possibility of contents under pressure.  Do not sample the container if it is not relatively safe to do so.  Monitoring locations and elevation are based on anticipated behavior of the gas or vapor involved in the release. Most gases and vapors are heavier than air. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J.        The following products are common gases that are lighter than air:
+
+
+Product
+	Vapor Density
+	
+
+	
+
+	Acetylene
+	.91
+	Anhydrous Ammonia
+	.58
+	Carbon Monoxide
+	.96
+	Ethylene
+	.98
+	Helium
+	.14
+	Hydrogen
+	.07
+	Methane
+	.56
+	Nitrogen
+	.97
+	
+
+
+
+K.        Prior to using field survey instruments in a hazardous atmosphere, 
+they should be placed in plastic bags to reduce the probability of 
+contamination. 
+1.        Only the sensor opening or probe should be exposed.
+
+
+2.        Cut a small opening in the bag to permit the probe to pass through or to provide access to the sensor opening in the instrument.
+
+
+3.        Place the instrument in the bag in such a manner to provide access (through the bag fabric) to controls and to allow a visual display.
+
+
+L.        Begin monitoring well outside the suspected hazard area from a position that is up hill and up wind. 
+
+
+1.        Move from the up hill, up wind location around the suspected hazard area to confirm the location of the Hot Zone boundary identified during initial operations (if possible).
+
+
+2.        After (or simultaneously with) verification of the Hot Zone boundary, enter the Hot Zone and begin visual reconnaissance and atmospheric monitoring.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+M.        Follow a systematic pattern of monitoring and document readings.
+
+
+1.        Begin by completing a quick evaluation of conditions prior to 
+a detailed examination of containers and the area inside the Hot  Zone.
+
+
+
+
+2.        Maintain each monitoring position for a minimum of 10-15 
+seconds to permit instrument response. If the Hot Zone is inside an enclosed area, monitor the space from outside prior to entry.
+
+
+3.        Use a wand with tubing to increase the reach of the monitors 
+and/or other instruments. 
+
+
+4.        When monitoring in an enclosed area monitor low (first), at 4' 
+- 6' (second) and at the ceiling/high last) at each monitoring point.
+
+
+
+
+
+
+V. Characterization of Unknown Chemicals
+
+
+Most of the monitoring will only characterize the unknown product.  Combustible gas indicators, pH paper, oxygen monitors, electrochemical sensors, and photoionization detectors(PID) will only measure the concentration of the chemical.  These monitors will not identify the chemical.  Colorimetric tubes can determine the presence of a family of chemicals.  General characterization of an unknown will greatly assist with determining the proper personal protective equipment, containment options, and decontamination practices.  
+
+
+Useful information, such as concentration, pH (acidity or alkaline), phase of chemical, viscosity, and a general description or the product can narrow the physical and chemical properties of the substance into a known classification of chemical.
+
+
+VI. Analysis of Unknown Chemicals
+ 
+The HAZMAT ID can be utilized to attempt to identify unknown liquids and solids.  If an identification with a correlation higher than .95 cannot be made, attempt to contact HAZMAT ID for “reachback” or technical assistance.
+
+
+Samples may be taken and forwarded to County Health Department or the State Laboratory for further testing and identification.
+
+
+VII. Documentation
+
+
+It is important that initial reconnaissance during chemical identification include the development of a simple map of the Hot Zone which consists of the following:
+
+
+A.        General Layout: Diagram the general layout of the Hot Zone including landmarks, access points, ventilation openings (enclosed areas) etc.
+
+
+B.        Hazard Locations:  Identify the location of specific hazards. Hazards may not have anything to do with the hazardous materials incident (pits, electrical, high temperature, etc.).
+
+
+C.        Container Type and Location:  Document the type 
+and location of each container that is/may become involved in the incident.  It is useful to assign each container (or group of containers) a specific identifier such as a number.  This will assist in identifying map references during subsequent tactical operations.
+
+
+D.        Container Markings:  For each container, identify placards, labels, markings, etc. which may assist in determining the characteristics of the container and identifying the contents. 
+
+
+E.        Container Condition:  Identify if possible which containers have breached, which have been/are/will be under stress and their current condition.
+
+
+F.        Product  Dispersion:  Identify based on monitoring and visual observation  dispersion of any product(s) which have been released.
+
+
+In addition, any chain-of-custody documentation must accompany the samples from the collector to the laboratory.  All documentation must be collected and compiled for a post-incident report.

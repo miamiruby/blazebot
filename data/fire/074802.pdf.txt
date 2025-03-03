@@ -1,0 +1,398 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+PAPAGO TUNNEL RESPONSE
+M.P. 205.15A
+
+04/17-R
+
+04/22-SR
+
+INTRODUCTION
+The I-10 Papago Freeway Tunnel is located in Central Phoenix south of McDowell. The tunnel extends from
+Third Avenue to Third Street. The most direct access is off of Seventh Avenue and Seventh Street. There is no
+direct access to the tunnel from above (i.e., Margaret T. Hance Park).
+VEHICULAR TUNNELS
+There are two vehicular tunnels--eastbound vehicular, westbound vehicular. There are five lanes of traffic in
+each direction. Each vehicular tunnel also has two emergency lanes. The maximum volume of traffic is 8,000
+autos/hour/tunnel.
+BUS TRANSIT TUNNEL
+There is a single Bus Transit Tunnel between the two vehicular tunnels to service bus traffic. This tunnel will not
+be in service for some time and has large fence gates at each end of the tunnel to restrict access. Gates will be
+large enough to allow fire apparatus to enter.
+IT IS EXTREMELY DIFFICULT TO TURN FIRE APPARATUS AROUND IN THIS TUNNEL
+Four access doors provide access from this transit tunnel to the vehicular tunnels (two on the eastbound side
+and two on the westbound side) and are located approximately one-third of the way in from the vehicular
+entrance/exit points.
+VENTILATION
+Each tunnel has mechanical ventilation. There are four ventilation rooms, two for each vehicular tunnel, that
+control air flow. Normal air flow is drawn into the tunnel near the middle and flows to exit points at either end
+of the tunnel. Air flow volume is determined by carbon monoxide readings. The higher the CO levels, the
+greater the air flow. The Bus Transit Tunnel does not have any mechanical ventilation.
+Each vent room controls the following functions for one-quarter mile of its respective tunnel:
+ Lighting
+ Ventilation
+ Fire Detection
+ CO Monitoring
+There is an Uninterrupted Power Supply (UPS) that provides "bare bones" bridging power between the loss of
+APS power and the start-up of the generator. Each vent room provides power, ventilation and fire detection
+control to a quadrant of the tunnel.
+
+Page 1 of 8
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+PAPAGO TUNNEL RESPONSE
+M.P. 205.15A
+
+04/17-R
+
+04/22-SR
+
+Each vent room can be accessed from the surface via the structures at the park level. NOTE: These rooms have
+essentially one way in and one way out by means of a long stairwell. There are two separate levels to vent
+rooms 1-3 that go to a depth of nearly 40 feet below the surface (there is only one level to vent room 4).
+WATER SUPPLY
+ There are hydrant cabinets in the two vehicle tunnels located approximately every 300 feet on
+alternating sides of the tunnel (600 feet separation on the same side). Each cabinet has a 2 1/2" fitting
+and a 4" hydrant fitting.
+ The hydrants are fed by 6" water mains.
+ The location of the cabinets is indicated by a blue and white hydrant sign.
+ The tunnel standpipe system is a wet system.
+ A four-way fire department standpipe connection to support the wall hydrant system is located on
+Culver Street, 50' west of Central. Intake fittings on the connection is 2 ½ inch.
+There is no water supply in the central Bus Transit Tunnel. Use of the emergency access doors one-third of the
+way in from the portals will allow access to the wall hydrants in the vehicular tunnels.
+HUMAT VALVES WILL NOT FIT INTO THE HYDRANT BOXES IN THE VEHICLE TUNNELS. A DIRECT HOSE
+CONNECTION WILL BE REQUIRED. THERE IS NO WATER SUPPLY IN THE VENT ROOMS.
+RADIO REPEATER SYSTEM
+A radio repeater system has been installed in the tunnel to provide for communications. The following
+frequencies will operate in the tunnel:
+
+
+Fire Channels 1, 5, 8 (A-Deck)
+
+Because of the approximate half-second time element needed to capture the repeater, the first part of a radio
+message can be lost. Companies should repeat their company identity twice at the front-end of the radio
+transmission to avoid loss of message (i.e., "Engine Four, Engine Four to Alarm").
+EMERGENCY TELEPHONE CABINETS
+There are emergency telephone cabinets located every 150 feet on both sides of the eastbound and westbound
+tunnels. The location of these cabinets is indicated by large reddish brown vertical stripes on the walls which
+are numbered 1 to 9 in the direction of traffic flow. Each cabinet is equipped with the following:
+
+
+
+An emergency telephone that is connected directly with the (Arizona Department of Transportation)
+ADOT Traffic Operations Center.
+A dry chemical fire extinguisher.
+Page 2 of 8
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+PAPAGO TUNNEL RESPONSE
+M.P. 205.15A
+
+
+
+04/17-R
+
+04/22-SR
+
+A fire alarm pull station.
+A security tamper switch to alert the operator when a cabinet is opened.
+
+The emergency telephone is an intercom system that can be used as an alternative communication system as
+well as to talk to the ADOT Traffic Operations Center.
+LIGHTING
+Lighting in the freeway tunnels is on 24 hours and controlled by an automated system. There is lighting in the
+center Bus Transit Tunnel that can be turned on remotely or by a switch within the transit tunnel.
+EMERGENCY POWER
+There is one emergency diesel generator that supplies emergency power to the tunnel. There are
+Uninterrupted Power Supply (UPS) systems in each vent room that provide 15 minutes of bridge
+power between the loss of APS power and the start-up of the generator. The following systems are on
+emergency power:
+ Limited lighting
+ Fire Detection
+ CO Monitoring
+VIDEO CAMERA SYSTEM
+A video monitoring system has been installed throughout the tunnel. There are cameras monitored at the
+ADOT Traffic Operations Center.
+ALARM/DISPATCH
+All emergencies detected by the ADOT Traffic Operations Center are reported to the Department of Public
+Safety (DPS), which is co-located within the ADOT Traffic Operations Center. The Department of Public Safety
+(DPS) will notify Phoenix Dispatch Center of all emergencies requiring a Fire Department response.
+For serious incidents or conflicting information, Phoenix Dispatch Center should call the ADOT Traffic
+Operations Center to verify the situation. The ADOT Traffic Operations Center’s video camera system can
+provide some additional information and adjustments to the dispatch can then be made.
+RESPONSE AND OPERATIONS CONSIDERATIONS
+Fire Department response to routine small-scale incidents should be routed through the most direct route, with
+the flow of traffic. The most direct access to the tunnel is off of Seventh Avenue and Seventh Street. The next
+most direct access is off of 19th Avenue and 16th Street.
+
+Page 3 of 8
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+PAPAGO TUNNEL RESPONSE
+M.P. 205.15A
+
+04/17-R
+
+04/22-SR
+
+Significant emergencies requiring the dispatch of a 2-1 or larger should follow the following guidelines:
+ The first due company should enter the freeway with the flow of traffic by the most direct route. This
+company must advise Dispatch and other units of traffic congestion and access to the incident, and
+redirect other companies as necessary to achieve a rapid arrival on the scene.
+ If traffic congestion is severe; creating significant delays in reaching the incident site, the second due
+company should consider entering the Bus Transit Tunnel. This company should enter the freeway with
+the flow of traffic from the opposite direction. In order to safely reach the entrance to the Bus Transit
+Tunnel, companies must enter the freeway at either 16th Street or 19th Avenue. The entrance to the
+Bus Transit Tunnel is located in the middle between the two freeway tunnels. Companies approaching
+the tunnel should ease towards the median lane in order to enter the Bus Transit Tunnel. The fence
+gate must be opened to enter. Once in the tunnel, this company can go to one of the emergency access
+doors located approximately 1/3 of the way into the tunnel to gain access to the incident site.
+ The first Chief Officer should respond to the incident site with the flow of traffic, or as otherwise
+directed by the first due company and traffic coordinators.
+ Considerer sending a Chief Officer to the ADOT Traffic Operations Center to provide liaison for the
+Incident Command.
+ A 2-1 or larger will have two Battalion Chiefs assigned.
+STAGING
+Other companies should Level II Stage on Culver Street, just west of Central (the tunnels hydrant system
+standpipe connection is located there). The first due company or Command may opt to re-direct these
+companies to a staging location on the freeway or directly to the tunnel as needed.
+INCIDENT COMMAND
+Phoenix Fire Department Standard Operating Procedures and Incident Management System will be utilized for
+any emergencies in the tunnel. The Command Post will utilize a Unified Command with other affected agencies
+represented at the incident. The Incident Commander must notify Dispatch of the Command Post location as
+soon as it is established.
+Major Incidents/Tactical Considerations
+There are four probable major incident scenarios for an emergency in the tunnel, and they are listed below.
+1. Major Medical
+ Access to patients may be severely limited. Access will be from each end of the incident rather than all
+four sides.
+ Secure access against traffic flow. DPS MUST STOP ALL TRAFFIC ENTERING THE FREEWAY AT SEVENTH
+STREET AND SEVENTH AVENUES.
+ A DPS liaison must be requested to the Command Post as early as possible.
+Page 4 of 8
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+PAPAGO TUNNEL RESPONSE
+M.P. 205.15A
+
+
+
+
+
+
+
+
+
+
+04/17-R
+
+04/22-SR
+
+Move apparatus staging to the freeway entry point or tunnel as appropriate.
+Watch for moving traffic.
+Because of possible restricted access around the sides of a major incident, two or more Treatment
+Sectors may be required.
+Have the ADOT Traffic Operations Center increase the lighting in the tunnel as necessary.
+Have ADOT adjust the exhaust fans' direction and volume as needed.
+A hazardous materials problem may exist--ruptured fuel tanks or truck cargo (see Haz Mat Incidents).
+A fire may be present (see Fire Incident).
+Protective hoselines may be required.
+Additional personnel may be needed to move and carry patients over and around vehicles and debris
+for some distance.
+
+2. Major Fire
+ Access with the flow of traffic may be severely restricted.
+ Confirm exact location of the incident with the ADOT Traffic Operations Center.
+ Route crews from opposite direction into Bus Transit Tunnel, and against traffic WHEN SAFE TO DO SO
+and as needed to access the incident site.
+ Have DPS stop traffic so that emergency vehicles can enter against traffic.
+ Confirm with the ADOT Operations Room that the exhaust fans are working at maximum volume and in
+the direction needed to control the tunnel environment.
+
+
+Confirm with ADOT that the sump pump system is turned off.
+
+
+
+
+Confirm the lighting system is on maximum.
+Consider surface wind direction and speed in the approach and positioning of the fire apparatus. Wind
+direction may make a down wind approach impossible.
+SCBA's must be donned prior to entry with evidence of a working fire in the tunnel.
+Victims caught in traffic congestion will need rescue and escorting out of the tunnel.
+The Bus Transit Tunnel should be checked for victims using the emergency access doors to evacuate.
+Apparatus should be located uphill from the drain system to avoid runoff exposure.
+Ensure adequate foam capacity is on scene before initiating a foam attack.
+First attack lines should protect victims and rescuers.
+Second attack lines should address fire control and extinguishment.
+Because of extensive debris and limited access to the seat of the fire, stang guns may prove effective for
+reach and knockdown.
+Address runoff as a hazardous materials contamination and control/seal/dike freeway drains.
+Consider air contamination and evacuation needs of the neighborhood around the tunnel and Margaret
+T. Hance Park.
+
+
+
+
+
+
+
+
+
+
+
+
+Page 5 of 8
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+PAPAGO TUNNEL RESPONSE
+M.P. 205.15A
+
+04/17-R
+
+
+
+04/22-SR
+
+Assign an engine company to pump the tunnel's hydrant standpipe system located on Culver Street
+West of Central.
+ Utility company lighting in the tunnel may be required as the fire/heat will damage the tunnel's lighting
+system.
+ Move Level II Staging to the freeway near the tunnel if appropriate.
+ The Bus Transit Tunnel may serve as an alternate attack/access point via the emergency access doors.
+No water supply is available in the Bus Transit Tunnel but can be obtained by hand-jacking a supply line
+through an access door to a wall hydrant in one of the vehicular tunnels.
+ Positive pressure ventilation may be needed at the transit access doors to prevent smoke passage.
+ The Bus Transit Tunnel may also serve as a Rehab location and Resource Sector operation. A utility
+company will be needed for lighting and Rehab operations.
+ The incident may be deep within a contaminated atmosphere. Crews may run out of SCBA air by
+walking in. A taxi/shuttle system should be considered or use of the Bus Transit Tunnel as a safe refuge.
+ The Command Post may need to be established outside of the tunnel to ensure adequate Command-toDispatch communications.
+ Strict lobby control and personnel accountability must be maintained.
+Sectors to consider for a major fire incident include:
+ Lobby Sector(s)
+ East and West Sectors
+ Haz Mat Sector
+ De Con Sector
+ Bus Transit Tunnel Sector
+ Resource Sector
+ Rehab Sector
+ ADOT Traffic Operations Center (Liaison Sector)
+ Staging Sector
+ Extrication Sector
+ Treatment Sector
+ Transportation Sector
+ Police/DPS Liaison Sector
+ Safety Sector
+ Accountability Sector(s)
+ Public Information Sector (coordinated with, ADOT and DPS)
+
+Page 6 of 8
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+PAPAGO TUNNEL RESPONSE
+M.P. 205.15A
+
+04/17-R
+
+04/22-SR
+
+3. Hazardous Materials Spill/Release
+ Access with the flow of traffic may be severely restricted.
+ Confirm exact location with ADOT Traffic Operations Center.
+ Route crews from opposite direction, Bus Transit Tunnel, and against traffic WHEN SAFE TO DO SO and
+as needed to access incident site.
+ Confirm with ADOT that the exhaust fans are working at maximum volume and in the direction needed
+to control the tunnel's environment.
+ Confirm with ADOT that the sump pumps are shut down.
+ Confirm with ADOT that lighting is at maximum.
+ SCBA's must be donned prior to entry into the tunnel with evidence of a hazardous materials spill or
+release.
+ Initiate diking of drain systems as needed to control runoff.
+ Consider surface wind direction and speed as a factor in the apparatus and attack positioning.
+ Apparatus should be located uphill of the drain to avoid runoff contamination.
+ Address victim rescues and escorting of tunnel wounded out of the tunnel or to safe refuge in the Bus
+Transit Tunnel.
+ Address search-and-rescue of Bus Transit Tunnel for any victims who used emergency access doors to
+seek safe refuge.
+ Consider air contamination of the tunnel, Margaret T. Hance Park, and neighborhood.
+ Address area evacuation as required.
+ Upwind Level II Staging on the freeway may be appropriate.
+ The Bus Transit Tunnel may serve as a safe refuge, rehab, resource, and main attack point.
+ Positive pressure of the Bus Transit Tunnel access door may be required to protect the transit tunnel
+refuge area from contamination.
+ Utility company lighting will be required in the Bus Transit Tunnel.
+ The incident depth within the tunnel may not permit adequate SCBA airtime to reach the incident. A
+vehicle shuttle (taxi) or use of the Bus Transit Tunnel to access the incident should be considered.
+ The Command Post may need to be established outside the tunnel and in a safe location.
+ Strict lobby control and personnel accountability must be maintained.
+Sectors to Consider for a Major Hazardous Materials Incident:
+ Lobby Sector
+ East and West Sectors
+ Haz Mat Sector
+ De Con Sector
+ Bus Transit Tunnel Sector
+ Resource Sector
+ Rehab Sector
+Page 7 of 8
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+PAPAGO TUNNEL RESPONSE
+M.P. 205.15A
+
+
+
+
+
+
+
+04/17-R
+
+04/22-SR
+
+ADOT Traffic Operations Center (Liaison Sector)
+Staging Sector
+Police/DPS Liaison Sector
+Safety Sector
+Accountability Sector
+Public Information Sector (coordinated with, ADOT and DPS)
+
+4. Below Ground Fire
+There are five below-ground facilities related to the tunnel operations. Four of the facilities are for ventilation
+fan room operations. The fifth facility is the power and equipment room (Central Avenue). Each of the facilities
+have multiple levels and go down nearly 40 feet below grade. SCBA's must be worn.
+A fire in one of these below-grade facilities poses extreme risk to rescuers or firefighters. Smoke, lack of
+lighting, multiple levels, and staircases all increase the risk. Such events should be considered as confined space
+operations and appropriate procedures applied (MP 205.09 Confined Space Rescue).
+If persons are reported trapped, consider their survival profile (utilizing the risk management system) before
+committing rescue operations. Apply all safety systems as required and proceed cautiously.
+If no persons are believed trapped, or the survival profile suggests no rescue should be attempted, the best
+approach may be to seal the facility, secure all power, and let the fire burn itself out. Use of inert gas may be
+considered to extinguish the fire.
+Once the fire is extinguished, adequate ventilation, lighting and air sampling should be completed prior to entry.
+Entry will be considered a confined space rescue requiring all appropriate safety procedures.
+COMMUNICATIONS FAILURE
+As indicated, the tunnel has radio repeater systems for fire channels 1, 5, and 8 (A-Deck). Should the assigned
+channel repeater fail, on-site radio communications should be switched to the other tactical radio channel (e.g.,
+channel 5 fails, crews go to channel 8). Should all systems fail, Command must establish a communications
+relay Company (or Sector) to provide a communications link to Dispatch that is located outside the tunnel.
+
+Page 8 of 8
+
+

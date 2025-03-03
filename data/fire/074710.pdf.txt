@@ -1,0 +1,172 @@
+Policy Name:
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+Policy Number:
+RESCUE
+M.P. 202.02C
+
+This policy is for internal use only and does not expand an employee’s legal duty or civil
+liability in any way. This policy should not be construed as creating a duty to act or a higher
+duty of care, with respect to third party civil claims against employees or the Phoenix Fire
+Department (PFD). Remedies for violations of this policy, if proven, are limited to
+administrative disciplinary action against PFD employees.
+Related Policies: 201.01, 201.01C, 201.06, 202.04, 202.05, 202.12E
+Other Reference: UL Fire Safety Research Institute
+Date Implemented: 03/2022-R
+Review Date: 03/2026
+
+Life safety is the highest tactical priority on the fireground and in all other hazard zones. The
+primary focus of hazard zone operations is to size up an incident to assess for the presence or
+likelihood of savable lives and build a plan to execute the rescue of victims. There are many
+potential actions that can best facilitate the successful rescue and/or removal of victims and are
+dependent on conditions and resources.
+The two elements that are of greatest threat to fire victims are toxic and thermal exposure. Toxic
+exposure to the products of combustion is less about the proximity to the fire and directly
+impacted by the volume and movement of the smoke and gases in the interior of the structure.
+The degree of which victim(s) are exposed to toxic smoke is directly related to their elevation and
+location in the building. Since heat and smoke rises and travels throughout the building, victims
+in elevated locations are at a higher risk. Exceptions exist, like for instance a closed interior door
+that protects the victims from the smoke and heat.
+Thermal exposure is directly related to the proximity to the fire and the elevation a victim is in the
+interior. Victims located near to or in the flow path inside the structure are at significantly more
+risk as well. The closer a victim is and the higher they are in the interior space, the greater the total
+exposure and danger. Barriers, such as closed doors and furniture, can provide some protection
+from thermal exposure to trapped victims inside of a structure.
+We initiate every fire response with the expectation that we will encounter fire and smoke
+conditions that are endangering the occupants. An effective size up, utilizing all forms of
+information gathering available, is critical. Exterior fire and smoke conditions can give clues to the
+most endangered spaces but is not always reliable as to the extent and threat level to the victims.
+A size-up from the interior is necessary to assess the immediate conditions potentially impacting
+victims and may be very different from the exterior perspective. It is critical to assess the most
+RESCUE
+Page 1 of 5
+
+effective action on the fireground to improve the tenability of victims prior to rescue. Sometimes
+this action involves an effective fire attack from the most advantageous position (interior or
+exterior) to improve the conditions. Other times it may involve immediately working to remove
+victims utilizing the path of safest removal. Removing the victims from the fire or removing the
+fire/heat/smoke from the victims is a critical decision at all active fire incidents where savable lives
+exist.
+PROCEDURE
+The Incident Commander (IC) shall direct fireground efforts to protect savable lives. For example,
+on residential fires, the IC shall direct a primary search in all involved and exposed occupancies
+when aligned with the risk management profile. When appropriate at non-residential fires, the IC
+should take steps to facilitate and support evacuation of the fire occupancy as well as exposures.
+The IC should determine the most effective action utilizing the limited initial resources to best
+impact victim rescue. The initial action may be an exterior or interior fire attack coupled with
+immediate rescue actions. The Incident Commander must structure initial operations around the
+completion of the primary search.
+The Incident Commander must consider the following factors in developing a basic rescue sizeup:
+• Number, location, and condition of victims.
+• Fire conditions and the impact it has on the victims.
+• What actions best impact the survivability and/or tenability of the victims?
+• What actions best impact our ability to search the structure?
+• Can firefighters access the victims?
+• How are they going to be removed from the structure?
+Note: The IC should ensure a 360 is completed on all incidents to assess the factors above.
+Command must make the basic rescue decision:
+• Do we remove the victims from the fire? OR
+• Do we remove the fire from the victims?
+• Do the conditions and resources allow for simultaneous action?
+Rescue efforts should be extended in the following order:
+• Most severely threatened
+• The largest number (groups)
+• The remainder of the fire area
+• The exposed areas
+
+RESCUE
+Page 2 of 5
+
+A primary search means companies have quickly gone through all affected areas and verified the
+removal and/or safety of all occupants. Time is the critical factor in the primary search process.
+Successful primary search operations must be extended as quickly as possible dependent on the
+conditions and fire suppression actions. The completion of the primary search is reported utilizing
+the standard radio reporting term "All Clear."
+It is the responsibility of Command to coordinate primary search assignments and secure
+completion reports from interior companies. The tactical benchmark for completing a primary
+search is “All Clear.” Alarm will record the time of the “All Clear” report from Command.
+The rescue functions that follow fire control activities or completed after a primary search is
+completed will be regarded as a secondary search. A secondary search means that companies
+thoroughly search the interior of the fire area after initial fire control and ventilation activities have
+been completed. A secondary search should preferably be completed by different companies than
+those involved in the primary search activities. Thoroughness, rather than time, is the critical factor
+in a secondary search.
+The objective of a secondary search is the confirmation of an “All Clear.” This should be reported
+to the Alarm Room upon completion.
+OPERATIONAL INFORMATION
+The stage of the fire becomes a critical factor that affects the rescue plan developed by Command.
+On residential fire incidents, the following items outline the basic Command approach to fire
+stages:
+•
+
+•
+
+•
+
+In nothing showing situations, or in very minor fire cases that clearly pose no life hazard,
+Command must structure a rapid interior search and report "ALL CLEAR." The interior
+search for victims will also include an interior size up for smoke or fire conditions.
+In smoke showing and working fire situations, fire control efforts must be extended
+simultaneously with rescue operations to gain entry and control interior access to complete
+a primary search. In such cases, Command and operating companies must be aware that
+this action is working with greatest allowable risk and is focused on the location and
+removal of victims. Fire knockdown or control may be a critical factor in completing a
+primary search. In working fire situations, a primary search must be followed by a
+secondary search.
+In cases of fully involved buildings or compartments of buildings, a fire attack with
+adequate water flow becomes the primary focus. A size up must be conducted to determine
+the ability to search exposed or connected areas if the conditions and building integrity
+allow. This must be coordinated with the fire attack plan. Clear communications and
+determination of what areas can be searched in conjunction with fire control and
+coordinated ventilation is critical. Command must determine which areas will not be
+RESCUE
+Page 3 of 5
+
+searched due to fire conditions and structural integrity. As quickly as fire control is
+achieved, Command must structure what is, in effect, a secondary search for victims.
+Command and operating companies cannot depend solely upon reports from residents and
+spectators to determine status of victims. Fire companies should utilize reports as to the location,
+number, and condition of victims as supporting primary search efforts, and must extend and
+complete a primary search wherever entry is possible. Search and rescue operations are condition
+and structure dependent.
+In some cases, protecting exposed occupants in a safe location inside the structure is the most
+appropriate action. These occupants are safer in their rooms than moving through contaminated
+hallways and interior areas. Such movement may also impede interior firefighting. When these
+actions are appropriate, this must be communicated to the Sector Officer or Command depending
+on the size and complexity of the incident.
+Command must make specific primary search assignments to companies to cover specific areas
+of large or complex residential occupancies (e.g., high-rise, mid-rise, large care homes, etc.) and
+maintain on-going control of such companies until the entire area is searched when conditions
+allow. When primary search companies encounter and remove victims, Command must assign
+other companies to continue to cover the interior positions vacated by those companies.
+All initial attack efforts must be directed toward supporting rescue efforts and hose lines must be
+placed in a manner to control interior access, confine the fire, and protect avenues of escape.
+Hoseline placement and adequate water flows become critical factors in these cases. Command,
+Sector Officers, and all operating companies must realize that the operation is still focused on the
+rescue of occupants in coordination with an effective fire attack.
+Normal means of interior access (e.g., stairs, halls, interior public areas, etc.) should be utilized to
+remove victims whenever possible. Secondary means of rescue (e.g., aerial platforms and ladders,
+ground ladders, fire escapes, helicopters, etc.) must be utilized in their order of effectiveness.
+Command must realistically evaluate the resources required to remove victims and then treat their
+fire-affected bodies. In cases involving such multiple victims, Command must call for the timely
+response of adequate resources and quickly develop an organization that will both stabilize the
+fire and provide for the removal and treatment of the occupants. Command must structure
+treatment of victims after removal. Multiple victims should be removed to one location for more
+effective triage and treatment. Command should coordinate treatment and assign treatment
+companies as required to a Treatment Sector.
+Once the primary search has been completed and an "ALL CLEAR" transmitted, Command must
+maintain control of access to the fire area; beware of occupants (and others) re-entering the
+RESCUE
+Page 4 of 5
+
+building. The most urgent reason for calling additional alarms is for the purpose of effectively
+managing the life safety potential. Command must develop a realistic (and pessimistic) rescue
+size-up as early as possible.
+The term "SEARCH & RESCUE" should be used when assigning companies to a primary search
+over the radio; "ALL CLEAR" should be used only as a completion report.
+
+RESCUE
+Page 5 of 5
+
+

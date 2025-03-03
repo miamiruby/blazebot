@@ -1,0 +1,235 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+APPLICATION OF CLASS “B” FOAM/AFFF CONTAINING PFAS
+M.P. 204.04A
+
+12/24-N
+
+Page 1 of 5
+
+PURPOSE
+The purpose of this MP is to define the circumstances that require the application of Class
+B Firefighting Foam/AFFF(Aqueous Film Forming Foam) that contains PFAS.
+Not all Class B Foams or AFFF contain PFAS. This MP only refers to the operational use
+and responsibilities after application of Class B Foams or AFFF containing PFAS.
+
+DEFINITIONS
+A hazardous chemical is any chemical that is classified as a physical or health hazard.
+A chemical is a physical hazard if it is likely to burn or support fire.
+A chemical is a health hazard if there is significant evidence that acute or chronic health
+effects may occur in exposed employees.
+Flash point is the minimum temperature at which a liquid gives off vapor in sufficient
+concentration to form an ignitable mixture with air near the surface of the liquid.
+A liquid is flammable if it has a flash point below 141F.
+A liquid is combustible if it has a flashpoint between 140-200F.
+Class “B” Foam/Aqueous Film Forming Foam (AFFF) that contains PFAS is typically used
+to extinguish highly flammable or combustible liquid class B fires, such as fires involving
+fuel tankers (e.g. over-the-road or railroad), aircraft and oil refineries.
+Per- and polyfluoroalkyl substances (PFAS) are a group of man-made
+chemicals. Examples of where PFAS can be found include cleaners, textiles, leather,
+paper and paints, fire-fighting foams, and wire insulation.
+
+BACKGROUND:
+The Arizona Department of Environmental Quality (ADEQ) urges Arizona’s fire
+departments and emergency responders to take extreme care to minimize the release of
+Class B Firefighting Foam/AFFF containing PFAS into the environment. Uncontrolled
+release of PFAS to the environment has the potential to create adverse impacts to public
+health and the environment if it reaches drinking water, ground water or surface water.
+Exposures in the workplace can also occur if skin contact occurs with concentrated
+products or through inhalation. Certain PFAS can accumulate and stay in the human
+body for long periods of time and there is evidence that exposure to PFAS can lead to
+adverse health outcomes in humans.
+As of January 1, 2020, Arizona Revised Statute (ARS) § 36-1696 states that no person,
+local government, or state agency may discharge or use class B firefighting foam that
+contains intentionally added PFAS chemicals for training or testing purposes unless
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+APPLICATION OF CLASS “B” FOAM/AFFF CONTAINING PFAS
+M.P. 204.04A
+
+12/24-N
+
+Page 2 of 5
+
+otherwise required by law or conducted at a facility that provides containment, treatment,
+and disposal measures that prevent uncontrolled releases into the environment.
+The statute does not restrict the manufacture, sale or distribution of class B firefighting
+foam containing intentionally added PFAS or the use of the foam in emergency
+firefighting or fire prevention operations.
+The Code of Federal Regulation’s Occupational Safety and Health Standards within Title
+29, Part 1910, Subpart Z, § 1910.1200, requires that employers communicate to its
+employees any hazardous chemicals that are known to be present in the workplace, their
+associated hazards, how to protect themselves, and provide training in their use.
+
+OPERATIONS
+Our Standard Operating Procedures combined with federal and state regulations provide
+our department guidance on the use of Class B Firefighting Foam/AFFF containing PFAS
+at emergency incidents. We must always begin with the question, “Why are we taking
+risks at this incident?”(MP.201.01C, Risk Management and Safety). The critical factors that
+are present will help us answer this question by indicating the tactical priorities (MP
+202.02A, Tactical Objectives) that must be addressed and assist us in creating an incident
+action plan. Critical factors on an incident involving the release of flammable and or
+combustible liquids include:
+•
+•
+•
+•
+•
+•
+
+life safety of civilians and that of our members
+outside ambient and surface level temperatures
+flash point and amount of the product released
+if the released flammable liquid has ignited
+protection of property that is a potential exposure
+soil and nearby storm drains or waterways that are environmental exposures
+
+If a flammable or combustible liquid that is accidentally released has a flash point that is
+approaching ambient or surface level temperatures and the amount of product released
+threatens life safety or property if ignited, then the application of Class B Firefighting
+Foam/AFFF containing PFAS should be considered. If the same liquid ignites, Class B
+Firefighting Foam/AFFF containing PFAS should be applied to reduce the products of
+combustion. If a large amount (55 gallons or more) of a flammable or combustible liquid
+is accidentally released, but there is no threat to life safety or property, then Class B
+Firefighting Foam/AFFF containing PFAS should not be applied to the liquid. Application
+in this instance produces an unnecessary exposure to personnel and may inhibit the
+ability to control the release of hazardous chemicals (both flammable or combustible
+liquids and Class B Firefighting Foam/AFFF containing PFAS) into the environment.
+Permit Required
+Any section that uses Class B Firefighting Foam/AFFF containing PFAS, on an incident,
+will be required to complete the use permit, attach a Chemical Reference Worksheet, and
+is responsible for the maintenance of the record. A copy of the permit must also be
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+APPLICATION OF CLASS “B” FOAM/AFFF CONTAINING PFAS
+M.P. 204.04A
+
+12/24-N
+
+Page 3 of 5
+
+submitted to the Safety and Prevention section to support documentation and tracking of
+Toxic Exposure reports from the incident.
+Personal Protection and Decontamination
+If the decision is made to apply Class B Firefighting Foam/AFFF containing PFAS during
+an incident, the following must be addressed,
+•
+•
+•
+•
+•
+
+•
+
+The Incident Commander must inform all crews that Class B Firefighting
+Foam/AFFF containing PFAS is being applied.
+Hazard Sector must inform any nearby crews of application.
+All personnel operating in the hot zone (MP 204.01, Hazardous Materials) must
+wear their turnouts and use their SCBA.
+Crews must make every effort to avoid contact with any applied Class B
+Firefighting Foam/AFFF containing PFAS.
+Members who are outside of the hot zone in a support role and are handling and
+supplying open containers of Class B Firefighting Foam/AFFF containing PFAS to
+operations personnel in a forward position, must wear personal protective
+equipment. This includes a chemical splash protection garment, chemical resistant
+gloves, and an N-95 particle mask.
+If exposed to Class B Firefighting Foam/AFFF containing PFAS, crews must adhere
+to the Fireground Exposure Reduction Policy, MP206.02.
+
+Notifications and Reporting Requirements
+The application of Class B Firefighting Foam Class B Firefighting Foam/AFFF containing
+PFAS on an incident, will require notifications to C99 and the Arizona Department of
+Environmental Quality (ADEQ) to coordinate clean-up and remediation. The Safety and
+Prevention section must also be contacted to initiate a Toxic Exposure Notification.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+APPLICATION OF CLASS “B” FOAM/AFFF CONTAINING PFAS
+M.P. 204.04A
+
+12/24-N
+
+Page 4 of 5
+
+REFERENCES
+29 C.F.R. § 1910.1200, Hazard Communication.
+A.R.S. § 36-1696, Firefighting foam; prohibited uses; exception; definitions.
+Arizona Department of Environmental Quality (ADEQ). (2023). AFFF Resources.
+https://www.azdeq.gov/afffresources#:~:text=The%20discharge%20or%20use%20of,prohibited%20by%20Arizona%2
+0state%20law.
+Barragan, A. (2024, Jan 18th). Personal communication [phone interview].
+National Institute of Occupational Safety and Health. (2024). Per-and polyfluoroalkyl
+substances (PFAS). Center for Disease Control and Prevention.
+https://www.cdc.gov/niosh/topics/pfas/default.html#:~:text=Per%2D%20and%20polyfluoro
+alkyl%20substances%20(PFAS),Print&text=PFAS%20is%20often%20a%20component,suppression%20of%20liquid%20fuel
+%20fires.&text=U.S.%20workers%20in%20certain%20industries,PFAS%20than%20the%20
+general%20public.
+Occupational Safety and Health Administration. (2024). Definitions. Code of Federal
+Regulations. https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part173/subpart-D/section-173.120
+Occupational Safety and Health Administration. (2024). Hazard Communications. Code of
+Federal Regulations. https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part1910/subpart-Z/section-1910.1200
+US Fire Administration. (2020). The Hidden Dangers in Firefighting Foam. The hidden
+dangers in firefighting foam (fema.gov)
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+APPLICATION OF CLASS “B” FOAM/ AFFF CONTAINING PFAS
+M.P. 204.04A
+
+08/24-N
+
+Page 5 of 5
+
+Application of Class "B" Foam/AFFF Use Permit
+Date:
+Incident Number:
+
+Phoenix Fire Department
+Address:
+
+RP Information:
+Product Information:
+Critical factors to consider on an incident involving the release of flammable and or
+combustible liquids include:
+Is there a risk to Life safety of civilians and that of our members?
+Surface Temp:
+
+Outside ambient and surface level temperatures
+
+Air Temp:
+Flash Point:
+
+Flash point and amount of the product released
+
+Amount Released:
+
+Has the released flammable liquid has ignited?
+Is there a risk to property that is a potential exposure?
+Is soil and nearby storm drains or waterways environmental exposures?
+If the decision is made to apply Class B Firefighting Foam/AFFF containing PFAS during an
+incident, the following must be addressed:
+The Incident Commander has informed all crews that Class B Firefighting Foam/AFFF
+containing PFAS is being applied
+Hazard Sector has informed nearby crews of application
+All personnel operating in the hot zone are wearing their turnouts and their SCBA
+Members that are outside of the hot zone and are handling and supplying class B
+foam to operations personnel in a forward position, are wearing personal protective
+equipment that includes a chemical splash protection garment, chemical resistant
+gloves, and an N-95 particle mask
+If exposed to Class B Firefighting Foam/AFFF containing PFAS, crews are adhering to
+our Fireground Exposure Reduction Policy, MP206.02.
+Phoenix Crews Assigned:
+Gallons of Foam Concentrate Used:
+Incident Commander:
+Signature:
+Hazard Sector:
+Signature:
+
+

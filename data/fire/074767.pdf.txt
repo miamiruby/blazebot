@@ -1,0 +1,411 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+CONFINED SPACE RESCUE
+M.P. 204.08
+
+07/11-R
+
+PAGE 1 of 8
+
+SCOPE
+This procedure establishes a standard structure and guideline for all fire department personnel
+operating at incidents involving confined space rescues. The procedure outlines responsibilities
+for first-responders, TRT units, Command Officers, and other fire department personnel
+responding to such incidents. All other Phoenix Fire Department procedures shall apply to
+confined space rescue operations where applicable.
+PURPOSE
+The purpose of this procedure is to establish guidelines for the response of fire department
+personnel and equipment to confined space rescue incidents. Because confined space rescue
+operations present a significant danger to fire department personnel, the safe and effective
+management of these operations require special considerations. This procedure identifies some
+of the critical issues which must be included in managing these incidents.
+TACTICAL CONSIDERATIONS
+OSHA Regulations Standard 29 CFR 1910.146 Permit-Required Confined Spaces regulates
+entry into confined spaces for general industry and the rescue service and shall be considered
+the basis for confined space rescue operations. For the purpose of emergency response, a
+confined space is defined as:
+•
+•
+•
+
+A space large enough for personnel to physically enter.
+A space not designed for continuous employee occupancy.
+An area with limited entry and egress.
+
+Confined spaces include caverns, tunnels, pipes, tanks, mine shafts, utility vaults, and any other
+location where ventilation and access are restricted by the configuration of the space. These
+factors may also apply to basements and attics. Confined space incidents may involve injured
+persons or persons asphyxiated or overcome by toxic substances. Pre-incident planning is an
+important factor in preparing to handle these types of incidents.
+Due to the inherent dangers associated with these operations, the Phoenix Fire Department
+Risk Management Profile shall be applied to all confined space rescue operations and shall be
+continuously re-assessed throughout the incident. A phased approach to confined space rescue
+operations which include; Arrival, Pre-entry operations, Entry operations, and Termination, can
+be utilized to safely and effectively mitigate these high-risk / low-frequency events.
+
+Additional technical information is available in the issued Technical Rescue Field
+Operations Guide.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+CONFINED SPACE RESCUE
+M.P. 204.08
+
+Phase I
+
+07/11-R
+
+PAGE 2 of 8
+
+Arrival.
+
+I. ESTABLISH COMMAND
+A. First arriving company officer shall assume Command and begin an immediate sizeup of the situation while isolating the immediate hazard area and denying entry to all
+non-rescue personnel.
+B. First arriving TRT unit that is staffed with a TRT Company Officer should be
+assigned Rescue Sector. The TRT Company Officer assigned as Rescue Sector
+should remain with his crew. Rescue Sector responsibilities include:
+•
+•
+•
+•
+•
+
+Assuming technical rescue operations control.
+Identifying hazards and critical factors.
+Developing a rescue plan and back-up plan.
+Communicating with and directing TRT resources assigned to Rescue Sector.
+Informing Command of conditions, actions, and needs during all phases of the
+rescue operation.
+
+C. Designate a Safety Officer. Considerations for Safety Officer include:
+•
+•
+•
+
+One of the Regional Special Operations qualified Safety Officers.
+A Special Operations qualified Battalion Chief and/or FIT.
+Any experienced TRT Company Officer assigned to the incident.
+
+A Safety Officer shall be established prior to the implementation of any rescue plan
+proposed by Rescue Sector.
+D. Following the transfer of Command to a Command Officer, a Technical Advisor
+should be assigned to join the Command Team at their location to assist in
+managing personnel and resources engaged in the technical aspects of the incident.
+The Technical Advisor is responsible for ensuring that the rescue plan developed by
+Rescue Sector and communicated to Command is a sound plan in terms of the
+safety and welfare of both victim(s) and rescuers. Considerations for the Technical
+Advisor include:
+•
+•
+•
+
+A Special Operations qualified Battalion Chief and/or FIT.
+One of the Regional Special Operations qualified Safety Officers.
+Any experienced TRT Company Officer assigned to the incident.
+
+The Technical Advisor position within the Command Team should be filled prior to
+the implementation of any rescue plan proposed by Rescue Sector.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+CONFINED SPACE RESCUE
+M.P. 204.08
+
+07/11-R
+
+PAGE 3 of 8
+
+II. Size-Up
+A. Secure a witness or responsible party to assist in gathering information to determine
+exactly what happened. If no witnesses are present, Command may have to look for
+clues on the scene to determine what happened.
+B. Assess the immediate and potential hazards to the rescuers.
+C. Isolate immediate hazard area, secure the scene, and deny entry for all non-rescue
+personnel.
+D. Establish communications with victim(s) and determine if non-entry retrieval can be
+made.
+E. Assess on-scene capabilities and determine the need for additional resources.
+III. SECONDARY ASSESSMENT
+A. Secure the entry permit and any other information about the confined space
+including diagrams showing entry and egress locations.
+B. Determine what products may be stored in the confined space and conduct a
+HazMat assessment.
+C. Determine known hazards present in the confined space; atmospheric, mechanical,
+electrical, etc.
+D. Assess the structural stability of the confined space.
+Phase II
+
+Pre-entry Operations
+
+It must be determined if this will be a RESCUE operation or a RECOVERY operation
+based on the survivability profile of the victim(s) which include factors such as the
+location and condition of the victim(s), and elapsed time since the accident occurred.
+Pre-entry operations shall be conducted under the direction of Rescue Sector by trained
+Technical Rescue Technicians.
+l.
+
+INITIATE FIRE DEPARTMENT CONFINED SPACE RESCUE PERMIT
+A. A confined space permit is required if the space has one or more of the following
+hazards:
+Atmospheric hazards
+Engulfment Hazard
+
+Configuration hazard
+Any other recognized hazard
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+CONFINED SPACE RESCUE
+M.P. 204.08
+
+ll.
+
+07/11-R
+
+PAGE 4 of 8
+
+MAKE THE GENERAL AREA SAFE
+A. Establish a perimeter determined by factors such as atmospheric conditions, wind
+direction, structural stability, etc.
+B. Consider establishing Lobby to control rescue personnel entering the hazard zone.
+B. Stop all unnecessary traffic and park all running vehicles downwind.
+C. Provide for ventilation to general area if necessary.
+
+lII. MAKE THE RESCUE AREA SAFE
+A. Hazard Assessment / Atmospheric Monitoring
+•
+
+•
+
+•
+•
+•
+
+Determine exactly what hazards and products are present and conduct
+atmospheric testing for oxygen level, flammability, and toxicity within the confined
+space. The hazards identified and the results of atmospheric testing will
+determine the proper level of PPE to be worn by rescuers.
+Atmospheric monitoring shall be done continuously and readings shall be
+communicated to Rescue Sector at least every 5 minutes. Readings must be
+obtained by personnel with a thorough knowledge of atmospheric monitoring.
+This function shall be assigned to a Hazardous Materials response unit.
+Implement Lock-Out / Tag-Out procedure if applicable.
+Take appropriate measures to ensure the structural stability of the confined
+space.
+Any product that is in or flowing into the confined space must be secured and
+blanked off if possible.
+
+B. Ventilation
+•
+
+•
+
+•
+
+Rescue Sector should assign personnel to establish the proper type of
+mechanical ventilation of the confined space considering the effects that positive
+and/or negative pressure ventilation will have on the atmosphere.
+Consider positive and negative ventilation together in a push-pull configuration to
+obtain the greatest effect from ventilation. Consider negative pressure ventilation
+if there is only one entry point.
+Ventilation personnel shall work closely with air monitoring personnel to ensure
+safe atmospheric conditions in the confined space as well as the exhaust area
+and the general working area.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+CONFINED SPACE RESCUE
+M.P. 204.08
+
+07/11-R
+
+PAGE 5 of 8
+
+C. Equipment
+•
+
+•
+
+•
+•
+
+•
+•
+
+Phase III
+
+Personal Protective Equipment (PPE) shall include helmet, gloves, proper
+footwear, goggles, turnouts / Nomex or PBI jumpsuit, and a class III harness at a
+minimum. Additional PPE may be indicated by the hazard and atmospheric
+assessment.
+Supplied Air Breathing Apparatus (SABA) or Self-Contained Breathing Apparatus
+(SCBA) shall be utilized by all entry and back-up personnel. SABA is the
+breathing apparatus of choice however, if SCBA must be used, personnel shall
+maintain line of sight and exit the confined space prior to low air alarm activation,
+following the 75%-25% rule.
+Air monitoring device that monitors oxygen levels, flammability, and toxicity for
+the entry team.
+Intrinsically safe communication equipment shall be available for entry personnel.
+If this equipment is not available, entry personnel may use a tag-line for
+communication or a message relay person.
+Intrinsically safe lighting equipment shall be available for entry personnel. If this
+equipment is not available, entry personnel may use cyalume type lighting sticks.
+A retrieval system with a back-up system shall be readied and in place. This may
+include a vertical or horizontal haul system constructed of ropes, pulleys, and
+other hardware, with a minimum of a 2:1 mechanical advantage.
+Entry Operations
+
+Entry operations shall be conducted under the direction of Rescue Sector by trained
+Technical Rescue Technicians.
+I.
+
+MAKE A SAFE ENTRY
+Rescue Sector shall be responsible for entry operations. The rescue plan will be
+discussed by Rescue Sector, Safety, Command and the Technical Advisor. Rescue
+Sector shall ensure that all personnel operating in the confined space and the area
+immediately surrounding the confined space are accounted for and wearing appropriate
+PPE.
+A. Conduct a system safety check prior to entry into the confined space.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+CONFINED SPACE RESCUE
+M.P. 204.08
+
+07/11-R
+
+PAGE 6 of 8
+
+B. Prior to entry, Rescue Sector shall ensure that an entry team and a back-up team
+are in place and have been briefed on:
+•
+•
+•
+•
+•
+•
+
+Anticipated hazards within the confined space.
+The space being entered including the configuration (if known).
+The rescue plan.
+The back-up plan.
+Emergency procedures.
+Time limits for the rescue operation.
+
+C. Consider the use of rescuer tag-lines with the understanding that tag-lines may
+create an entanglement hazard.
+D. Maintain constant communication with the entry team.
+E. Entry personnel shall continually monitor atmospheric conditions inside the confined
+space in regards to oxygen level, flammability, and toxicity.
+F. Locate victim(s).
+II. VICTIM REMOVAL
+A. Upon reaching victim, conduct a primary survey and initiate C-spine precautions.
+NOTE: due to the configuration of the confined space, optimum C-spine precautions
+may not be possible and should be addressed as soon as possible.
+B. When possible, provide respiratory protection for the victim(s). Rescuers shall not
+administer pure oxygen to a victim(s) in a confined space that has a potentially
+flammable atmosphere and rescuers shall not remove their breathing apparatus and
+give it to the victim(s).
+C. Conduct a secondary survey of the victim(s) looking for immediate life threatening
+injuries. If conditions permit, entry personnel should attempt to treat serious injuries
+prior to removal, while considering that it may be more appropriate to remove the
+victim(s) from danger prior to treatment.
+D. Properly package the patient for removal from the confined space. This may include
+using a backboard, stokes basket, KED board, LSP halfback, or similar device
+designed for extrication. Secure any loose webbing buckles, straps, or device that
+may hinder the extrication process.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+CONFINED SPACE RESCUE
+M.P. 204.08
+
+07/11-R
+
+PAGE 7 of 8
+
+E. Rescuers should not allow the victim between the rescuer and the point of egress
+except in situations where it is necessary for one rescuer to pull the victim while
+another rescuer pushes the victim.
+III. TREATMENT
+A. Immediately upon egress, the victim(s) shall be transferred to treatment personnel
+for ALS level examination.
+B. If the victim has been contaminated from product inside the confined space, a
+thorough decontamination of the victim should be conducted prior to transporting to
+the hospital.
+C. Provide ALS level treatment and transportation to a hospital as indicated.
+Phase IV
+
+Termination
+
+A. Ensure personnel accountability.
+B. Remove all tools and equipment used in the rescue/recovery and return to proper
+apparatus. In cases of a fatality, consider leaving everything in place until the
+investigative process has been completed.
+C. If entry personnel and/or equipment have been contaminated, proper
+decontamination procedures shall be followed prior to returning to service.
+D. Consider a Post Incident Critique (may be more appropriate at a later date).
+E. Return to service after turning the scene over to the responsible party and ensuring
+the scene is secure.
+ADDITIONAL CONSIDERATIONS
+I.
+
+COMMAND STRUCTURE
+A. The first arriving unit shall assume Command of the incident. This unit shall remain in
+Command until Command is transferred to improve the quality of the Command
+organization. A Command Team shall be assembled to include, at a minimum, a
+Chief Officer and a Technical Advisor.
+B. Considerations for the Technical Advisor include:
+•
+•
+•
+
+A Special Operations qualified Battalion Chief and/or FIT.
+One of the Regional Special Operations qualified Safety Officers.
+Any experienced TRT Company Officer assigned to the incident.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+CONFINED SPACE RESCUE
+M.P. 204.08
+
+07/11-R
+
+PAGE 8 of 8
+
+C. The first arriving TRT unit that is staffed with a TRT Company Officer should be
+assigned Rescue Sector. Rescue teams, Lobby, Ventilation, Air monitoring, Shoring,
+Cut teams, and any other such functional team operating in the hazard zone shall be
+under the direction of Rescue Sector. Rescue Sector will communicate directly with
+TRT units assigned to these functions within Rescue Sector and shall keep
+Command informed during all phases of the rescue operation.
+D. Air monitoring within Rescue Sector shall be assigned to a Hazardous Materials
+response unit.
+E. Considerations for Safety Officer include:
+•
+•
+•
+
+One of the Regional Special Operations qualified Safety Officers.
+A Special Operations qualified Battalion Chief and/or FIT.
+Any experienced TRT Company Officer assigned to the incident.
+
+F. Treatment Sector should be assigned to any ALS company assigned to the incident.
+II. OTHER CONSIDERATIONS
+A. Consider the effects of inclement weather on the hazard profile, the victim(s), and the
+rescuers.
+B. Maintain awareness of the time of day and ensure sufficient lighting is available on
+the scene if operations extend into the night.
+C. Confined Space rescue incidents attract the news media; consider assigning a P.I.O.
+D. Request OSHA response if there has been a serious injury or death.
+
+

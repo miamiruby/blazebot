@@ -1,0 +1,164 @@
+Policy Name:
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+Policy Number:
+OVERHAUL
+M.P. 202.12B
+
+This policy is for internal use only and is not intended, nor should it be construed to expand
+the legal duty under the law or expand civil liability in any way. This policy does not create a
+higher duty of care under the law to act. Remedies for violations of this policy, if proven, are
+limited to administrative disciplinary action against PFD employees.
+Related Policies: 202.01, 202.04, 202.05, 202.05B, 206.02
+Other Reference:
+Date Implemented: 08/2022-R
+Review Date: 08/2028
+
+PURPOSE
+This procedure establishes guidelines for conducting overhaul operations. While it is impossible
+to completely eliminate the chances of secondary fires, the goal of overhaul is to reduce the
+incidence of secondary fires, control loss, and stabilize the incident scene while providing for
+firefighter safety, preserve evidence, and secure the fire scene.
+DEFINITIONS
+Cellulose Insulation: Finely ground, recycled newspaper with a chemical additive to increase fire
+resistance. Cellulose insulation is typically mechanically blown into an empty space of a structure
+to provide insulation.
+Overhaul: A fire-fighting term involving the search for hidden fires and other indicators of fire, and
+the assessment of final extinguishment after the main body of fire has been knocked down. The
+goal of Overhaul is to make reasonable efforts to reduce the possibility of a subsequent fire caused
+by the return to flaming combustion of the original fire or by any other ignition source.
+Rekindle: A subsequent fire in a building, structure, pile of debris, or other, where a recent fire was
+previously extinguished.
+Note: Even when reasonable efforts are performed, overhaul may not eliminate all the risks of
+rekindle; however, it will reduce the possibility. A rekindle is not always and should not be
+considered per se evidence of a return to flaming combustion of the original fire.
+Effective overhaul activities help reduce the potential for secondary fires. When addressing
+overhaul operations, the Incident Commander (IC) should make reasonable efforts to:
+
+OVERHAUL
+Page 1 of 4
+
+•
+
+•
+•
+
+•
+•
+•
+
+Ensure overhaul is conducted safely. This includes, but is not limited to, following the SOPs
+for Fireground Exposure Reduction (206.02) and Self-Contained Breathing Apparatus
+(202.05B).
+Ensure allied equipment (Thermal Imaging Camera, foam applicator, etc.) are utilized when
+necessary.
+Use early and continuing positive pressure ventilation to maintain an acceptable working
+environment and reduce loss. Fire companies must evaluate and monitor conditions when
+operating fans.
+Meet with the property owner/occupant concerning overhaul operations.
+Schedule fire companies to conduct post-incident drive-by/walk-through of fire building to
+check for potential re-ignition sources.
+Coordinate overhaul with fire investigators.
+
+CUSTOMER RELATIONS
+In the absence of an occupant services sector, the IC, or the company officer should meet with the
+property owner/occupant to explain the reasons for overhaul operations. Where it is reasonably
+safe to do so, the IC, or the company officer, may escort the property owner/occupant through the
+fire area to explain the need for overhaul operations. Proper loss control/salvage operations
+should be completed prior to any walk-through. Providing the property owner/occupant the
+opportunity to remove personal possessions/valuables or assisting them in boxing and removing
+these items is excellent customer service and a loss control opportunity.
+Reasonable efforts should also be made to assist the property owner/occupant in notifying
+insurance agents of the fire.
+HIDDEN FIRES
+Reasonable fire suppression operations might not detect and extinguish small pockets of fire
+concealed in construction voids or hidden under debris. Overhaul activities include searching the
+fire scene to detect and extinguish hidden fires or "hot spots." Suppression crews should open as
+many of these construction voids as reasonably possible. Floor, wall or ceiling areas showing
+evidence of extensive decomposition due to fire should be thoroughly examined during overhaul.
+Additional areas to check include wooden door jambs, air conditioning vents and registers,
+baseboards, door and window casings, metal to wood connections, ties, straps, conduits, and
+areas around light fixtures and electrical outlets. TICs, foam applicators, axes, pike poles, and
+Halligan tools are most commonly used for this purpose. Although a TIC may not be able to detect
+small hot spots, it can nonetheless be a valuable tool when looking for hidden fire/hot spots. Foam
+application during overhaul cannot guarantee complete suppression of all materials.
+Attic fires can pose a special hazard for secondary fires where insulation has been exposed to fire.
+Large areas can receive fire damage and can be located in difficult to reach areas. In some cases,
+insulation should be reasonably removed to extinguish all remnants of fire. It is understood that
+OVERHAUL
+Page 2 of 4
+
+there is no possible way for firefighters to completely remove all insulation (especially cellulose
+insulation). Removing insulation in many cases means removal of large sections of ceiling. If
+possible, a reasonable risk/benefit discussion should be conducted with the owner/occupant to
+discuss the extent of insulation removal. The department cannot be held responsible for
+secondary fires if owner/occupants understand the risks associated with limited insulation
+removal. Plenum spaces, soffits and pipe chases should receive careful inspection as they provide
+possible routes for fire to spread throughout a structure. Some construction features do not allow
+this.
+The IC is responsible for ensuring that the fire area has been reasonably overhauled. The company
+officer last leaving the scene is responsible for fire extinguishment, when possible. The IC is
+further responsible for scheduling post-incident drive-by/walk-through inspections of the fire
+building when needed. Post-incident inspections include a walkthrough of the building or areas
+when safe to enter. Crews should search for evidence of smoke or remaining hot spots. Crews
+should examine materials below salvage covers. In some cases, crews may need to create
+additional openings in the structure. A post incident inspection will be performed prior to the last
+fire department unit leaving the scene. The IC is responsible for assessing the need for additional
+post incident inspections and coordinating the plan with Dispatch & Deployment. A reasonable
+period of post-incident inspections may be scheduled to prevent secondary fires in buildings that
+contain cellulose insulation. The IC may waive post incident inspections if a fire watch is in place.
+If The IC believes the circumstances warrant a fire watch, C99 should be dispatched to the incident.
+C99 will meet with the building owner/occupant so that the owner/occupant understands Fire Code
+requirements including fire watch qualifications and cost, and to ensure that the owner/occupant
+complies with the Fire Code.
+CELLULOSE INSULATION FIRES
+Cellulose insulation, which is one of the most commonly used insulation types, has been used in
+structures for several years. When exposed to heat, sparks or flames, cellulose insulation presents
+special problems for the fire service, businesses, and building owners/occupants. Hot spots can
+get buried deep inside cellulose insulation where they can lie before breaking into fire. Fire
+companies at structure fires that have cellulose insulation should:
+• Follow standard operating procedures for obtaining all clear and fire control.
+• Identify cellulose insulation as soon as possible.
+• Evaluate the use of fans based on the presence of cellulose insulation.
+• Follow standard overhaul procedures contained in this M.P.
+• While it is widely recognized that it is impossible to remove all cellulose insulation and
+impossible to absolutely prevent all secondary fires or rekindles of a structure, fire
+companies should remove or wet down as much insulation as reasonably possible.
+• Have utility companies pull the electrical meter and ensure other utilities are secured.
+• Meet with the owner/occupant and the fire investigator to advise the owner/occupant that
+they should not occupy the structure.
+OVERHAUL
+Page 3 of 4
+
+DEFENSIVE FIRES
+Overhaul activities as described above will not be conducted on structures that have been declared
+Defensive Fires. Firefighter safety prohibits standard overhaul activities in structurally
+compromised buildings. Crews will continue to apply water to hidden fire/hot spots from exterior
+positions until all fire is completely extinguished. During campaign operations, the IC will
+coordinate the rotation of crews through Dispatch & Deployment.
+EVIDENCE PRESERVATION
+Companies performing overhaul should compare the importance of preserving evidence to the
+danger of immediately removing debris and extinguishing all traces of fire. In some cases, it may
+be necessary to monitor spot fires until investigators arrive on the scene. In these instances, and
+when possible, evidence should remain untouched, undisturbed and in its original location.
+Where circumstances prohibit this, evidence should be removed under the direction of a fire
+investigator.
+SECURING THE FIRE SCENE
+Securing the fire scene is also a function of overhaul. Securing refers to actions required to protect
+the structure and contents from further loss after fire suppression companies have left the scene.
+Roof ventilation holes and broken windows should be covered to reduce weather damage and
+deter vandalism. Rolled plastic is ideal for this purpose. For safety reasons, reasonable efforts
+should be made to remove remaining glass shards from the frames of broken windows prior to
+installing covers or leaving the scene.
+Securing the scene also includes the actions required to address the safety of all persons likely to
+visit the incident scene. Once a hazard zone is established during firefighting operations, it must
+not be abandoned prior to removing or stabilizing the hazard. Overhaul companies should provide
+means of identifying and guarding hazards that cannot be removed or stabilized. Reasonable
+efforts, including, but not limited to barricades, hazard tape, and the posting of guards are all
+methods depending upon severity.
+
+OVERHAUL
+Page 4 of 4
+
+

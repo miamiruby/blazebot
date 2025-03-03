@@ -1,0 +1,793 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 1 of 16
+
+DISPATCH POLICY
+The Phoenix Fire Department will respond to any EMERGENCY situation that threatens LIFE, SAFETY or
+PROPERTY. In cases where the fire department is not the appropriate agency or not capable of delivering the
+needed assistance, or if the situation is not a true emergency, an attempt will be made to place the caller in
+contact with the appropriate provider. The fire department will dispatch the closest available unit(s) with the
+required capabilities to control the emergency. The judgment of both Phoenix Fire Department Regional
+Dispatch Center (PFDRDC) and emergency response personnel is an integral part of the decision making
+process, taking into consideration both the information received and the potential that exists.
+Timely response and effective management of EMS, rescue and fire control situations represent the most
+immediate priorities of the fire department. Upon receipt of adequate or additional information (location,
+telephone callback and nature of the emergency), Deployment will dispatch the appropriate assignment and
+upgrade the response as necessary based on information received up to a Working First Alarm until command
+is established upon the arrival of the first unit.
+JURISDICTION
+Emergency incidents within the Automatic Aid boundaries served by the PFDRDC will be dispatched without
+regard to jurisdiction. Units will also be dispatched to borderline locations when Deployment personnel cannot
+make accurate determination of the jurisdiction.
+PFDRDC has enhanced mutual aid with Rural/Metro Fire Department (RMFD) within one (1) mile of the
+borders of Scottsdale and Phoenix in the Northeast portion of the Valley. Rural/Metro units and Automatic Aid
+Consortium units can be dispatched into these areas without prior approval when the CAD system recognizes
+a RMFD unit is closer in these areas.
+PFDRDC has enhanced mutual aid for requests by Gila River Indian Community Fire Department for incidents
+that occur on I10 from Phoenix city limits to mile post 169; within two and one-half (2.5) miles from the border
+of the Gila River Indian Community and the cities of Chandler and Phoenix in Maricopa County; within one (1)
+mile of the border of the Gila River Indian Community, the City of Chandler, and the Sun Lakes Fire Districts in
+Pinal County.
+PFDRDC has one (1) way Automatic Aid onto Luke Air Force Base (LAFB). CAD has been programmed to
+select LAFB units for any calls that fall within a five (5) mile radius of the base. CAD will also select the next
+available unit to respond.
+Calls for assistance from public or quasi-public agencies outside the Automatic Aid Consortium boundaries will
+be dispatched as Mutual Aid incidents with the approval of the individual jurisdiction’s on-duty BC or the onduty Phoenix Fire Department Shift Commander if Phoenix resources are needed.
+Calls for assistance from citizens outside the Automatic Aid Consortium boundaries will be transferred to the
+appropriate agency. If that agency requests Mutual Aid assistance, PFDRDC will contact the appropriate
+jurisdiction for approval of the Mutual Aid request and dispatch accordingly.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 2 of 16
+
+CALL ROUTING
+Determination of the nature of the problem may indicate that a caller does not have an emergency that
+requires a fire department response. The identification, prevention and reduction of unnecessary responses
+are basic parts of the Deployment function. The call routing process must not delay response to valid
+emergency incidents but should attempt to verify the nature of questionable calls. When a positive
+determination of need for emergency response cannot be made THE FIRE DEPARTMENT POLICY IS TO
+DISPATCH.
+CALLTAKER
+The primary responsibility of the Calltaker is to determine, without delay, the location, telephone callback and
+nature of the emergency and to verify entry of the incident into the CAD system.
+NATURE CODES
+The Calltaker assigns a Nature Code based on information gathered from the caller. Once the Calltaker enters
+the incident for dispatch, the CAD system selects available units by capability and proximity to fulfill the
+response requirements of the assignment. Automatic Aid Consortium members have the ability to modify
+response types for each Nature Code on file. The Phoenix Fire Department attempts to streamline this
+process and works to maintain consistency however; the Phoenix Fire Department understands that some
+variations are needed to meet the specific needs of the jurisdictions.
+UNIT SELECTION
+The CAD system recommends the closest, most appropriate unit/s/ for dispatch based on availability, current
+location and capabilities. The CAD system combines this information with the response type.
+A response type is assigned to each Nature Code. The response type identifies the requirements needed on
+the assignment. Requirements can be identified by unit capability, such as engine or ladder, or by specific
+unit, such as BC2. Requirements are also expressed as primary or secondary. A unit can fulfill only one
+primary requirement. A unit can fulfill more than one secondary requirement.
+When an incident is selected for dispatch, the CAD system builds an ordered unit consideration list. As a unit
+is considered for dispatch, its capabilities are inventoried against the outstanding response requirements. If it
+can satisfy any outstanding requirement it is added to the recommendation. The CAD system will continue to
+add units to the recommendation until all response requirements have been satisfied or all units have been
+exhausted. Some unit capabilities have distance limitations added to requirements. The system will not send
+certain types of units if they are out of the predetermined response range.
+RESPONSE ASSIGNMENTS
+The Calltaker makes initial determination of the appropriate Nature Code based on information received from
+the caller. Individual jurisdictions may customize the primary and secondary response requirements on a given
+Nature Code. CAD will automatically dispatch the required units per Nature Code entered for each jurisdiction.
+The RSPREQ command may be utilized to determine the specific primary and secondary response
+requirements per Nature Code for an individual jurisdiction:
+Format:
+Example:
+
+RSPREQ Nature Code, Jurisdiction Code (3 letters)
+RSPREQ STR1A, PHX
+
+ALS Medical Calls
+The requirements for ALS response are based on Emergency Medical Dispatch protocol (EMD).
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 3 of 16
+
+BLS Medical Calls
+All medical calls are triaged using EMD protocols. On BLS responses the Company Officer will make a C2 or
+C3 response decision and press the appropriate response on the MCT. If the response is modified and sent
+as ALS when the caller provides additional information that meets the ALS criterion, the calls defaults to C3.
+The ALS response criterion is different for each Nature Code.
+Minor Medical Calls
+The patient has to meet the following criteria; no loss of consciousness, peripheral injuries only, head/face;
+arm: below elbow; leg: below knee, no trunk injuries, no impaled objects, no amputations, no severe bleeding.
+Violent Medical Calls
+The incident has been determined unsafe to respond directly to the scene. Units assigned to the incident shall
+stage until the Police Department secures the scene.
+Airport Incidents
+The alert classifications of aircraft emergencies are distinguished by the Federal Aviation Administration to
+describe an unsafe condition or situation involving an aircraft. The Fire Department Captain from Station 19
+will identify the appropriate ARFF assignment to be dispatched on any aircraft emergency at Sky Harbor
+Airport. The default assignment to Sky Harbor Airport is ARF2-1.
+Fire Incidents
+Incidents that require or potentially require water capabilities to extinguish a fire.
+Fire Incidents (3-1's)
+A 3-1 assignment will be dispatched for structure fires that do not indicate the need for a First Alarm
+assignment.
+Fire Incidents - First Alarms
+A First Alarm will be dispatched for structure fires when reports indicate this level of resource are needed.
+This may be based on reports that indicate an actual or potential situation. A First Alarm may be dispatched
+for other types of incidents at the discretion of Dispatch personnel.
+Brush Fires
+Brush assignments will be dispatched for reported vegetation fires. A Still Brush assignment will be dispatched
+for vegetation fires that are small in nature. A Brush assignment will be dispatched for vegetation fires that are
+serious in nature. A First Alarm Brush assignment will be dispatched for vegetation fires that are and/or have
+the potential to be a major situation requiring this level of resources.
+Hazardous Materials
+Hazardous Materials assignments will be dispatched for incidents reported to involve hazardous materials.
+Hazardous Materials situations MAY include fire, spills, transportation accidents, chemical reactions,
+explosions and/or similar events. Hazards may include toxicity, flammability, radiological hazards, chemical
+reactions and/or combinations of factors.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 4 of 16
+
+Hazardous Materials cont’d
+A HAZ assignment will be dispatched on calls that involve hazardous materials of a minor nature. A HAZ2-1
+assignment should be dispatched on most situations involving leaks or spills of hazardous materials. This
+includes situations that appear to be manageable and do not create a major risk to the public by virtue of
+location, amount or type of hazard. A HAZ1A assignment should be dispatched for incidents that indicate a
+major potential danger by virtue of materials involved, quantities, location, fire or explosion danger and/or
+number of people exposed.
+Technical Rescue
+Incidents that may require specialized equipment and training to extricate the patient(s). These incidents
+include confined space rescue, trench rescue, high angle or rope rescue, water rescue, structural collapse,
+mountain and tree rescues.
+Service Calls and Other Miscellaneous Incidents
+Service Calls will also be dispatched for non-emergency situations. Deployment will select the appropriate
+Nature Code that best describes the situation. Some service calls require the Calltaker to determine a C2
+or C3 response.
+SUPPLEMENTAL DISPATCH
+Depending on the resources required additional units may be dispatched to an incident in several methods.
+Units can be Special Called, an assignment can be Balanced or a Greater Alarm can be requested.
+Special Call
+A Special Call is a request for the dispatch of any combination of additional unit types, unit capabilities or
+specific units. The requestor must specify the desired quantity of unit types or capabilities or the specific units
+desired.
+When formulating a recommendation for a special call, no consideration is given to the units already assigned
+to the incident. All response requirements for the special call request are satisfied by the recommendation of
+additional units.
+Balance of Assignment
+A balance of assignment is a request for the dispatch of the additional units necessary to upgrade the
+response type. Either the desired response type or a specific Nature Code must be specified. If a Nature
+Code is specified, the CAD system will determine the response type based on the specified Nature Code and
+the jurisdiction in which the incident is located.
+When formulating a recommendation for a Balance of an assignment, the CAD system first determines which
+response requirements for the new response type are satisfied by the units that are already assigned to the
+incident. The CAD system then recommends additional units to satisfy any outstanding response requirement.
+Greater Alarm
+A Greater Alarm is a request for the dispatch of additional units using predefined requirement sets. A Greater
+Alarm request requires both a Greater Alarm Type and the Response Level.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 5 of 16
+
+Greater Alarm cont’d
+When formulating a recommendation for a Greater Alarm, no consideration is given to the units already
+assigned to the incident. The Response Level indicated satisfies all response requirements for the Greater
+Alarm. Assignments should be balanced up to and including a Working First Alarm. When an assignment is
+Balanced, the system takes into consideration the units currently assigned to the incident. Therefore, an
+incident can go from a single engine response, such as a tree fire and be Balanced to a Working First Alarm
+allowing the system to fulfill all requirements necessary for the Working First Alarm. This however does not
+occur for Greater Alarms. A 3-1 assignment that needs the resources of a Greater Alarm must first be
+Balanced to a Working Fire Alarm then the Greater Alarm request must be generated.
+Response Levels do not have to be equivalent to Alarm Levels, however, often times they are. The response
+level requested for a Greater Alarm request should reflect the level of resources required, not necessarily the
+next alarm level.
+Example:
+
+An incident may be a Third Alarm Structure and may require the components of a Hazardous
+Assignment. The assumption is to ask for a Fourth Alarm Hazardous. If, however, a Fourth Alarm
+Hazardous were requested, no Hazardous Materials capabilities would be added to the
+assignment. At this point, a Second Alarm Hazardous must be requested.
+
+Specific Types of Second Alarms
+Second Alarms are dispatched at the request of command, when the need is indicated. Command should ask
+for the specific type alarm needed to continue managing the incident: If a First Alarm Brush is being used and
+Command wants to provide relief for crews, Command should call for a Second Alarm Rehab.
+The following are valid codes for Greater Alarms:
+BRUSH
+HAZMAT
+HIRISE
+MED
+REHAB
+RESCUE
+STRUCT
+STRMED
+
+BRUSH ASSIGNMENT
+HAZARDOUS MATERIALS ASSIGNMENT
+HIRISE ASSIGNMENT
+MEDICAL ASSIGNMENT
+REHAB ASSIGNMENT
+RESCUE ASSIGNMENT
+STRUCTURAL ASSIGNMENT
+STRUCTURAL/MED
+
+Greater Alarms
+Third Alarms and greater still require a specific type of alarm to be requested; however the capabilities
+recommended will be generic and are the same for each Greater Alarms up to a Ninth Alarm.
+DISPATCH CHANNEL 1
+The Channel 1 dispatcher is responsible for reviewing the unit/s/ suggested for dispatch by the CAD system.
+The dispatcher may modify the unit selection based on additional information or circumstantial factors.
+The dispatcher transmits the call to the assigned units by depressing the DISPATCH button, sending the
+information to the Fire Station Packages and Mobile Computer Terminals (MCTs).
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 6 of 16
+
+Normal Dispatch
+The voice dispatch message is broadcast over Fire Channel 1 giving:
+•
+•
+•
+•
+•
+•
+•
+
+Dispatch Tone
+Companies Assigned
+Tactical Radio Channel
+Type and/or Nature of Incident
+Location
+Companies Assigned
+Tactical Radio Channel
+
+DURING PERIODS OF HIGH ACTIVITY THE DISPATCH MESSAGE MAY BE MODIFIED TO ADVISE UNITS
+TO CHECK MCT's FOR DISPATCH.
+Immediate Dispatch
+Specific high priority Nature Codes are flagged for Immediate Dispatch upon incident entry. Additionally,
+Calltakers have the ability to cause any incident to be dispatched immediately upon entry in the CAD system.
+During an Immediate Dispatch the station terminals and MCT's will receive the dispatch information as soon as
+the Calltaker enters the call. The Voice Dispatch will occur when the call is processed through Channel 1. The
+time elapsing between Station Alerting and Voice Dispatch will depend upon the level of activity at the dispatch
+position.
+Working Incident Notifications
+Deployment will sound the ALL CALL tone and make a general announcement over Dispatch Channel 1 of the
+following incidents:
+• Working First Alarm fires
+• Greater Alarms
+• At the discretion of the on-duty Deployment BC and/or Supervisor
+Change of Status
+All companies are in either in an AVAILABLE or UNAVAILABLE status at all times. The status refers to the
+company's availability to accept a dispatch. Units assigned to an incident are considered UNAVAILABLE until
+released. The exception to this is during AOI calls; see ‘Responding’ section for further details.
+Units that are Available on Radio (AOR) or Available Out of Vehicle (AOV) shall monitor Channel 1.
+Units changing their status to UNAVAILABLE should report to Deployment by radio on Tactical Channel 2 or
+telephone the reason and the length of time they will be unavailable. When becoming available again, units
+are responsible to report this status change to Deployment.
+It is important that company officers contact Deployment prior to putting their unit unavailable. Deployment will
+determine if any priority needs exist which may require the unit to stay in service.
+MOVE-UP POLICY
+The on-duty Deployment Supervisor/Battalion Chief is responsible for relocating units as necessary to maintain
+the best available resource coverage for the entire dispatch jurisdictional coverage area. This responsibility
+includes the authority to request companies from the Automatic Aid Consortium and to control or cancel
+scheduled and non-scheduled non-emergency activities. NOTE: Members assigned to Adaptive Response
+units should refer to M.P. 205.09 Adaptive Response Units.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 7 of 16
+
+MOVE-UP POLICY cont’d
+Moved-up companies retain their normal identity ("Engine 14 out of Station 30").
+The need for move-up companies will be evaluated whenever:
+•
+•
+•
+•
+•
+•
+
+A working fire is declared.
+Three (3) or more units are committed to an incident in an outlying area.
+Greater Alarms are dispatched.
+Simultaneous working incidents occur in one area of the City.
+Coverage in an area is compromised.
+Two (2) or more adjacent first due areas will be uncovered for more than 30 minutes.
+
+Move-ups will be C2 unless advised to respond C3 due to a critical gap in coverage.
+If overall coverage in the City of Phoenix falls below 12 engine companies and three (3) ladder companies,
+Deployment will immediately notify the South Shift Commander who has the responsibility to authorize the
+recall of off duty personnel to staff reserve companies if necessary.
+TACTICAL RADIO OPERATOR (TRO)
+The TRO handles all communications between units assigned to an incident and Deployment on the assigned
+Tactical Channel. All units responding to an incident shall switch to the assigned channel immediately after
+dispatch.
+Self Dispatch
+Units may add themselves to an incident by an AU function on their MCT. Companies adding on to an
+assignment must advise the TRO on the assigned Tactical Channel if they are substituting for another unit or
+responding in addition to the original assignment. The TRO will cancel the original unit dispatched if the
+substituting unit is closer to the scene.
+The TRO will advise the Command Officer of units responding in addition to the dispatched assignment. The
+updated dispatch message will be transmitted to all responding units via MCT.
+Acknowledgement
+All units responding to an incident shall acknowledge dispatch by radio on the assigned tactical channel or by
+Mobile Computer Terminal (MCT).
+If Deployment does not receive an acknowledgment within one (1) minute, the TRO will request
+acknowledgment by radio on all channels and via MCT.
+Deployment will send a cover assignment if no reply is received within a two (2) minute timeframe.
+Deployment will continue to attempt to make contact with the original company while the cover unit is
+responding. If unable to contact the original unit, the company will be placed unavailable and the appropriate
+Battalion Chief notified of the circumstances.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 8 of 16
+
+Responding
+All fire and ALS EMS responses will be C3 unless otherwise indicated by Deployment or Command. Units
+responding to calls on the freeways will proceed C2. BLS Nature Codes will be dispatched without a C2 or C3
+response flag. The company officer will make the determination to respond after reviewing the dispatch
+information. Minor medical incidents and some service calls will be dispatched C2/Available on Incident (AOI).
+The AOI feature allows a company assigned to a low priority incident to be preempted for a higher priority call if
+they are the closest unit. This occurs automatically on pre-identified AOI type calls and when a unit is in a
+responding mode.
+If the company officer makes the decision to respond C2 on a C3 call, he/she must advise his/her TRO or
+press C2 on his/her MCT and send. Similarly, if the company officer makes the decision to respond C3 on a
+C2 call, he/she must advise his/her TRO or press C3 on his/her MCT and send.
+A unit dispatched on a C2 AOI call will automatically become AOI after acknowledging response to the initial
+call. After acknowledgement they will remain AOI until they arrive on the scene. If a unit is responding longer
+than ten (10) minutes on an AOI call, CAD will automatically place the unit in the Unavailable On Incident (UOI)
+status, and they will no longer be considered for preemption. Once a unit places themselves on-scene of an
+incident, they are no longer considered available for dispatches until they return to an available status.
+•
+
+If a company officer determines they do not want to be AOI while responding, they may indicate they
+are traveling C3 to the incident via radio or MCT. If the company officer determines they do not want to
+be AOI while responding C2 to the incident, they may use the MCT command UOI. This command will
+show the unit responding C2 however the unit will not be available for preemption.
+
+•
+
+Once a company arrives on-scene of an incident and have determined they could leave the call
+promptly to take another call, they can place themselves AOI again either via radio or MCT.
+
+While responding, companies may communicate with one another if radio traffic permits. Effective
+communications during this period can set the stage for effective action and improve the overall rescue and fire
+attack effort. Factors such as occupancy hazards, access, traffic conditions and response routes may be
+communicated.
+Company officers should review tactical information on their MCT, map books and any pre-fire planning
+information carried on the vehicle for specific tactical information. Subsequent arriving units should monitor
+radio traffic to be fully informed of the situation based on reports of the first arriving units.
+Additional Information / Subsequent Calls
+The TRO will relay any additional information gained from subsequent calls as soon as possible. Additional
+information and updates will be transmitted to the MCTs of all responding units.
+Companies needing specific additional information shall request it from the TRO.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 9 of 16
+
+On-scene Reports
+The first fire department member or unit to arrive at the scene of a multiple unit response shall assume
+command of the incident*. The initial Incident Commander shall remain in Command until Command is
+transferred or the incident is stabilized and Command is terminated.
+•
+
+One or two company responses that are not going to escalate beyond the commitment of these
+companies do not require the first arriving unit or officer to assume Command. The first arriving unit or
+officer will, however remain responsible for any needed Command functions. Examples would include:
+ Single unit response Check Welfare
+ Check Hazard
+ Any EMS call requiring only one or two companies
+
+The first arriving fire department unit initiates the command process by giving an initial radio report.
+The standard Initial Radio Report includes:
+On-Scene Report
+1. Clear alarm.
+2. Unit designation/on the scene.
+3. Building/area description.
+Occupancy
+Size (large, medium, small)
+Height (assumed 1 story unless reported otherwise)
+4. Obvious problem/conditions.
+Nothing showing (indicates checking)
+Smoke showing (amount and location)
+Fire showing (amount and location)
+Working fire
+Fully involved
+5. Action taken.
+Assuming command
+Laying a line
+Attacking with…etc.
+6. Declaration of Strategy.
+Offensive or Defensive
+7. Command confirmation with name
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 10 of 16
+
+On-Scene Report cont’d
+Examples:
+For an offensive structure fire Engine 11 to Alarm - “Engine 11 is on the scene of a large two story school with a working fire on the
+second floor. Engine 11 is laying a supply line and going in with a hand-line to the second floor for search &
+rescue and fire attack. This is an offensive fire attack. Engine 11 will be 7th Street Command."
+For a defensive fire Engine 11 to Alarm - "Engine 11 is on the scene of a medium size warehouse fully involved with exposures
+to the east. Engine 11 is laying a supply line and attacking the fire with a stang gun and a hand-line to the east
+exposure to check for extension. This is a defensive fire. Engine 11 will be Buckeye Command.
+For an E.M.S. incident Ladder 11 to Alarm - "Ladder 11 is on the scene with a multi-vehicle accident. Give me the balance of a 2
+and 1 medical with three ambulances. Ladder 11 will be Parkway Command."
+Follow-up Report
+1. Any immediate safety concerns
+2. Accountability started (announce the initial accountability location)
+3. Disposition of resources (hold/add/return)
+4.
+
+IRIC - in place and identify
+
+Examples:
+For an offensive structure fire 7th Street Command to Alarm - “Engine 11 will be North side accountability. Give me the balance a 1st
+Alarm; Engine 11 has an IRIC in place."
+For a defensive fire Buckeye Command to Alarm – “Engine 11 will be South side accountability. Give me the balance of a 1st
+Alarm”.
+For an E.M.S. incident – Parkway Command to Alarm –“be advised we have a total of 3 patients, 2 Immediates
+and 1 delayed. All patients have been extricated”.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 11 of 16
+
+Command
+Once command has been established, all routine communication between Deployment and an incident will be
+directed through Command.
+Progress Reports
+During active firefighting operations, Command will provide Deployment with regular progress reports or
+whenever significant tactical plans are changed or unusual situations are encountered. The first progress
+report should be given after initial action has been implemented and should include the correct address and an
+improved description of the building and fire conditions if the arrival report was incomplete. This assists
+Deployment in making move-up decisions. The TRO will repeat significant facts from all progress reports for
+the information of monitoring units and document in the incident history.
+Working Fire
+The term Working Fire indicates a situation that will require the commitment of all responding companies. This
+report advises Deployment that the companies will be engaged in tactical activities and will be held at the
+scene for an extended period of time.
+When notified of a Working 3-1, Deployment will:
+1. Dispatch a Working Fire assignment (WF)
+2. Address the need for a Fire Investigator.
+3. Dispatch PD for traffic and crowd control.
+4. Dispatch appropriate gas and electric companies.
+5. Change the status to a Working Fire, which starts elapsed time notifications.
+6. Make move-ups to affected area
+7. Document progress reports, sectors, assignments, emergency traffic, and elapsed time notifications
+and append additional information provided from Deployment members in the Incident History.
+When notified of a Working First Alarm, Deployment will:
+1. Dispatch a Working Fire assignment (WF1A)
+2. Isolate tactical channel
+3. Dispatch a Fire Investigator
+4. Dispatch PD for traffic and crowd control
+5. Dispatch gas and electric companies
+6. Make move-ups to affected area
+7. Document progress reports, Sectors/Divisions/Groups, assignments, emergency traffic, and elapsed
+time notifications and append additional information provided from Deployment members in the Incident
+History.
+8. Be prepared to assign a TRO to monitor/work Staging and Safety Sectors/Divisions channels.
+9. Be prepared to dispatch further assistance.
+10. Be prepared to dispatch any special agencies or equipment when the need is indicated.
+11. Make notifications to pertinent personnel.
+Deployment will monitor radio traffic on all incidents to anticipate the needs of Command.
+Any fire at a school facility requires the State Fire Marshall to be contacted. The on-duty State Fire Marshall
+will use his/her discretion as to response.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 12 of 16
+
+Staging
+Units arriving in Staging will depress the "STG" key on their MCT. If assigned to a sector or task on the
+fireground the "ON-SCENE" key shall be depressed.
+Units arriving in Level I Staging will report their identity and direction from the scene on the assigned Tactical
+Channel.
+Upon the balance of a working Second Alarm assignment, Level II Staging will be identified by Command.
+Deployment will announce Level II staging location and the staging channel when the additional units are
+dispatched. Units responding should direct any staging inquiries to the Staging channel, rather than the
+Tactical channel assigned to the incident. Typically Staging will be assigned to Channel 2. The driver of the
+CV will coordinate information on the Staging channel until an officer assumes the position of the Staging
+Officer. Units arriving at the Level II Staging Area will report in person to the Staging Officer. The Staging
+Officer will manage all radio communications to and from the Staging Area.
+Incident Status & Milestones
+The following are the different incident status changes that need to be indicated: Working Fire (WF), Working
+Haz Mat (WHZ), Working Technical Rescue (WTR), Code (CO), or Major Medical (MM). When one (1) of
+these incidents are identified by command, the TRO will enter a specific command. For Working Fire and
+Working Haz Mat incidents, this change will prompt ELAPSED TIME NOTIFICATIONS. The system will
+generate an elapsed time notification every five (5) minutes until the incident is placed Under Control. The
+TRO will verbally provide command with elapsed time notifications until the situation is declared under control
+or Command requests to discontinue notifications. Elapsed Time Notifications will also be documented in the
+Incident History.
+The following are the definitions of the Incident Milestones:
+906: Fire unit/s/ need immediate police department assistance.
+All Clear (AC): Can be used on a fire or medical incident. On fire calls an All Clear indicates the fire
+building and all exposures have been searched and all civilians evacuated. In the case of a building that
+is well involved in fire, the All Clear may be delayed and not come until the fire is out. For medical calls, it
+indicates the patient has been extricated. It is used most commonly when patients have been trapped as
+a result of an automobile accident or during a water or mountain rescue when the patient has been
+removed from the endangered area.
+CO Below 50ppm (CO): Level of carbon monoxide is below 50 parts per million, units may operate
+without SCBA protection.
+Command Terminated (CT): There is no longer a single person in charge of the incident.
+Communications can be held with anyone still on the scene.
+Command Terminated (XCM) – Also referred to as Cancel Command. There is no longer a single person
+in charge of the incident. This milestone is used after CT and removed the Command designator from the
+unit.
+Defensive (DEF): Units operating in the defensive strategy.
+Emergency Traffic (ETT): Emergency Traffic has been declared on an incident
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 13 of 16
+
+Incident Status & Milestones definitions cont’d
+Extended Patient Transfer (EPT): Patient transfer from Rescue personnel to hospital is greater than 30
+minutes.
+Extrication Complete (EC): All patients extricated.
+Immediates Transported (IT): All patients triaged as an “immediate” have been transported.
+Incident Transition Complete (ITC): Transferring of channel assignment from Trunked to Simplex or vise
+versa
+Loss Stopped (LS): Salvage has been completed and there should be no more damage to the building
+involved.
+Mayday (MAY): A Mayday has been declared on an incident.
+Offensive (OFF): Units operating in the offensive strategy.
+Patient Contact (PC): First unit has made contact with patient.
+Patient Contact ALS (PCA): First ALS unit has made contact with patient.
+Patient Contact BLS (PCB): First BLS unit has made contact with patient.
+Patient Contact Rescue (PCR): Rescue has made contact with patient.
+Phone Patch (PP): Phone patch established with Medical control.
+Rescue Contact (RC): Rescue has made contact with patient.
+Personnel Accountability Report (PAR): All personnel assigned to a particular work area or sector has
+been accounted for. It is used to confirm there are no missing fire personnel on the incident site.
+Primary All Clear (PAC): Primary search has been completed.
+Secondary All Clear (SAC): A more comprehensive search of the building has been completed.
+Triage Complete (TC): All patients have been triaged.
+Transfer Channel Acknowledgment (TCA): Unit acknowledgment of channel assignment change from
+Trunked to Simplex or vice versa
+Under Control (UC): The fire has been contained, and will not extend. It does not mean the fire is out. It
+may also be used during Haz Mat calls, indicating a leak has been secured.
+Utilities Secured (US): The power has been shut off to the occupant.
+Ventilation Complete (VC): The task of ventilation has been completed.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 14 of 16
+
+RETURNING COMPANIES
+Only Command can release companies assigned to an incident. Command will indicate the units to "HOLD" at
+the scene, report the nature of the actual situation found and release the remainder of the assignment. The
+TRO will repeat this report from Command and document the “HOLD” command in the incident history.
+Returning units will be responsible for placing their unit in an AOR status when available.
+SECTORS/DIVISIONS/GROUPS
+NOTE: Sectors may be assigned by their geographic location (North Sector) or function (Ventilation Sector).
+Divisions are assigned by their geographic location (North Division). Groups are assigned by their function
+(Ventilation Group). For the remainder of this MP we will refer to Sectors with the understanding that either
+Divisions or Groups may be used where appropriate.
+Sector Officers should use face-to-face communications with assigned companies as much as possible, but
+should keep Command informed of progress via radio on any problems encountered and significant progress.
+Command may assign Sector Officer’s FITs to a designated Safety Channel when desired to enhance overall
+scene safety.
+CAD SECTOR COMMANDS
+The TRO should ensure that each unit that is assigned to a Sector is documented using the Sector
+Commands. The TRO will enter the appropriate command to designate a Sector Officer (SECTO), a Sector
+Member (SECTM) or to remove a unit from a sector (SECTX). Using these commands allows both the TRO
+and Incident Commander to track the assignment of units during the incident. The TRO can designate a sector
+ID of up to six (6) alphanumeric characters.
+Example: SECTO E3 INTER or SECTM E2 INTER
+STAFF
+Staff members with fireground responsibilities will respond to Greater Alarms for assistance with various sector
+functions. Staff members will report in person to the Command Post and will automatically assume sector
+duties in their area of responsibility unless ordered otherwise.
+Communications from staff personnel should be with command as much as possible; however, there will be
+situations that require direct communications with sector officers. Staff communications should be face to face
+as much as possible.
+An isolated Tactical Channel will be assigned by Deployment for each incident where applicable. Command
+may also request a "Clear Channel" for a working incident. When requested, Deployment will direct units on
+other incidents to an alternate Tactical Channel.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 15 of 16
+
+ORDER MODEL
+Radio communications will be regulated by the following order model guidelines.
+1.
+2.
+3.
+4.
+
+Sender will give unit ID and call the receiver by their unit ID.
+Receiver will give their ID to indicate they are ready to receive.
+Sender will then extend message, order, etc.
+Receiver will give ID and acknowledge receipt of message. A brief restatement is the best
+acknowledgment.
+5. Deployment will acknowledge all communications directed to it by a brief restatement of the message,
+with particular attention given to repeating on the scene, size-up and progress reports, recall reports,
+requests for additional resource and all Incident Status changes and milestones.
+MAY DAY
+"May Day" is a term to be used only in the event of a lost or trapped firefighter. (See “May Day”
+Communications for further details.) A well-defined communications structure is essential in any rescue
+operation. Deployment will play a crucial role in ensuring the effective rescue of firefighters.
+EMERGENCY TRAFFIC
+The term ‘Emergency Traffic’ will be utilized by any unit encountering an immediately perilous situation and will
+receive the highest communications priority from Deployment, Command and all operating units. Units may
+initiate emergency communications by depressing the red emergency button on their portable radio, MCT, or
+by verbally contacting Deployment.
+EXAMPLE: ‘L11 to Alarm with Emergency Traffic’. Deployment will immediately activate the Emergency
+Traffic tone. The unit will transmit his/her message. Deployment will repeat message one (1)
+time and document in the Incident History.
+If Deployment does not acknowledge Emergency Traffic the unit should then establish contact with Command
+and transmit the emergency message. Command will then re-initiate the Emergency Traffic sequence with
+Deployment.
+WITHOUT EXCEPTION THE AIR BELONGS TO ANY UNIT WITH ‘EMERGENCY TRAFFIC’
+UNIT DESIGNATION
+For radio communications, the following designations will be recognized as standard:
+Dispatch & Deployment
+Officer of any unit
+Engineer of any pumper
+Engineer of any ladder
+Firefighter on any unit
+Battalion Chiefs
+Battalion Field Incident Technician
+Shift Commander
+
+Dispatch (Alarm)
+Unit ID
+Pump
+Truck
+E1, FF Smith
+Battalion
+Battalion FIT
+South Deputy, North Deputy
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+COMMUNICATIONS
+M.P. 205.01
+
+10/10-R
+
+Page 16 of 16
+
+RADIO CODE
+"Plain language" radio messages should be used in preference to numerical codes to facilitate understanding.
+There is no official Phoenix Fire Department radio code. This is also in compliance with NIMS.
+The following code messages (from the Police radio code) may be used in sensitive situations, when a plain
+language message could cause a problem at the scene:
+261
+901-H
+906
+961
+962
+963
+
+Rape
+Dead body
+Need Police assistance IMMEDIATELY
+Vehicle accident, no injuries
+Vehicle accident, with injuries
+Vehicle accident with fatality
+
+RADIO PROCEDURE
+Short-specific
+Before transmitting know what you are going to say. Choose precise terms to communicate the desired
+message as clearly and briefly as possible without wasting airtime.
+Task Oriented/Company Oriented
+Command’s orders to operating companies should indicate a specific task assigned to the company. They
+should be of a magnitude reasonably performed by a single company alone or in concert with other
+companies.
+Indicate Objective
+In addition to being task and company oriented, assignments should indicate an objective to the action. The
+company should know exactly where to go, to whom to report, what is the task and what is the objective of the
+task. Orders should tell what to do - not how to do it (unless Command wants something specific).
+Clear Tone/Self Control Effective Rate
+Speak clearly at a practiced rate. Not too fast and not too slow. Control your emotions and excitement
+deliberately. If you do not consciously control your voice, it will become garbled under stress.
+Well Timed/Spaced
+Prioritize your messages. Do not use valuable airtime with unimportant messages and insignificant details.
+Maintain an awareness of the overall situation and your role in it.
+Do not interrupt conversations unless you have Emergency Traffic. Listen before transmitting and wait until a
+message transaction has been completed.
+Pause between consecutive messages. This will make it clear when one message has been completed and
+another started. It also allows other units to break in with urgent/emergent traffic if applicable.
+
+

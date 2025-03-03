@@ -1,0 +1,52 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+ADAPTIVE RESPONSE UNITS
+M.P. 205.09
+
+09/09-R
+
+Page 1 of 1
+
+The Adaptive Response Engine Company Program provides additional engine companies in the
+dispatch system. These companies should be considered for use as substitutes for companies which
+are out of service for extended periods of time due to training, maintenance, emergency incidents or
+other approved company activities. The purpose of this procedure is to provide move-up guidelines for
+adaptive response companies.
+Move-Up Responsibility
+The AHQ Chief (BC), along with the Alarm Room Supervisor and Lead Dispatchers are responsible for
+management of adaptive response move-ups. Together, they review the company activity calendar
+each morning. Special events, scheduled and unscheduled out-of-service activity and requests from
+field BC’s and company officers must be considered.
+Company officers are responsible for prompt and efficient relocation to areas when assigned by alarm.
+Outlying areas which normally have increased response times (due to sparser coverage) shall be
+covered whenever possible.
+Move-Up Criteria
+Adaptive Response Company move-ups will be made for both scheduled and emergency activity that
+places engine companies out of service for extended periods of time. Move-ups should be considered
+for the following situations:
+1. All working incidents that will keep a number of companies out-of-service for extended periods.
+2. All working incidents that have high degree of likelihood of escalating to greater alarms.
+3. Extended scheduled company activity which depletes coverage in outlying areas.
+Move-Up Notification
+Move-ups should be made as soon as Dispatch has knowledge that coverage will be necessary.
+Companies identified for scheduled move-up assignments should be notified in advance if possible to
+allow company officers and crews to plan accordingly. Unscheduled move-up notification will be made
+through the normal CAD entry move-up and Channel 1 notification, unless it is convenient to notify
+crews via landline. The direct ring down "99" telephone notification may also be used for move-ups.
+When a move-up requires a company to leave their city (ie: Glendale), the appropriate Shift
+Commander should be notified.
+Responding to Assigned Move-up location
+Company officers of Adaptive Response Companies will immediately collect their crewmembers and
+respond to the move-up location. Move-ups will normally be under a non-emergency Code 2 status.
+Dispatch, however, may order a Code 3 response under critical emergency conditions. Companies
+should respond to their move-up assignment in an “out of service” status, while monitoring Channel
+One and may respond to nearby calls at the discretion of the Company Officer.
+Returning to First Due Areas
+Companies which have had their areas covered by adaptive response units should return to their first
+due area and go in service promptly when their activity has concluded. Adaptive Response Units shall
+stay in their move-up location (in service) until assigned by alarm to return to their first due or another
+location. Adaptive Response Units should monitor Channel One while returning to their own first due in
+an “out of service” status and respond to calls in their proximity at the discretion of the company officer.
+
+

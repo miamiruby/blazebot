@@ -1,0 +1,111 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RESPONSE TO POWER LINES/ENERGIZED ELECTRICAL EQUIPMENT
+M.P. 205.20
+
+03/09-R
+
+Page 1 of 2
+
+It is our policy to respond to reports of power lines down and other hazards involving energized
+electrical equipment (transformers, substations, electric vaults) for fire control and public safety. It is the
+responsibility of the company officer to maintain that level of safety until relieved by another fire
+company, police agency or utility company.
+PURPOSE
+This procedure will establish a standard approach and response to the report of power lines down and
+other responses to energized electrical equipment. Power lines can come in contact with the ground as
+a result of storm related activity, fire, or vehicles striking power poles. In all cases, the potential for
+electrical shock/electrocution and secondary fire must be considered.
+ELECTRIC SAFETY AWARENESS
+Electricity will travel any conductive path it can as it seeks a ground. A direct path to ground can occur
+when contact is made between something energized and a portion of your body such as your hand,
+arm, head, or other body part. An indirect path to ground occurs when you are holding something or
+touching an object that is in contact with something energized. This could include tools or other
+equipment you may be holding or when touching a fence, vehicle, or other object that may be in contact
+with something energized.
+Gradient Voltage (Step and Touch Potential)
+When power lines are down, they will energize the ground around them. For Example: point of ground
+contact could be 7160 volts. This voltage will lessen as it radiates out from this point; for example, 6000
+volts. If your feet are in areas where there is a voltage difference, you could complete the circuit and be
+the source to ground. This is called “step potential.” This danger could be indicated by a tingling
+sensation in the feet and serve as a warning to back away from the area. Step potential is more severe
+when the ground is wet.
+Key Points
+• Downed lines must always be considered energized with potentially lethal current.
+• Lines can reset and become “hot” or “energized” again by manual operation of a switch, by
+automatic re-closing methods (either method from short or long distances away), by induction
+where a de-energized line can become hot if it’s near an energized line, or through back feed
+conditions.
+• Power line tends to have “Reel Memory” and may curl back or roll on itself when down.
+• Use caution when spraying water on or around energized electrical equipment. Hose streams
+conduct current! Never spray directly into the power lines. Use a fog spray at the base of the pole.
+Your primary responsibility is to protect the surrounding area. Short bursts of water are preferred
+methods to avoid being grounded. Never spray water onto electrical equipment until a utility rep has
+confirmed that the equipment is de-energized or “dead.”
+• Electrical equipment is classified as:
+• Energized
+• De-energized (cannot be 100% guaranteed)
+• Dead (confirmed by utility representatives after grounding the lines(s).
+• PCB hazards: Smoke potentially fatal; avoid and contain pools of oil around transformers.
+• Poor soil resistance in the desert southwest may not provide enough of a ground to trip a circuit
+even when a conductor is laying on it.
+• You cannot tell the voltage of a power line by the size of the conductor. Most overhead conductors
+are not insulated.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RESPONSE TO POWER LINES/ENERGIZED ELECTRICAL EQUIPMENT
+M.P. 205.20
+•
+•
+•
+•
+
+03/09-R
+
+Page 2 of 2
+
+Voltage can travel through both dry and especially wet ground for considerable distances.
+Pad-mounted and overhead transformers can explode.
+Until grounded, equipment can contain electric potential, which can cause severe injury or death.
+Electricity can flow through the ground or other conductive objects, (fences) to point far from the
+scene.
+
+RESPONSE TO POWER LINES DOWN
+• Request utility company to respond.
+• Consider all down wires as “energized.”
+• Place apparatus away from “down lines and power poles” and out from under involved overhead
+lines that could fail and fall onto equipment or personnel.
+• Secure the area/deny entry.
+• Periods of high activity; company officer may choose to leave one (1) crewmember on-scene with a
+radio to wait for utility company.
+• In the event of multiple lines/poles down over a large area, call additional resources.
+Down Power Lines and Vehicles
+• Request utility company to respond.
+• Do not touch vehicle
+• Have occupants remain inside the vehicle
+• Place apparatus a safe distance away from down lines.
+• If occupants must leave the vehicle (fire or other threat to life) instruct them to open the door, not
+step-out! They should jump free of the vehicle without touching vehicle and ground at the same
+time; they should walk away from the vehicle with very small steps.
+SUB-STATION, TRANSFORMER, ELECTRICAL VAULT AND MANHOLE FIRE
+• Request utility company to respond.
+• Clear the area.
+• Be aware of explosion potential.
+• Place apparatus in a safe location away from overhead power lines.
+• Protect exposures.
+• Do not make entry until the utility representative has verified that the above electrical equipment
+has been de-energized. The utility representative may have to make entry to uninvolved sections to
+safely de-energize the equipment.
+RESPONSE TO POWER POLE FIRES
+• Request utility company to respond.
+• Consider all wires and poles as “energized.”
+• Place apparatus away from “down lines and power poles” and out from under involved overhead
+lines that could fail and fall onto equipment or personnel.
+• Secure the area/deny entry.
+• Do not make any fire attack until the utility representative has verified that the electrical equipment
+has been de-energized.
+
+

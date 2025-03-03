@@ -1,0 +1,245 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+Policy Name:
+Policy Number:
+LIGHT RAIL OPERATIONS
+M.P. 206.21
+This policy is for internal use only and does not expand an employee’s legal duty or civil
+liability in any way. This policy should not be construed as creating a duty to act or a higher
+duty of care, with respect to third party civil claims against employees or the Phoenix Fire
+Department (PFD). Remedies for violations of this policy, if proven, are limited to
+administrative disciplinary action against PFD employees.
+Related Policies:
+Other Reference:
+Date Implemented: 12/2021-R
+Review Date: 12/2026
+
+PURPOSE
+This procedure provides guidelines for managing emergency incidents involving the Valley Metro
+Light Rail System (VMR), highlights specific life safety hazards inherent to the system, and also
+discusses considerations for shutting down power to the system when necessary. This procedure
+also provides light rail system information necessary for safe operation and focuses on the most
+likely light rail scenarios crews will encounter. However, these guidelines are not a universal
+remedy, and due to the limitless possible scenarios responding personnel could encounter,
+responding crews should always evaluate risk and exercise caution when operating near the light
+rail system.
+LIGHT RAIL TERMS
+LRV= light rail vehicle
+OCS= overhead catenary system (overhead light rail electrical wires)
+TPSS= traction powered substation
+ETS= emergency trip switch (located at TPSS)
+OCC= operations control center (nerve center for communications and operations of light rail)
+Pantograph= large mechanical arm that connects the LRV to the overhead wires
+BACKGROUND
+The Light Rail Vehicles (LRVs) operate on DC electric current supplied from the substations (TPSS)
+by two overhead wires (OCS). LRV’s connect with the light rail system in an electrically powered
+public transportation system. The light rail uses a two-track system that typically run parallel to
+each other. The LRVs connect with the OCS via a pantograph (large mechanical arm) that can be
+raised and lowered. The tracks operate as the negative return (not a significant electrical threat)
+for the current. The Operations Control Center (OCC) functions as the nerve center for the light rail
+and is able to communicate directly with light rail Operators, Transportation Supervisors, and
+maintenance crews. The OCC is responsible for coordinating all light rail related emergency
+LIGHT RAIL OPERATIONS
+Page 1 of 6
+
+activity. In the event of an emergency, the OCC has the ability remotely de-energize the OCS. The
+OCC is located in the VMR Operations and Maintenance Center (605 SS. 48th St, Phoenix). The
+estimated train frequency is every 12 minutes during peak operations and every 20 minutes during
+off-peak hours. The LRV’s are controlled with an Operator located in the forward cab (each end
+has a cab) of the LRV. The Operator must operate the train by utilizing a controller which controls
+accelerations and braking. The controller is equipped with a “dead man” switch, which will bring
+the LRV to a complete stop if the Operator becomes incapacitated. The system times traffic lights
+using a predicative priority signally system that changes the signals much like the pedestrian
+button and car sensors do, but the only system that actively takes control of traffic signals is the
+Opticom system (when equipped) used by emergency responders. Train operators are required
+to stop for all red lights and hazards.
+LRV
+•
+•
+•
+•
+•
+
+90 feet long, 12 feet high, 9 feet wide Cab at each end (1 Light Rail Vehicle)
+103,000 lbs. empty with 200-person max capacity
+Normal max operating speed 35 mph
+Approximately 190 foot stopping distance at 35 mph
+Very Quiet
+
+TRACK SWITCH LOCATIONS
+• Allow train movement from one track to another
+• Track switches move without warning
+• Controlled manually / remotely
+• Exert 1200 lbs. of force
+• Will crush obstacles, including hands/feet if in switch location
+• Manually operable
+TRACTION POWER SUBSTATIONS (TPSS)
+• Located approximately every mile
+• Emergency Trip Switch (ETS) (located outside the door in Knox box)
+• What’s inside: electrical equipment and Ni-cad batteries
+• Electricity AC 12000-21000 volts in, and 650-950 volts DC out
+OVERHEAD CONTACT SYSTEM - OCS (THE OVERHEAD WIRES)
+• 750-950 Volts Direct Current (DC)
+• 2000-6000 AMPs (Taser is .00021 amps 50k volts)
+• Wires are tensioned at 5,000 lbs. top wire, and 3000 lbs. bottom wire
+• Wires will whip if severed
+• The normal height of the light rail overhead contact system wire is 18 feet; however, the
+underpass at Washington and the SR143 has a max height of only 14.5 feet. BEWARE of
+lights, flags, or anything else sticking up when crossing the line
+LIGHT RAIL OPERATIONS
+Page 2 of 6
+
+RESPONSE
+Crews responding Code 3 across the tracks shall adhere to our Code 3 driving procedures.
+Additionally, any protrusion (extended utility lights, flags, etc.) must be lowered to avoid contact
+with OCS. Furthermore, the tracks represent an additional lane of traffic that must be cleared when
+driving. Left hand turns across the tracks account for the highest incidents of collisions with LRV’s.
+•
+•
+•
+•
+
+Adds additional lane of traffic
+Normal height of OCS is 18 feet
+Lowest point is 14.5 feet located at Washington and the SR143 overpass
+Have all lights and/or flags lowered
+
+OPERATING IN LIGHT RAIL INTERSECTIONS
+LRV’s are approximately 9 feet wide and operate on fixed rail. As such, LRV’s are incapable of
+making contact with an object located outside of the LRV’s dynamic envelope. LRV Operators are
+trained to operate at walking speed when emergency personnel are near the tracks. LRV’s are
+equipped with a Car Wash Mode feature which restricts speed to no greater than 2MPH. The car
+wash mode may be activated upon request. If LRV movement could compromise the safety of
+firefighters operating on or adjacent to the light rail tracks, the Company Officer should contact
+Fire Dispatch and request a notification be made to the OCC to operate LRV’s on the alternate track
+(Single Track Operation). The OCC will dispatch a Transportation Supervisor to the scene and
+implement an alternate service plan to ensure the safety of Fire personnel. Crews must remain
+watchful for LRV’s, and Company Officers should consider assigning a crew member to watch for
+LRV’s. In scenarios where both light rail tracks are obstructed (e.g., collision blocking both tracks,
+supply lines etc.) Company Officers must contact the Fire Dispatch and request a notification be
+made to the OCC advising of such conditions.
+RESPONDING TO EMS CALLS ON THE LRV
+• LVR Operator will coordinate next stop location with OCC and Alarm Room.
+• The alarm room will provide the address and location during dispatch.
+• Any open door on an LRV engages the brake and disables the throttle ensuring that the
+LRV will not move.
+• As long as the LRV is functioning normally and on the track, there is no need to shut down
+power. This will allow the AC and lights to continue functioning.
+• Maintain awareness of both LRV and vehicle traffic.
+
+RESPONDING TO LRV VERSUS ANOTHER VEHICLE
+When an LRV makes contact with a vehicle, the LRV Operator will notify the OCC. The Operator
+will then check all LRV’s, and the occupants of the other vehicle for injury. All injury information
+will be relayed to the OCC. Due to low operating speeds most LRV collisions will not result in a
+derailment. A collision with a large vehicle (e.g., semi-truck, dump truck etc.) may result in a
+LIGHT RAIL OPERATIONS
+Page 3 of 6
+
+derailment. If this occurs the LRV Operator will lower the pantograph and eliminate the
+electrocution risk from the OCS.
+In the event of derailment where the pantograph becomes entangled or is unable to be lowered,
+the entire LRV becomes energized and poses a significant electrocution risk to both emergency
+responders and any passenger who makes ground contact (completes the circuit).
+Company Officers should complete the following evaluation upon arrival to any LRV derailment
+or LRV vs. large vehicle accident:
+ELECTRICAL HAZARD SIZE UP QUESTIONS
+• Is the LRV on the tracks?
+o If LRV is on tracks, pantograph may stay raised.
+o If LRV is derailed, pantograph must be lowered.
+• Is the Pantograph raised/tangled?
+• Is the OCS intact (no poles or wires down)?
+ELECTRICAL HAZARD SIZE UP
+Scenario #1: If the LRV is derailed and the pantograph is still in contact with the OCS, responding
+crews should not make contact with the LRV and advise the LRV Operator to lower the pantograph.
+If the LRV Operator is unable to lower the pantograph, the Company Officer must de-energize the
+OCS by employing the use of Option #1 or Option #2.
+Scenario #2: If the OCS has been compromised or appears to be severely damaged, or if lines are
+down then crews should not approach the LRV or track. The OCS must be de-energized by
+employing the use of Option #1 or Option #2.
+Option #1: The Company Officer must contact Fire Dispatch and request a notification be
+made to the OCC to remotely de-energize the OCS. The OCC will have a visual notification
+that the OCS has been de-energized and will dispatch a Transportation Supervisor to
+respond to the incident scene with a Hot Stick to provide physical assurance that the OCS
+is de-energized.
+Option #2: The Company Officer should assign another company (or do it themselves if in
+close proximity) to push the emergency trip switch (ETS) at the closest TPSS (requires Knox
+key). Pushing the ETS at the TPSS shuts down incoming AC power and outgoing DC power,
+and also sends a signal to the adjacent substations and shuts down their outgoing DC
+power, effectively isolating the section of line from power. However, there is no visible
+confirmation that power has actually been shut down. The Company Officer must contact
+Fire Dispatch and request a notification be made to the OCC requesting a Transportation
+Supervisor with Hot Stick to confirm that the OCS is de-energized.
+LIGHT RAIL OPERATIONS
+Page 4 of 6
+
+In both instances Crews should refrain from physically touching the LRV and advise passengers
+to wait inside the LRV, until power has been confirmed to be de-energized.
+ACCESS AND EXTRICATION
+• Easiest access is through the LRV doors. Crew can manually open them by opening the
+exterior (emergency door releases). There is one location on each side of the vehicle,
+located on the left side when facing the LRV.
+o Windows are extremely hard to break
+o Cutting through the body of the LRV doesn’t provide adequate access
+• The train has been engineered with a bumper and bar 3 inches off the track to reduce the
+chance of a person becoming trapped underneath.
+• LRV’s are extremely heavy and unstable when lifting and this should be considered a last
+resort.
+• Valley Metro has a vehicle that can safely lift LVRs, but it has an estimated response time
+of 30-60 minutes
+TRAFFIC CONTROL
+• Protect scene as necessary
+• Beware of other LRV’s in opposite direction
+• Consider assigning a crewmember as lookout for LRV’s
+• Consider PD for traffic control
+RESPONDING TO LRV FIRES
+LRVs do not have a fire protection system (no sprinklers). Most of the working equipment (A/C,
+power supplies, and batteries) are located on the top of the LRV. Crews must ensure the LRV, and
+OCS are de- energized prior to attempting extinguishment of any significant LRV fires. Fires in the
+bottom undercarriage should only be extinguished after the pantograph has been lowered but
+does not necessitate shutting down the OCS.
+Evacuate LRV (life safety first) to a safe location away from smoke
+• Shut down power as necessary
+• Stop other LRV traffic as necessary
+• Protect the scene from traffic
+RESPONDING TO FIRE AT TPSS
+• Treat it like electrical substation/vault
+• Do Not Enter or put water on it until absolutely confirmed de-energized by APS or SRP
+• Beware of OCS
+• Consider pushing the ETS, if it is safe to do so
+• Call for hazmat if smoke is coming from within TPSS
+• Be aware of the risk of hazardous smoke inhalation
+LIGHT RAIL OPERATIONS
+Page 5 of 6
+
+MISCELLANEOUS
+Natural Gas Incidents
+• LRV’s produce significant sparks and represent an ignition source for natural gas leaks
+• LRV’s traffic should be halted for any significant gas leak within close proximity
+Impact of Smoke Plume on Light Rail System
+• Treat the same way we treat other road closures for smoke plumes
+o LRV’s have the ability to shut off outside air if necessary, and this should be a
+minimum consideration if LRV’s are passing by smoke
+IMPACTS TO FIRE OPERATIONS
+The light rail system impacts Fire Department operations in several ways. First, the OCS represents
+an electrical hazard as do other electrical lines. OSHA requires any apparatus, ladders, or other
+equipment to maintain a ten-foot clearance from ungrounded electrical sources such as the OCS.
+The tracks present access obstacles and influence apparatus placement. Lastly, the alignment can
+impact water supply.
+Consider the following:
+• OCS electrical hazards
+o Must stay 10 feet away (in every direction) per OSHA
+o Electrocution risk if straight stream contacts energized OCS
+o Ensure that operating hose streams do not contact the OCS
+• Fire ground apparatus placement
+o Crews should preplan first due areas and plan apparatus placement around the light
+rail
+• Laying supply lines across tracks
+o Treat as a water supply of last resort and avoid whenever possible
+o If it is necessary to lay supply lines across the tracks, the Incident Commander will
+need to communicate clearly to the Alarm Room that they are doing so, and advise
+them to shut down light rail traffic for that section
+
+LIGHT RAIL OPERATIONS
+Page 6 of 6
+
+

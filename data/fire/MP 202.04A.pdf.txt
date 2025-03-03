@@ -1,0 +1,202 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+Policy Name:
+Policy Number:
+LARGE-SPACE BUILDING
+M.P. 202.04A
+COLD SMOKE FIRES
+This policy is for internal use only and does not expand an employee’s legal duty or civil
+liability in any way. This policy should not be construed as creating a duty to act or a higher
+duty of care, with respect to third party civil claims against employees or the Phoenix Fire
+Department (PFD). Remedies for violations of this policy, if proven, are limited to
+administrative disciplinary action against PFD employees.
+Related Policies: 201.01A, 201.01B, 201.03, 201.06, 202.05, 202.19, 202.19A, 205.20, 205.20A,
+205.02B
+Other Reference: NFPA Fire Protection Handbook, 2018
+Date Implemented: 12/2021-R
+Review Date: 12/2026
+
+PURPOSE
+The purpose of this procedure is to establish guidelines for regional consistency regarding fire
+incidents in large-space buildings with fire sprinklers (cold smoke fires). Large-space buildings are
+structures with big, non-compartmentalized space(s). For example, warehouses, distribution
+centers, shopping centers, data centers, churches, bowling alleys, gymnasiums, public assembly
+occupancies, etc. Early incident operations necessitate controlling the advancement of interior
+companies due to the increased potential of firefighters becoming disoriented. This requires a
+strong command presence and focus on incident organization, communication, accountability,
+hose line management, air management, work cycles, etc.
+RISK MANAGEMENT
+Fire sprinkler systems have over a 100-year history of protecting life and property from the
+destructive forces of fire. History establishes that civilian fire fatalities in sprinklered buildings of
+any type are extremely rare. In the absence of a report of people trapped, we can anticipate our
+actions being focused on property protection and our application of risk management must align
+as such.
+Fire incidents in large-space buildings with fire sprinkler systems expose firefighters to many
+challenges and hazards. These include but are not limited to:
+•
+
+Cold smoke refers to smoke that has lost its velocity and flows calmly. In other words,
+smoke that lacks the speed, turbulence, or energy. Cold smoke is extremely dangerous.
+The presence of cold smoke identified during size up is significant. Cold smoke can be
+present with or without fire sprinkler control.
+
+LARGE-SPACE BUILDING COLD SMOKE FIRES
+Page 1 of 4
+
+•
+•
+
+•
+•
+•
+
+•
+•
+•
+•
+•
+•
+•
+
+•
+
+Regarding large-space buildings, a small amount of smoke from one or more locations can
+mean a significant fire.
+Factors of storage configuration such as height and type (e.g., rack storage, floor storage).
+As materials get wet, they get heavier, and packaging can begin to break down causing
+rack storage collapse.
+Construction features including type, building size, fire rated enclosures, and large opened
+areas.
+Signs of an incident of any significance will typically require a first alarm or greater
+response.
+Large open interior spaces typically require truss construction. These large spans and
+construction methods can lead to early structural collapse if fire is not contained by the fire
+sprinkler system. Partial roof collapse should be assumed to have compromised the fire
+sprinkler system.
+Large-space buildings may have atypical roof characteristics that can be challenging for
+roof operations to include vertical ventilation.
+The types and quantities of materials stored may include hazardous materials.
+Presence, type, and suitability of fire protection and detection systems.
+Methods to facilitate ventilation such as roof vents, sky lights, doors, rollup doors, smoke
+control and exhaust systems.
+Available water supply and adequacy.
+Fixed and mobile equipment/machines for material handling.
+Warehouses with rolled paper storage are a significant hazard. In 1978, the fire sprinkler
+system had contained a fire in a warehouse storing large bales of rolled paper. Three
+Canadian firefighters were killed instantly during overhaul when 600-pound paper rolls
+became unstable and toppled over burying them.
+If the fire sprinkler system fails to control the fire for any reason, the fire will grow quickly.
+We should anticipate fire control necessitating defensive operations and exterior fire
+suppression via master streams outside of the collapse zone.
+
+PRE-INCIDENT PLANNING
+Pre-incident planning is critical as information gathered during planning visits before the incident
+is used by Company and Command Officers during an actual incident. Pre-incident planning
+allows personnel the opportunity to view conditions and factors within the structure or the site.
+This allows for an evaluation of how these conditions and factors are likely to develop in the event
+of an emergency incident. The following should be considered during pre-incident planning for
+large-space buildings:
+•
+
+Exterior wall construction: Concrete, metal panel, masonry, wood frame, etc. This
+information is important as it relates to fire extension potential, exposure protection,
+collapse, and others.
+
+LARGE-SPACE BUILDING COLD SMOKE FIRES
+Page 2 of 4
+
+•
+
+•
+•
+
+•
+
+•
+•
+
+•
+•
+
+Occupancy type: Office, retail, manufacturing, warehouse, etc. Each occupancy has unique
+factors. Warehouses have rack storage, retail may have large storage areas (to include rack
+storage areas not immediately evident), manufacturing may have specialized equipment
+and hazardous materials.
+Many new data centers and other large-space buildings may have battery energy storage
+systems and/or photovoltaic systems (see M.P. 205.20, 205.20A, 205.02B)
+Roof construction: The type and construction of the roof will impact ventilation. Wood joist,
+steel joist, steel beam, etc. Decking material, wood plank, concrete, metal panel, etc. Roof
+covering may have built up tar and gravel or insulated membrane systems. Pre-incident
+planning should address how ventilation can be accomplished, to include the presence and
+location of skylights, and any manual or automatic vents.
+Ceilings and attics: False ceilings and common attics can lead to fire spread throughout the
+structure. False ceilings and common attics can result in fires burning undetected in areas
+not visible and absent fire sprinklers.
+Interior configuration and storage: Presence and height of rack storage, large-opened
+spaces, office areas and other separated spaces, fire walls, fire doors, smoke barriers, etc.
+Fire protection systems: Automatic sprinkler systems, fire pumps, special protection
+systems (e.g., dry chemical, foam, carbon-dioxide, etc.), standpipes, fire alarm systems,
+smoke control systems, and water supply.
+Site factors: Apparatus access and tactical positioning, security, exposures, utilities, etc.
+Environmental: Runoff from fire sprinklers or other suppression efforts contaminated with
+hazardous materials must be considered. This should include the location of drainage and
+collection points as well as other potential exposures.
+
+Premises alerts for rolled paper, hazardous materials, rack storage, and other hazards should be
+entered into the CAD system when identified during pre-incident planning.
+INCIDENT GUIDELINES
+Early assessment of the seven sides of the structure is a high priority on these incidents. Size up
+should include the identification of smoke, flames, or water runoff. Look for signs for fire
+protection systems and the buildings Fire Department Connection (FDC). Look for a red bell on the
+outside of the building. If the bell is ringing, water is very likely to be flowing out of the fire
+sprinkler system. Some systems incorporate horn/strobe notification devices, listen for horns and
+look for flashing strobes. Also, identify signs of hazardous materials to include particulate
+scrubbers, containment areas, tanks, NFPA 704 Diamond(s), other signage, etc.
+Determining the best access point(s) to the fire necessitates good size up of the building. Ideally,
+firefighters have an awareness of the building established through pre-incident planning. When
+operating in interior positions, firefighters must stay on the hose line, no complacency. Conditions
+can change quickly. Fire companies should recognize the importance of utilization of thermal
+imaging cameras (TIC), especially on these types of incidents due to the size of the building and
+LARGE-SPACE BUILDING COLD SMOKE FIRES
+Page 3 of 4
+
+presence of cold smoke. The TIC camera is an excellent tool to support accountability and locating
+the fire.
+All personnel within the incident organization must effectively manage their responsibilities with
+regard to work cycles, accountability, air management, communication (radio management), hose
+line management, etc. Companies must not extend hose lines more than 150 feet into the building.
+If you cannot find the fire, pull the firefighters out of the building and implement another plan. The
+Incident Commander must be decisive with making the decision to switch to another plan,
+understanding the dangers of interior companies operating in a hazardous position with a limited
+air supply. Once firefighters are out of the building, regroup and implement plan B (this is the
+Incident Commanders responsibility). Consideration should be given to pumping the FDC and
+ventilating the building. Cold smoke fires should be approached in a similar manner to a
+hazardous materials incident, recognizing the hazards and where the incident resides from a risk
+management perspective. Ventilation options can include the utilization of fans, vertical
+ventilation, opening sky lights, using specialty building systems, and/or hydraulic ventilation with
+portable monitors. Ventilation will often utilize a variety of different options coordinated to ensure
+effectiveness and realizing that ventilation of cold smoke is a slow process.
+Pumping the FDC is a good thing. Additional GPM and pressure can have a major positive impact
+on the effectiveness of fire sprinklers. Remember, every decision made should be coordinated.
+Prior to pumping the FDC, consider if firefighters are interior and if a sudden increase in volume
+and pressure may contribute to a rack storage collapse.
+Note: Some large-space building fire protection systems are supported by a fire pump. Connecting
+to the FDC in this instance is a precaution in the event of a fire pump failure.
+Conversely, we should not shut down the fire sprinkler system prior to verification of fire control.
+The outcome of testing after the Southwest Supermarket fire established the maximum distance
+a fire company will enter any building is 150 feet, without additional support mechanisms put in
+place by command. For cold smoke fires, if the fire cannot be located or accessed due to 150-foot
+limitations, command must pull firefighters from interior positions, pump the FDC, and ventilate
+the building. Command and operating personnel recognize that these tactics will take time. Once
+smoke has cleared out and we have assurances that the incident has stabilized, fire companies
+may go deeper than 150 feet into the building, if it is safe to do so. A Shift Commander should be
+present to review and approve any plan that takes fire companies more than 150 feet in the
+building. In this instance, a Battalion Chief with a Battalion Safety Officer should be in place to
+manage the Sector. Remember, the incident commander controls the incident, not the other way
+around. On cold smoke fires, we shall operate in the correct risk management position. If
+firefighters cannot reach the fire, pull them out of the building. At this point, time is on your side.
+
+LARGE-SPACE BUILDING COLD SMOKE FIRES
+Page 4 of 4
+
+

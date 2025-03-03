@@ -1,0 +1,175 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RADIOLOGICAL HAZARDS
+M.P. 204.03
+
+04/98-R
+
+Page 1 of 4
+
+This procedure is designed to provide basic operational guidelines for managing a radiological incident.
+This procedure is for peace-time radiological emergencies and does not specifically apply to nuclear
+warfare radiological contamination.
+The Fire Department responsibilities during radiological emergencies include rescue, treatment, fire
+control/extinguishment, control of contamination spread and alerting responsible experts/agencies.
+Actual clean-up and overhaul operations will not normally be a Fire Department responsibility, although
+the Fire Department will be responsible for seeing that such operations are completed. Shippers
+and/or manufacturers of radiological materials will normally be responsible for clean-up operations
+using trained clean-up personnel and equipment.
+DISPATCH
+The Dispatch Center will dispatch either a 2-1 assignment or a 1st Alarm assignment, with the
+Hazardous Materials Team to any incident reported to involve radiological materials. The size of the
+assignment will be based on the location and type of situation reported.
+Dispatch will advise responding units of the prevailing wind direction.
+When a radiological incident is confirmed, Dispatch will notify:
+1. D.P.S. Communications to dispatch personnel from the Arizona Radiation Regulatory
+Agency and D.P.S.--C.V.S.S. unit.
+2. Phoenix Fire Department personnel with advanced radiological training--(list in
+Information File).
+3. Maricopa County Civil Defense--on request from Command.
+SITE OPERATIONS
+At the scene, Command must consider both direct radiation exposure and contamination. If there is no
+life hazard, rescue situation or fire, there is no reason to risk exposure of Fire Department personnel.
+First arriving units should secure a perimeter, evaluate the situation and wait for the arrival of the
+Hazardous Materials Team.
+If the immediate commitment of personnel is necessary, Limited Access Zone procedures shall be
+implemented to minimize the exposure and contain the spread of contamination.
+The entry of personnel shall be limited to the absolute minimum number and time required for the
+urgent situation. These personnel will use full protective clothing and SCBA.
+Any commitment of personnel to the Limited Access Zone shall include at least one survey instrument
+per team to monitor radiation hazard levels. Dosimeters shall be issued to all personnel operating at
+the scene.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RADIOLOGICAL HAZARDS
+M.P. 204.03
+
+04/98-R
+
+Page 2 of 4
+
+Hazard Zone tape shall be stretched to define an area where readings of 2MR/hr are detectable. This
+must take into account potential downwind spread of contamination. Hazardous Materials Team
+personnel will determine readings and define the Limited Access Zone.
+A Decontamination Area must be established within the perimeter of the Hot Zone, adjacent to the
+Lobby Control (entrance/exit) point. All personnel and equipment leaving the Hot Zone must be
+checked for radioactive contamination by qualified personnel. All persons or items must go to the
+Decontamination Area before leaving the Hot Zone. (See Decontamination.)
+Patients requiring treatment, who cannot immediately be decontaminated, must be placed in an
+isolated Treatment Area, away from other patients and inside the Hot Zone perimeter.
+TACTICAL CONSIDERATIONS
+Incidents With Fire:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Initiate normal tactical firefighting operations.
+Always approach from upwind.
+Do not ventilate.
+Minimize the use of water.
+Control water runoff-impound for disposal.
+Minimize exposure of personnel.
+Use full protective clothing with SCBA.
+
+Rescue/EMS Incidents:
+1.
+2.
+3.
+4.
+5.
+
+Remove patients quickly.
+Treat patients for medical problems/injuries.
+Alert hospitals to prepare for contaminated patients.
+Use full protective clothing and SCBA.
+Decontaminate vehicles used to Transport.
+
+NUCLEAR WEAPONS
+The radiological hazard of nuclear weapons in transit is similar to other radioactive materials and can
+be handled with similar tactics.
+These weapons however, contain considerable amounts of high explosives which may be shock
+sensitive and can detonate very easily. They are especially dangerous when the weapon has broken
+up and the high explosive is scattered about. If a nuclear weapon involves fire, evacuate the area of
+2,000 feet, in all directions, immediately. All down wind areas must be checked for contamination.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RADIOLOGICAL HAZARDS
+M.P. 204.03
+
+04/98-R
+
+Page 3 of 4
+
+TREATMENT OF CONTAMINATED PATIENTS
+Do not delay field treatment of injuries. Radiological contamination, itself, is not a medical emergency.
+Treatment of contaminated patients should proceed with the following precautions:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+All contaminated patients should be placed in one Treatment Area--separate from
+noncontaminated patients--within the Hot Zone perimeter, but beyond the 2 MR/hr
+exposure distance.
+All treatment personnel should use SCBA or dust-filtering type masks, long sleeve shirts
+or coats, gloves and nomex hoods.
+A mask or other airway filtering means should be used on the patient to limit
+Inhalation/ingestion of airborne contamination.
+Bandage all open wounds as quickly as possible to prevent wound contamination.
+Carefully peeling or cutting of outer clothing from the patient's body will remove most of
+the contamination.
+Removed clothing, watches, wallets, etc., must be placed in plastic bags or other
+appropriate containers, sealed and properly identified.
+A clean plastic bag or other clothing should be placed over the patient's scalp hair to
+minimize the spread of contamination. Do not cover face.
+Much of the contamination on a patient's skin can be removed by wiping with a moist
+cloth or tape (put in plastic bag afterwards).
+Hot spots of contamination on the patient's body that cannot be removed by wiping, etc.,
+should be marked with ink outline or tape.
+Before transporting, all contaminated patients must be wrapped in blankets or sheets to
+completely cover them in order to limit the spread of contamination. Only the face
+should be left exposed.
+Hospitals and rescues must be alerted early and before patient transportation is initiated
+so they can prepare to receive radioactive contaminated patients.
+All contaminated patients should be sent to a single hospital or to as few as possible.
+Once contaminated, these hospitals could be out-of-service for some time.
+Where there are large numbers of contaminated patients, place as many patients as
+possible in each rescue to minimize contamination spread to other rescues.
+Reuse of contaminated rescues for contaminated patient transportation should be
+considered. If all available rescues become contaminated, these vehicles can be out-ofservice for long periods of time until they can be decontaminated.
+Before treatment personnel can be released from the scene, they must be checked for
+contamination and decontaminated. All equipment used in patient treatment must also
+be checked and decontaminated. This evaluation will be conducted in the
+Decontamination Area.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+RADIOLOGICAL HAZARDS
+M.P. 204.03
+
+04/98-R
+
+Page 4 of 4
+
+

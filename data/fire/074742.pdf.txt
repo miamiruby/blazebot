@@ -1,0 +1,240 @@
+Policy Name:
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+Policy Number:
+CAR FIRES
+M.P. 202.16
+
+This policy is for internal use only and does not expand an employee’s legal duty or civil
+liability in any way. This policy should not be construed as creating a duty to act or a higher
+duty of care, with respect to third party civil claims against employees or the Phoenix Fire
+Department (PFD). Remedies for violations of this policy, if proven, are limited to
+administrative disciplinary action against PFD employees.
+Related Policies: 205.20, 205.20A, 202.19, 202.19A
+Other Reference: NFPA - Emergency Response Guides for Alternative Fuel Vehicles, IAFC's
+Fire Department Response to Electric Vehicle Fires Bulletin
+Date Implemented: 04/2023-R
+Review Date: 04/2028
+PURPOSE
+The purpose of this procedure is to identify operational tactics and considerations for motor
+vehicle fires. As sales of electric and hybrid vehicles increase, fire departments must continue to
+modify our tactics to address evolving safety and tactical considerations.
+OVERVIEW
+There is no such thing as a standard vehicle fire. The innovation and design of motor vehicles
+today has created many different hazards for firefighters. Early recognition of the involvement of
+an Electric Vehicle (EV), Hybrid Vehicle (HV) Vehicle with Liquid Petroleum Gas (LPG), Compressed
+Natural Gas (CNG) and emerging technologies such as Hydrogen powered vehicles. Autonomous
+Driving vehicles represent special risks associated with this emerging technology. This
+information is critical to size up and initial decision making on the incident. This information
+should be gathered by AHQ if possible. Crews must complete a size-up and attempt to identify the
+type of vehicle they are dealing with. Responding crews should rely on visual signs to include
+vehicle markings, color of smoke, location of smoke and/or fire, and any other signs that signal a
+crew to be aware of the products involved. Remember to consider the following important steps
+for all vehicle fires:
+1. Identify the vehicle type and address life safety.
+2. Address scene safety, apparatus placement and tactical positioning, immobilize the vehicle,
+when possible, chock wheels, etc.
+3. Disable the vehicle, turnoff ignition, operate emergency shutoff if equipped, remove key or
+fab, consider addressing the factory labeled cable cut points.
+The minimum level of protection for firefighters is full protective clothing breathing air from their
+SCBA. Captains must wear full protective clothing to directly supervise crews.
+CAR FIRES
+Page 1 of 6
+
+APPARATUS PLACEMENT
+Apparatus should be placed upwind and uphill of the incident if possible. This is to afford
+protection from hazardous liquids and vapors and reduces smoke in the work area. Position the
+apparatus to protect the scene from on-coming traffic, using the apparatus as a barrier, to shield
+the incident scene from traffic hazards. Warning lights should be left operating, in conjunction
+with the use of traffic cones where needed. The use of flares by fire and police should be used
+with caution; consider the potential for flammable liquids and vapors. Additional consideration
+should be given to positioning the apparatus at an angle to better allow the removal of any hose
+from the preconnected cross-lay compartments.
+WATER SUPPLY/EXTINGUISHMENT
+Except in the case of a large fuel fire, water is the best for extinguishment of motor vehicle fires,
+however if not immediately available dry chemicals, CO2, foam, or another typical extinguishing
+agent should be considered. If an EV/HV has been identified and is on fire, large amounts of water
+will be required to cool the batteries if the batteries catch fire, are exposed to high heat, or is
+generating heat or gases. It can take 3,000 gallons or more of water applied to the battery to fully
+extinguish AND cool down the batteries. This will require an uninterrupted water supply.
+FIRE ATTACK
+The minimum size of hose line to initiate an attack on a vehicle fire is the 1 ¾ inch handline.
+Approach the vehicle with full PPE and SCBA with facepiece, initiate the fire attack from a 45degree angle, utilizing the reach of the fire stream to begin to extinguish the fire. First water should
+be applied to extinguish or protect the passenger compartment and an all clear should be
+obtained. Wheel chocks should be applied to prevent the vehicle from rolling. Hand tools can
+assist in providing access into vehicle spaces.
+GENERAL HAZARDS AND SAFETY CONSIDERATIONS
+• Energy absorbing bumpers consist of gas and fluid filled cylinders that when heated during
+a fire, will develop high pressures which may result in the sudden release of the bumper
+assembly. This could result in serious injury to anyone in its path. Bumper assemblies have
+been known to travel 25 feet.
+• Batteries have Explosion/Flammability/Toxicity and Electrical shock hazards. Avoid contact
+with battery components.
+• Trunk rear hatch, engine hoods, etc., have hold-open devices that may employ, along or in
+any combination with any of the following: springs, gas cylinders, extending arms, etc.
+When gas cylinders are exposed to heat, failure or rupture of these devices should be
+expected. Excessive pressure may develop in lift assists causing a trunk, hatch, or hood to
+fly open with explosive force when the latch mechanism is released. To ensure personal
+safety, be sure to allow sufficient clearance when releasing latches.
+• Fires involving the trunk/cargo area should be approached with extreme caution. Contents
+may include toxic, flammable, or other hazardous materials. Expect the worst!
+CAR FIRES
+Page 2 of 6
+
+•
+
+•
+
+•
+
+Fuel tanks may be constructed of sheet metal or plastic. A rupture or burn-through may
+occur with these tanks causing a rapid flash fire of the fuel. Do not remove gas cap, as tank
+may have become pressurized. Do not direct hose stream into tank, as this will cause
+pressurization of tank, with a possible result of burning fuel spewing from the tank fill
+opening.
+Well-sealed interiors of modern vehicles present the potential for vent-limited fire on the
+interior which may grow significantly when fresh air is introduced during suppression. Use
+caution when opening doors or breaking windows. Appropriate approach, ventilation, and
+safety concerns must be considered. Have a charged handline ready before making entry.
+At least one member of the attack team must have forcible entry tools in his/her possession
+to provide prompt, and safe entry into the vehicle.
+Vehicle stability tires or split rims exposed to fire may explode, causing the vehicle to drop
+suddenly. Expect exploding rim parts or tire debris to be expelled outward from the sides.
+Approach from the front or rear of the vehicle for maximum protection from potential flying
+debris. Some larger vehicles, such as buses, employ an air suspension system. When these
+systems are exposed to heat or flame, they may fail, causing the vehicle to SUDDENLY
+drop several inches.
+
+Where patients are trapped in the vehicle, first water should be applied to protect the patients and
+permit rescue. When rescue is not a factor, first water should be applied for several seconds to
+extinguish fire or cool down the area around any fuel tanks or fuel systems. This is especially
+important if the fuel tanks are LPG or CNG.
+LPG & CNG
+LPG and CNG are used as fuel for vehicles. Pressure release devices can create a lengthy "blow
+torch" effect, or should the pressure relief device fail, a BLEVE may occur. Vehicles may not be
+marked to identify this fuel hazard. If there is flame impingement on a visible LPG/CNG storage
+tank, take action to control the fire and cool the tank. Operate emergency shutoff controls to stop
+the flow of gas from the storage tank. If vapors escaping from the storage tank relief valve have
+ignited, allow the LPG/CNG to burn while protecting exposures and cooling the tank. Flow of gas
+through piping can be controlled by shutting off the valve at the storage tank. Balance to a 2 & 1
+hazardous assignment.
+ELECTRIC & HYBRID VEHICLES
+When arriving on scene, the first step is proper size up. This includes the extent of the fire and if
+it’s a compartment fire or includes the electrical components of the vehicle. Once life safety has
+been addressed, fire companies should determine if they should suppress the fire or simply allow
+the vehicle to burn. This can be based on exposures, the extent of the fire, etc. EVs can be viewed
+as a battery energy storage system on wheels. Batteries are simply a method to store energy and
+once the batteries have gone into thermal runaway, we understand that the vehicle is most likely
+
+CAR FIRES
+Page 3 of 6
+
+a total loss. Control efforts must consider life safety, property conservation, exposure protection,
+environmental protection, and firefighter safety.
+EV fires pose additional hazards to firefighters due to the battery systems. When the decision is
+made to control the fire, the best method for controlling a battery fire is with water. Battery fires
+will initially show from under the vehicle where the batteries are located.
+1. Protect the working area and position apparatus, accordingly, wear full PPE with SCBA and
+facepiece, ensure the EV is in park and off when possible.
+2. Balance the assignment to a 3-1 Hazardous Materials assignment.
+3. Secure a water supply.
+4. Chock the wheels. EVs move silently, so never assume the power is off and never assume
+the EV will not move.
+5. Small fires that do not involve the high voltage batteries can be extinguished using typical
+firefighting methods.
+6. For well involved EVs, remember once the interior, contents, etc., are extinguished,
+sustained suppression on the battery pack may be necessary. Use 1 3/4-inch hand lines to
+suppress and cool fire and battery. Put water on burning surfaces. The use of AFFF is
+contraindicated. The use of Class A foam reduces the cooling effect of water in this
+application.
+a. Attack an EV fire at a 45-degree angle initiating attack from 40 feet away and move
+forward. Batteries may vent below the vehicle's rocker panels and exhaust out the
+sides of vehicles.
+7. Do not cut into or puncture the battery pack.
+8. When necessary, efforts to protect dry-wells and storm drains through diversion and diking
+should be used. Protect exposures and evacuate the area.
+9. EV batteries shall always be considered energized.
+10. Recognize off gassing as a sign of continued battery degradation. This visible vapor cloud
+is toxic and flammable. It may appear as a white smoke even post extinguishment.
+General Awareness & Safety Concerns
+The high voltage battery system is controlled through the low voltage battery system. It is
+important to disable both systems when possible. Locating and cutting the negative terminal on
+the low voltage side is necessary to potentially disable the system. It is important to note that it
+may take up to 10 minutes for some electrical capacitors to fully discharge. The batteries will
+retain stranded energy and will continue to pose an electrical hazard.
+Hybrid vehicles will have lithium batteries and another fuel source. You will have hazards of high
+voltage battery systems and the other fuel. If during fire attack with water, the fire does not go
+out. Consider the use of dry chemical extinguishers for initial suppression.
+
+CAR FIRES
+Page 4 of 6
+
+If vehicle is extinguished check temperatures of battery locations with TIC or temp gun, it is
+important to understand that you are looking at the casing around the battery with your tool. It is
+more critical to document trending temperatures to indicate if heat is building or if the heat is
+decreasing. Reignition potential is indicated by temps increasing. An increase in temperature will
+indicate the potential for a secondary fire. If the batteries have suffered thermal or mechanical
+insult the potential for electrocution is present, limit contact to the vehicle. Electric vehicles
+involved in fire should have a stable or reducing temperature for at least one hour before turning
+the car over to a tow company. Reignition may occur.
+The use of a thermal blanket may be considered to create a fire stop and isolate the burning
+vehicle’s ability to extend. The thermal blanket does not stop the thermal runaway process.
+Without a life hazard or an exposure, the IAP may allow us to let the vehicle burn or just battery
+pack burn and treat the vehicle shell as an exposure. This may limit the total amount of smoke
+produced.
+Hazard mitigation on EV fires is a collaborative process. The NFPA actively maintains a collection
+of Emergency Response Guides from vehicle manufactures. To access these documents, use the
+link below:
+NFPA - Emergency Response Guides for Alternative Fuel Vehicles
+Post EV/HV Incident Considerations
+The general guidance provided to towing companies and storage facilities is to provide a 50-foot
+clear space around the EV once stored and never inside a building.
+Consider briefing towing companies on this and escorting them to the vehicle storage location.
+Remember, thermal events with the battery system can continue for some time after the initial
+incident.
+FIRES INVOLVING ELECTRIC VEHICLE CHARGING STATIONS
+Fires involving EV charging stations should be treated as a fire involving any other electrical
+equipment:
+• Secure Power to the EV Chargers.
+• Once power is secured, the fire can be extinguished.
+VEHICLES IN PARKING GARAGE
+Any vehicle fire in a parking garage poses unique challenges. Upgrade the assignment to a 3 & 1.
+This will provide additional resources. A thorough size-up of incident factors must be performed.
+Some example considerations are:
+• What level is the vehicle on?
+CAR FIRES
+Page 5 of 6
+
+•
+•
+•
+•
+•
+
+Is this an above ground or below grade?
+What exposures are attached to the garage?
+Is there a life hazard in the exposed areas?
+Where is the smoke traveling?
+Although non-combustible, the concrete structure can be weakened by extended exposure
+to the heat of a fire.
+
+Supporting the sprinkler system is a high priority to limit fire spread. Many modern midrise
+buildings have a combination system that supports the sprinklers and the standpipe from one
+system. These buildings often have no fire pump, and the system is charged with municipal
+pressure. Pumping the FDC increases the GPM flow and pressure for both the sprinklers and the
+attack line.
+When the incident has concluded, we should not be leaving the incident with building fire
+protection systems inoperable, rendering the building unprotected (please see M.P. 202.19 and
+202.19A and/or your departments specific policies and adopted fire code regulations).
+Controlling the ventilation system will aid in the protection of occupants of the parking garage and
+the exposures. A size up of the smoke travel/spread must be performed. If the garage is attached
+to an occupied structure, command must evaluate smoke spread and evacuate occupants from
+the affected areas. This will limit the exposure to toxic smoke.
+Ladder companies may be used as an improvised standpipe at incidents on elevated freeways or
+parking garages.
+
+CAR FIRES
+Page 6 of 6
+
+

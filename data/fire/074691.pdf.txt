@@ -1,0 +1,510 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+INCIDENT SAFETY OFFICER SYSTEM
+(formerly Safety Sector/Section)
+
+M.P. 201.05A
+
+5/11–R
+
+Page 1 of 9
+
+PURPOSE
+The Phoenix Fire Department (PFD) holds the safety of our members as our highest priority. The
+purpose of this procedure is to describe the Incident Safety System that assigns the responsibility for
+firefighter Safety to an individual beginning with the first arriving Company Officer and the process by
+which this responsibility is transferred, expanded, and continued as the incident grows up to and
+including termination of Command. Information related to this M.P. may be found in:
+•
+•
+•
+•
+•
+•
+•
+
+M.P. 201.01 Command Procedures
+M.P. 201.01A On Deck
+M.P. 201.04 IRIC, RIC Rescue Sector/Group
+M.P. 201.04A Rescue – Lost Firefighters - Command Responsibilities when a May-Day occurs.
+M.P. 202.03A May-Day Communications
+M.P. 202.05C Air Management
+M.P. 205.01H Welfare Sector
+
+OVERVIEW
+It is the policy of the Phoenix Fire Department that any member witnessing an unsafe act by another
+member that may result in injury or worse to one of our members has the authority and obligation to
+intervene and stop the unsafe act. The Incident Safety System is implemented any time the Phoenix
+Fire Department responds to an incident. This Procedure describes how an Incident Safety Officer
+(ISO) and/or Assistant Incident Safety Officers (AISO) are integrated into our Incident Management
+System, automatically, every time we respond to an incident. The language and safety system structure
+used in this procedure are intended to conform to NFPA standard 1561, the National Incident
+Management System (NIMS), and to embody the intent of NFPA 1521.
+Fire departments in the Phoenix Regional Automatic Aid Consortium (the consortium) manage safety
+using two different but interoperable systems; the single dedicated Incident Safety Officer (ISO), and
+the Incident Safety Officer System (ISOS). It is the intent of this procedure to describe both systems,
+outline roles and responsibilities of key safety positions, and to explain the interoperability of the
+systems. While these two different systems exist for smaller scale incidents within the region, when
+incidents escalate to greater alarms and command van operations are initiated there exists only one
+formalized safety system. This is also described in this procedure.
+This procedure in no way diminishes the responsibility of each and every member to safe work
+behaviors and to operate within standard operating procedures at all times. Company officers carry an
+additional responsibility of ensuring that all members of their crew are operating in a safe manner.
+Chief Officers and sector officers must also insure that operations are conducted safely.
+DEFINITIONS
+This section briefly describes the positions listed below. Further details and duties for positions are
+included in the body of this procedure.
+Incident: An incident is described as “any emergency situation that threatens life, safety, or property”.
+Timely response and effective management of EMS, rescue, hazardous material release and fire
+control situations represent the most immediate priorities of the fire department.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+INCIDENT SAFETY OFFICER SYSTEM
+(formerly Safety Sector/Section)
+
+M.P. 201.05A
+
+5/11–R
+
+Page 2 of 9
+
+Incident Commander (IC): This refers to the position within the Incident Command System (ICS) that
+is in charge of incident management. The IC has overall responsibility for the safety of responders
+working at an emergency scene. That responsibility cannot be delegated. The SOFR/ISO assists the IC
+and acts as the IC's eyes and ears on matters related to safety, and has the authority to manage safety
+as described further in this procedure.
+Support Officer: A position within ICS that supports the IC. This position functions as the Incident
+Safety Officer in the ISOS until command van operations are commenced and a Safety Officer is
+assigned.
+Sector Officer: This refers to the position within ICS that is assigned to a geographical area or
+particular function and manages units assigned to these areas during incidents.
+Field Incident Technician (FIT): A company officer assigned to work with a command officer. Often
+this position is assigned the Support Officer/ISO or Assistant Incident Safety Officer (AISO) role during
+incidents. Some cities in the Automatic Aid Consortium use a Battalion Safety Officer (BSO) to fill this
+position.
+Safety Officer (SOFR)/ Incident Safety Officer (ISO): A member of the Command Staff responsible
+for monitoring and assessing safety hazards or unsafe situations and for developing measures for
+ensuring personnel safety.
+Assistant Incident Safety Officer (AISO): An individual appointed or assigned at an incident scene by
+the Incident Commander (IC) to assist the ISO in the performance of ISO functions.
+Initial Rapid Intervention Crew (IRIC): Temporary two-person team assigned at the outset of a
+working fire to allow a two-person team to enter the structure to perform primary search and rescue
+when information indicates a potential life hazard situation that can be resolved by rapid search and
+rescue.
+Rapid Intervention Crew (RIC): Four-person crew fully equipped on site, in a ready state, to
+immediately react and respond to rescue firefighters.
+Incident Safety Plan: Hazard control strategies developed by the ISO to address the incident action
+plan and the type of incident encountered.
+INCIDENT SAFETY SYSTEM – DEPLOYMENT MODEL
+An incident safety system will be implemented every time the Phoenix Fire Department responds to an
+incident. The incident safety function begins with the first arriving unit, typically the company officer/IC
+as part of the initial size up and continues until the incident is terminated. Safety is integrated in the
+strategic decision making process of looking at critical fireground factors present at the incident, and
+applying the risk management profile to choose an appropriate strategy and develop an Incident Action
+Plan (IAP). This process begins implementation of the incident safety system, and identifies the initial
+IC as responsible for the safety function; this IC is the initial IC/ISO. The initial IC/ISO maintains this
+responsibility until Command is transferred or the incident is terminated.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+INCIDENT SAFETY OFFICER SYSTEM
+(formerly Safety Sector/Section)
+
+M.P. 201.05A
+
+5/11–R
+
+Page 3 of 9
+
+Role and responsibility of the initial IC/ISO:
+• Follow Phoenix Regional Standard Operating Procedures
+• Use the Standard Risk Management Plan
+• Analyze critical fire ground factors present at the incident
+• Determine a strategy (Offensive or Defensive)
+• Establish the Personnel Accountability System
+• Provide a standard initial radio report that includes an On-Scene Report and Follow-up
+Report as defined in Command Procedures M.P. 201.01 08/10/R
+• Establish Initial Rapid Intervention Crew (IRIC)
+• Manage incoming resources until incident command is passed to another arriving
+company officer or command officer.
+• Provide for the ongoing safety of all members involved in the incident
+This initial company officer as the IC/ISO provides the beginning of the Incident Safety Officer System
+(ISOS) and insures that firefighter safety is a priority upon arrival of the first unit and is maintained
+though standard transfer of Command and ISO responsibilities until the incident is stabilized or
+Command is terminated.
+EMS (one or two units) and Still Assignments
+For incidents such as a still assignment or car fire, and one or two company response to an EMS call,
+the company officer maintains the role of IC and ISO. The company officer’s safety responsibilities
+include:
+• Manage task level safety concerns (driving safety, appropriate PPE, equipment use, etc.)
+• Size up critical factors and apply the Risk Management Plan at all incidents
+• Manage crew accountability through sight, voice, or touch
+• Actively monitor air supply of crew
+• Monitor crew member fatigue and need to for recycle
+• Communication and mitigation of hazards
+• Continue monitoring and reevaluating incident hazards and risk /benefit of actions
+• Request additional resources and command components as necessary
+Those filling the role of IC/ISO must be a capable of filling the role of company officer.
+Structure Fire Assignments (3-1’s, First Alarms)
+Individual jurisdictions may customize the primary and secondary response requirements on a given
+Nature Code. CAD will automatically dispatch the required units per Nature Code entered for each
+jurisdiction. The RSPREQ command may be utilized to determine the specific primary and secondary
+response requirements per Nature Code for an individual jurisdiction:
+Format:
+RSPREQ Nature Code. Jurisdiction Code (3 letters)
+Example:
+RSPREQ STR1A, PHX
+The first arriving company officer, following standard Command Procedures will assume Command and
+become IC #1. IC #1’s role includes both Command and Incident Safety Officer. When information
+indicates a potential life hazard situation exists that can be resolved by a rapid search and rescue by
+the first arriving company (four person crew), the IC may establish an IRIC. A Firefighter and Engineer
+can fill this role while the IC and the other firefighter conduct a rapid search and rescue. One member
+of the IRIC must monitor the tactical radio channel and both members must be prepared to assist the
+interior portion of the crew if needed.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+INCIDENT SAFETY OFFICER SYSTEM
+(formerly Safety Sector/Section)
+
+M.P. 201.05A
+
+5/11–R
+
+Page 4 of 9
+
+The first arriving response command officer (usually a Battalion Chief), following standard transfer of
+Command procedures will assume Command and becomes the IC. The FIT assigned to the IC
+becomes the support officer and assumes the responsibilities of the Incident Safety Officer. Company
+officers continue to manage the task level safety of their crews.
+Note: In some departments within the consortium, responding BC’s may not have a FIT. If the first
+arriving BC does not have a FIT, and assumes Command, he/she assumes both Command and ISO
+responsibilities until a support officer/ISO is assigned.
+It is the Responsibility of the IC to perform the Functions of Command to achieve the Tactical
+Objectives.
+• Assume and announce Command and establish an effective initial command position
+(Command Post).
+• Rapidly evaluate the situation (size up)
+• Initiate, maintain, and control effective incident communications.
+• Provide and manage a steady, adequate, and timely stream of appropriate resources.
+• Identify the incident strategy, develop an Incident Action Plan (IAP), and assign companies and
+personnel consistent with plans and standard operating procedures.
+• Develop an effective incident organization using Sectors/Divisions/Groups to decentralize and
+delegate geographic and functional responsibility.
+• Review, and revise (as needed) the strategy to keep the IAP current.
+• Provide for the continuity, transfer, and termination of Command.
+Roles and Responsibilities of the Support Officer:
+• Define, evaluate, and recommend changes to the incident action plan.
+• Provide direction relating to tactical priorities and specific critical fireground factors.
+• Become the Incident Safety Officer
+• Evaluate the need for additional resources.
+• Assign logistics responsibilities.
+• Assist with the tactical worksheet for control and accountability.
+• Evaluate the fireground organization and span of control.
+• Other duties as necessary.
+The next arriving BC can be assigned Recon when appropriate or assigned to the most critical
+Sector/Division or Group. Note: Sectors Divisions and Groups are addressed in M.P. 201.01 Command
+Procedures. For the remainder of this M.P. we will refer to Sectors with the understanding that some
+departments will substitute divisions and/or groups where appropriate.
+Once assigned to a sector, the BC assumes the responsibilities’ of a Sector Officer as described in
+Command procedures. The BC’s FIT becomes the Sector Safety Officer and an AISO for the incident.
+Role of the FIT as a Sector Safety Officer (AISO) partnered with a BC
+• Perform Sector Safety Officer (AISO) function/role
+• Assess and address safety concerns within the sector
+• Assist the BC with managing the sector (stay together)
+• Manage accountability within the sector (hose tags too)
+• Provide air management within the sector
+• Manage work/rest cycles within the sector
+• Manage the sector’s On-Deck crews recycle and rehab
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+INCIDENT SAFETY OFFICER SYSTEM
+(formerly Safety Sector/Section)
+
+M.P. 201.05A
+•
+•
+
+5/11–R
+
+Page 5 of 9
+
+Establish communications with the ISO (you will call them ‘Command’) once the IC has
+assigned a Safety Channel
+Coordinate with other Sector Safety Officers (AISOs)
+
+On-Deck Companies
+”On Deck” is defined as; a forward staging position located just outside the immediate hazard zone,
+safely distanced from the entrance of a tactical position/Sector. On Deck crews will be supervised
+either by the Sector Officer or Company Officer and they will remain On Deck until assigned by the IC
+or Sector Officer. The most likely assignments for On Deck companies are:
+• Reinforce a position within an assigned sector
+• Crew relief within an assigned sector
+• Any other tactical position assigned by the IC
+• Rapid Intervention Crew
+On Deck provides the IC with the ability to move companies from Level I or Level II staging to a forward
+position providing a tactical reserve on the fire ground., On-Deck also allows the IC to maintain a
+continuous work cycle in a sector and provide a back-up crew with immediate intervention capability in
+any given sector (RIC).
+Examples:
+Garden apartment complexes, large commercial assignments and high rise fires are all examples of
+where ‘On-Deck’ would be used to provide a tactical reserve and a RIC in forward sectors. House fires
+are another situation where the use of On-Deck helps the IC function more efficiently. Rather than
+piling additional companies into a small structure, the IC can place them On-Deck and wait for reports
+from interior crews as to their manpower and resource needs. This placement also eliminates the need
+to tie up personnel occupying a RIC (rescue) position.
+On-Deck Company Use to Assist with a Rescue
+The ability to respond quickly to a May-Day situation is one of the most important reasons to assign
+companies to On-Deck positions. Assignment to the task of firefighter rescue requires a level-headed,
+coordinated and quick approach. Companies assigned to On-Deck must prepare themselves to
+function as rescue crews by performing the following tasks/actions:
+• Monitor tactical radio channel;
+• Retrieve RIC Bag and confirm contents;
+• Confirm TIC is in a ready state;
+• Determine which line each interior company is on—(hose tags);
+• Coordinate the opening of doors and windows;
+• Illuminate entrance/exits;
+• Develop and discuss a possible search and rescue plan.
+On-Deck Company Actions for Rescue include:
+• Confirm May-Day information;
+• Determine resource and equipment needs based upon May-Day report;
+• Determine last known location of firefighter/crew in trouble;
+• Communicate plan with crew;
+• Implement Plan;
+• Utilize information and technology (radio reports, TIC, flashlights, etc.);
+• Monitor air supply;
+• Provide C.A.N. report to Command.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+INCIDENT SAFETY OFFICER SYSTEM
+(formerly Safety Sector/Section)
+
+M.P. 201.05A
+
+5/11–R
+
+Page 6 of 9
+
+C957 North and South
+On all first alarm or greater incidents cars 957 north and south or BC152 will be dispatched and will fill
+the role of a mobile AISO when assigned by the IC to provide an additional layer of safety. If C957 or
+BC152 feels there is a need to enter the hot zone he/she must team up with the second C957 and
+communicate with Command to describe conditions, the reason to enter the hot zone, and their plan.
+The C957/BC152 team will not enter the hot zone until the IC approves their plan.
+In addition to being company officers, C957 personnel are cross trained in Hazardous Materials and
+Technical Rescue. This makes them a valuable resource at all Special Operations calls and may be
+paired up to perform recon and mobile incident safety for the IC.
+In addition to the above duties, C957 may be assigned the following duties:
+• Secure Utilities
+• Work with the responsible party at commercial or apartment fires
+• Isolate known hazards
+• Follow up with defined hazards such as lines down etc.
+• Work with utility companies
+Greater Alarms and Command Van (CV) operations
+When transitioning to the CV the IC and support officer/FIT retain their positions as the IC and the
+Support Officer/ISO. The IC and Support Officer now join the Senior Advisor and the three of them
+become the Command Team. When an ISO qualified person arrives at the Command Post (CV), the
+Senior Advisor may assign him/her to the position of ISO. The Support Officer (FIT) can now focus on
+supporting the IC and the ISO can focus on Incident Safety.
+The Incident Safety Officer (ISO) function operating in the Command Van (CV) works under the
+direction of the Senior Advisor (SA) and provides the incident commander with a second set of eyes
+and ears for fire ground operations. The presence of an ISO enables Command to set up a tactical
+safety channel that can communicate location, accountability, resource needs, and sector safety
+concerns to the command team without using valuable radio time from the tactical channel.
+The tactical safety channel also provides for an additional communication tool for sector officers to
+communicate with the command team in the event of a significant incident situation (“May Day” building
+collapse, explosion, etc) that dominates radio traffic on the assigned incident channel. The channel
+should not be used for tactical reports or resource requests unless contact on the tactical channel is
+unavailable and the report or need is critical in nature.
+STRATEGIC INCIDENT SAFETY OFFICER RESPONSIBILITIES
+• Identify the Safety Channel assigned by the dispatch center.
+• Obtain a briefing from the Command Team that includes the incident action plan (IAP).
+o The ISO monitors the IAP, conditions, activities and operations to determine whether they
+fall within the criteria as defined in the department’s risk management plan. The ISO shall
+take necessary action, through the IC, if activities do not fall within the risk management
+plan.
+• Using a tactical worksheet, identify the existing organizational structure.
+o This can be accomplished by working with the CV staging officer by using the resource list
+function of the staging officer’s computer.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+INCIDENT SAFETY OFFICER SYSTEM
+(formerly Safety Sector/Section)
+
+M.P. 201.05A
+•
+
+•
+•
+•
+
+•
+
+5/11–R
+
+Page 7 of 9
+
+Once Command has advised the tactical level (Sector) Safety Officers (AISO’s) to go to the
+Safety Channel, contact each sector safety officer and assure that the department’s personnel
+accountability system is being used and confirm resources assigned.
+o Provide the SA with any differences between the organizational assignments Command has
+and what is reported by the sector safety officers.
+Provide the SA with any resource requests from sector safety officers.
+Offer judgment to the SA on establishing control zones and no-entry zones and ensures that
+established zones are communicated to all members present on the scene.
+Ensure that the IC establishes the incident scene rehabilitation tactical level management
+component during the emergency operation.
+o Critical incident stress interventions should be recognized and the IC should be notified if
+such circumstances require response.
+The ISO shall communicate to the IC the need for additional safety officers and/or tactical
+specialists due to the need, size, complexity or duration of the incident.
+
+TACTICAL INCIDENT SAFETY OFFICER RESPONSIBILITIES
+• Identify the Safety Channel assigned by Command.
+• Size up the sector of responsibility–
+o Monitor the Sector Action Plan, conditions, activities and operations to determine
+whether they fall within the criteria as defined in the department’s risk management plan.
+o Alter, suspend, or terminate activities that are unsafe or involve an imminent hazard.
+o Survey the sector – identify hazards and potential hazards
+o Communicate the building size, layout, construction type,
+• Assure that the department’s personnel accountability system is being used within the sector
+and confirm resources assigned.
+o Wear full protective clothing and SCBA and operate just outside the “hot zone”
+o Confirm sector assignments and companies assigned to sector
+o Utilize accountability tools provided at the task level (passports, hose line tags,
+accountability boards, etc)
+o Develop a rescue plan – revise the plan as conditions change
+• Offer judgment to the ISO on establishing control zones and no-entry zones and ensure that
+established zones are communicated to all members present in the sector.
+o Ensure the safety of crews – make sure the proper equipment is being utilized and that
+personnel are operating in a safe position
+o Fire line tape (yellow) helps to control bystanders and the scene
+o Hazard tape (white/red) helps to control firefighters
+o No Access tape (red/black) identifies exclusion zones for all personnel
+• Communicate the need for additional safety officers and/or tactical specialists in the Sector due
+to size, complexity or duration of the incident to the ISO.
+• Establish RIC team deployments in each hazard zone area.
+o Assure that the RIC Bag (air and tools) have been deployed in the sector
+• Advise the IC of hazards, fire extension and collapse potential.
+o Forecast needs
+• Evaluate visible smoke (color, volume, density, velocity, location)and fire conditions (location
+and size) and advise Command on the potential for flashover, back draft, blow up, or other
+events that could pose a threat to operating crews.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+INCIDENT SAFETY OFFICER SYSTEM
+(formerly Safety Sector/Section)
+
+M.P. 201.05A
+•
+
+•
+
+5/11–R
+
+Page 8 of 9
+
+Monitor the accessibility of entry and egress of structures and its effect on the safety of
+members conducting interior operations
+o Track personnel accountability closer to building
+o Air management – manage time on air/working time and work/rest cycles
+o Manage on deck crews – share information, including rescue plan
+o Manage the cycling of crews to rehab
+o Progress reports
+o Constantly monitor crews and building conditions
+Develop an overhaul plan for the Sector that falls within the IAP
+
+The additional layers of safety provided at this level of organization are:
+• Provides a critical secondary means of communication during a Mayday
+• Reconciling accountability (a cross check to make sure people are where command thinks
+they are)
+• Eliciting safety concerns from the Sector Safety Officers
+• Completion of safety worksheet to include identification of safety issues and plan to mitigate
+• Second means of strategic/tactical/safety communication with the command team
+Transition to multi operation period events and a Type I or III Incident Management Team (IMT).
+When the authority having jurisdiction (AHJ) has decided that the scale, complexity, and duration of an
+incident warrant the use of an IMT the ISO will participate with the Command Team in an interagency
+briefing. The ISO will provide current safety issues during the briefing when appropriate. The IMT
+Command Staff including the Safety Officer are the recipients of this briefing. Following the formal
+briefing, the ISO will meet with the IMT Safety Officer and provide the current safety worksheet, and if
+possible assist in the safety planning process for the upcoming operational period. More about
+transitioning to an IMT appears in M.P. 201.01 Command Procedures.
+
+SINGLE ISO – DEPLOYMENT MODEL
+Departments in the consortium using the single ISO model either dispatch an ISO or assigns the ISO
+position to a qualified Command or Company Officer during incidents. Command should only assign
+units qualified and familiar with the ISO. Once the IC assigns an ISO they will be identified as SAFETY
+on the tactical channel. Single ISO’s shall remain out of the hot zone unless they are paired up. Single
+ISO’s should provide the following functions:
+• Incident Recon
+• Assess the risk/benefit of operations
+• Communicate and report safety issues to command
+• Intervene as necessary to provide for safety using one of the three methods described below
+SAFETY INTERVENTION
+Intervention at scene operations involves three approaches. First is for life threatening situations, the
+second is for non-life threatening situations; the third approach occurs in the on-going incident planning
+process.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+INCIDENT SAFETY OFFICER SYSTEM
+(formerly Safety Sector/Section)
+
+M.P. 201.05A
+
+5/11–R
+
+Page 9 of 9
+
+First Approach- life threatening conditions:
+Any LIFE THREATENING conditions will be corrected immediately and directly. Where time permits,
+Command must be notified. Corrective action will be initiated by Command immediately. In obvious
+life threatening situations that do not allow time for Command's intervention, the Safety Sector/Section
+shall immediately stop any action, or countermand any order, under these circumstances by DIRECT
+and IMMEDIATE intervention (i.e., order crews out of a building, countermand an order for crews to go
+to the roof etc.). Such action may be taken with the understanding that the Safety Sector/group works
+for Command and is accountable to Command for actions taken. COMMAND MUST BE
+IMMEDIATELY ADVISED OF ANY DIRECT INTERVENTION BY THE SAFETY SECTOR/SECTION
+UNDER THESE CIRCUMSTANCES.
+A change of strategy and/or tactics by Command or Sector officers may be required as a result of the
+Safety officer's actions. Sector officers must be notified of hazards, required safety corrections, or
+updated on the strategic plan, tactics, and objectives.
+EMERGENCY TRAFFIC SHOULD BE USED FOR ANY CRITICAL EMERGENCY NOTIFICATIONS/
+ALERTS REQUIRED AT THE INCIDENT SCENE!
+Second approach- non life threatening conditions:
+The second approach is for non-life threatening situations and involves a more "one on one" correction
+of safety problems with individual firefighters, company officers, and/or sector officers (i.e. require
+SCBA, correct ladder position) and often does not affect incident strategy. This approach is the most
+frequent type of interaction. Where corrective action does not affect Command's strategy; Command
+may not need to be notified. Corrected items should, however, be noted for discussion at a critique of
+the incident.
+Third approach- on going incident planning:
+The third approach occurs in the on-going incident planning process. Upon the implementation of the
+Safety Sector/Section, Command must provide the Safety Sector/Section an overview of the incident
+action plan and specific details of the safety plan. The Safety officer, upon his/her arrival, will confirm
+that a safety plan is in effect, review it, and provide recommendations as needed. In some cases
+Command may request that the Safety Sector/Section officer develop a proposed safety plan and
+recommendations for Command.
+Command must be kept aware of any adjustments that affect overall site operations, or the strategic
+plan, via frequent and timely progress reports.
+The Safety Sector/group/ AISOs must remain a part of the on-going planning process with Command
+and/or the Safety Officer.
+The officer, assuming Safety Sector/group responsibilities, may utilize any previous Safety Sector
+Officers to his/her best advantage, coordinating resources and incident assignments as approved by
+Command.
+
+

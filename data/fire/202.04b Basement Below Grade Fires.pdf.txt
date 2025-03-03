@@ -1,0 +1,212 @@
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+BASEMENT AND BELOW GRADE FIRES
+M.P. 202.04B
+
+01/25-N
+
+Page 1 of 5
+
+PURPOSE
+The purpose of this procedure is to establish safe and effective expectations for
+fire operations (extinguishment, search, and loss control) in occupancies with
+basements and/or below grade spaces. Basements and below grade
+compartments pose significant threats to firefighters and can have challenging
+circumstances that severally limit the ability to extinguish and search those spaces
+when experiencing high heat and convective currents. Working on the floor above
+a basement fire poses significant threats due to the potential for lightweight
+construction and for working in the exhaust portion of the flowpath.
+Basement Types
+Basement design, location, and access are not standard. Access and ventilation
+opportunities are limited, and fuel loads can be extraordinary and unpredictable.
+Multiple types of basements exist in the Phoenix region. The 3 standard types
+include:
+•
+
+•
+•
+
+No-access basement
+o No external basement access with internal access only
+o Root cellars are most common type of no-access basements in older
+Phoenix regional occupancies
+Limited-access basement
+o External window access only, including walk up or lookout basements
+Full-access basement
+o External door or large escape window access, walkout or daylight
+basement
+
+Diagrams representing exterior No-access Basement (left), Limited-access Basement (middle), and Full-access basement
+(right). (Courtesy of UL Fire Safety Research Institute)
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+BASEMENT AND BELOW GRADE FIRES
+M.P. 202.04B
+
+01/25-N
+
+Page 2 of 5
+
+Basements also are found in 2 distinct construction states. They include:
+•
+
+•
+
+Finished
+o Provides structural protection to structural floor components with a
+potential for livable space (drywall, and interior compartment build
+out)
+Unfinished
+o Provides no protection to structural floor components or livable
+spaces
+
+Size up
+Early identification of basements and their access opportunities is critical. This
+must be considered in the initial onscene size up and a component of the 360° size
+up. The presence or lack of a basement must be communicated in the follow up
+report. The early communication is necessary to minimize/eliminate the
+opportunity for fire crews to end up working above a basement without their
+knowledge. The immediate dangers include falling through the floor and working
+in the exhaust portion of a flowpath.
+The location of the fire in buildings/occupancies with basements is a critical
+component of size up. The location and level of the fire in the building must be
+recognized and communicated in the follow up, if known. There are multiple
+examples of smoke or fire conditions from the exterior that are indicative of a
+basement fire. They include:
+•
+•
+•
+
+Full exhaust ventilation at the first-floor entryway (smoking filling the entire
+door) without the presence of a neutral plane
+Smoke showing from roof vent pipes or a chimney
+Below grade window or door opening that is a ventilation intake without
+the presence of a neutral plane
+
+Initial and ongoing size up from the most advantageous position(s) should utilize a
+thermal imaging camera (TIC). Specific, on-going size up from interior positions
+can be critical in locating the fire however is a poor assessment tool in assessing
+structural integrity.
+When a fire is located at the basement level, fire attack must begin on that level.
+That includes basement windows, doors, or stairwells.
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+BASEMENT AND BELOW GRADE FIRES
+M.P. 202.04B
+
+01/25-N
+
+Page 3 of 5
+
+Determining the ventilation profile is an important part of the initial and ongoing
+size up. Determining the air inlets and the smoke/fire exhaust points for the entire
+structure improves the effectiveness of the fire attack and minimizes the safety
+concerns of firefighters knowingly or unknowingly working within the exhaust side
+of a flow path. Multiple serious injuries and deaths to Firefighters have been
+experienced when Firefighters have entered the first/ground floor entrances with a
+fire in the basement. Changes in the air inlets (ventilation) on the basement level
+have created unsurvivable conditions for Firefighters on the first floor with the
+exhaust point behind them.
+Life safety should be a serious consideration in assessing the fire location, interior
+access, and searchable space. An effective fire attack on the basement level is
+about extinguishment as well as creating and maintaining searchable space.
+Consideration must be given to the structural integrity of the floor joists system
+while searching and working on fire control below them.
+Risk Management
+When a basement is present and conditions are such that there is a likely
+basement fire, our actions must reflect good risk management decisions.
+Assigning crews to the first floor, above the fire, has significant safety concerns
+and should not be done until fire control has been achieved and the smoke has
+been ventilated to determine the integrity of the floor sheeting and joists. Thermal
+imagers and sounding the floor are not reliable means of determining the
+structural integrity of the floor system, especially in buildings using lightweight
+construction materials. Rugs and furniture can hide the areas of floor collapse or
+areas burned away with no structural supports beneath.
+Basement fire external thermal imaging and diagram (Courtesy of the UL Fire Safety Research Institute)
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+BASEMENT AND BELOW GRADE FIRES
+M.P. 202.04B
+
+01/25-N
+
+Page 4 of 5
+
+Strategy
+The incident strategy, when a basement is present, is dependent on the conditions
+and resource capability to extinguish the fire prior to structural failure. An
+offensive strategy is appropriate when the fire conditions will allow for fire attack
+crews to extinguish the fire in the basement from the most advantageous
+position(s) (interior and/or exterior). This extinguishment should be on the same
+level as the basement and crews should determine the integrity of the floor joists
+separating the basement and the upper floor(s).
+A defensive strategy should be considered when crews cannot effectively apply
+water into the basement from the most advantageous positions on the same level
+of the basement. A defensive strategy should also be considered when there is
+limited or zero capability to assess the floor joist integrity separating the
+basement and the upper floor(s) or it is known that they are compromised.
+It could be considered to change from a defensive strategy to an offensive strategy
+once fire control has been achieved and the floor joists are examined, post
+ventilation of the basement, to determine the ability to operate on top of the floor
+joists.
+Action
+The most effective incident actions for fires in structures with a basement is to
+extinguish the fire from the most advantageous position on the same level as the
+fire and to minimize any ventilation prior to extinguishment. If the fire is found to
+be in the basement, extinguishment from the most advantageous position(s)
+(interior and/or exterior) should be executed prior to Firefighters making entry into
+the level above the fire (first or ground floor). The fire attack must be with a
+minimum of 150 gpm.
+Search operations should be consistent with standard operations based on the
+conditions and available resources to extinguish the fire. Search operations above
+the fire require the extinguishment of the fire in the basement and the evaluation
+of the integrity of the floor joists.
+Ventilation should be coordinated prior to and during the fire attack. The creation
+or enlarging of a ventilation opening on the basement level can increase the
+velocity and pressure of air moving to the floor above, when an exhaust point is
+open on the first/ground floor. Any Firefighter working in the exhaust portion of
+that flowpath may experience unsurvivable heat conditions when the ventilation
+
+PHOENIX REGIONAL
+STANDARD OPERATING PROCEDURES
+
+BASEMENT AND BELOW GRADE FIRES
+M.P. 202.04B
+
+01/25-N
+
+Page 5 of 5
+
+exhaust is not controlled and there is no water on the fire. Ventilation after fire
+extinguishment should be in the most effective method for the structure and the
+openings. Increasing the number of air exhaust points and/or their size will
+increase the velocity and pressure of the ventilation through the structure.
+For fires in full-access and limited-access basements, the fire attack position
+should be consistent with standard interior or exterior fire control as necessary.
+The better the ability to apply water to the interior structural surfaces (walls,
+ceiling, floor joist members) the more effective the cooling and extinguishment
+will be. Attempting to extinguish the fire by cooling the air and not the surfaces
+will be counterproductive and will not be effective.
+For fires in no-access Basements, the ability to control the fire from exterior
+positions in the most effective manners is minimal or nonexistent. The only
+access point to the basement is typically from interior stairs. These interior stairs
+will likely become the chimney for exhausting, superheated air/smoke traveling
+from the basement to any ventilation openings/exhaust point on the first/ground
+floor. The ability to flow water into the basement, onto the interior structural
+surfaces from above or from the stairwell is extremely limited. Often water from
+above ends up on the floor of the basement and not on the surfaces or materials
+that are burning, and the extinguishment is very slow or limited. Using fog
+streams or other appliances (Bresnan Distributor, penetrating nozzles, etc.) can be
+considered but should not require firefighters to work from above the fire
+(dangerous position) and may have minimal or limited success.
+Overhaul and Loss control will be dependent on the structural conditions of the
+floor joists and the ability operate inside or above the fire compartment.
+
+
