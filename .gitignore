@@ -36,5 +36,4 @@ tmp.txt
 logs/
 *.db
 .pytype/
-data/*
 .slack/apps.dev.json
